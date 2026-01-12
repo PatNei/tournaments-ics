@@ -1,0 +1,67 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: AGS CUP - 2025\nMatch Type: Best Of\nResult: ShindeN: 1 | R2 Esports Club: 0\nStream: No official stream linked
+DTEND:20251010T193714Z
+DTSTART:20251010T190108Z
+SUMMARY:SHIN vs R2
+UID:cs-go-ags-cup-2025-1251781@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: AGS CUP - 2025\nMatch Type: Best Of\nResult: BESTIA: 2 | Dusty Roots: 1\nStream: https://kick.com/forg1
+DTEND:20251012T012915Z
+DTSTART:20251011T220625Z
+SUMMARY:Semifinal 2: BST vs DR
+UID:cs-go-ags-cup-2025-1251774@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: AGS CUP - 2025\nMatch Type: Best Of\nResult: BESTIA: 1 | ShindeN: 0\nStream: https://kick.com/bestia_corp
+DTEND:20251010T221328Z
+DTSTART:20251010T213237Z
+SUMMARY:Winners match: BST vs SHIN
+UID:cs-go-ags-cup-2025-1251783@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: AGS CUP - 2025\nMatch Type: Best Of\nResult: 9z: 1 | KRÜ Esports: 0\nStream: https://kick.com/forg1
+DTEND:20251010T220028Z
+DTSTART:20251010T210841Z
+SUMMARY:Winners match: 9z vs KRÜ
+UID:cs-go-ags-cup-2025-1251779@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: AGS CUP - 2025\nMatch Type: Best Of\nResult: Dusty Roots: 1 | KRÜ Esports: 0\nStream: https://kick.com/forg1
+DTEND:20251011T001106Z
+DTSTART:20251010T232016Z
+SUMMARY:Decider match: DR vs KRÜ
+UID:cs-go-ags-cup-2025-1251780@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: AGS CUP - 2025\nMatch Type: Best Of\nResult: 9z: 2 | R2 Esports Club: 0\nStream: https://kick.com/forg1
+DTEND:20251011T200513Z
+DTSTART:20251011T180739Z
+SUMMARY:Semifinal 1: 9z vs R2
+UID:cs-go-ags-cup-2025-1251773@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: AGS CUP - 2025\nMatch Type: Best Of\nResult: Dusty Roots: 0 | KRÜ Esports: 1\nStream: https://kick.com/forg1
+DTEND:20251010T195029Z
+DTSTART:20251010T183706Z
+SUMMARY:DR vs KRÜ
+UID:cs-go-ags-cup-2025-1251778@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: AGS CUP - 2025\nMatch Type: Best Of\nResult: 9z: 2 | BESTIA: 3\nStream: https://kick.com/forg1
+DTEND:20251013T010621Z
+DTSTART:20251012T181400Z
+SUMMARY:Grand final: 9z vs BST
+UID:cs-go-ags-cup-2025-1251775@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: AGS CUP - 2025\nMatch Type: Best Of\nResult: R2 Esports Club: 1 | ShindeN: 0\nStream: https://kick.com/forg1
+DTEND:20251011T021301Z
+DTSTART:20251011T011938Z
+SUMMARY:Decider match: R2 vs SHIN
+UID:cs-go-ags-cup-2025-1251784@tournamentics
+END:VEVENT
+END:VCALENDAR

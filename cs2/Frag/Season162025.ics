@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 16 2025\nMatch Type: Best Of\nResult: Team Novaq: 1 | Omega: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20251214T094651Z
+DTSTART:20251214T070914Z
+SUMMARY:Lower bracket final: NVQ vs Omega
+UID:cs-go-frag-16-2025-1279937@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 16 2025\nMatch Type: Best Of\nResult: HOTU: 2 | Team Novaq: 0\nStream: https://www.twitch.tv/vanfantv
+DTEND:20251213T083006Z
+DTSTART:20251213T070448Z
+SUMMARY:Upper bracket final: HOTU vs NVQ
+UID:cs-go-frag-16-2025-1279934@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 16 2025\nMatch Type: Best Of\nResult: Omega: 2 | ALLINNERS: 1\nStream: https://www.twitch.tv/vanfantv
+DTEND:20251213T114322Z
+DTSTART:20251213T093228Z
+SUMMARY:Lower bracket semifinal: Omega vs ALLIN
+UID:cs-go-frag-16-2025-1279936@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 16 2025\nMatch Type: Best Of\nResult: Team Novaq: 2 | ALLINNERS: 1\nStream: https://www.twitch.tv/fragportal
+DTEND:20251212T140712Z
+DTSTART:20251212T105552Z
+SUMMARY:Upper bracket semifinal 2: NVQ vs ALLIN
+UID:cs-go-frag-16-2025-1279933@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 16 2025\nMatch Type: Best Of\nResult: HOTU: 2 | Omega: 1\nStream: https://www.twitch.tv/fragportal
+DTEND:20251214T131555Z
+DTSTART:20251214T103702Z
+SUMMARY:Grand final: HOTU vs Omega
+UID:cs-go-frag-16-2025-1279935@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 16 2025\nMatch Type: Best Of\nResult: HOTU: 2 | Omega: 1\nStream: https://www.twitch.tv/fragportal
+DTEND:20251212T100233Z
+DTSTART:20251212T070758Z
+SUMMARY:Upper bracket semifinal 1: HOTU vs Omega
+UID:cs-go-frag-16-2025-1279932@tournamentics
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Iron Egg Cup - 2025\nMatch Type: Best Of\nResult: Change The Game: 2 | E9 esports: 1\nStream: https://www.huya.com/11385617
+DTEND:20251230T122154Z
+DTSTART:20251230T091604Z
+SUMMARY:3rd place match: CTG vs E9
+UID:cs-go-iron-egg-cup-2025-1299689@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Iron Egg Cup - 2025\nMatch Type: Best Of\nResult: E9 esports: 1 | Last Bullet: 2\nStream: https://www.huya.com/11385617
+DTEND:20251229T132723Z
+DTSTART:20251229T103553Z
+SUMMARY:Semifinal 2: E9 vs LB
+UID:cs-go-iron-egg-cup-2025-1299687@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Iron Egg Cup - 2025\nMatch Type: Best Of\nResult: Ever Growing: 0 | Last Bullet: 2\nStream: https://www.huya.com/11385617
+DTEND:20251230T141216Z
+DTSTART:20251230T124004Z
+SUMMARY:Grand final: EG vs LB
+UID:cs-go-iron-egg-cup-2025-1299688@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Iron Egg Cup - 2025\nMatch Type: Best Of\nResult: Change The Game: 1 | Ever Growing: 2\nStream: https://www.huya.com/11385617
+DTEND:20251229T161205Z
+DTSTART:20251229T134025Z
+SUMMARY:Semifinal 1: CTG vs EG
+UID:cs-go-iron-egg-cup-2025-1299686@tournamentics
+END:VEVENT
+END:VCALENDAR

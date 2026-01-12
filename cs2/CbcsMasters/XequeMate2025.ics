@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CBCS Masters - Xeque Mate 2025\nMatch Type: Best Of\nResult: Sharks: 3 | Keyd: 0\nStream: https://www.twitch.tv/gaulestv
+DTEND:20251116T233301Z
+DTSTART:20251116T204724Z
+SUMMARY:Grand final: SHK vs Keyd
+UID:cs-go-cbcs-masters-xeque-mate-2025-1268134@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CBCS Masters - Xeque Mate 2025\nMatch Type: Best Of\nResult: Keyd: 2 | Bounty Hunters Esports: 0\nStream: https://www.twitch.tv/cbcstv
+DTEND:20251115T214641Z
+DTSTART:20251115T195839Z
+SUMMARY:Semifinal 1: Keyd vs BHE
+UID:cs-go-cbcs-masters-xeque-mate-2025-1268132@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CBCS Masters - Xeque Mate 2025\nMatch Type: Best Of\nResult: Sharks: 2 | Fake do Biru: 0\nStream: https://www.twitch.tv/gaulestv
+DTEND:20251115T174549Z
+DTSTART:20251115T161254Z
+SUMMARY:Semifinal 2: SHK vs FDB
+UID:cs-go-cbcs-masters-xeque-mate-2025-1268133@tournamentics
+END:VEVENT
+END:VCALENDAR

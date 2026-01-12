@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2025\nMatch Type: Best Of\nResult: FUT Turkuaz: 2 | UNGEPICKT: 0\nStream: https://www.twitch.tv/tulpar_uk
+DURATION:PT2H
+DTSTART:20251104T150000Z
+SUMMARY:Quarterfinal 3: FUT.T vs UNGEPICKT
+UID:cs-go-monsters-reloaded-2025-1265407@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2025\nMatch Type: Best Of\nResult: Misa Esports: 2 | Washington: 0\nStream: https://www.twitch.tv/tulpar_uk
+DURATION:PT2H
+DTSTART:20251104T163000Z
+SUMMARY:Quarterfinal 1: Misa Esports vs WSG
+UID:cs-go-monsters-reloaded-2025-1265404@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2025\nMatch Type: Best Of\nResult: GANK Esports: 2 | Sissi State Punks: 1\nStream: https://www.twitch.tv/tulpar_uk
+DURATION:PT2H
+DTSTART:20251104T150000Z
+SUMMARY:Quarterfinal 2: GANK vs SSP
+UID:cs-go-monsters-reloaded-2025-1265406@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2025\nMatch Type: Best Of\nResult: GANK Esports: 2 | Bushido Wildcats: 3\nStream: https://www.twitch.tv/tulpar_uk
+DTEND:20251114T195227Z
+DTSTART:20251114T151815Z
+SUMMARY:Grand final: GANK vs BW
+UID:cs-go-monsters-reloaded-2025-1265403@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2025\nMatch Type: Best Of\nResult: Misa Esports: 0 | GANK Esports: 2\nStream: https://www.twitch.tv/monsternotebook
+DTEND:20251108T173241Z
+DTSTART:20251108T151904Z
+SUMMARY:Semifinal 1: MISA vs GANK
+UID:cs-go-monsters-reloaded-2025-1265400@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2025\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | gofastwin: 0\nStream: https://www.twitch.tv/tulpar_uk
+DURATION:PT2H
+DTSTART:20251104T150000Z
+SUMMARY:Quarterfinal 4: BW vs gofastwin
+UID:cs-go-monsters-reloaded-2025-1265408@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Monsters Reloaded - 2025\nMatch Type: Best Of\nResult: FUT Turkuaz: 0 | Bushido Wildcats: 2\nStream: https://www.twitch.tv/monsternotebook
+DTEND:20251108T191144Z
+DTSTART:20251108T175254Z
+SUMMARY:Semifinal 2: FUT.T vs BW
+UID:cs-go-monsters-reloaded-2025-1265402@tournamentics
+END:VEVENT
+END:VCALENDAR

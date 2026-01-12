@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: SHAIQAS - Season 1 2025\nMatch Type: Best Of\nResult: K27: 2 | GUN5 Esports: 0\nStream: https://www.twitch.tv/myskill_top
+DTEND:20251207T191357Z
+DTSTART:20251207T164703Z
+SUMMARY:Grand final: K27 vs GUN5
+UID:cs-go-shaiqas-1-2025-1270262@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: SHAIQAS - Season 1 2025\nMatch Type: Best Of\nResult: K27: 2 | Team Novaq: 0\nStream: https://www.twitch.tv/myskill_top
+DTEND:20251206T172742Z
+DTSTART:20251206T145635Z
+SUMMARY:Upper bracket semifinal 2: K27 vs NVQ
+UID:cs-go-shaiqas-1-2025-1270258@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: SHAIQAS - Season 1 2025\nMatch Type: Best Of\nResult: WW Team: 1 | GUN5 Esports: 2\nStream: https://www.twitch.tv/myskill_top
+DTEND:20251207T152412Z
+DTSTART:20251207T120431Z
+SUMMARY:Lower bracket final: WW vs GUN5
+UID:cs-go-shaiqas-1-2025-1270261@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: SHAIQAS - Season 1 2025\nMatch Type: Best Of\nResult: GUN5 Esports: 2 | WW Team: 1\nStream: https://www.twitch.tv/myskill_top
+DTEND:20251206T132854Z
+DTSTART:20251206T101110Z
+SUMMARY:Upper bracket semifinal 1: GUN5 vs WW
+UID:cs-go-shaiqas-1-2025-1270257@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: SHAIQAS - Season 1 2025\nMatch Type: Best Of\nResult: GUN5 Esports: 0 | K27: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20251207T095126Z
+DTSTART:20251207T081140Z
+SUMMARY:Upper bracket final: GUN5 vs K27
+UID:cs-go-shaiqas-1-2025-1270259@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: SHAIQAS - Season 1 2025\nMatch Type: Best Of\nResult: WW Team: 2 | Team Novaq: 0\nStream: https://www.twitch.tv/strogo
+DTEND:20251206T202139Z
+DTSTART:20251206T181956Z
+SUMMARY:Lower bracket semifinal: WW vs NVQ
+UID:cs-go-shaiqas-1-2025-1270260@tournamentics
+END:VEVENT
+END:VCALENDAR

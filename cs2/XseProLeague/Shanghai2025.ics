@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - Shanghai 2025\nMatch Type: Best Of\nResult: Rare Atom: 2 | Change The Game: 1\nStream: https://www.douyu.com/9418
+DTEND:20251002T112000Z
+DTSTART:20251002T090000Z
+SUMMARY:Upper bracket semifinal match 1: RA vs CTG
+UID:cs-go-xse-pro-league-shanghai-2025-1248683@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - Shanghai 2025\nMatch Type: Best Of\nResult: FengDa Gaming: 1 | Kaleido Gaming: 2\nStream: https://www.douyu.com/9418
+DTEND:20251004T112519Z
+DTSTART:20251004T090146Z
+SUMMARY:Lower bracket final: FDG vs KG
+UID:cs-go-xse-pro-league-shanghai-2025-1248688@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - Shanghai 2025\nMatch Type: Best Of\nResult: Rare Atom: 2 | FengDa Gaming: 1\nStream: https://www.twitch.tv/ivdmaluco
+DTEND:20251003T114535Z
+DTSTART:20251003T090758Z
+SUMMARY:Upper bracket final: RA vs FDG
+UID:cs-go-xse-pro-league-shanghai-2025-1248685@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - Shanghai 2025\nMatch Type: Best Of\nResult: Kaleido Gaming: 0 | FengDa Gaming: 2\nStream: https://www.douyu.com/9418
+DTEND:20251002T150000Z
+DTSTART:20251002T130000Z
+SUMMARY:Upper bracket semifinal match 2: KG vs FDG
+UID:cs-go-xse-pro-league-shanghai-2025-1248684@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - Shanghai 2025\nMatch Type: Best Of\nResult: Rare Atom: 0 | Kaleido Gaming: 2\nStream: https://www.douyu.com/9418
+DTEND:20251004T151103Z
+DTSTART:20251004T121257Z
+SUMMARY:Grand final: RA vs KG
+UID:cs-go-xse-pro-league-shanghai-2025-1248689@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: XSE Pro League - Shanghai 2025\nMatch Type: Best Of\nResult: Change The Game: 1 | Kaleido Gaming: 2\nStream: https://www.twitch.tv/IVDMALUCO
+DTEND:20251003T144932Z
+DTSTART:20251003T123332Z
+SUMMARY:Lower bracket semifinal: CTG vs KG
+UID:cs-go-xse-pro-league-shanghai-2025-1248686@tournamentics
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Latam 2025\nMatch Type: Best Of\nResult: Procyon Gaming: 1 | Dusty Roots: 2\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20250926T011041Z
+DTSTART:20250925T220958Z
+SUMMARY:Grand final: PCY vs DR
+UID:cs-go-aorus-latam-2025-1239223@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Latam 2025\nMatch Type: Best Of\nResult: BESTIA: 0 | Dusty Roots: 1\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20250924T193142Z
+DTSTART:20250924T184650Z
+SUMMARY:Upper bracket semifinal 2: BST vs DR
+UID:cs-go-aorus-latam-2025-1239219@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Latam 2025\nMatch Type: Best Of\nResult: 9z: 2 | BESTIA: 0\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20250925T012527Z
+DTSTART:20250924T234957Z
+SUMMARY:Lower bracket semifinal: 9z vs BST
+UID:cs-go-aorus-latam-2025-1239220@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Latam 2025\nMatch Type: Best Of\nResult: Procyon Gaming: 2 | Dusty Roots: 1\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20250924T231117Z
+DTSTART:20250924T200705Z
+SUMMARY:Upper bracket final: PCY vs DR
+UID:cs-go-aorus-latam-2025-1239222@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Latam 2025\nMatch Type: Best Of\nResult: 9z: 0 | Procyon Gaming: 1\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20250924T175252Z
+DTSTART:20250924T170553Z
+SUMMARY:Upper bracket semifinal 1: 9z vs PCY
+UID:cs-go-aorus-latam-2025-1239218@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Latam 2025\nMatch Type: Best Of\nResult: Dusty Roots: 2 | 9z: 1\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20250925T204251Z
+DTSTART:20250925T170217Z
+SUMMARY:Lower bracket final: DR vs 9z
+UID:cs-go-aorus-latam-2025-1239221@tournamentics
+END:VEVENT
+END:VCALENDAR

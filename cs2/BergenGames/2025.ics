@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Bergen Games - 2025\nMatch Type: Best Of\nResult: 777: 1 | INFURITY Gaming: 2\nStream: https://www.twitch.tv/777esports
+DTEND:20251121T181259Z
+DTSTART:20251121T154040Z
+SUMMARY:Semifinal match 2: 777 vs INF
+UID:cs-go-bergen-games-2025-1269473@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Bergen Games - 2025\nMatch Type: Best Of\nResult: Nordix Esport: 1 | CENTER: 2\nStream: https://www.twitch.tv/777esports
+DTEND:20251121T144110Z
+DTSTART:20251121T114733Z
+SUMMARY:Semifinal match 1: NORDIX vs CENTER
+UID:cs-go-bergen-games-2025-1269472@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Bergen Games - 2025\nMatch Type: Best Of\nResult: CENTER: 0 | INFURITY Gaming: 2\nStream: https://www.twitch.tv/777esports
+DTEND:20251122T181917Z
+DTSTART:20251122T170145Z
+SUMMARY:Grand final: CENTER vs INF
+UID:cs-go-bergen-games-2025-1269474@tournamentics
+END:VEVENT
+END:VCALENDAR

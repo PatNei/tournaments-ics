@@ -1,0 +1,18 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Finals season 50 2025\nMatch Type: Best Of\nResult: 9z: 2 | Gaimin Gladiators: 3\nStream: https://www.twitch.tv/eslcsb
+DTEND:20251121T030150Z
+DTSTART:20251120T220412Z
+SUMMARY:Grand final: 9z vs GG
+UID:cs-go-esl-challenger-league-south-america-finals-50-2025-1269375@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Finals season 50 2025\nMatch Type: Best Of\nResult: BESTIA: 1 | Gaimin Gladiators: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20251120T014812Z
+DTSTART:20251119T220254Z
+SUMMARY:Semifinal 2: BST vs GG
+UID:cs-go-esl-challenger-league-south-america-finals-50-2025-1269374@tournamentics
+END:VEVENT
+END:VCALENDAR

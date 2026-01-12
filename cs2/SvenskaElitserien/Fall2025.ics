@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Svenska Elitserien - Fall 2025\nMatch Type: Best Of\nResult: Kappa Bar: 1 | megoshort: 2\nStream: https://www.twitch.tv/elitserien
+DTEND:20251204T171530Z
+DTSTART:20251204T141057Z
+SUMMARY:Upper bracket semifinal 1: KAPPA vs mego
+UID:cs-go-svenska-elitserien-fall-2025-1270241@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Svenska Elitserien - Fall 2025\nMatch Type: Best Of\nResult: Kappa Bar: 2 | privateshow: 0\nStream: https://www.twitch.tv/elitserien
+DTEND:20251205T152223Z
+DTSTART:20251205T130318Z
+SUMMARY:Lower bracket semifinal: KAPPA vs PS
+UID:cs-go-svenska-elitserien-fall-2025-1270246@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Svenska Elitserien - Fall 2025\nMatch Type: Best Of\nResult: megoshort: 2 | Soul's Heart: 1\nStream: https://www.twitch.tv/elitserien
+DTEND:20251205T213833Z
+DTSTART:20251205T180424Z
+SUMMARY:Upper bracket final: mego vs SH
+UID:cs-go-svenska-elitserien-fall-2025-1270243@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Svenska Elitserien - Fall 2025\nMatch Type: Best Of\nResult: megoshort: 3 | Soul's Heart: 0\nStream: https://www.twitch.tv/elitserien
+DTEND:20251206T182520Z
+DTSTART:20251206T160516Z
+SUMMARY:Grand final: mego vs SH
+UID:cs-go-svenska-elitserien-fall-2025-1274594@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Svenska Elitserien - Fall 2025\nMatch Type: Best Of\nResult: Kappa Bar: 0 | Soul's Heart: 2\nStream: https://www.twitch.tv/elitserien
+DTEND:20251206T122328Z
+DTSTART:20251206T110629Z
+SUMMARY:Lower bracket final: KAPPA vs SH
+UID:cs-go-svenska-elitserien-fall-2025-1270245@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Svenska Elitserien - Fall 2025\nMatch Type: Best Of\nResult: Soul's Heart: 2 | privateshow: 0\nStream: https://www.twitch.tv/elitserien
+DTEND:20251204T201123Z
+DTSTART:20251204T184453Z
+SUMMARY:Upper bracket semifinal 2: SH vs PS
+UID:cs-go-svenska-elitserien-fall-2025-1270242@tournamentics
+END:VEVENT
+END:VCALENDAR

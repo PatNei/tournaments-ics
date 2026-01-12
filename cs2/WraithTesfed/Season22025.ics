@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Wraith TESFED - Season 2 2025\nMatch Type: Best Of\nResult: FUT Turkuaz: 0 | Eternal Fire: 2\nStream: https://www.twitch.tv/TESFED
+DTEND:20251203T184725Z
+DTSTART:20251203T174343Z
+SUMMARY:Quarterfinal 2: FUT.T vs EF
+UID:cs-go-wraith-tesfed-2-2025-1270743@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Wraith TESFED - Season 2 2025\nMatch Type: Best Of\nResult: Misa Esports: 2 | GANK Esports: 0\nStream: https://www.twitch.tv/TESFED
+DTEND:20251212T173407Z
+DTSTART:20251212T153706Z
+SUMMARY:Semifinal 1: MISA vs GANK
+UID:cs-go-wraith-tesfed-2-2025-1270748@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Wraith TESFED - Season 2 2025\nMatch Type: Best Of\nResult: GANK Esports: 2 | PCIFIC: 1\nStream: https://www.twitch.tv/TESFED
+DTEND:20251203T171830Z
+DTSTART:20251203T150511Z
+SUMMARY:Quarterfinal 1: GANK vs PCF
+UID:cs-go-wraith-tesfed-2-2025-1270742@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Wraith TESFED - Season 2 2025\nMatch Type: Best Of\nResult: Bushido Wildcats: 2 | Eternal Fire: 0\nStream: https://www.twitch.tv/TESFED
+DTEND:20251212T195134Z
+DTSTART:20251212T180301Z
+SUMMARY:Semifinal 2: BW vs EF
+UID:cs-go-wraith-tesfed-2-2025-1270749@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Wraith TESFED - Season 2 2025\nMatch Type: Best Of\nResult: Misa Esports: 2 | Bushido Wildcats: 1\nStream: https://www.twitch.tv/TESFED
+DTEND:20251221T135212Z
+DTSTART:20251221T111030Z
+SUMMARY:Grand final: MISA vs BW
+UID:cs-go-wraith-tesfed-2-2025-1270750@tournamentics
+END:VEVENT
+END:VCALENDAR

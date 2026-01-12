@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dreamhack Knockout - Atlanta 2025\nMatch Type: Best Of\nResult: BIG: 2 | Imperial: 1\nStream: https://www.twitch.tv/zonixxcs
+DTEND:20251102T011414Z
+DTSTART:20251101T221427Z
+SUMMARY:Semifinal 1: BIG vs IMP
+UID:cs-go-dreamhack-knockout-atlanta-2025-1263557@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dreamhack Knockout - Atlanta 2025\nMatch Type: Best Of\nResult: FlyQuest RED: 0 | BIG: 2\nStream: https://www.twitch.tv/redcs
+DTEND:20251101T202539Z
+DTSTART:20251101T191017Z
+SUMMARY:Quarterfinal 2: FLY.R vs BIG
+UID:cs-go-dreamhack-knockout-atlanta-2025-1263554@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dreamhack Knockout - Atlanta 2025\nMatch Type: Best Of\nResult: M80: 2 | BIG: 0\nStream: https://www.twitch.tv/zonixxcs
+DTEND:20251102T201116Z
+DTSTART:20251102T181218Z
+SUMMARY:Grand final: M80 vs BIG
+UID:cs-go-dreamhack-knockout-atlanta-2025-1263559@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dreamhack Knockout - Atlanta 2025\nMatch Type: Best Of\nResult: Radford University: 0 | M80: 2\nStream: No official stream linked
+DTEND:20251101T210135Z
+DTSTART:20251101T191122Z
+SUMMARY:Quarterfinal 4: Radford University vs M80
+UID:cs-go-dreamhack-knockout-atlanta-2025-1263556@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dreamhack Knockout - Atlanta 2025\nMatch Type: Best Of\nResult: Imperial: 2 | SportsBetExpert: 0\nStream: https://www.twitch.tv/zonixxcs
+DTEND:20251101T214214Z
+DTSTART:20251101T200241Z
+SUMMARY:Quarterfinal 1: IMP vs SportsBetExpert
+UID:cs-go-dreamhack-knockout-atlanta-2025-1263553@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dreamhack Knockout - Atlanta 2025\nMatch Type: Best Of\nResult: Marsborne: 1 | M80: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20251102T000336Z
+DTSTART:20251101T213850Z
+SUMMARY:Semifinal 2: MARS vs M80
+UID:cs-go-dreamhack-knockout-atlanta-2025-1263558@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dreamhack Knockout - Atlanta 2025\nMatch Type: Best Of\nResult: Marsborne: 2 | Ghost: 0\nStream: https://www.twitch.tv/Trottah
+DTEND:20251101T200250Z
+DTSTART:20251101T191000Z
+SUMMARY:Quarterfinal 3: MARS vs GG
+UID:cs-go-dreamhack-knockout-atlanta-2025-1263555@tournamentics
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MČR - 2025\nMatch Type: Best Of\nResult: Dynamo Eclot: 2 | Brute: 0\nStream: https://www.twitch.tv/playzonecz
+DTEND:20251128T164126Z
+DTSTART:20251128T145135Z
+SUMMARY:Semifinal 1: DNE vs BRUTE
+UID:cs-go-mcr-2025-1266457@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MČR - 2025\nMatch Type: Best Of\nResult: Sinners: 3 | Dynamo Eclot: 0\nStream: https://www.twitch.tv/playzonecz
+DTEND:20251129T164132Z
+DTSTART:20251129T133105Z
+SUMMARY:Grand final: SIN vs DNE
+UID:cs-go-mcr-2025-1266459@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MČR - 2025\nMatch Type: Best Of\nResult: UNiTY esports: 2 | Brute: 1\nStream: https://www.twitch.tv/playzonecz
+DTEND:20251129T122746Z
+DTSTART:20251129T093704Z
+SUMMARY:3rd Place match: UNiTY vs BRUTE
+UID:cs-go-mcr-2025-1266460@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MČR - 2025\nMatch Type: Best Of\nResult: Sinners: 2 | UNiTY esports: 0\nStream: https://www.twitch.tv/playzonecz
+DTEND:20251128T134544Z
+DTSTART:20251128T113531Z
+SUMMARY:Semifinal 2: SIN vs UNiTY
+UID:cs-go-mcr-2025-1266458@tournamentics
+END:VEVENT
+END:VCALENDAR

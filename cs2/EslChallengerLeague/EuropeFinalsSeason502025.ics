@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Finals season 50 2025\nMatch Type: Best Of\nResult: Sinners: 2 | FriendlyCampers: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20251119T201054Z
+DTSTART:20251119T180252Z
+SUMMARY:Semifinal 2: SIN vs FriendlyCampers
+UID:cs-go-esl-challenger-league-europe-finals-50-2025-1269371@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Finals season 50 2025\nMatch Type: Best Of\nResult: PARIVISION: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20251118T200422Z
+DTSTART:20251118T180444Z
+SUMMARY:Semifinal 1: PRV vs BCG
+UID:cs-go-esl-challenger-league-europe-finals-50-2025-1269370@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Finals season 50 2025\nMatch Type: Best Of\nResult: PARIVISION: 3 | Sinners: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20251120T210014Z
+DTSTART:20251120T180657Z
+SUMMARY:Grand final: PRV vs SIN
+UID:cs-go-esl-challenger-league-europe-finals-50-2025-1269372@tournamentics
+END:VEVENT
+END:VCALENDAR

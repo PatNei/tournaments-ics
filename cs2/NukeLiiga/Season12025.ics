@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NUKE-Liiga - Season 1 2025\nMatch Type: Best Of\nResult: ENCE Prospects: 2 | Heimo Ateljé: 1\nStream: https://www.twitch.tv/nukeliiga
+DURATION:PT2H
+DTSTART:20251202T160000Z
+SUMMARY:Semifinal 1: ENCE.P vs Heimo Ateljé
+UID:cs-go-nuke-liiga-1-2025-1275201@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NUKE-Liiga - Season 1 2025\nMatch Type: Best Of\nResult: KUUSAMO.gg VASAT: 0 | JANO Esports: 2\nStream: https://www.twitch.tv/nukeliiga
+DURATION:PT2H
+DTSTART:20251203T170000Z
+SUMMARY:Semifinal 2: KSM vs KUUSAMO.gg VASAT vs JANO
+UID:cs-go-nuke-liiga-1-2025-1275202@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NUKE-Liiga - Season 1 2025\nMatch Type: Best Of\nResult: ENCE Prospects: 2 | JANO Esports: 0\nStream: https://www.twitch.tv/nukeliiga
+DTEND:20251213T162829Z
+DTSTART:20251213T150401Z
+SUMMARY:Grand final: ENCE.P vs JANO
+UID:cs-go-nuke-liiga-1-2025-1275203@tournamentics
+END:VEVENT
+END:VCALENDAR

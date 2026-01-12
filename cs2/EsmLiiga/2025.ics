@@ -1,0 +1,53 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: eSM Liiga - 2025\nMatch Type: Best Of\nResult: Skinsauna.gg: 2 |  CSDIILIT: 0\nStream: https://www.twitch.tv/toMi
+DTEND:20251017T150354Z
+DTSTART:20251017T132902Z
+SUMMARY:Skinsauna.gg vs  CSDIILIT
+UID:cs-go-esm-liiga-2025-1253556@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: eSM Liiga - 2025\nMatch Type: Best Of\nResult: HAVU: 1 | Skinsauna.gg: 2\nStream: https://www.twitch.tv/sinquesports
+DTEND:20251018T171939Z
+DTSTART:20251018T133654Z
+SUMMARY:Semifinal match 2: HAVU vs Skinsauna.gg
+UID:cs-go-esm-liiga-2025-1253562@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: eSM Liiga - 2025\nMatch Type: Best Of\nResult: AKA HERO KAJO: 0 | HAVU: 2\nStream: https://www.twitch.tv/toMi
+DTEND:20251017T110210Z
+DTSTART:20251017T093707Z
+SUMMARY:AKA HERO KAJO vs HAVU
+UID:cs-go-esm-liiga-2025-1253558@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: eSM Liiga - 2025\nMatch Type: Best Of\nResult: ENCE Academy: 2 |  CSDIILIT: 0\nStream: https://www.twitch.tv/lantrektv
+DTEND:20251017T114637Z
+DTSTART:20251017T094039Z
+SUMMARY:ENCE.A vs  CSDIILIT
+UID:cs-go-esm-liiga-2025-1253555@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: eSM Liiga - 2025\nMatch Type: Best Of\nResult: ENCE Academy: 2 | TOOMUCHVIDEOGAMES: 0\nStream: https://www.twitch.tv/lantrektv
+DTEND:20251018T123231Z
+DTSTART:20251018T103610Z
+SUMMARY:Semifinal match 1: ENCE.A vs TMVG
+UID:cs-go-esm-liiga-2025-1253561@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: eSM Liiga - 2025\nMatch Type: Best Of\nResult: ENCE Academy: 0 | Skinsauna.gg: 2\nStream: https://www.twitch.tv/sinquesports
+DTEND:20251018T202941Z
+DTSTART:20251018T185210Z
+SUMMARY:Grand final: ENCE.A vs Skinsauna.gg
+UID:cs-go-esm-liiga-2025-1253563@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: eSM Liiga - 2025\nMatch Type: Best Of\nResult: AKA HERO KAJO: 0 | TOOMUCHVIDEOGAMES: 2\nStream: https://www.twitch.tv/lantrektv
+DTEND:20251017T145402Z
+DTSTART:20251017T132810Z
+SUMMARY:AKA HERO KAJO vs TMVG
+UID:cs-go-esm-liiga-2025-1253559@tournamentics
+END:VEVENT
+END:VCALENDAR
