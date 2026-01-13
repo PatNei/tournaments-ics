@@ -23,9 +23,9 @@ SUMMARY:ARC vs MINLATE
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312245@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260113T180000Z
+DTSTART:20260113T181302Z
 SUMMARY:Winners match: EF vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312242@tournamentics
 END:VEVENT
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260116T090000Z
-SUMMARY:Decider match: ACE vs TBD
+SUMMARY:Decider match: ACE vs BBP
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Elimination match: LK vs ALLIN
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Ursa: 2 | Bebop: 1\nStream: https://kick.com/cct_cs
+DTEND:20260113T175453Z
 DTSTART:20260113T152011Z
 SUMMARY:Winners match: URSA vs BBP
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312237@tournamentics
