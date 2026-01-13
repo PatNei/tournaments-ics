@@ -3,26 +3,53 @@
 This repository contains automatically updated iCalendar (.ics) files for various Counter-Strike 2 tournaments.
 You can subscribe to these calendars by clicking the **Link** or by manually adding the **HTTPS** links provided in the code blocks below.
 
+## A Tier
+
 <details>
-<summary>A1 Gaming League</summary>
+<summary>BLAST Bounty</summary>
 
 ### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics)
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/BlastBounty.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/BlastBounty.ics
 ```
 
 ---
 
-### Season 11 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics)
+### Winter 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/Winter2026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/Winter2026.ics
 ```
 
 </details>
+
+## B Tier
+
+<details>
+<summary>CCT Europe</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/CctEurope.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/CctEurope.ics
+```
+
+---
+
+### Series #13 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series13Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series13Season32026.ics
+```
+
+</details>
+
+## C Tier
 
 <details>
 <summary>BetBoom RUSH B!</summary>
@@ -46,22 +73,94 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/S
 </details>
 
 <details>
-<summary>BLAST Bounty</summary>
+<summary>CCT South America</summary>
 
 ### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/BlastBounty.ics)
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/BlastBounty.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics
 ```
 
 ---
 
-### Winter 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/Winter2026.ics)
+### Series #7 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/Series7Season32026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/Winter2026.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/Series7Season32026.ics
+```
+
+</details>
+
+<details>
+<summary>European Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
+```
+
+---
+
+### Series 4 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics
+```
+
+</details>
+
+<details>
+<summary>IEM</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
+```
+
+---
+
+### Rio: Americas Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics
+```
+
+### Rio: Global Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics
+```
+
+</details>
+
+## D Tier
+
+<details>
+<summary>A1 Gaming League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics
+```
+
+---
+
+### Season 11 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics
 ```
 
 </details>
@@ -99,34 +198,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Open
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/OpenQualifier14Season32026.ics
 ```
 
-### Series #13 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series13Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series13Season32026.ics
-```
-
-</details>
-
-<details>
-<summary>CCT South America</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics
-```
-
----
-
-### Series #7 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/Series7Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/Series7Season32026.ics
-```
-
 </details>
 
 <details>
@@ -161,13 +232,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLea
 ```
 
 ---
-
-### Series 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics
-```
 
 ### Series 4 Play-In 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series4PlayIn2026.ics)
@@ -237,34 +301,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fragadelphia/F
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fragadelphia/Miami2026.ics
-```
-
-</details>
-
-<details>
-<summary>IEM</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
-```
-
----
-
-### Rio: Americas Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics
-```
-
-### Rio: Global Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics
 ```
 
 </details>
