@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260114T090000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match:  CSDIILIT vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1314662@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -284,9 +284,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260118T180000Z
-SUMMARY:Winners match: TBD vs TBD
-UID:cs-go-nodwin-clutch-series-4-2026-1314670@tournamentics
+DTSTART:20260204T120000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-4-2026-1313509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -298,16 +298,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260113T180000Z
-SUMMARY:Winners match: MSC vs BMB
+DTSTART:20260113T150000Z
+SUMMARY:Winners match: ARC vs BMB
 UID:cs-go-nodwin-clutch-series-4-2026-1314664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260204T120000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-nodwin-clutch-series-4-2026-1313509@tournamentics
+DTSTART:20260118T180000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-4-2026-1314670@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -319,8 +319,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260113T150000Z
-SUMMARY:Winners match: ILWL vs ARC
+DTSTART:20260113T120000Z
+SUMMARY:Winners match: ILWL vs MSC
 UID:cs-go-nodwin-clutch-series-4-2026-1314661@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -480,16 +480,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260113T120000Z
-SUMMARY:Elimination match:  CSDIILIT vs 777
+DTSTART:20260113T180000Z
+SUMMARY:Elimination match: GLECS vs 777
 UID:cs-go-nodwin-clutch-series-4-2026-1314663@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260113T090000Z
-SUMMARY:Elimination match: UVS vs GLECS
-UID:cs-go-nodwin-clutch-series-4-2026-1314659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
