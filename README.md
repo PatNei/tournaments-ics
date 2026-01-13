@@ -207,6 +207,18 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PerfectWorldNa
 </details>
 
 <details>
+<summary>PLAYR Masters</summary>
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/Season12026.ics
+```
+
+</details>
+
+<details>
 <summary>Roman Imperium Cup</summary>
 
 ### Season 4 2026
@@ -263,6 +275,13 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/UrbanRiga/Open
 
 <details>
 <summary>Zhi-Tech Elite Masters</summary>
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/2026.ics
+```
 
 ### Closed Qualifier 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ClosedQualifier2026.ics)
