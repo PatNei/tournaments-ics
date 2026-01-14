@@ -240,8 +240,8 @@ SUMMARY:3rd Place match: ASTRAL vs OlyBet SB
 UID:cs-go-urban-riga-open-2-2026-1294179@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | petardka: 1\nStream: https://kick.com/cct_cs
+DTEND:20260114T175415Z
 DTSTART:20260114T150357Z
 SUMMARY:UNiTY vs petardka
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312249@tournamentics
@@ -2144,8 +2144,8 @@ SUMMARY:Decider match:  CSDIILIT vs MSC
 UID:cs-go-nodwin-clutch-series-4-2026-1314662@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Pigeons: 1 | BakS eSports: 0\nStream: https://www.twitch.tv/rob1nfall
+DTEND:20260114T175356Z
 DTSTART:20260114T171420Z
 SUMMARY:PGE vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1319918@tournamentics
@@ -2636,7 +2636,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260114T183000Z
+DTSTART:20260114T190000Z
 SUMMARY:Round of 32 match 13: VIT vs VP
 UID:cs-go-blast-bounty-winter-2026-1314679@tournamentics
 END:VEVENT
@@ -3526,7 +3526,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260115T180000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: UNiTY vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312252@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3869,7 +3869,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260115T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: petardka vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312251@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4218,7 +4218,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260114T180000Z
+DTSTART:20260114T182000Z
 SUMMARY:BMB vs ILWL
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312250@tournamentics
 END:VEVENT

@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260115T180000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: UNiTY vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312252@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260115T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: petardka vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312251@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312253@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | petardka: 1\nStream: https://kick.com/cct_cs
+DTEND:20260114T175415Z
 DTSTART:20260114T150357Z
 SUMMARY:UNiTY vs petardka
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312249@tournamentics
@@ -123,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260114T180000Z
+DTSTART:20260114T182000Z
 SUMMARY:BMB vs ILWL
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312250@tournamentics
 END:VEVENT
