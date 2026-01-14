@@ -1391,7 +1391,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260115T220000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: MIBR vs TBD
 UID:cs-go-betboom-rush-b-summit-2026-1317678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1766,8 +1766,8 @@ SUMMARY:Elimination match: GLECS vs 777
 UID:cs-go-nodwin-clutch-series-4-2026-1314663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/csdiilit_com
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | WOPA Esport: 1\nStream: https://www.twitch.tv/csdiilit_com
+DTEND:20260114T190147Z
 DTSTART:20260114T181755Z
 SUMMARY: CSDIILIT vs WOPA
 UID:cs-go-esea-advanced-europe-56-2026-1319919@tournamentics
@@ -2531,7 +2531,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
-DTSTART:20260114T190000Z
+DTSTART:20260114T193000Z
 SUMMARY:Upper bracket quarterfinal 2: IMP vs FDB
 UID:cs-go-betboom-rush-b-summit-2026-1317675@tournamentics
 END:VEVENT
@@ -2636,7 +2636,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260114T190000Z
+DTSTART:20260114T191500Z
 SUMMARY:Round of 32 match 13: VIT vs VP
 UID:cs-go-blast-bounty-winter-2026-1314679@tournamentics
 END:VEVENT
@@ -2921,8 +2921,8 @@ SUMMARY:Round 2: MSC vs STA
 UID:cs-go-a1-gaming-league-11-2026-1313567@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Gaimin Gladiators: 0\nStream: https://www.twitch.tv/btsbrasiltv
+DTEND:20260114T185726Z
 DTSTART:20260114T165731Z
 SUMMARY:Upper bracket quarterfinal 1: MIBR vs GG
 UID:cs-go-betboom-rush-b-summit-2026-1317674@tournamentics
@@ -3019,8 +3019,8 @@ SUMMARY:Round 1 match 8: NAVI.J vs XI
 UID:cs-go-cct-europe-open-qualifier-13-3-2026-1306384@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | Monte: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260114T190116Z
 DTSTART:20260114T154519Z
 SUMMARY:Round of 32 match 14: NAVI vs MNTE
 UID:cs-go-blast-bounty-winter-2026-1314678@tournamentics
@@ -4198,7 +4198,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260115T160000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: GG vs TBD
 UID:cs-go-betboom-rush-b-summit-2026-1317682@tournamentics
 END:VEVENT
 BEGIN:VEVENT
