@@ -345,11 +345,11 @@ SUMMARY:Decider Match: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Brute: 0\nStream: https://www.twitch.tv/enthycia
-DTEND:20260112T194744Z
-DTSTART:20260112T191454Z
-SUMMARY:ex-GANK Esports vs BRUTE
-UID:cs-go-esea-advanced-europe-56-2026-1317221@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260115T193000Z
+SUMMARY:Round 2: SASHI.A vs EF.A
+UID:cs-go-exort-series-21-2026-1320309@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: NRG: 2 | Phoenix: 1\nStream: https://www.twitch.tv/mythicleague
@@ -357,6 +357,13 @@ DTEND:20260110T034047Z
 DTSTART:20260110T011302Z
 SUMMARY:NRG vs PHX
 UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306452@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Brute: 0\nStream: https://www.twitch.tv/enthycia
+DTEND:20260112T194744Z
+DTSTART:20260112T191454Z
+SUMMARY:ex-GANK Esports vs BRUTE
+UID:cs-go-esea-advanced-europe-56-2026-1317221@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -721,6 +728,13 @@ DTEND:20260108T104843Z
 DTSTART:20260108T090704Z
 SUMMARY:Upper bracket semifinal 1: PRE vs BIG.A
 UID:cs-go-united21-43-2026-1308221@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260115T163000Z
+SUMMARY:Round 2: Y.TigeRES vs 3DMAX.A
+UID:cs-go-exort-series-21-2026-1320308@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ZOTIX: 1 | TNC: 0\nStream: https://www.twitch.tv/rob1nfall
@@ -1120,6 +1134,13 @@ DTEND:20260114T140749Z
 DTSTART:20260114T113936Z
 SUMMARY:Lower bracket final: TD vs SNG
 UID:cs-go-united21-43-2026-1308220@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260115T133000Z
+SUMMARY:Round 2: gothboiclique vs DT
+UID:cs-go-exort-series-21-2026-1320307@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -1526,6 +1547,13 @@ DURATION:PT2H
 DTSTART:20260123T090000Z
 SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-zhi-tech-elite-masters-2026-1318726@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260115T103000Z
+SUMMARY:Round 2: PEEP vs JUMBO
+UID:cs-go-exort-series-21-2026-1320306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
