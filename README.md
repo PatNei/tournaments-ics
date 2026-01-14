@@ -191,13 +191,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/CctE
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries13Season32026.ics
 ```
 
-### Open Qualifier #13 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/OpenQualifier13Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/OpenQualifier13Season32026.ics
-```
-
 ### Open Qualifier #14 season 3 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/OpenQualifier14Season32026.ics)
 
