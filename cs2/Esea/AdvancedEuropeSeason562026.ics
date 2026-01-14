@@ -18,16 +18,37 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260120T180000Z
+SUMMARY:LFO YinYang vs ME
+UID:cs-go-esea-advanced-europe-56-2026-1317224@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Brute: 0\nStream: https://www.twitch.tv/enthycia
+DTEND:20260112T194744Z
+DTSTART:20260112T191454Z
+SUMMARY:ex-GANK Esports vs BRUTE
+UID:cs-go-esea-advanced-europe-56-2026-1317221@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: hindsight: 0 | QUAZAR: 1\nStream: https://www.twitch.tv/goyarego
+DTEND:20260112T194244Z
+DTSTART:20260112T191058Z
+SUMMARY:hindsight vs QUA
+UID:cs-go-esea-advanced-europe-56-2026-1317217@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: SIUUUUUU: 0 | CYBERSHOKE Prospects: 1\nStream: https://www.twitch.tv/rob1nfall
+DTEND:20260112T165341Z
+DTSTART:20260112T160846Z
+SUMMARY:SIU vs CYBERSHOKE Prospects
+UID:cs-go-esea-advanced-europe-56-2026-1317214@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260114T190000Z
 SUMMARY:MSC vs LFO
 UID:cs-go-esea-advanced-europe-56-2026-1319925@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: LFO YinYang: 0 | FUT Academy: 1\nStream: https://www.twitch.tv/enthycia
-DTEND:20260113T155437Z
-DTSTART:20260113T151917Z
-SUMMARY:LFO YinYang vs FUT.A
-UID:cs-go-esea-advanced-europe-56-2026-1318678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -42,6 +63,34 @@ DURATION:PT2H
 DTSTART:20260114T170000Z
 SUMMARY:PGE vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1319918@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Haspers: 0 | LFO: 1\nStream: No official stream linked
+DTEND:20260112T194719Z
+DTSTART:20260112T191448Z
+SUMMARY:HASP vs LFO
+UID:cs-go-esea-advanced-europe-56-2026-1317223@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ZOTIX: 1 | TNC: 0\nStream: https://www.twitch.tv/rob1nfall
+DTEND:20260112T195254Z
+DTSTART:20260112T191131Z
+SUMMARY:ZOTIX vs TNC
+UID:cs-go-esea-advanced-europe-56-2026-1317220@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260127T190000Z
+SUMMARY:Falcons Force vs WOPA
+UID:cs-go-esea-advanced-europe-56-2026-1317216@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260115T130000Z
+SUMMARY:EPG Family vs AUR.YB
+UID:cs-go-esea-advanced-europe-56-2026-1317213@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -77,6 +126,48 @@ DTEND:20260112T195756Z
 DTSTART:20260112T191259Z
 SUMMARY:XI vs MUERTA TEAM
 UID:cs-go-esea-advanced-europe-56-2026-1317228@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260130T170000Z
+SUMMARY:PGE vs FF
+UID:cs-go-esea-advanced-europe-56-2026-1317225@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: megoshort: 0 | eternal premium: 1\nStream: No official stream linked
+DTEND:20260112T194000Z
+DTSTART:20260112T191301Z
+SUMMARY:megoshort vs EP
+UID:cs-go-esea-advanced-europe-56-2026-1317222@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260130T190000Z
+SUMMARY:FS vs SS
+UID:cs-go-esea-advanced-europe-56-2026-1317218@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | MANA eSports: 1\nStream: https://www.twitch.tv/csdiilit_com
+DTEND:20260112T195549Z
+DTSTART:20260112T191038Z
+SUMMARY: CSDIILIT vs MANA
+UID:cs-go-esea-advanced-europe-56-2026-1317215@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ChickenBurger: 0 | AM Gaming: 1\nStream: No official stream linked
+DTEND:20260112T124838Z
+DTSTART:20260112T121710Z
+SUMMARY:ChickenBurger vs AM
+UID:cs-go-esea-advanced-europe-56-2026-1317212@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: LFO YinYang: 0 | FUT Academy: 1\nStream: https://www.twitch.tv/enthycia
+DTEND:20260113T155437Z
+DTSTART:20260113T151917Z
+SUMMARY:LFO YinYang vs FUT.A
+UID:cs-go-esea-advanced-europe-56-2026-1318678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked

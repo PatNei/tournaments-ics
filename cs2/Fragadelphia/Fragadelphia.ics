@@ -2,27 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Memeories: 1 | F5 Esports: 2\nStream: https://kick.com/bonamant
-DTEND:20260104T031131Z
-DTSTART:20260104T005511Z
-SUMMARY:Elimination match: Memeories vs F5
-UID:cs-go-fragadelphia-miami-2026-1305145@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Venom: 2 | F5 Esports: 0\nStream: https://kick.com/frag2
-DTEND:20260104T000353Z
-DTSTART:20260103T230158Z
-SUMMARY:VNM vs F5
-UID:cs-go-fragadelphia-miami-2026-1305142@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: NRG: 3 | 9INE: 1\nStream: https://kick.com/frag
-DTEND:20260105T062848Z
-DTSTART:20260105T014545Z
-SUMMARY:Grand final: NRG vs 9INE
-UID:cs-go-fragadelphia-miami-2026-1307740@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: GamerLegion: 0 | NRG: 2\nStream: https://kick.com/frag
 DTEND:20260104T204058Z
 DTSTART:20260104T190208Z
@@ -42,6 +21,41 @@ DTEND:20260104T021401Z
 DTSTART:20260104T004625Z
 SUMMARY:Winners match: 9INE vs VNM
 UID:cs-go-fragadelphia-miami-2026-1305144@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Reign Above: 0 | Marsborne: 2\nStream: https://kick.com/frag
+DTEND:20260103T222301Z
+DTSTART:20260103T210506Z
+SUMMARY:Decider match: Reign Above vs MARS
+UID:cs-go-fragadelphia-miami-2026-1305141@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Marsborne: 2 | Reign Above: 0\nStream: No official stream linked
+DTEND:20260103T161733Z
+DTSTART:20260103T151212Z
+SUMMARY:MARS vs Reign Above
+UID:cs-go-fragadelphia-miami-2026-1305137@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: M80: 2 | Voca: 1\nStream: https://kick.com/frag2
+DTEND:20260103T195115Z
+DTSTART:20260103T172330Z
+SUMMARY:Winners match: M80 vs VOCA
+UID:cs-go-fragadelphia-miami-2026-1305134@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Beyond Limits: 0 | Wildcard: 2\nStream: https://kick.com/bonamant
+DTEND:20260104T002948Z
+DTSTART:20260103T230954Z
+SUMMARY:Elimination match: Beyond Limits vs WC
+UID:cs-go-fragadelphia-miami-2026-1305131@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Wildcard: 0 | Sharks: 2\nStream: https://kick.com/frag2
+DTEND:20260103T223048Z
+DTSTART:20260103T210126Z
+SUMMARY:WC vs SHK
+UID:cs-go-fragadelphia-miami-2026-1305127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: GamerLegion: 2 | M80: 0\nStream: https://kick.com/frag
@@ -72,11 +86,53 @@ SUMMARY:Decider match: VNM vs F5
 UID:cs-go-fragadelphia-miami-2026-1305146@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Marsborne: 1 | NRG: 2\nStream: https://kick.com/frag
+DTEND:20260103T202500Z
+DTSTART:20260103T171858Z
+SUMMARY:Winners match: MARS vs NRG
+UID:cs-go-fragadelphia-miami-2026-1305139@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: 9INE: 2 | Memeories: 0\nStream: https://kick.com/bonamant
 DTEND:20260103T222813Z
 DTSTART:20260103T212346Z
 SUMMARY:9INE vs Memeories
 UID:cs-go-fragadelphia-miami-2026-1305143@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Reign Above: 2 | Kraken Seas: 1\nStream: No official stream linked
+DTEND:20260103T195338Z
+DTSTART:20260103T172343Z
+SUMMARY:Elimination match: Reign Above vs Kraken Seas
+UID:cs-go-fragadelphia-miami-2026-1305140@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Outfit 49: 0 | Voca: 2\nStream: No official stream linked
+DTEND:20260103T213305Z
+DTSTART:20260103T205650Z
+SUMMARY:Decider match: O49 vs VOCA
+UID:cs-go-fragadelphia-miami-2026-1305136@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Voca: 2 | Outfit 49: 0\nStream: https://kick.com/frag2
+DTEND:20260103T163040Z
+DTSTART:20260103T152258Z
+SUMMARY:VOCA vs O49
+UID:cs-go-fragadelphia-miami-2026-1305133@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: GamerLegion: 2 | Sharks: 0\nStream: https://kick.com/frag
+DTEND:20260104T010602Z
+DTSTART:20260103T232313Z
+SUMMARY:Winners match: GL vs SHK
+UID:cs-go-fragadelphia-miami-2026-1305129@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Sharks: 0 | Wildcard: 2\nStream: https://kick.com/frag
+DTEND:20260104T044033Z
+DTSTART:20260104T022227Z
+SUMMARY:Decider match: SHK vs WC
+UID:cs-go-fragadelphia-miami-2026-1305130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: M80: 1 | 9INE: 2\nStream: https://kick.com/bonamant
@@ -91,5 +147,54 @@ DTEND:20260104T172349Z
 DTSTART:20260104T152040Z
 SUMMARY:Quarterfinal 2: NRG vs VOCA
 UID:cs-go-fragadelphia-miami-2026-1305148@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Memeories: 1 | F5 Esports: 2\nStream: https://kick.com/bonamant
+DTEND:20260104T031131Z
+DTSTART:20260104T005511Z
+SUMMARY:Elimination match: Memeories vs F5
+UID:cs-go-fragadelphia-miami-2026-1305145@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Venom: 2 | F5 Esports: 0\nStream: https://kick.com/frag2
+DTEND:20260104T000353Z
+DTSTART:20260103T230158Z
+SUMMARY:VNM vs F5
+UID:cs-go-fragadelphia-miami-2026-1305142@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: NRG: 2 | Kraken Seas: 0\nStream: https://kick.com/frag
+DTEND:20260103T162311Z
+DTSTART:20260103T151736Z
+SUMMARY:NRG vs Kraken Seas
+UID:cs-go-fragadelphia-miami-2026-1305138@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: NRG: 3 | 9INE: 1\nStream: https://kick.com/frag
+DTEND:20260105T062848Z
+DTSTART:20260105T014545Z
+SUMMARY:Grand final: NRG vs 9INE
+UID:cs-go-fragadelphia-miami-2026-1307740@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: Dark Knight: 1 | Outfit 49: 2\nStream: https://kick.com/bonamant
+DTEND:20260103T192821Z
+DTSTART:20260103T172526Z
+SUMMARY:Elimination match: Dark Knight vs O49
+UID:cs-go-fragadelphia-miami-2026-1305135@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: M80: 2 | Dark Knight: 0\nStream: No official stream linked
+DTEND:20260103T162344Z
+DTSTART:20260103T152520Z
+SUMMARY:M80 vs Dark Knight
+UID:cs-go-fragadelphia-miami-2026-1305132@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - Miami 2026\nMatch Type: Best Of\nResult: GamerLegion: 2 | Beyond Limits: 0\nStream: https://kick.com/bonamant
+DTEND:20260103T220700Z
+DTSTART:20260103T205910Z
+SUMMARY:GL vs Beyond Limits
+UID:cs-go-fragadelphia-miami-2026-1305128@tournamentics
 END:VEVENT
 END:VCALENDAR
