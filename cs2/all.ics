@@ -992,7 +992,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260116T010000Z
-SUMMARY:Upper bracket semifinal 2: SHK vs TBD
+SUMMARY:Upper bracket semifinal 2: MIBR vs TBD
 UID:cs-go-betboom-rush-b-summit-2026-1317679@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1377,7 +1377,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260115T220000Z
-SUMMARY:Upper bracket semifinal 1: MIBR vs IMP
+SUMMARY:Upper bracket semifinal 1: SHK vs IMP
 UID:cs-go-betboom-rush-b-summit-2026-1317678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3770,8 +3770,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
-DTSTART:20260115T190000Z
-SUMMARY:Lower bracket round 1 match 2: Keyd vs TBD
+DTSTART:20260115T160000Z
+SUMMARY:Lower bracket round 1 match 2: Keyd vs FDB
 UID:cs-go-betboom-rush-b-summit-2026-1317683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4113,8 +4113,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
-DTSTART:20260115T160000Z
-SUMMARY:Lower bracket round 1 match 1: GG vs FDB
+DTSTART:20260115T190000Z
+SUMMARY:Lower bracket round 1 match 1: GG vs TBD
 UID:cs-go-betboom-rush-b-summit-2026-1317682@tournamentics
 END:VEVENT
 BEGIN:VEVENT
