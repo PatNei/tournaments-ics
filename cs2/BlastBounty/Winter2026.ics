@@ -144,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260115T192000Z
+DTSTART:20260115T192500Z
 SUMMARY:Round of 32 match 16: FAL vs ECS
 UID:cs-go-blast-bounty-winter-2026-1314684@tournamentics
 END:VEVENT
@@ -205,8 +205,8 @@ SUMMARY:Round of 32 match 1: paiN vs BB
 UID:cs-go-blast-bounty-winter-2026-1314686@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Liquid: 2 | NIP: 1\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260115T191559Z
 DTSTART:20260115T161007Z
 SUMMARY:Round of 32 match 6: TL vs NIP
 UID:cs-go-blast-bounty-winter-2026-1314683@tournamentics
