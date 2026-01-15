@@ -2,7 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260118T090000Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-united21-43-2026-1322450@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260116T090000Z
 SUMMARY:Upper bracket quarterfinal 1: MSC vs Midnight
@@ -44,7 +51,28 @@ SUMMARY:Upper bracket semifinal 2: ChickenBurger vs EF.A
 UID:cs-go-united21-43-2026-1308212@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260122T090000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-united21-43-2026-1322458@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260120T113000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-united21-43-2026-1322455@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260119T090000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-united21-43-2026-1322452@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260117T090000Z
 SUMMARY:Upper bracket quarterfinal 3: BIG.A vs TD
@@ -86,7 +114,28 @@ SUMMARY:Upper bracket semifinal 1: MSC vs SHD
 UID:cs-go-united21-43-2026-1308211@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260121T090000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-united21-43-2026-1322457@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260120T090000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-united21-43-2026-1322454@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260118T113000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-united21-43-2026-1322451@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260117T113000Z
 SUMMARY:Upper bracket quarterfinal 2: NAVI.J vs PRE
@@ -142,7 +191,28 @@ SUMMARY:Upper bracket final: MSC vs ChickenBurger
 UID:cs-go-united21-43-2026-1308213@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260122T113000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-united21-43-2026-1322459@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260121T113000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-united21-43-2026-1322456@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260119T113000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-united21-43-2026-1322453@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260116T113000Z
 SUMMARY:Upper bracket quarterfinal 4: FUT.A vs ChickenBurger
