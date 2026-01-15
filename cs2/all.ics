@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260118T150000Z
+DTSTART:20260118T180000Z
 SUMMARY:Winners match: AAB vs BBP
 UID:cs-go-nodwin-clutch-series-4-2026-1314667@tournamentics
 END:VEVENT
@@ -543,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260118T090000Z
+DTSTART:20260118T150000Z
 SUMMARY:Elimination match: LILMIX vs STA
 UID:cs-go-nodwin-clutch-series-4-2026-1314666@tournamentics
 END:VEVENT
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260116T150000Z
-SUMMARY:Decider match: MINLATE vs ARC
+SUMMARY:Decider match: ARC vs MINLATE
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312248@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3196,7 +3196,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260118T180000Z
+DTSTART:20260118T120000Z
 SUMMARY:Winners match: LK vs BRUTE
 UID:cs-go-nodwin-clutch-series-4-2026-1314670@tournamentics
 END:VEVENT
@@ -3658,7 +3658,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260118T120000Z
+DTSTART:20260118T090000Z
 SUMMARY:Elimination match: hindsight vs PGE
 UID:cs-go-nodwin-clutch-series-4-2026-1314669@tournamentics
 END:VEVENT
