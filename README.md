@@ -201,6 +201,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Open
 </details>
 
 <details>
+<summary>Circuit X</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CircuitX/CircuitX.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CircuitX/CircuitX.ics
+```
+
+---
+
+### Betboom Redemption Curitiba 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CircuitX/BetboomRedemptionCuritiba2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CircuitX/BetboomRedemptionCuritiba2026.ics
+```
+
+</details>
+
+<details>
 <summary>ESEA</summary>
 
 ### Full Schedule
