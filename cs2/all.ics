@@ -284,7 +284,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
 DURATION:PT2H
-DTSTART:20260115T181000Z
+DTSTART:20260115T182000Z
 SUMMARY:BCA vs ASC
 UID:cs-go-roman-imperium-cup-4-2026-1315211@tournamentics
 END:VEVENT
@@ -653,9 +653,9 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-zhi-tech-elite-masters-2026-1318728@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260115T181000Z
+DTSTART:20260115T182550Z
 SUMMARY:BMB vs LA MASIA
 UID:cs-go-roman-imperium-cup-4-2026-1315210@tournamentics
 END:VEVENT
@@ -681,8 +681,8 @@ SUMMARY:Upper bracket semifinal 1: PRE vs BIG.A
 UID:cs-go-united21-43-2026-1308221@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: eLITenergy: 0 | Lazer Cats: 1\nStream: No official stream linked
+DTEND:20260115T182845Z
 DTSTART:20260115T171330Z
 SUMMARY:eLITenergy vs LC
 UID:cs-go-esea-advanced-europe-56-2026-1321131@tournamentics
@@ -1036,13 +1036,6 @@ DTEND:20260114T140749Z
 DTSTART:20260114T113936Z
 SUMMARY:Lower bracket final: TD vs SNG
 UID:cs-go-united21-43-2026-1308220@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
-DURATION:PT2H
-DTSTART:20260115T173000Z
-SUMMARY:OLDBOYS- vs WSG
-UID:cs-go-esea-advanced-europe-56-2026-1321130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
