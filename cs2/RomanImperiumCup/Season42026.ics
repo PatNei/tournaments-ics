@@ -51,10 +51,10 @@ SUMMARY:BCA vs ASC
 UID:cs-go-roman-imperium-cup-4-2026-1315211@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260115T113000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MOUZ.N vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -173,12 +173,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260115T113000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: GRG vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | GRINGOS: 0\nStream: https://www.twitch.tv/dred_
+DTEND:20260115T110303Z
 DTSTART:20260115T103158Z
 SUMMARY:MOUZ.N vs GRG
 UID:cs-go-roman-imperium-cup-4-2026-1315205@tournamentics

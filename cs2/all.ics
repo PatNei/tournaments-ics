@@ -1549,9 +1549,9 @@ SUMMARY:Hemmaplan vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260115T110000Z
+DTSTART:20260115T110343Z
 SUMMARY:Round of 32 match 3: M8 vs M80
 UID:cs-go-blast-bounty-winter-2026-1314681@tournamentics
 END:VEVENT
@@ -1566,7 +1566,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260115T113000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: GRG vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1920,10 +1920,10 @@ SUMMARY:Round of 32 match 12: PRV vs ENCE
 UID:cs-go-blast-bounty-winter-2026-1314680@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260115T113000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MOUZ.N vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315207@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2669,8 +2669,8 @@ SUMMARY:SFE vs megoshort
 UID:cs-go-playr-masters-1-2026-1318731@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | GRINGOS: 0\nStream: https://www.twitch.tv/dred_
+DTEND:20260115T110303Z
 DTSTART:20260115T103158Z
 SUMMARY:MOUZ.N vs GRG
 UID:cs-go-roman-imperium-cup-4-2026-1315205@tournamentics
