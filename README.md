@@ -432,27 +432,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEspla
 </details>
 
 <details>
-<summary>Urban Riga</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/UrbanRiga/UrbanRiga.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/UrbanRiga/UrbanRiga.ics
-```
-
----
-
-### Open#2 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/UrbanRiga/Open22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/UrbanRiga/Open22026.ics
-```
-
-</details>
-
-<details>
 <summary>Zhi-Tech Elite Masters</summary>
 
 ### Full Schedule
