@@ -285,27 +285,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalL
 </details>
 
 <details>
-<summary>Fragadelphia</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fragadelphia/Fragadelphia.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fragadelphia/Fragadelphia.ics
-```
-
----
-
-### Miami 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fragadelphia/Miami2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fragadelphia/Miami2026.ics
-```
-
-</details>
-
-<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
