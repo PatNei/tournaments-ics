@@ -319,7 +319,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/peepcs2
 DURATION:PT2H
-DTSTART:20260115T180000Z
+DTSTART:20260115T181000Z
 SUMMARY:PEEP vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1321132@tournamentics
 END:VEVENT
@@ -3103,9 +3103,9 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-playr-masters-1-2026-1318764@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260115T180000Z
+DTSTART:20260115T181514Z
 SUMMARY:BBP vs STA
 UID:cs-go-nodwin-clutch-series-4-2026-1312258@tournamentics
 END:VEVENT
