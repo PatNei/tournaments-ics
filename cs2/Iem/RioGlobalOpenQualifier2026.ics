@@ -33,6 +33,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T170000Z
+SUMMARY:ENCE vs eLITenergy
+UID:cs-go-iem-rio-global-open-qualifier-2026-1323619@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260117T170000Z
 SUMMARY:Round of 16 match 7: NEM vs 1WIN
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323616@tournamentics
 END:VEVENT
@@ -42,5 +49,12 @@ DURATION:PT2H
 DTSTART:20260117T170000Z
 SUMMARY:Round of 16 match 3: BIG.A vs LFO
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323613@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260117T140000Z
+SUMMARY:FAV vs MZP
+UID:cs-go-iem-rio-global-open-qualifier-2026-1323618@tournamentics
 END:VEVENT
 END:VCALENDAR

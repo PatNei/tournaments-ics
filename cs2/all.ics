@@ -2081,6 +2081,13 @@ SUMMARY:Round 2: G1 vs LK
 UID:cs-go-a1-gaming-league-11-2026-1313569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260117T170000Z
+SUMMARY:ENCE vs eLITenergy
+UID:cs-go-iem-rio-global-open-qualifier-2026-1323619@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260121T150000Z
@@ -2436,6 +2443,13 @@ DURATION:PT2H
 DTSTART:20260117T163000Z
 SUMMARY:Round 2: Fingers vs BRUTE
 UID:cs-go-a1-gaming-league-11-2026-1313568@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260117T140000Z
+SUMMARY:FAV vs MZP
+UID:cs-go-iem-rio-global-open-qualifier-2026-1323618@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -4307,8 +4321,8 @@ SUMMARY:MZP vs FA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314008@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: megoshort: 2 | SemperFi Esports: 1\nStream: https://www.twitch.tv/playrmasters
+DTEND:20260116T233839Z
 DTSTART:20260116T210154Z
 SUMMARY:megoshort vs SFE
 UID:cs-go-playr-masters-1-2026-1318761@tournamentics
