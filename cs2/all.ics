@@ -816,7 +816,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
 DURATION:PT2H
-DTSTART:20260116T154500Z
+DTSTART:20260116T163000Z
 SUMMARY:aimclub vs INF
 UID:cs-go-playr-masters-1-2026-1318759@tournamentics
 END:VEVENT
@@ -858,7 +858,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aferatv
 DURATION:PT2H
-DTSTART:20260116T134500Z
+DTSTART:20260116T140500Z
 SUMMARY:SASHI vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318736@tournamentics
 END:VEVENT
@@ -1166,7 +1166,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
-DTSTART:20260116T154500Z
+DTSTART:20260116T163000Z
 SUMMARY:STA vs PRE
 UID:cs-go-playr-masters-1-2026-1318758@tournamentics
 END:VEVENT
@@ -1880,7 +1880,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
 DURATION:PT2H
-DTSTART:20260116T144500Z
+DTSTART:20260116T154500Z
 SUMMARY:INF vs PRE
 UID:cs-go-playr-masters-1-2026-1318756@tournamentics
 END:VEVENT
@@ -2132,7 +2132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/heroic
 DURATION:PT2H
-DTSTART:20260116T154500Z
+DTSTART:20260116T163000Z
 SUMMARY:HERO.A vs megoshort
 UID:cs-go-playr-masters-1-2026-1318744@tournamentics
 END:VEVENT
@@ -2286,7 +2286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
 DURATION:PT2H
-DTSTART:20260116T144500Z
+DTSTART:20260116T154500Z
 SUMMARY:aimclub vs AAB
 UID:cs-go-playr-masters-1-2026-1318755@tournamentics
 END:VEVENT
@@ -2496,7 +2496,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260116T154500Z
+DTSTART:20260116T163000Z
 SUMMARY:TRI vs Hemmaplan
 UID:cs-go-playr-masters-1-2026-1318743@tournamentics
 END:VEVENT
@@ -2685,7 +2685,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
-DTSTART:20260116T144500Z
+DTSTART:20260116T154500Z
 SUMMARY:JS vs STA
 UID:cs-go-playr-masters-1-2026-1318754@tournamentics
 END:VEVENT
@@ -2865,9 +2865,9 @@ SUMMARY:Round 3: DT vs 3DMAX.A
 UID:cs-go-exort-series-21-2026-1322472@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260116T140000Z
+DTSTART:20260116T140838Z
 SUMMARY: CSDIILIT vs japczany
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306414@tournamentics
 END:VEVENT
@@ -2888,7 +2888,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aferatv
 DURATION:PT2H
-DTSTART:20260116T154500Z
+DTSTART:20260116T150000Z
 SUMMARY:SASHI vs SFE
 UID:cs-go-playr-masters-1-2026-1318742@tournamentics
 END:VEVENT
@@ -3273,7 +3273,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260116T144500Z
+DTSTART:20260116T150000Z
 SUMMARY:megoshort vs Hemmaplan
 UID:cs-go-playr-masters-1-2026-1318741@tournamentics
 END:VEVENT
@@ -3516,13 +3516,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313538@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260116T200000Z
-SUMMARY:Round 2: UVS vs 777
-UID:cs-go-a1-gaming-league-11-2026-1313565@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260125T100000Z
@@ -3588,7 +3581,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260116T144500Z
+DTSTART:20260116T150000Z
 SUMMARY:HERO.A vs SFE
 UID:cs-go-playr-masters-1-2026-1318740@tournamentics
 END:VEVENT
@@ -3859,13 +3852,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313537@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260116T173000Z
-SUMMARY:Round 2: ex-CPH Wolves vs  CSDIILIT
-UID:cs-go-a1-gaming-league-11-2026-1313564@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260124T210000Z
@@ -4106,7 +4092,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aferatv
 DURATION:PT2H
-DTSTART:20260116T144500Z
+DTSTART:20260116T150000Z
 SUMMARY:SASHI vs TRI
 UID:cs-go-playr-masters-1-2026-1318739@tournamentics
 END:VEVENT
