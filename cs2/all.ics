@@ -604,9 +604,9 @@ SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310817@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260116T153000Z
+DTSTART:20260116T154653Z
 SUMMARY:Decider match: ARC vs MINLATE
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312248@tournamentics
 END:VEVENT
@@ -2865,8 +2865,8 @@ SUMMARY:Round 3: DT vs 3DMAX.A
 UID:cs-go-exort-series-21-2026-1322472@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | japczany: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260116T155227Z
 DTSTART:20260116T140838Z
 SUMMARY: CSDIILIT vs japczany
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306414@tournamentics
@@ -3271,8 +3271,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313487@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: megoshort: 1 | Hemmaplan: 0\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260116T155627Z
 DTSTART:20260116T152757Z
 SUMMARY:megoshort vs Hemmaplan
 UID:cs-go-playr-masters-1-2026-1318741@tournamentics
@@ -3579,9 +3579,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313486@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/onlyjoshintv
 DURATION:PT2H
-DTSTART:20260116T163000Z
+DTSTART:20260116T155334Z
 SUMMARY:HERO.A vs SFE
 UID:cs-go-playr-masters-1-2026-1318740@tournamentics
 END:VEVENT
