@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
+DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
-DTSTART:20260116T110000Z
+DTSTART:20260116T113000Z
 SUMMARY:SASHI vs Hemmaplan
 UID:cs-go-playr-masters-1-2026-1318730@tournamentics
 END:VEVENT
@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
 DURATION:PT2H
-DTSTART:20260116T110000Z
+DTSTART:20260116T113000Z
 SUMMARY:STA vs aimclub
 UID:cs-go-playr-masters-1-2026-1318747@tournamentics
 END:VEVENT
@@ -172,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/onlyjoshintv
 DURATION:PT2H
-DTSTART:20260116T110000Z
+DTSTART:20260116T113000Z
 SUMMARY:SFE vs megoshort
 UID:cs-go-playr-masters-1-2026-1318731@tournamentics
 END:VEVENT

@@ -23,10 +23,10 @@ SUMMARY:FCF vs HS
 UID:cs-go-roman-imperium-cup-4-2026-1315221@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260116T112000Z
-SUMMARY:Winners match: MINLATE vs TBD
+SUMMARY:Winners match: MINLATE vs SAW
 UID:cs-go-roman-imperium-cup-4-2026-1315217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:BIG vs EXSAD Gaming
 UID:cs-go-roman-imperium-cup-4-2026-1315220@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 0 | SAW: 1\nStream: https://www.twitch.tv/rmncs
+DTEND:20260116T110627Z
 DTSTART:20260116T100957Z
 SUMMARY:RBLS vs SAW
 UID:cs-go-roman-imperium-cup-4-2026-1315216@tournamentics
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260116T112000Z
-SUMMARY:Elimination match: DXE vs TBD
+SUMMARY:Elimination match: DXE vs RBLS
 UID:cs-go-roman-imperium-cup-4-2026-1315218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
