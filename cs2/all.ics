@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260116T180000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: FCF vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315223@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260116T180000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: HS vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315222@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -816,7 +816,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
 DURATION:PT2H
-DTSTART:20260116T163000Z
+DTSTART:20260116T183000Z
 SUMMARY:aimclub vs INF
 UID:cs-go-playr-masters-1-2026-1318759@tournamentics
 END:VEVENT
@@ -870,8 +870,8 @@ SUMMARY:Round of 32 match 6: TL vs NIP
 UID:cs-go-blast-bounty-winter-2026-1314683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | HyperSpirit: 1\nStream: https://www.twitch.tv/rmncs
+DTEND:20260116T173645Z
 DTSTART:20260116T170946Z
 SUMMARY:FCF vs HS
 UID:cs-go-roman-imperium-cup-4-2026-1315221@tournamentics
@@ -1166,7 +1166,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
-DTSTART:20260116T163000Z
+DTSTART:20260116T183000Z
 SUMMARY:STA vs PRE
 UID:cs-go-playr-masters-1-2026-1318758@tournamentics
 END:VEVENT
@@ -1880,7 +1880,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
 DURATION:PT2H
-DTSTART:20260116T173000Z
+DTSTART:20260116T174500Z
 SUMMARY:INF vs PRE
 UID:cs-go-playr-masters-1-2026-1318756@tournamentics
 END:VEVENT
@@ -2130,8 +2130,8 @@ SUMMARY:Round 2: Bad Luck vs ORUGA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/heroic
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 1 | megoshort: 0\nStream: https://www.twitch.tv/heroic
+DTEND:20260116T173823Z
 DTSTART:20260116T165719Z
 SUMMARY:HERO.A vs megoshort
 UID:cs-go-playr-masters-1-2026-1318744@tournamentics
@@ -2286,7 +2286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
 DURATION:PT2H
-DTSTART:20260116T173000Z
+DTSTART:20260116T174500Z
 SUMMARY:aimclub vs AAB
 UID:cs-go-playr-masters-1-2026-1318755@tournamentics
 END:VEVENT
@@ -2496,7 +2496,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260116T163000Z
+DTSTART:20260116T174500Z
 SUMMARY:TRI vs Hemmaplan
 UID:cs-go-playr-masters-1-2026-1318743@tournamentics
 END:VEVENT
@@ -2685,7 +2685,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
-DTSTART:20260116T173000Z
+DTSTART:20260116T174500Z
 SUMMARY:JS vs STA
 UID:cs-go-playr-masters-1-2026-1318754@tournamentics
 END:VEVENT
