@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260116T180000Z
-SUMMARY:Elimination match: FCF vs TBD
+SUMMARY:Elimination match: FCF vs EXSAD Gaming
 UID:cs-go-roman-imperium-cup-4-2026-1315223@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315532@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BIG: 1 | EXSAD Gaming: 0\nStream: https://www.twitch.tv/zonixxcs
+DTEND:20260116T174103Z
 DTSTART:20260116T170935Z
 SUMMARY:BIG vs EXSAD Gaming
 UID:cs-go-roman-imperium-cup-4-2026-1315220@tournamentics
@@ -142,10 +142,10 @@ SUMMARY:Elimination match: DXE vs RBLS
 UID:cs-go-roman-imperium-cup-4-2026-1315218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
 DURATION:PT2H
 DTSTART:20260116T180000Z
-SUMMARY:Winners match: HS vs TBD
+SUMMARY:Winners match: HS vs BIG
 UID:cs-go-roman-imperium-cup-4-2026-1315222@tournamentics
 END:VEVENT
 BEGIN:VEVENT

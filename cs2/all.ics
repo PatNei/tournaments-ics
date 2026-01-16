@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260116T180000Z
-SUMMARY:Elimination match: FCF vs TBD
+SUMMARY:Elimination match: FCF vs EXSAD Gaming
 UID:cs-go-roman-imperium-cup-4-2026-1315223@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -499,10 +499,10 @@ SUMMARY:Round of 32 match 16: FAL vs ECS
 UID:cs-go-blast-bounty-winter-2026-1314684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
 DURATION:PT2H
 DTSTART:20260116T180000Z
-SUMMARY:Winners match: HS vs TBD
+SUMMARY:Winners match: HS vs BIG
 UID:cs-go-roman-imperium-cup-4-2026-1315222@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1227,8 +1227,8 @@ SUMMARY:Round of 32 match 9: 3DMAX vs ICE
 UID:cs-go-blast-bounty-winter-2026-1314682@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BIG: 1 | EXSAD Gaming: 0\nStream: https://www.twitch.tv/zonixxcs
+DTEND:20260116T174103Z
 DTSTART:20260116T170935Z
 SUMMARY:BIG vs EXSAD Gaming
 UID:cs-go-roman-imperium-cup-4-2026-1315220@tournamentics
@@ -3035,7 +3035,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260116T180000Z
+DTSTART:20260116T183000Z
 SUMMARY:Decider match: petardka vs ILWL
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312253@tournamentics
 END:VEVENT
@@ -4090,8 +4090,8 @@ SUMMARY:Round 2: ELI vs STL
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 0 | Tricked: 1\nStream: https://www.twitch.tv/d0kt0r3n
+DTEND:20260116T174221Z
 DTSTART:20260116T165701Z
 SUMMARY:SASHI vs TRI
 UID:cs-go-playr-masters-1-2026-1318739@tournamentics
