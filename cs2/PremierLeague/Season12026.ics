@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
 DURATION:PT2H
 DTSTART:20260116T160000Z
-SUMMARY:Semifinal match 2: AUR.YB vs TBD
+SUMMARY:Semifinal match 2: AUR.YB vs ENJOY
 UID:cs-go-premier-league-1-2026-1322466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Third Place match: TBD vs TBD
 UID:cs-go-premier-league-1-2026-1322467@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nResult: 8Sins: 0 | ENJOY: 1\nStream: https://www.twitch.tv/premierleague_cs2
+DTEND:20260116T145436Z
 DTSTART:20260116T141803Z
 SUMMARY:Quarterfinal match 4: 8S vs ENJOY
 UID:cs-go-premier-league-1-2026-1322464@tournamentics
