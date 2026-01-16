@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260118T113000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: ChickenBurger vs TBD
 UID:cs-go-united21-43-2026-1322451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -208,12 +208,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260119T113000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: FUT.A vs TBD
 UID:cs-go-united21-43-2026-1322453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: FUT Academy: 2 | ChickenBurger: 0\nStream: https://kick.com/united21_en
+DTEND:20260116T133009Z
 DTSTART:20260116T114025Z
 SUMMARY:Upper bracket quarterfinal 4: FUT.A vs ChickenBurger
 UID:cs-go-united21-43-2026-1322449@tournamentics

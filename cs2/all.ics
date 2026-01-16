@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260118T113000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: ChickenBurger vs TBD
 UID:cs-go-united21-43-2026-1322451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1213,8 +1213,8 @@ SUMMARY:Round 1: VSC vs Charrados
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315162@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aferatv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 1 | Tricked: 0\nStream: https://www.twitch.tv/aferatv
+DTEND:20260116T132850Z
 DTSTART:20260116T125351Z
 SUMMARY:SFE vs TRI
 UID:cs-go-playr-masters-1-2026-1318735@tournamentics
@@ -1675,8 +1675,8 @@ SUMMARY:Elimination match: GLECS vs 777
 UID:cs-go-nodwin-clutch-series-4-2026-1314663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: FUT Academy: 2 | ChickenBurger: 0\nStream: https://kick.com/united21_en
+DTEND:20260116T133009Z
 DTSTART:20260116T114025Z
 SUMMARY:Upper bracket quarterfinal 4: FUT.A vs ChickenBurger
 UID:cs-go-united21-43-2026-1322449@tournamentics
@@ -1934,8 +1934,8 @@ SUMMARY:Round 1: 4M vs ELI
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315160@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Sashi Esport: 1 | megoshort: 0\nStream: https://www.twitch.tv/dutchboycasts
+DTEND:20260116T133332Z
 DTSTART:20260116T125029Z
 SUMMARY:SASHI vs megoshort
 UID:cs-go-playr-masters-1-2026-1318733@tournamentics
@@ -4090,9 +4090,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313496@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
 DURATION:PT2H
-DTSTART:20260116T131000Z
+DTSTART:20260116T132747Z
 SUMMARY:AAB vs STA
 UID:cs-go-playr-masters-1-2026-1318750@tournamentics
 END:VEVENT
@@ -4373,7 +4373,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260119T113000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: FUT.A vs TBD
 UID:cs-go-united21-43-2026-1322453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
