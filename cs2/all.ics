@@ -383,7 +383,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260119T090000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: MSC vs TBD
 UID:cs-go-united21-43-2026-1322452@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260118T090000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: Midnight vs TBD
 UID:cs-go-united21-43-2026-1322450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2147,7 +2147,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260116T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: DXE vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2539,7 +2539,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260116T110000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MINLATE vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2795,8 +2795,8 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313551@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: MASONIC: 2 | Midnight: 0\nStream: https://kick.com/united21_en
+DTEND:20260116T104035Z
 DTSTART:20260116T090833Z
 SUMMARY:Upper bracket quarterfinal 1: MSC vs Midnight
 UID:cs-go-united21-43-2026-1322446@tournamentics
@@ -3299,8 +3299,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/muchapt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MINLATE: 1 | DimoniX Esports: 0\nStream: https://www.twitch.tv/muchapt
+DTEND:20260116T103112Z
 DTSTART:20260116T100736Z
 SUMMARY:MINLATE vs DXE
 UID:cs-go-roman-imperium-cup-4-2026-1315215@tournamentics

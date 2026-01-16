@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260116T110000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MINLATE vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260116T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: DXE vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -156,8 +156,8 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/muchapt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MINLATE: 1 | DimoniX Esports: 0\nStream: https://www.twitch.tv/muchapt
+DTEND:20260116T103112Z
 DTSTART:20260116T100736Z
 SUMMARY:MINLATE vs DXE
 UID:cs-go-roman-imperium-cup-4-2026-1315215@tournamentics
