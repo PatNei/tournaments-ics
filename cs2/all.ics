@@ -30,7 +30,7 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313524@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
 DURATION:PT2H
 DTSTART:20260116T130000Z
 SUMMARY:Quarterfinal match 3: AUR.YB vs VP.P
@@ -86,9 +86,9 @@ SUMMARY:Hemmaplan vs SFE
 UID:cs-go-playr-masters-1-2026-1318738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260116T125500Z
+DTSTART:20260116T125516Z
 SUMMARY:Round of 32 match 15: TS vs SIN
 UID:cs-go-blast-bounty-winter-2026-1314685@tournamentics
 END:VEVENT
@@ -263,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T130500Z
 SUMMARY:PRE vs aimclub
 UID:cs-go-playr-masters-1-2026-1318749@tournamentics
 END:VEVENT
@@ -634,7 +634,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T130500Z
 SUMMARY:JS vs INF
 UID:cs-go-playr-masters-1-2026-1318748@tournamentics
 END:VEVENT
@@ -1213,9 +1213,9 @@ SUMMARY:Round 1: VSC vs Charrados
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315162@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aferatv
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aferatv
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T125351Z
 SUMMARY:SFE vs TRI
 UID:cs-go-playr-masters-1-2026-1318735@tournamentics
 END:VEVENT
@@ -1563,9 +1563,9 @@ SUMMARY:Round 1: GH vs ORUGA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315161@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/heroic
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/heroic
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T125428Z
 SUMMARY:Hemmaplan vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318734@tournamentics
 END:VEVENT
@@ -4092,7 +4092,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T130000Z
 SUMMARY:AAB vs STA
 UID:cs-go-playr-masters-1-2026-1318750@tournamentics
 END:VEVENT

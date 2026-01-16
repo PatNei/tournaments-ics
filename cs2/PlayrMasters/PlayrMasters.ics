@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T130500Z
 SUMMARY:JS vs INF
 UID:cs-go-playr-masters-1-2026-1318748@tournamentics
 END:VEVENT
@@ -79,9 +79,9 @@ SUMMARY:Hemmaplan vs SFE
 UID:cs-go-playr-masters-1-2026-1318738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aferatv
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aferatv
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T125351Z
 SUMMARY:SFE vs TRI
 UID:cs-go-playr-masters-1-2026-1318735@tournamentics
 END:VEVENT
@@ -163,9 +163,9 @@ SUMMARY:megoshort vs TRI
 UID:cs-go-playr-masters-1-2026-1318737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/heroic
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/heroic
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T125428Z
 SUMMARY:Hemmaplan vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318734@tournamentics
 END:VEVENT
@@ -228,14 +228,14 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T130500Z
 SUMMARY:PRE vs aimclub
 UID:cs-go-playr-masters-1-2026-1318749@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
 DURATION:PT2H
-DTSTART:20260116T124500Z
+DTSTART:20260116T130000Z
 SUMMARY:AAB vs STA
 UID:cs-go-playr-masters-1-2026-1318750@tournamentics
 END:VEVENT
