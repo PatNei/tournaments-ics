@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260116T123000Z
+DTSTART:20260116T133000Z
 SUMMARY:Round of 32 match 15: TS vs SIN
 UID:cs-go-blast-bounty-winter-2026-1314685@tournamentics
 END:VEVENT
@@ -422,9 +422,9 @@ SUMMARY:Semifinal 2: rottweilers vs ChillHasNoVibe
 UID:cs-go-cct-europe-open-qualifier-14-3-2026-1316021@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
 DURATION:PT2H
-DTSTART:20260116T120000Z
+DTSTART:20260116T120936Z
 SUMMARY:Quarterfinal match 2: WSG vs INF
 UID:cs-go-premier-league-1-2026-1322462@tournamentics
 END:VEVENT
@@ -816,7 +816,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260116T150000Z
+DTSTART:20260116T153000Z
 SUMMARY:aimclub vs INF
 UID:cs-go-playr-masters-1-2026-1318759@tournamentics
 END:VEVENT
@@ -1166,7 +1166,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260116T150000Z
+DTSTART:20260116T153000Z
 SUMMARY:STA vs PRE
 UID:cs-go-playr-masters-1-2026-1318758@tournamentics
 END:VEVENT
@@ -1516,7 +1516,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260116T150000Z
+DTSTART:20260116T153000Z
 SUMMARY:JS vs AAB
 UID:cs-go-playr-masters-1-2026-1318757@tournamentics
 END:VEVENT
@@ -2132,7 +2132,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260116T150000Z
+DTSTART:20260116T153000Z
 SUMMARY:HERO.A vs megoshort
 UID:cs-go-playr-masters-1-2026-1318744@tournamentics
 END:VEVENT
@@ -2459,9 +2459,9 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310812@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260116T120000Z
+DTSTART:20260116T120904Z
 SUMMARY:Decider match: LK vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312243@tournamentics
 END:VEVENT
@@ -2496,7 +2496,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260116T150000Z
+DTSTART:20260116T153000Z
 SUMMARY:TRI vs Hemmaplan
 UID:cs-go-playr-masters-1-2026-1318743@tournamentics
 END:VEVENT
@@ -2888,7 +2888,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
-DTSTART:20260116T150000Z
+DTSTART:20260116T153000Z
 SUMMARY:SASHI vs SFE
 UID:cs-go-playr-masters-1-2026-1318742@tournamentics
 END:VEVENT
