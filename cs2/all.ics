@@ -716,13 +716,6 @@ SUMMARY:Elimination Match: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260117T070000Z
-SUMMARY:Round 1 match 8: FDG vs CW
-UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1317670@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
 DTSTART:20260222T140000Z
@@ -1262,13 +1255,6 @@ SUMMARY:Elimination Match: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260118T100000Z
-SUMMARY:Round 1 match 7: JJH vs CTG
-UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1317669@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: Bebop: 2 | los kogutos: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260109T131035Z
 DTSTART:20260109T114007Z
@@ -1619,13 +1605,6 @@ SUMMARY:TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260118T070000Z
-SUMMARY:Round 1 match 6: Morningstar vs ERUPT
-UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1317668@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: WOPA Esport: 0 | los kogutos: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260105T133843Z
 DTSTART:20260105T114441Z
@@ -1829,6 +1808,13 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260117T070000Z
+SUMMARY:Round of 16 match 1: CTG vs CW
+UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1323599@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260124T180000Z
@@ -1981,13 +1967,6 @@ DURATION:PT2H
 DTSTART:20260119T090000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306426@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260117T100000Z
-SUMMARY:Round 1 match 5: THE vs JS
-UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1317667@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -2354,13 +2333,6 @@ SUMMARY:Decider Match: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306425@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260117T130000Z
-SUMMARY:Round 1 match 4: RA vs XDM
-UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1317666@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260117T150000Z
@@ -2494,8 +2466,8 @@ SUMMARY:Round 2: PLS vs MAG
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aidstarcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Tricked: 1 | Hemmaplan: 0\nStream: https://www.twitch.tv/aidstarcs
+DTEND:20260116T184051Z
 DTSTART:20260116T181626Z
 SUMMARY:TRI vs Hemmaplan
 UID:cs-go-playr-masters-1-2026-1318743@tournamentics
@@ -2760,13 +2732,6 @@ SUMMARY:Winners Match: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260119T150000Z
-SUMMARY:Round 1 match 3: OG vs EG
-UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1317665@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260117T120000Z
@@ -2886,9 +2851,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313488@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
-DTSTART:20260116T184000Z
+DTSTART:20260116T184105Z
 SUMMARY:SASHI vs SFE
 UID:cs-go-playr-masters-1-2026-1318742@tournamentics
 END:VEVENT
@@ -3033,9 +2998,9 @@ SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310822@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260116T183000Z
+DTSTART:20260116T184336Z
 SUMMARY:Decider match: petardka vs ILWL
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312253@tournamentics
 END:VEVENT
@@ -3143,13 +3108,6 @@ DURATION:PT2H
 DTSTART:20260122T090000Z
 SUMMARY:Elimination Match: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306423@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260119T120000Z
-SUMMARY:Round 1 match 2: LVG vs UR
-UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1317664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3

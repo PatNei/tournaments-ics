@@ -65,9 +65,9 @@ SUMMARY:JS vs PRE
 UID:cs-go-playr-masters-1-2026-1318745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
-DTSTART:20260116T184000Z
+DTSTART:20260116T184105Z
 SUMMARY:SASHI vs SFE
 UID:cs-go-playr-masters-1-2026-1318742@tournamentics
 END:VEVENT
@@ -247,8 +247,8 @@ SUMMARY:AAB vs INF
 UID:cs-go-playr-masters-1-2026-1318746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aidstarcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Tricked: 1 | Hemmaplan: 0\nStream: https://www.twitch.tv/aidstarcs
+DTEND:20260116T184051Z
 DTSTART:20260116T181626Z
 SUMMARY:TRI vs Hemmaplan
 UID:cs-go-playr-masters-1-2026-1318743@tournamentics
