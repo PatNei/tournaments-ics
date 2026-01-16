@@ -79,7 +79,7 @@ SUMMARY:Hemmaplan vs SFE
 UID:cs-go-playr-masters-1-2026-1318738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
+DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aferatv
 DURATION:PT2H
 DTSTART:20260116T123000Z
 SUMMARY:SFE vs TRI
@@ -135,8 +135,8 @@ SUMMARY:JS vs aimclub
 UID:cs-go-playr-masters-1-2026-1318751@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: STATE: 1 | aimclub: 0\nStream: https://kick.com/dutchboycasts
+DTEND:20260116T123308Z
 DTSTART:20260116T114746Z
 SUMMARY:STA vs aimclub
 UID:cs-go-playr-masters-1-2026-1318747@tournamentics
@@ -163,7 +163,7 @@ SUMMARY:megoshort vs TRI
 UID:cs-go-playr-masters-1-2026-1318737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
+DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/heroic
 DURATION:PT2H
 DTSTART:20260116T123000Z
 SUMMARY:Hemmaplan vs HERO.A
@@ -275,7 +275,7 @@ SUMMARY:SASHI vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
+DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
 DTSTART:20260116T123000Z
 SUMMARY:SASHI vs megoshort
