@@ -2130,9 +2130,9 @@ SUMMARY:Round 2: Bad Luck vs ORUGA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/heroic
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/heroic
 DURATION:PT2H
-DTSTART:20260116T173000Z
+DTSTART:20260116T165719Z
 SUMMARY:HERO.A vs megoshort
 UID:cs-go-playr-masters-1-2026-1318744@tournamentics
 END:VEVENT
@@ -2858,9 +2858,9 @@ SUMMARY:Winners match: EF vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312242@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260116T163000Z
+DTSTART:20260116T164814Z
 SUMMARY:Round 3: DT vs 3DMAX.A
 UID:cs-go-exort-series-21-2026-1322472@tournamentics
 END:VEVENT
@@ -4090,15 +4090,15 @@ SUMMARY:Round 2: ELI vs STL
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
+DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
-DTSTART:20260116T160000Z
+DTSTART:20260116T165701Z
 SUMMARY:SASHI vs TRI
 UID:cs-go-playr-masters-1-2026-1318739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: paiN: 2 | BetBoom Team: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260116T164824Z
 DTSTART:20260116T150352Z
 SUMMARY:Round of 32 match 1: paiN vs BB
 UID:cs-go-blast-bounty-winter-2026-1314686@tournamentics
