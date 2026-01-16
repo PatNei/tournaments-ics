@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
 DURATION:PT2H
-DTSTART:20260116T100000Z
+DTSTART:20260116T100750Z
 SUMMARY:Quarterfinal match 1: ChickenBurger vs WTRML0N
 UID:cs-go-premier-league-1-2026-1322461@tournamentics
 END:VEVENT
