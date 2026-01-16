@@ -2672,7 +2672,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260117T190000Z
-SUMMARY:Lower bracket semifinal: MIBR vs TBD
+SUMMARY:Lower bracket semifinal: MIBR vs IMP
 UID:cs-go-betboom-rush-b-summit-2026-1317686@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2875,7 +2875,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T090000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: STA vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3281,7 +3281,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T090000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: PRE vs megoshort
 UID:cs-go-playr-masters-1-2026-1318764@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3411,8 +3411,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313577@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Gaimin Gladiators: 0\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260116T235217Z
 DTSTART:20260116T220055Z
 SUMMARY:Lower bracket quarterfinal 1: IMP vs GG
 UID:cs-go-betboom-rush-b-summit-2026-1317684@tournamentics
@@ -3603,7 +3603,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T090000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: TRI vs AAB
 UID:cs-go-playr-masters-1-2026-1318763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3946,7 +3946,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T090000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: SASHI vs JS
 UID:cs-go-playr-masters-1-2026-1318762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
