@@ -2839,7 +2839,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260116T090000Z
+DTSTART:20260116T140000Z
 SUMMARY: CSDIILIT vs japczany
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306414@tournamentics
 END:VEVENT
@@ -2979,8 +2979,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
-DTSTART:20260116T220000Z
-SUMMARY:Lower bracket quarterfinal 2: FDB vs IMP
+DTSTART:20260116T190000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs FDB
 UID:cs-go-betboom-rush-b-summit-2026-1317685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3329,8 +3329,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
-DTSTART:20260116T190000Z
-SUMMARY:Lower bracket quarterfinal 1: GG vs TBD
+DTSTART:20260116T220000Z
+SUMMARY:Lower bracket quarterfinal 1: IMP vs GG
 UID:cs-go-betboom-rush-b-summit-2026-1317684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
