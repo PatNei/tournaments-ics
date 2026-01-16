@@ -964,7 +964,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260117T180000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: BMB vs RBLS
 UID:cs-go-roman-imperium-cup-4-2026-1315532@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1321,7 +1321,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260117T170000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: MANA vs BIG
 UID:cs-go-roman-imperium-cup-4-2026-1315531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1699,7 +1699,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260117T140000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: BCA vs MINLATE
 UID:cs-go-roman-imperium-cup-4-2026-1315530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2137,8 +2137,8 @@ SUMMARY:SFE vs INF
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314002@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 1 | TEAM ORUGA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260116T214908Z
 DTSTART:20260116T190319Z
 SUMMARY:Round 2: Bad Luck vs ORUGA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315171@tournamentics
@@ -2259,7 +2259,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260117T110000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: MOUZ.N vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4097,9 +4097,9 @@ SUMMARY:Round of 32 match 1: paiN vs BB
 UID:cs-go-blast-bounty-winter-2026-1314686@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260116T214500Z
+DTSTART:20260116T214823Z
 SUMMARY:Decider match: FCF vs HS
 UID:cs-go-roman-imperium-cup-4-2026-1315224@tournamentics
 END:VEVENT

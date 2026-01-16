@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260117T110000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: MOUZ.N vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260117T140000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: BCA vs MINLATE
 UID:cs-go-roman-imperium-cup-4-2026-1315530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260117T180000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: BMB vs RBLS
 UID:cs-go-roman-imperium-cup-4-2026-1315532@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260117T170000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: MANA vs BIG
 UID:cs-go-roman-imperium-cup-4-2026-1315531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -184,9 +184,9 @@ SUMMARY:MOUZ.N vs GRG
 UID:cs-go-roman-imperium-cup-4-2026-1315205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260116T214500Z
+DTSTART:20260116T214823Z
 SUMMARY:Decider match: FCF vs HS
 UID:cs-go-roman-imperium-cup-4-2026-1315224@tournamentics
 END:VEVENT
