@@ -404,7 +404,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260117T010000Z
-SUMMARY:Upper bracket final: SHK vs TBD
+SUMMARY:Upper bracket final: SHK vs LGC
 UID:cs-go-betboom-rush-b-summit-2026-1317680@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -968,8 +968,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313533@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nResult: MIBR: 0 | Legacy: 2\nStream: https://www.twitch.tv/btsbrasiltv
+DTEND:20260116T035234Z
 DTSTART:20260116T020932Z
 SUMMARY:Upper bracket semifinal 2: MIBR vs LGC
 UID:cs-go-betboom-rush-b-summit-2026-1317679@tournamentics
@@ -2980,7 +2980,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260116T190000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs FDB
+SUMMARY:Lower bracket quarterfinal 2: MIBR vs FDB
 UID:cs-go-betboom-rush-b-summit-2026-1317685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
