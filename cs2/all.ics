@@ -2490,7 +2490,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T120000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: TRI vs TBD
 UID:cs-go-playr-masters-1-2026-1318766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2508,9 +2508,9 @@ SUMMARY:Decider match: LK vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312243@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260117T103000Z
+DTSTART:20260117T103920Z
 SUMMARY:v: OXUJI vs PCF
 UID:cs-go-exort-series-21-2026-1322473@tournamentics
 END:VEVENT
@@ -3642,8 +3642,8 @@ SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315190@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Tricked: 2 | AaB Esport: 0\nStream: https://www.twitch.tv/dutchboycasts
+DTEND:20260117T103809Z
 DTSTART:20260117T091415Z
 SUMMARY:Quarterfinal 2: TRI vs AAB
 UID:cs-go-playr-masters-1-2026-1318763@tournamentics
