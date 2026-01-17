@@ -9,7 +9,7 @@ SUMMARY:Quarterfinal match 3: NTR vs ENCE
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
 DURATION:PT2H
 DTSTART:20260117T210000Z
 SUMMARY:Round of 16 match 3: Keyd vs GH
@@ -30,8 +30,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310827@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nolik_2k
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Ursa: 1 | Leo Team: 0\nStream: https://www.twitch.tv/nolik_2k
+DTEND:20260117T184120Z
 DTSTART:20260117T175455Z
 SUMMARY:Round of 16 match 8: URSA vs Leo
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323617@tournamentics
@@ -184,14 +184,14 @@ SUMMARY:Quarterfinal match 2: BIG.A vs G1
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
 DTSTART:20260117T210000Z
 SUMMARY:Round of 16 match 6: GLS vs PCY
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323611@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
 DTSTART:20260117T210000Z
 SUMMARY:Round of 16 match 2: SHIN vs FDB
@@ -359,10 +359,10 @@ SUMMARY:Round of 16 match 4: ODK vs descalco na neve
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323620@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nolik_2k
 DURATION:PT2H
 DTSTART:20260117T185500Z
-SUMMARY:Quarterfinal match 4: NEM vs TBD
+SUMMARY:Quarterfinal match 4: NEM vs URSA
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
