@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T221500Z
-SUMMARY:Quarterfinal match 3: TBD vs TBD
+SUMMARY:Quarterfinal match 3: 9z vs TBD
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Round of 16 match 3: TL vs NIP
 UID:cs-go-iem-krakow-2026-1324058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elmorocho7
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nResult: 9z: 1 | Alzon: 0\nStream: https://www.twitch.tv/elmorocho7
+DTEND:20260117T214227Z
 DTSTART:20260117T211234Z
 SUMMARY:Round of 16 match 5: 9z vs Alzon
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323621@tournamentics
@@ -352,15 +352,15 @@ SUMMARY:Round of 16 match 2: HERO vs PRV
 UID:cs-go-iem-krakow-2026-1324057@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/clutchzonetv2
 DURATION:PT2H
-DTSTART:20260117T213000Z
+DTSTART:20260117T214500Z
 SUMMARY:Round of 16 match 4: ODK vs descalco na neve
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323620@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nolik_2k
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | Ursa: 1\nStream: https://www.twitch.tv/nolik_2k
+DTEND:20260117T214910Z
 DTSTART:20260117T190241Z
 SUMMARY:Quarterfinal match 4: NEM vs URSA
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323628@tournamentics

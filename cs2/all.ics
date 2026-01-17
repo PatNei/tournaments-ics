@@ -474,7 +474,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260119T180000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: NEM vs FORZE.R
 UID:cs-go-cct-europe-series-13-3-2026-1313523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -866,7 +866,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260119T150000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: 33 vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1251,7 +1251,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260119T120000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: NEMI vs G1
 UID:cs-go-cct-europe-series-13-3-2026-1313521@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1622,7 +1622,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260119T090000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: NTR vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2238,7 +2238,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260118T180000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: AM vs UNiTY
 UID:cs-go-cct-europe-series-13-3-2026-1313519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2602,7 +2602,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260118T150000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: ORM vs PHA
 UID:cs-go-cct-europe-series-13-3-2026-1313518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3001,7 +3001,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260118T120000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: SNG vs ILWL
 UID:cs-go-cct-europe-series-13-3-2026-1313517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3173,8 +3173,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313578@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nolik_2k
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | Ursa: 1\nStream: https://www.twitch.tv/nolik_2k
+DTEND:20260117T214910Z
 DTSTART:20260117T190241Z
 SUMMARY:Quarterfinal match 4: NEM vs URSA
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323628@tournamentics
@@ -3383,8 +3383,8 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313511@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elmorocho7
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nResult: 9z: 1 | Alzon: 0\nStream: https://www.twitch.tv/elmorocho7
+DTEND:20260117T214227Z
 DTSTART:20260117T211234Z
 SUMMARY:Round of 16 match 5: 9z vs Alzon
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323621@tournamentics
@@ -3435,7 +3435,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260118T090000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: 1WIN vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3733,9 +3733,9 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313510@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/clutchzonetv2
 DURATION:PT2H
-DTSTART:20260117T213000Z
+DTSTART:20260117T214500Z
 SUMMARY:Round of 16 match 4: ODK vs descalco na neve
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323620@tournamentics
 END:VEVENT
@@ -3911,7 +3911,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T221500Z
-SUMMARY:Quarterfinal match 3: TBD vs TBD
+SUMMARY:Quarterfinal match 3: 9z vs TBD
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
