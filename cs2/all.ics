@@ -222,7 +222,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260118T140000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: BIG vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1416,8 +1416,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | BIG: 2\nStream: https://www.twitch.tv/rmncs
+DTEND:20260117T184548Z
 DTSTART:20260117T170329Z
 SUMMARY:Quarterfinal 3: MANA vs BIG
 UID:cs-go-roman-imperium-cup-4-2026-1315531@tournamentics
@@ -2263,8 +2263,8 @@ SUMMARY:FORZE.R vs STA
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: VP.Future: 1 | Young TigeRES: 2\nStream: https://kick.com/exort_en2
+DTEND:20260117T185440Z
 DTSTART:20260117T164101Z
 SUMMARY:Round 3: VP.F vs Y.TigeRES
 UID:cs-go-exort-series-21-2026-1322474@tournamentics
@@ -2795,7 +2795,7 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313501@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260117T190000Z
 SUMMARY:Lower bracket semifinal: MIBR vs IMP
@@ -4307,9 +4307,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313575@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
 DURATION:PT2H
-DTSTART:20260117T184500Z
+DTSTART:20260117T185022Z
 SUMMARY:Quarterfinal match 1: SNG vs KOL
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323625@tournamentics
 END:VEVENT
