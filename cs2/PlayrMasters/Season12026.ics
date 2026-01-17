@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T190000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: TRI vs TBD
 UID:cs-go-playr-masters-1-2026-1318768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:TRI vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318732@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: megoshort: 0 | Tricked: 2\nStream: https://www.twitch.tv/playrmasters
+DTEND:20260117T144544Z
 DTSTART:20260117T124146Z
 SUMMARY:Semifinal 2: megoshort vs TRI
 UID:cs-go-playr-masters-1-2026-1318767@tournamentics
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T160000Z
-SUMMARY:3rd place match: TBD vs TBD
+SUMMARY:3rd place match: megoshort vs TBD
 UID:cs-go-playr-masters-1-2026-1318769@tournamentics
 END:VEVENT
 BEGIN:VEVENT

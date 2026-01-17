@@ -1398,7 +1398,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T160000Z
-SUMMARY:3rd place match: TBD vs TBD
+SUMMARY:3rd place match: megoshort vs TBD
 UID:cs-go-playr-masters-1-2026-1318769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1783,7 +1783,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T190000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: TRI vs TBD
 UID:cs-go-playr-masters-1-2026-1318768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2165,8 +2165,8 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: megoshort: 0 | Tricked: 2\nStream: https://www.twitch.tv/playrmasters
+DTEND:20260117T144544Z
 DTSTART:20260117T124146Z
 SUMMARY:Semifinal 2: megoshort vs TRI
 UID:cs-go-playr-masters-1-2026-1318767@tournamentics
@@ -2739,8 +2739,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/premierleague_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Premier League - Season 1 2026\nMatch Type: Best Of\nResult: ChickenBurger: 1 | Aurora Young Blood: 2\nStream: https://www.twitch.tv/premierleague_cs2
+DTEND:20260117T144501Z
 DTSTART:20260117T121359Z
 SUMMARY:Grand final: ChickenBurger vs AUR.YB
 UID:cs-go-premier-league-1-2026-1322468@tournamentics
