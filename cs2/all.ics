@@ -418,7 +418,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260119T090000Z
-SUMMARY:Upper bracket semifinal 1: MSC vs TBD
+SUMMARY:Upper bracket semifinal 1: MSC vs NAVI.J
 UID:cs-go-united21-43-2026-1322452@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1146,7 +1146,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260118T090000Z
-SUMMARY:Lower bracket round 1 match 1: Midnight vs TBD
+SUMMARY:Lower bracket round 1 match 1: Midnight vs PRE
 UID:cs-go-united21-43-2026-1322450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2436,13 +2436,6 @@ DTEND:20260113T133559Z
 DTSTART:20260113T120409Z
 SUMMARY:Winners match: ILWL vs MSC
 UID:cs-go-nodwin-clutch-series-4-2026-1314661@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260117T113000Z
-SUMMARY:Upper bracket quarterfinal 2: NAVI.J vs PRE
-UID:cs-go-united21-43-2026-1322447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
