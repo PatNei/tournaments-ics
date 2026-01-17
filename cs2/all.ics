@@ -2133,7 +2133,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T120000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: STA vs TBD
 UID:cs-go-playr-masters-1-2026-1318767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2291,9 +2291,9 @@ SUMMARY:Lower bracket final: LGC vs TBD
 UID:cs-go-betboom-rush-b-summit-2026-1317687@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260117T110000Z
+DTSTART:20260117T110648Z
 SUMMARY:Quarterfinal 1: MOUZ.N vs FCF
 UID:cs-go-roman-imperium-cup-4-2026-1315529@tournamentics
 END:VEVENT
@@ -2879,8 +2879,8 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nolik_2k
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: STATE: 2 | HEROIC Academy: 0\nStream: https://www.twitch.tv/nolik_2k
+DTEND:20260117T110742Z
 DTSTART:20260117T091806Z
 SUMMARY:Quarterfinal 4: STA vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318765@tournamentics
