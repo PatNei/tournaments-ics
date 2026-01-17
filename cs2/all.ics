@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260118T230000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: SHK vs TBD
 UID:cs-go-betboom-rush-b-summit-2026-1317681@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -436,8 +436,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nResult: Sharks: 2 | Legacy: 1\nStream: https://www.twitch.tv/btsbrasiltv
+DTEND:20260117T032635Z
 DTSTART:20260117T005948Z
 SUMMARY:Upper bracket final: SHK vs LGC
 UID:cs-go-betboom-rush-b-summit-2026-1317680@tournamentics
@@ -2287,7 +2287,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasiltv
 DURATION:PT2H
 DTSTART:20260118T010000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: LGC vs TBD
 UID:cs-go-betboom-rush-b-summit-2026-1317687@tournamentics
 END:VEVENT
 BEGIN:VEVENT
