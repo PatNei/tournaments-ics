@@ -247,7 +247,7 @@ SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310818@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nolik_2k
 DURATION:PT2H
 DTSTART:20260117T170000Z
 SUMMARY:Round of 16 match 2: BULGARIAPEEK vs SNG
@@ -2858,8 +2858,8 @@ SUMMARY: CSDIILIT vs MANA
 UID:cs-go-esea-advanced-europe-56-2026-1317215@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Ursa: 0 | illwill: 2\nStream: https://kick.com/cct_cs
+DTEND:20260117T133317Z
 DTSTART:20260117T120737Z
 SUMMARY:URSA vs ILWL
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312288@tournamentics
@@ -2888,7 +2888,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
-DTSTART:20260117T140000Z
+DTSTART:20260117T143000Z
 SUMMARY:Round 2: MSC vs STA
 UID:cs-go-a1-gaming-league-11-2026-1313567@tournamentics
 END:VEVENT
@@ -3327,7 +3327,7 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
 DURATION:PT2H
 DTSTART:20260117T170000Z
 SUMMARY:Round of 16 match 7: NEM vs 1WIN
@@ -3677,7 +3677,7 @@ SUMMARY:3rd place decider: TBD vs TBD
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314021@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
 DURATION:PT2H
 DTSTART:20260117T170000Z
 SUMMARY:Round of 16 match 6: VP vs NTR
@@ -4041,7 +4041,7 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314020@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nagu_fr
 DURATION:PT2H
 DTSTART:20260117T170000Z
 SUMMARY:Round of 16 match 4: QWE vs G1
@@ -4433,7 +4433,7 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310819@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260117T170000Z
 SUMMARY:Round of 16 match 3: BIG.A vs LFO
