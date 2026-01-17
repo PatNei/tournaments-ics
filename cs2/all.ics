@@ -376,7 +376,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260121T113000Z
-SUMMARY:Winners Match: TBD vs TBD
+SUMMARY:Winners Match: MZP vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306419@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260121T090000Z
-SUMMARY:Elimination Match: TBD vs TBD
+SUMMARY:Elimination Match: BBP vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1486,8 +1486,8 @@ SUMMARY:Round 2: PEEP vs JUMBO
 UID:cs-go-exort-series-21-2026-1320306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Bebop: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260117T115204Z
 DTSTART:20260117T091928Z
 SUMMARY:MZP vs BBP
 UID:cs-go-european-pro-league-series-4-2026-1306416@tournamentics
@@ -2133,7 +2133,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
 DURATION:PT2H
 DTSTART:20260117T120000Z
-SUMMARY:Semifinal 2: STA vs megoshort
+SUMMARY:Semifinal 2: megoshort vs TRI
 UID:cs-go-playr-masters-1-2026-1318767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2487,10 +2487,10 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playrmasters
+DESCRIPTION:⏳ UPCOMING\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T120000Z
-SUMMARY:Semifinal 1: TRI vs JS
+SUMMARY:Semifinal 1: JS vs STA
 UID:cs-go-playr-masters-1-2026-1318766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2882,7 +2882,7 @@ BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: STATE: 2 | HEROIC Academy: 0\nStream: https://www.twitch.tv/nolik_2k
 DTEND:20260117T110742Z
 DTSTART:20260117T091806Z
-SUMMARY:Quarterfinal 4: STA vs HERO.A
+SUMMARY:Quarterfinal 2: STA vs HERO.A
 UID:cs-go-playr-masters-1-2026-1318765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3645,7 +3645,7 @@ BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Tricked: 2 | AaB Esport: 0\nStream: https://www.twitch.tv/dutchboycasts
 DTEND:20260117T103809Z
 DTSTART:20260117T091415Z
-SUMMARY:Quarterfinal 2: TRI vs AAB
+SUMMARY:Quarterfinal 4: TRI vs AAB
 UID:cs-go-playr-masters-1-2026-1318763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
