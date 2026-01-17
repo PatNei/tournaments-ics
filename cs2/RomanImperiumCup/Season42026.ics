@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260118T110000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: MOUZ.N vs TBD
 UID:cs-go-roman-imperium-cup-4-2026-1315533@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | FC Famalicão Esports: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260117T123800Z
 DTSTART:20260117T110648Z
 SUMMARY:Quarterfinal 1: MOUZ.N vs FCF
 UID:cs-go-roman-imperium-cup-4-2026-1315529@tournamentics
