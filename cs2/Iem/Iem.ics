@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260117T181500Z
+DTSTART:20260117T181621Z
 SUMMARY:Quarterfinal match 3: NTR vs ENCE
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323627@tournamentics
 END:VEVENT
@@ -177,9 +177,9 @@ SUMMARY:Round of 16 match 5: 9z vs Alzon
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260117T181500Z
+DTSTART:20260117T182054Z
 SUMMARY:Quarterfinal match 2: BIG.A vs G1
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323626@tournamentics
 END:VEVENT
@@ -212,8 +212,8 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310826@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Team Nemesis: 1 | 1WIN: 0\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260117T181617Z
 DTSTART:20260117T172042Z
 SUMMARY:Round of 16 match 7: NEM vs 1WIN
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323616@tournamentics
@@ -362,7 +362,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T181500Z
-SUMMARY:Quarterfinal match 4: TBD vs TBD
+SUMMARY:Quarterfinal match 4: NEM vs TBD
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
