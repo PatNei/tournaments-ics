@@ -26,12 +26,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T221500Z
-SUMMARY:Quarterfinal match 2: GH vs TBD
+SUMMARY:Quarterfinal match 2: GH vs ODK
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/clutchzonetv1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nResult: Galorys: 1 | Procyon Gaming: 0\nStream: https://www.twitch.tv/clutchzonetv1
+DTEND:20260117T220130Z
 DTSTART:20260117T211530Z
 SUMMARY:Round of 16 match 6: GLS vs PCY
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323611@tournamentics
@@ -44,8 +44,8 @@ SUMMARY:Round of 16 match 2: SHIN vs FDB
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/clutchzonetv2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | descalco na neve: 0\nStream: https://www.twitch.tv/clutchzonetv2
+DTEND:20260117T220936Z
 DTSTART:20260117T215341Z
 SUMMARY:Round of 16 match 4: ODK vs descalco na neve
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323620@tournamentics
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T221500Z
-SUMMARY:Quarterfinal match 4: TBD vs FA
+SUMMARY:Quarterfinal match 4: RED vs FA
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ SUMMARY:Round of 16 match 8: BHE vs FA
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vilacattv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nResult: RED Canids: 1 | Four Magic: 0\nStream: https://www.twitch.tv/vilacattv
+DTEND:20260117T220843Z
 DTSTART:20260117T211412Z
 SUMMARY:Round of 16 match 7: RED vs 4M
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323610@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T221500Z
-SUMMARY:Quarterfinal match 3: 9z vs TBD
+SUMMARY:Quarterfinal match 3: 9z vs GLS
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323631@tournamentics
 END:VEVENT
 END:VCALENDAR
