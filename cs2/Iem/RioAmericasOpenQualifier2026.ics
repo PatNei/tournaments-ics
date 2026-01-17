@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nResult: Keyd: 0 | Game Hunters: 1\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260117T215550Z
 DTSTART:20260117T210947Z
 SUMMARY:Round of 16 match 3: Keyd vs GH
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323608@tournamentics
@@ -19,14 +19,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T221500Z
-SUMMARY:Quarterfinal match 1: MIBR vs TBD
+SUMMARY:Quarterfinal match 1: MIBR vs SHIN
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260117T221500Z
-SUMMARY:Quarterfinal match 2: TBD vs TBD
+SUMMARY:Quarterfinal match 2: GH vs TBD
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -37,16 +37,16 @@ SUMMARY:Round of 16 match 6: GLS vs PCY
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323611@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nResult: ShindeN: 1 | Fake do Biru: 0\nStream: https://www.twitch.tv/Trottah
+DTEND:20260117T215701Z
 DTSTART:20260117T210247Z
 SUMMARY:Round of 16 match 2: SHIN vs FDB
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/clutchzonetv2
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/clutchzonetv2
 DURATION:PT2H
-DTSTART:20260117T214500Z
+DTSTART:20260117T215341Z
 SUMMARY:Round of 16 match 4: ODK vs descalco na neve
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323620@tournamentics
 END:VEVENT
