@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260122T090000Z
-SUMMARY:Elimination Match: TBD vs TBD
+SUMMARY:Elimination Match: FORZE.R vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -222,12 +222,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260122T113000Z
-SUMMARY:Winners Match: TBD vs TBD
+SUMMARY:Winners Match: MSC vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: FORZE Reload: 0 | MASONIC: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260118T111144Z
 DTSTART:20260118T091120Z
 SUMMARY:FORZE.R vs MSC
 UID:cs-go-european-pro-league-series-4-2026-1306421@tournamentics
