@@ -1138,7 +1138,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260118T133000Z
+DTSTART:20260118T125500Z
 SUMMARY:Round of 16 match 6: ICE vs TS
 UID:cs-go-blast-bounty-winter-2026-1314694@tournamentics
 END:VEVENT
@@ -1528,8 +1528,8 @@ SUMMARY:Round of 16 match 5: LGC vs BCG
 UID:cs-go-iem-krakow-2026-1324060@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | Astralis: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260118T123746Z
 DTSTART:20260118T110112Z
 SUMMARY:Round of 16 match 5: PRV vs AST
 UID:cs-go-blast-bounty-winter-2026-1314693@tournamentics
