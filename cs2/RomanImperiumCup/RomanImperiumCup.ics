@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260118T173000Z
-SUMMARY:Grand final: BCA vs TBD
+SUMMARY:Grand final: BCA vs BIG
 UID:cs-go-roman-imperium-cup-4-2026-1315535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +128,8 @@ SUMMARY:IGW vs MANA
 UID:cs-go-roman-imperium-cup-4-2026-1315206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: BIG: 2 | Rebels Gaming: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260118T165800Z
 DTSTART:20260118T151828Z
 SUMMARY:Semifinal 2: BIG vs RBLS
 UID:cs-go-roman-imperium-cup-4-2026-1315534@tournamentics
