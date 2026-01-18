@@ -1206,9 +1206,9 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260118T091000Z
+DTSTART:20260118T091048Z
 SUMMARY:Lower bracket round 1 match 1: Midnight vs PRE
 UID:cs-go-united21-43-2026-1322450@tournamentics
 END:VEVENT
@@ -1967,6 +1967,13 @@ DURATION:PT2H
 DTSTART:20260119T093000Z
 SUMMARY:ECF vs rottweilers
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324182@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Grindas: 0 | QWENTRY: 1\nStream: No official stream linked
+DTEND:20260116T220000Z
+DTSTART:20260116T212500Z
+SUMMARY:Round of 32 match 7: GRIND vs QWE
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | Bebop: 0\nStream: https://kick.com/cct_cs
@@ -3467,9 +3474,9 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315191@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260118T091000Z
+DTSTART:20260118T090925Z
 SUMMARY:Round 1: 1WIN vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313516@tournamentics
 END:VEVENT
@@ -4111,9 +4118,9 @@ SUMMARY:TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260118T090000Z
+DTSTART:20260118T091120Z
 SUMMARY:FORZE.R vs MSC
 UID:cs-go-european-pro-league-series-4-2026-1306421@tournamentics
 END:VEVENT
@@ -4153,9 +4160,9 @@ SUMMARY:Round of 32 match 1: KOL vs ALLIN
 UID:cs-go-iem-rio-global-open-qualifier-2026-1324889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260118T090000Z
+DTSTART:20260118T090837Z
 SUMMARY:Elimination match: hindsight vs PGE
 UID:cs-go-nodwin-clutch-series-4-2026-1314669@tournamentics
 END:VEVENT
@@ -4662,6 +4669,13 @@ DURATION:PT2H
 DTSTART:20260127T120000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313484@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Sinners: 0 | Team Nemesis: 1\nStream: No official stream linked
+DTEND:20260116T215500Z
+DTSTART:20260116T212500Z
+SUMMARY:Round of 32 match 13: SIN vs NEM
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324900@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Astralis: 2 | fnatic: 1\nStream: https://www.twitch.tv/BLASTPremier

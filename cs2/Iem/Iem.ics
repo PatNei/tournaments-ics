@@ -345,6 +345,13 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Grindas: 0 | QWENTRY: 1\nStream: No official stream linked
+DTEND:20260116T220000Z
+DTSTART:20260116T212500Z
+SUMMARY:Round of 32 match 7: GRIND vs QWE
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324894@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Sangal: 1 | Strael-Bora: 0\nStream: No official stream linked
 DTEND:20260116T215000Z
 DTSTART:20260116T211000Z
@@ -532,6 +539,13 @@ DTEND:20260116T220000Z
 DTSTART:20260116T212000Z
 SUMMARY:Round of 32 match 16: AM vs Leo
 UID:cs-go-iem-rio-global-open-qualifier-2026-1324903@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Sinners: 0 | Team Nemesis: 1\nStream: No official stream linked
+DTEND:20260116T215500Z
+DTSTART:20260116T212500Z
+SUMMARY:Round of 32 match 13: SIN vs NEM
+UID:cs-go-iem-rio-global-open-qualifier-2026-1324900@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | RUSTEC: 0\nStream: No official stream linked
