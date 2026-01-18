@@ -271,7 +271,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260119T120000Z
-SUMMARY:Decider match: PGE vs TBD
+SUMMARY:Decider match: PGE vs LK
 UID:cs-go-nodwin-clutch-series-4-2026-1314671@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -303,8 +303,8 @@ SUMMARY:Winners match: ARC vs BMB
 UID:cs-go-nodwin-clutch-series-4-2026-1314664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: los kogutos: 0 | Brute: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260118T135045Z
 DTSTART:20260118T120304Z
 SUMMARY:Winners match: LK vs BRUTE
 UID:cs-go-nodwin-clutch-series-4-2026-1314670@tournamentics
