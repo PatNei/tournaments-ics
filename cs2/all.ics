@@ -2165,7 +2165,7 @@ SUMMARY:JS vs PRE
 UID:cs-go-playr-masters-1-2026-1318745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/havugaming
 DURATION:PT2H
 DTSTART:20260119T160000Z
 SUMMARY:HAVU vs AM
@@ -2235,8 +2235,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326434@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: PCIFIC: 1 | JUMBO TEAM: 2\nStream: https://kick.com/exort_en2
+DTEND:20260119T160703Z
 DTSTART:20260119T134046Z
 SUMMARY:Round 4: PCF vs JUMBO
 UID:cs-go-exort-series-21-2026-1325322@tournamentics
@@ -5266,7 +5266,7 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313484@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dethoolm
 DURATION:PT2H
 DTSTART:20260119T160000Z
 SUMMARY:Round 1: MSC vs XI
