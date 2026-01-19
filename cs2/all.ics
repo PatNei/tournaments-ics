@@ -1041,7 +1041,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260123T113000Z
-SUMMARY:Winners Match: TBD vs TBD
+SUMMARY:Winners Match: japczany vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1447,7 +1447,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260123T090000Z
-SUMMARY:Elimination Match: TBD vs TBD
+SUMMARY:Elimination Match: DUNDU vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2282,13 +2282,6 @@ DTEND:20260111T104950Z
 DTSTART:20260111T090704Z
 SUMMARY:Upper bracket final: SNG vs NAVI.J
 UID:cs-go-united21-43-2026-1308218@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260119T091500Z
-SUMMARY:japczany vs DUNDU
-UID:cs-go-european-pro-league-series-4-2026-1306426@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: hindsight: 0 | QUAZAR: 1\nStream: https://www.twitch.tv/goyarego
