@@ -436,8 +436,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324186@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 0 | ex-RUBY: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260119T131124Z
 DTSTART:20260119T113815Z
 SUMMARY:Winners Match: MZP vs ex-RUBY
 UID:cs-go-european-pro-league-series-4-2026-1306419@tournamentics
@@ -2319,9 +2319,9 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322383@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/soggebrua
 DURATION:PT2H
-DTSTART:20260119T130000Z
+DTSTART:20260119T131510Z
 SUMMARY:URSA vs WTRML0N
 UID:cs-go-esea-advanced-europe-56-2026-1324885@tournamentics
 END:VEVENT
@@ -5122,7 +5122,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260126T090000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: MZP vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306420@tournamentics
 END:VEVENT
 BEGIN:VEVENT
