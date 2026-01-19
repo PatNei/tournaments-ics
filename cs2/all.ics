@@ -2739,6 +2739,13 @@ SUMMARY:Lower bracket final: LGC vs MIBR
 UID:cs-go-betboom-rush-b-summit-2026-1317687@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260120T150000Z
+SUMMARY:HAVU vs RUST
+UID:cs-go-esea-advanced-europe-56-2026-1327443@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | FC Famalicão Esports: 0\nStream: https://www.twitch.tv/rmncs
 DTEND:20260117T123800Z
 DTSTART:20260117T110648Z
@@ -2944,7 +2951,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260121T110000Z
+DTSTART:20260120T130000Z
 SUMMARY:BW vs AM
 UID:cs-go-esea-advanced-europe-56-2026-1319917@tournamentics
 END:VEVENT
