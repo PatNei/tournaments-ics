@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T130000Z
-SUMMARY:Upper bracket round 1 match 5: TBD vs TBD
+SUMMARY:Upper bracket round 1 match 5: BB vs G1
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310807@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -275,9 +275,9 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T191714Z
 SUMMARY:hindsight vs megoshort
 UID:cs-go-esea-advanced-europe-56-2026-1326104@tournamentics
 END:VEVENT
@@ -520,9 +520,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lzrcats
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lzrcats
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T191430Z
 SUMMARY:LC vs EPG Family
 UID:cs-go-esea-advanced-europe-56-2026-1326115@tournamentics
 END:VEVENT
@@ -579,7 +579,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T100000Z
-SUMMARY:Upper bracket round 1 match 4: TBD vs TBD
+SUMMARY:Upper bracket round 1 match 4: NTR vs M8
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310806@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -963,7 +963,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/michu
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T191500Z
 SUMMARY:DEPO vs OLDBOYS-
 UID:cs-go-esea-advanced-europe-56-2026-1326114@tournamentics
 END:VEVENT
@@ -1020,7 +1020,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T100000Z
-SUMMARY:Upper bracket round 1 match 3: TBD vs TBD
+SUMMARY:Upper bracket round 1 match 3: HOTU vs SNG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310805@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1402,9 +1402,9 @@ SUMMARY:Round 2: EF vs ACE
 UID:cs-go-a1-gaming-league-11-2026-1313571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/unityesportseu
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/unityesportseu
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T191435Z
 SUMMARY:OldBoys vs UNiTY
 UID:cs-go-esea-advanced-europe-56-2026-1326113@tournamentics
 END:VEVENT
@@ -1461,7 +1461,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T100000Z
-SUMMARY:Upper bracket round 1 match 2: TBD vs TBD
+SUMMARY:Upper bracket round 1 match 2: FUT vs BIG.A
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310804@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1787,8 +1787,8 @@ SUMMARY:MZP vs BBP
 UID:cs-go-european-pro-league-series-4-2026-1306416@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Team PeeP: 1 | VP.Future: 2\nStream: https://kick.com/exort_en2
+DTEND:20260119T191351Z
 DTSTART:20260119T163712Z
 SUMMARY:Round 4: PEEP vs VP.F
 UID:cs-go-exort-series-21-2026-1325323@tournamentics
@@ -1888,7 +1888,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T100000Z
-SUMMARY:Upper bracket round 1 match 1: TBD vs TBD
+SUMMARY:Upper bracket round 1 match 1: 9INE vs K27
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310803@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2291,9 +2291,9 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313503@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/baks_esports
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/baks_esports
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T192159Z
 SUMMARY:FUT.A vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1326111@tournamentics
 END:VEVENT
@@ -2760,9 +2760,9 @@ SUMMARY:Quarterfinal 1: MOUZ.N vs FCF
 UID:cs-go-roman-imperium-cup-4-2026-1315529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gsancher
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gsancher
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T192154Z
 SUMMARY:WTRML0N vs MSC
 UID:cs-go-esea-advanced-europe-56-2026-1326110@tournamentics
 END:VEVENT
@@ -3383,9 +3383,9 @@ SUMMARY:Upper bracket quarterfinal 1: MSC vs Midnight
 UID:cs-go-united21-43-2026-1322446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T191716Z
 SUMMARY:ZOTIX vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1326109@tournamentics
 END:VEVENT
@@ -4279,9 +4279,9 @@ SUMMARY:Round of 16 match 8: BHE vs FA
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T192333Z
 SUMMARY:ChickenBurger vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1326107@tournamentics
 END:VEVENT
@@ -4534,7 +4534,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T130000Z
-SUMMARY:Upper bracket round 1 match 7: TBD vs TBD
+SUMMARY:Upper bracket round 1 match 7: KOL vs FNC
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310809@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4720,9 +4720,9 @@ SUMMARY:Round of 16 match 3: Keyd vs GH
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/frankfurtertyp
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/frankfurtertyp
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T192152Z
 SUMMARY:LFO YinYang vs BIG.E
 UID:cs-go-esea-advanced-europe-56-2026-1326106@tournamentics
 END:VEVENT
@@ -5189,9 +5189,9 @@ SUMMARY:Round of 16 match 2: SHIN vs FDB
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tncesport
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tncesport
 DURATION:PT2H
-DTSTART:20260119T190000Z
+DTSTART:20260119T192148Z
 SUMMARY:HASP vs TNC
 UID:cs-go-esea-advanced-europe-56-2026-1326105@tournamentics
 END:VEVENT
