@@ -1101,18 +1101,18 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260123T130000Z
-SUMMARY:JS vs SFE
-UID:cs-go-united21-x-esplay-challenge-1-2025-1313997@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260123T113000Z
 SUMMARY:Winners Match: japczany vs Fingers
 UID:cs-go-european-pro-league-series-4-2026-1306429@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260123T130000Z
+SUMMARY:JS vs SFE
+UID:cs-go-united21-x-esplay-challenge-1-2025-1313997@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: Universe: 0 | STATE: 2\nStream: https://kick.com/eplcs_en
@@ -1542,13 +1542,6 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260123T110000Z
-SUMMARY:LILMIX vs LuleFlames
-UID:cs-go-united21-x-esplay-challenge-1-2025-1313996@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260123T090000Z
@@ -1561,6 +1554,13 @@ DTEND:20260115T172252Z
 DTSTART:20260115T145638Z
 SUMMARY:Decider match: IGW vs MANA
 UID:cs-go-roman-imperium-cup-4-2026-1315209@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260123T110000Z
+SUMMARY:LILMIX vs LuleFlames
+UID:cs-go-united21-x-esplay-challenge-1-2025-1313996@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: Bebop: 2 | los kogutos: 0\nStream: https://kick.com/eplcs_en
@@ -1976,11 +1976,11 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260123T100000Z
-SUMMARY:BIG vs LuleFlames
-UID:cs-go-united21-x-esplay-challenge-1-2025-1313995@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | Fingers Crossed: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260119T154402Z
+DTSTART:20260119T140544Z
+SUMMARY:UNiTY vs Fingers
+UID:cs-go-european-pro-league-series-4-2026-1306427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1990,11 +1990,11 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | Fingers Crossed: 2\nStream: https://kick.com/eplcs_en
-DTEND:20260119T154402Z
-DTSTART:20260119T140544Z
-SUMMARY:UNiTY vs Fingers
-UID:cs-go-european-pro-league-series-4-2026-1306427@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260122T183000Z
+SUMMARY:RED.A vs Charrados
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1327668@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2002,6 +2002,13 @@ DURATION:PT2H
 DTSTART:20260130T190000Z
 SUMMARY:FS vs SS
 UID:cs-go-esea-advanced-europe-56-2026-1317218@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260123T100000Z
+SUMMARY:BIG vs LuleFlames
+UID:cs-go-united21-x-esplay-challenge-1-2025-1313995@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: WOPA Esport: 0 | los kogutos: 2\nStream: https://kick.com/eplcs_en
@@ -2466,13 +2473,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326445@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260123T090000Z
-SUMMARY:BIG vs LILMIX
-UID:cs-go-united21-x-esplay-challenge-1-2025-1313994@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | NAVI Junior: 2\nStream: https://kick.com/united21_en
 DTEND:20260111T104950Z
 DTSTART:20260111T090704Z
@@ -2480,11 +2480,25 @@ SUMMARY:Upper bracket final: SNG vs NAVI.J
 UID:cs-go-united21-43-2026-1308218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260122T210000Z
+SUMMARY:MIBR.A vs VEXA
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1327667@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: hindsight: 0 | QUAZAR: 1\nStream: https://www.twitch.tv/goyarego
 DTEND:20260112T194244Z
 DTSTART:20260112T191058Z
 SUMMARY:hindsight vs QUA
 UID:cs-go-esea-advanced-europe-56-2026-1317217@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260123T090000Z
+SUMMARY:BIG vs LILMIX
+UID:cs-go-united21-x-esplay-challenge-1-2025-1313994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -2919,6 +2933,13 @@ DURATION:PT2H
 DTSTART:20260129T123000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326444@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260120T210000Z
+SUMMARY:GE vs paiN.A
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1327666@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
