@@ -2293,7 +2293,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dranzart1
 DURATION:PT2H
-DTSTART:20260120T160000Z
+DTSTART:20260120T161000Z
 SUMMARY:WTRML0N vs TS.A
 UID:cs-go-esea-advanced-europe-56-2026-1327444@tournamentics
 END:VEVENT
@@ -4044,7 +4044,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260124T113000Z
-SUMMARY:Winners Match: MOUZ.N vs TBD
+SUMMARY:Winners Match: MOUZ.N vs MGC
 UID:cs-go-european-pro-league-series-4-2026-1306434@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4436,7 +4436,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260124T090000Z
-SUMMARY:Elimination Match: BMB vs TBD
+SUMMARY:Elimination Match: BMB vs MANA
 UID:cs-go-european-pro-league-series-4-2026-1306433@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4860,8 +4860,8 @@ SUMMARY:Elimination match: LA MASIA vs ASC
 UID:cs-go-roman-imperium-cup-4-2026-1315213@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: magic: 2 | MANA eSports: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260120T160326Z
 DTSTART:20260120T140914Z
 SUMMARY:MGC vs MANA
 UID:cs-go-european-pro-league-series-4-2026-1306432@tournamentics
