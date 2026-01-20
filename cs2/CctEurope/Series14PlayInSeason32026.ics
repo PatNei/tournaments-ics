@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260123T093000Z
-SUMMARY:Decider match: rottweilers vs TBD
+SUMMARY:Decider match: rottweilers vs BW
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324186@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:MOUZ.N vs LK
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324192@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: kONO.ECF: 2 | Bushido Wildcats: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260120T184252Z
 DTSTART:20260120T153819Z
 SUMMARY:Winners match: ECF vs BW
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324185@tournamentics
