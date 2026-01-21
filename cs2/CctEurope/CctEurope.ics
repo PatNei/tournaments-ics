@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260122T153000Z
-SUMMARY:Winners match: LK vs TBD
+SUMMARY:Winners match: LK vs ILWL
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -324,8 +324,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313540@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
+DTEND:20260121T145447Z
 DTSTART:20260121T120440Z
 SUMMARY:Round 2: NEMI vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313529@tournamentics
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260122T093000Z
-SUMMARY:Elimination match: MOUZ.N vs TBD
+SUMMARY:Elimination match: MOUZ.N vs ALLIN
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -765,8 +765,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: ALLINNERS: 0 | illwill: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260121T145610Z
 DTSTART:20260121T131117Z
 SUMMARY:ALLIN vs ILWL
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324193@tournamentics
