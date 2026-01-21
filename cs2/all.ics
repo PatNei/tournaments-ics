@@ -3617,7 +3617,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T160000Z
-SUMMARY:Lower bracket round 1 match 1: K27 vs FUT
+SUMMARY:Lower bracket round 1 match 1: FUT vs K27
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310811@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5189,9 +5189,9 @@ SUMMARY:BMB vs ILWL
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312250@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260121T150500Z
+DTSTART:20260121T151309Z
 SUMMARY:Upper bracket round 1 match 6: EYE vs NEM
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310808@tournamentics
 END:VEVENT
