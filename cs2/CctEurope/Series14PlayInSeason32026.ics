@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260121T123000Z
+DTSTART:20260121T130000Z
 SUMMARY:ALLIN vs ILWL
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324193@tournamentics
 END:VEVENT
@@ -75,12 +75,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260122T153000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: LK vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | los kogutos: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260121T125206Z
 DTSTART:20260121T094230Z
 SUMMARY:MOUZ.N vs LK
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324192@tournamentics
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260122T093000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MOUZ.N vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324194@tournamentics
 END:VEVENT
 BEGIN:VEVENT

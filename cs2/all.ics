@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/croissantstrike
 DURATION:PT2H
-DTSTART:20260121T130000Z
+DTSTART:20260121T140000Z
 SUMMARY:Upper bracket round 1 match 5: BB vs G1
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310807@tournamentics
 END:VEVENT
@@ -144,7 +144,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast2
 DURATION:PT2H
-DTSTART:20260121T123000Z
+DTSTART:20260121T130000Z
 SUMMARY:FDB vs YAW
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322261@tournamentics
 END:VEVENT
@@ -683,7 +683,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
 DURATION:PT2H
-DTSTART:20260121T123000Z
+DTSTART:20260121T130000Z
 SUMMARY:FX vs naocopulas
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322260@tournamentics
 END:VEVENT
@@ -1594,7 +1594,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260122T153000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: LK vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2042,7 +2042,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260122T093000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MOUZ.N vs TBD
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2545,7 +2545,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260121T123000Z
+DTSTART:20260121T130000Z
 SUMMARY:ALLIN vs ILWL
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324193@tournamentics
 END:VEVENT
@@ -3026,8 +3026,8 @@ SUMMARY:IGW vs MANA
 UID:cs-go-roman-imperium-cup-4-2026-1315206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | los kogutos: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260121T125206Z
 DTSTART:20260121T094230Z
 SUMMARY:MOUZ.N vs LK
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324192@tournamentics
@@ -4120,7 +4120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/trottah
 DURATION:PT2H
-DTSTART:20260121T130000Z
+DTSTART:20260121T133000Z
 SUMMARY:Upper bracket round 1 match 8: URSA vs BCG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310810@tournamentics
 END:VEVENT
@@ -4736,7 +4736,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
-DTSTART:20260121T130000Z
+DTSTART:20260121T133000Z
 SUMMARY:Upper bracket round 1 match 7: KOL vs FNC
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310809@tournamentics
 END:VEVENT
@@ -5198,7 +5198,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260121T130000Z
+DTSTART:20260121T140000Z
 SUMMARY:Upper bracket round 1 match 6: EYE vs NEM
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310808@tournamentics
 END:VEVENT
