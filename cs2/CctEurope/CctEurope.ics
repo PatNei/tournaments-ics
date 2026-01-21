@@ -23,27 +23,6 @@ SUMMARY:Round 1: NEMI vs G1
 UID:cs-go-cct-europe-series-13-3-2026-1313521@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | illwill: 0\nStream: https://kick.com/cct_cs
-DTEND:20260115T204956Z
-DTSTART:20260115T180338Z
-SUMMARY:Winners match: UNiTY vs ILWL
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312252@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Acend: 1 | Bebop: 2\nStream: https://kick.com/cct_cs
-DTEND:20260116T114557Z
-DTSTART:20260116T090043Z
-SUMMARY:Decider match: ACE vs BBP
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312238@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | Bebop: 2\nStream: https://kick.com/cct_cs
-DTEND:20260112T153207Z
-DTSTART:20260112T123647Z
-SUMMARY:BW vs BBP
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312235@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260204T153000Z
@@ -205,27 +184,6 @@ SUMMARY:Round 1: ORM vs PHA
 UID:cs-go-cct-europe-series-13-3-2026-1313518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | petardka: 1\nStream: https://kick.com/cct_cs
-DTEND:20260114T175415Z
-DTSTART:20260114T150357Z
-SUMMARY:UNiTY vs petardka
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312249@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | MASONIC: 1\nStream: https://kick.com/cct_cs
-DTEND:20260116T151957Z
-DTSTART:20260116T120904Z
-SUMMARY:Decider match: LK vs MSC
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312243@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: ALLINNERS: 0 | MASONIC: 2\nStream: https://kick.com/cct_cs
-DTEND:20260112T203800Z
-DTSTART:20260112T185214Z
-SUMMARY:ALLIN vs MSC
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312240@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260127T093000Z
@@ -350,20 +308,6 @@ DTEND:20260119T112818Z
 DTSTART:20260119T090248Z
 SUMMARY:Round 1: NTR vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313520@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Ursa: 2 | Bebop: 1\nStream: https://kick.com/cct_cs
-DTEND:20260113T175453Z
-DTSTART:20260113T152011Z
-SUMMARY:Winners match: URSA vs BBP
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312237@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Acend: 1 | Ursa: 2\nStream: https://kick.com/cct_cs
-DTEND:20260112T121611Z
-DTSTART:20260112T091040Z
-SUMMARY:ACE vs URSA
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312234@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -499,9 +443,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260121T180000Z
+DTSTART:20260121T180128Z
 SUMMARY:Round 2: AM vs ILWL
 UID:cs-go-cct-europe-series-13-3-2026-1313531@tournamentics
 END:VEVENT
@@ -511,27 +455,6 @@ DTEND:20260118T142556Z
 DTSTART:20260118T120733Z
 SUMMARY:Round 1: SNG vs ILWL
 UID:cs-go-cct-europe-series-13-3-2026-1313517@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | MINLATE: 1\nStream: https://kick.com/cct_cs
-DTEND:20260116T182224Z
-DTSTART:20260116T154653Z
-SUMMARY:Decider match: ARC vs MINLATE
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312248@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | MINLATE: 0\nStream: https://kick.com/cct_cs
-DTEND:20260114T141615Z
-DTSTART:20260114T123055Z
-SUMMARY:ARC vs MINLATE
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312245@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | MASONIC: 0\nStream: https://kick.com/cct_cs
-DTEND:20260113T193700Z
-DTSTART:20260113T181302Z
-SUMMARY:Winners match: EF vs MSC
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312242@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -653,39 +576,11 @@ SUMMARY:Round 1: 33 vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: petardka: 0 | illwill: 2\nStream: https://kick.com/cct_cs
-DTEND:20260116T204630Z
-DTSTART:20260116T184336Z
-SUMMARY:Decider match: petardka vs ILWL
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312253@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | illwill: 2\nStream: https://kick.com/cct_cs
-DTEND:20260114T210832Z
-DTSTART:20260114T182335Z
-SUMMARY:BMB vs ILWL
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312250@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | los kogutos: 1\nStream: https://kick.com/cct_cs
-DTEND:20260112T183234Z
-DTSTART:20260112T155138Z
-SUMMARY:EF vs LK
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312239@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260204T183000Z
 SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326485@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Acend: 2 | Bushido Wildcats: 1\nStream: https://kick.com/cct_cs
-DTEND:20260113T120508Z
-DTSTART:20260113T091645Z
-SUMMARY:Elimination match: ACE vs BW
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -793,13 +688,6 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: Eternal Fire: 0 | ARCRED: 2\nStream: https://kick.com/cct_cs
-DTEND:20260117T111859Z
-DTSTART:20260117T090305Z
-SUMMARY:EF vs ARC
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312287@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260205T153000Z
@@ -875,27 +763,6 @@ DTEND:20260118T112130Z
 DTSTART:20260118T090925Z
 SUMMARY:Round 1: 1WIN vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313516@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | ARCRED: 0\nStream: https://kick.com/cct_cs
-DTEND:20260115T171625Z
-DTSTART:20260115T150433Z
-SUMMARY:Winners match: FORZE.R vs ARC
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312247@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | STATE: 1\nStream: https://kick.com/cct_cs
-DTEND:20260114T121254Z
-DTSTART:20260114T090437Z
-SUMMARY:FORZE.R vs STA
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312244@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #13 season 3 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | ALLINNERS: 1\nStream: https://kick.com/cct_cs
-DTEND:20260113T150202Z
-DTSTART:20260113T122606Z
-SUMMARY:Elimination match: LK vs ALLIN
-UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
