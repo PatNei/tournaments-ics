@@ -264,7 +264,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260122T180000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: AM vs 1WIN
 UID:cs-go-cct-europe-series-13-3-2026-1313535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1643,7 +1643,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260123T090000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: NTR vs ORM
 UID:cs-go-cct-europe-series-13-3-2026-1313532@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2088,8 +2088,8 @@ SUMMARY:Round 1: 3DMAX.A vs PCF
 UID:cs-go-exort-series-21-2026-1317358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
+DTEND:20260121T205245Z
 DTSTART:20260121T193735Z
 SUMMARY:Round 1: AUR.YB vs Y.TigeRES
 UID:cs-go-exort-series-21-2026-1328919@tournamentics
@@ -4002,7 +4002,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260123T180000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: ex-RUBY vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313539@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4422,7 +4422,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260123T150000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: 33 vs ILWL
 UID:cs-go-cct-europe-series-13-3-2026-1313538@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4877,7 +4877,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260123T120000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: SNG vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313537@tournamentics
 END:VEVENT
 BEGIN:VEVENT
