@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260122T090000Z
-SUMMARY:Lower bracket final: MSC vs TBD
+SUMMARY:Lower bracket final: MSC vs PRE
 UID:cs-go-united21-43-2026-1322458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -189,13 +189,6 @@ DURATION:PT2H
 DTSTART:20260122T113000Z
 SUMMARY:Grand final: TD vs TBD
 UID:cs-go-united21-43-2026-1322459@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260121T113000Z
-SUMMARY:Lower bracket semifinal: PRE vs BIG.A
-UID:cs-go-united21-43-2026-1322456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: FUT Academy: 0 | Truck Drivers: 2\nStream: https://kick.com/united21_en

@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/croissantstrike
 DURATION:PT2H
-DTSTART:20260121T140000Z
+DTSTART:20260121T150000Z
 SUMMARY:Upper bracket round 1 match 5: BB vs G1
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310807@tournamentics
 END:VEVENT
@@ -3323,7 +3323,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260122T090000Z
-SUMMARY:Lower bracket final: MSC vs TBD
+SUMMARY:Lower bracket final: MSC vs PRE
 UID:cs-go-united21-43-2026-1322458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4120,7 +4120,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/trottah
 DURATION:PT2H
-DTSTART:20260121T133000Z
+DTSTART:20260121T140000Z
 SUMMARY:Upper bracket round 1 match 8: URSA vs BCG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310810@tournamentics
 END:VEVENT
@@ -4256,13 +4256,6 @@ DTEND:20260118T135045Z
 DTSTART:20260118T120304Z
 SUMMARY:Winners match: LK vs BRUTE
 UID:cs-go-nodwin-clutch-series-4-2026-1314670@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260121T113000Z
-SUMMARY:Lower bracket semifinal: PRE vs BIG.A
-UID:cs-go-united21-43-2026-1322456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
@@ -4736,7 +4729,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
-DTSTART:20260121T133000Z
+DTSTART:20260121T140000Z
 SUMMARY:Upper bracket round 1 match 7: KOL vs FNC
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310809@tournamentics
 END:VEVENT
@@ -5198,7 +5191,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260121T140000Z
+DTSTART:20260121T150000Z
 SUMMARY:Upper bracket round 1 match 6: EYE vs NEM
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310808@tournamentics
 END:VEVENT
