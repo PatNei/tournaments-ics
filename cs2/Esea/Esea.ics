@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OldBoys: 0 | aimclub: 1\nStream: No official stream linked
+DTEND:20260121T194757Z
 DTSTART:20260121T191808Z
 SUMMARY:OldBoys vs aimclub
 UID:cs-go-esea-advanced-europe-56-2026-1328942@tournamentics
@@ -37,8 +37,8 @@ SUMMARY:ZOTIX vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1326109@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tncesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: TNC: 0 | megoshort: 1\nStream: https://www.twitch.tv/tncesport
+DTEND:20260121T194629Z
 DTSTART:20260121T191052Z
 SUMMARY:TNC vs megoshort
 UID:cs-go-esea-advanced-europe-56-2026-1328935@tournamentics
@@ -163,8 +163,8 @@ SUMMARY:XPE vs SS
 UID:cs-go-esea-advanced-europe-56-2026-1319922@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rallencs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OLDBOYS-: 1 | kONO.ECF: 0\nStream: https://www.twitch.tv/rallencs2
+DTEND:20260121T195056Z
 DTSTART:20260121T191549Z
 SUMMARY:OLDBOYS- vs ECF
 UID:cs-go-esea-advanced-europe-56-2026-1328944@tournamentics
@@ -212,8 +212,8 @@ SUMMARY:PGE vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1319918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/brute_gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Brute: 1 | ZOTIX: 0\nStream: https://www.twitch.tv/brute_gg
+DTEND:20260121T194556Z
 DTSTART:20260121T191804Z
 SUMMARY:BRUTE vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1328934@tournamentics
@@ -331,8 +331,8 @@ SUMMARY:WTRML0N vs TS.A
 UID:cs-go-esea-advanced-europe-56-2026-1327444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/peepcs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Team PeeP: 0\nStream: https://www.twitch.tv/peepcs2
+DTEND:20260121T194714Z
 DTSTART:20260121T191321Z
 SUMMARY:ex-GANK Esports vs PEEP
 UID:cs-go-esea-advanced-europe-56-2026-1328939@tournamentics

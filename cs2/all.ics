@@ -744,8 +744,8 @@ SUMMARY:Semifinal 1: MOUZ.N vs BCA
 UID:cs-go-roman-imperium-cup-4-2026-1315533@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OldBoys: 0 | aimclub: 1\nStream: No official stream linked
+DTEND:20260121T194757Z
 DTSTART:20260121T191808Z
 SUMMARY:OldBoys vs aimclub
 UID:cs-go-esea-advanced-europe-56-2026-1328942@tournamentics
@@ -844,7 +844,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/r_nicolino
 DURATION:PT2H
-DTSTART:20260121T190000Z
+DTSTART:20260121T200000Z
 SUMMARY:SHK vs METANOIAGG
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322352@tournamentics
 END:VEVENT
@@ -1237,7 +1237,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260122T130000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: NTR vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310816@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2144,8 +2144,8 @@ SUMMARY:Quarterfinal 2: BCA vs MINLATE
 UID:cs-go-roman-imperium-cup-4-2026-1315530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | illwill: 2\nStream: https://kick.com/cct_cs
+DTEND:20260121T195228Z
 DTSTART:20260121T180128Z
 SUMMARY:Round 2: AM vs ILWL
 UID:cs-go-cct-europe-series-13-3-2026-1313531@tournamentics
@@ -2189,7 +2189,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T195000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs BCG
+SUMMARY:Lower bracket round 1 match 4: NEM vs BCG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310814@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2216,7 +2216,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kabrafps
 DURATION:PT2H
-DTSTART:20260121T190000Z
+DTSTART:20260121T200000Z
 SUMMARY:GLS vs GH
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322372@tournamentics
 END:VEVENT
@@ -2368,8 +2368,8 @@ SUMMARY:WTRML0N vs TS.A
 UID:cs-go-esea-advanced-europe-56-2026-1327444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/peepcs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Team PeeP: 0\nStream: https://www.twitch.tv/peepcs2
+DTEND:20260121T194714Z
 DTSTART:20260121T191321Z
 SUMMARY:ex-GANK Esports vs PEEP
 UID:cs-go-esea-advanced-europe-56-2026-1328939@tournamentics
@@ -2440,8 +2440,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260121T190000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs URSA
+DTSTART:20260121T200000Z
+SUMMARY:Upper bracket quarterfinal 4: EYE vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2567,7 +2567,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T230000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: BST vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2935,9 +2935,9 @@ SUMMARY:Round 2: OXUJI vs WTRML0N
 UID:cs-go-exort-series-21-2026-1319965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260121T193000Z
+DTSTART:20260121T194422Z
 SUMMARY:Upper bracket quarterfinal 3: BB vs KOL
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310801@tournamentics
 END:VEVENT
@@ -3145,8 +3145,8 @@ SUMMARY:Semifinal 1: JS vs STA
 UID:cs-go-playr-masters-1-2026-1318766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | Sangal: 1\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260121T195151Z
 DTSTART:20260121T171413Z
 SUMMARY:Lower bracket round 1 match 2: NTR vs SNG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310812@tournamentics
@@ -3274,7 +3274,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T230000Z
-SUMMARY:Upper bracket semifinal 1: IMP vs BST
+SUMMARY:Upper bracket semifinal 1: IMP vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3722,7 +3722,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T200000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: ODK vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4204,8 +4204,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260121T200000Z
-SUMMARY:Lower bracket round 1 match 1: 9z vs ODK
+DTSTART:20260121T210000Z
+SUMMARY:Lower bracket round 1 match 1: 9z vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4272,8 +4272,8 @@ SUMMARY:Semifinal match 2: AUR.YB vs ENJOY
 UID:cs-go-premier-league-1-2026-1322466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tncesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: TNC: 0 | megoshort: 1\nStream: https://www.twitch.tv/tncesport
+DTEND:20260121T194629Z
 DTSTART:20260121T191052Z
 SUMMARY:TNC vs megoshort
 UID:cs-go-esea-advanced-europe-56-2026-1328935@tournamentics
@@ -4618,7 +4618,7 @@ BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T173259Z
-SUMMARY:Upper bracket quarterfinal 4: RED vs SHK
+SUMMARY:Upper bracket quarterfinal 2: RED vs SHK
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4692,8 +4692,8 @@ SUMMARY:Semifinal match 1: ChickenBurger vs WSG
 UID:cs-go-premier-league-1-2026-1322465@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/brute_gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Brute: 1 | ZOTIX: 0\nStream: https://www.twitch.tv/brute_gg
+DTEND:20260121T194556Z
 DTSTART:20260121T191804Z
 SUMMARY:BRUTE vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1328934@tournamentics
@@ -5066,7 +5066,7 @@ BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fedeadz
 DURATION:PT2H
 DTSTART:20260121T173114Z
-SUMMARY:Upper bracket quarterfinal 3: SHIN vs FX
+SUMMARY:Upper bracket quarterfinal 4: SHIN vs FX
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5168,8 +5168,8 @@ SUMMARY:BMB vs ILWL
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312250@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 2 | Team Nemesis: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260121T194528Z
 DTSTART:20260121T151309Z
 SUMMARY:Upper bracket round 1 match 7: EYE vs NEM
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310808@tournamentics
@@ -5378,8 +5378,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313536@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rallencs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OLDBOYS-: 1 | kONO.ECF: 0\nStream: https://www.twitch.tv/rallencs2
+DTEND:20260121T195056Z
 DTSTART:20260121T191549Z
 SUMMARY:OLDBOYS- vs ECF
 UID:cs-go-esea-advanced-europe-56-2026-1328944@tournamentics
@@ -5570,7 +5570,7 @@ BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | ODDIK: 0\nStream: https://www.twitch.tv/forg1
 DTEND:20260121T192550Z
 DTSTART:20260121T173253Z
-SUMMARY:Upper bracket quarterfinal 2: BST vs ODK
+SUMMARY:Upper bracket quarterfinal 3: BST vs ODK
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310734@tournamentics
 END:VEVENT
 BEGIN:VEVENT

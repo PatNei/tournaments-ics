@@ -51,9 +51,9 @@ SUMMARY:Upper bracket round 1 match 1: FUT vs BIG.A
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310804@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260121T193000Z
+DTSTART:20260121T194422Z
 SUMMARY:Upper bracket quarterfinal 3: BB vs KOL
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310801@tournamentics
 END:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Lower bracket round 2 match 1: FUT vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310815@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | Sangal: 1\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260121T195151Z
 DTSTART:20260121T171413Z
 SUMMARY:Lower bracket round 1 match 2: NTR vs SNG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310812@tournamentics
@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T230000Z
-SUMMARY:Upper bracket semifinal 1: IMP vs BST
+SUMMARY:Upper bracket semifinal 1: IMP vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T173259Z
-SUMMARY:Upper bracket quarterfinal 4: RED vs SHK
+SUMMARY:Upper bracket quarterfinal 2: RED vs SHK
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -327,7 +327,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T195000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs BCG
+SUMMARY:Lower bracket round 1 match 4: NEM vs BCG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310814@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T200000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: ODK vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -369,7 +369,7 @@ BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fedeadz
 DURATION:PT2H
 DTSTART:20260121T173114Z
-SUMMARY:Upper bracket quarterfinal 3: SHIN vs FX
+SUMMARY:Upper bracket quarterfinal 4: SHIN vs FX
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -429,8 +429,8 @@ SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310822@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 2 | Team Nemesis: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260121T194528Z
 DTSTART:20260121T151309Z
 SUMMARY:Upper bracket round 1 match 7: EYE vs NEM
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310808@tournamentics
@@ -445,8 +445,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260121T190000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs URSA
+DTSTART:20260121T200000Z
+SUMMARY:Upper bracket quarterfinal 4: EYE vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -488,7 +488,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T230000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: BST vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -537,7 +537,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260122T130000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: NTR vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310816@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -585,8 +585,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260121T200000Z
-SUMMARY:Lower bracket round 1 match 1: 9z vs ODK
+DTSTART:20260121T210000Z
+SUMMARY:Lower bracket round 1 match 1: 9z vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -600,7 +600,7 @@ BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | ODDIK: 0\nStream: https://www.twitch.tv/forg1
 DTEND:20260121T192550Z
 DTSTART:20260121T173253Z
-SUMMARY:Upper bracket quarterfinal 2: BST vs ODK
+SUMMARY:Upper bracket quarterfinal 3: BST vs ODK
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
