@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T160000Z
-SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 1: 9INE vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310795@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T160000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: K27 vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310811@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,9 +114,9 @@ SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310813@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
-DTSTART:20260121T142000Z
+DTSTART:20260121T142721Z
 SUMMARY:Upper bracket round 1 match 7: KOL vs FNC
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310809@tournamentics
 END:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Upper bracket round 1 match 4: NTR vs M8
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310806@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 2 | K27: 1\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260121T142733Z
 DTSTART:20260121T101245Z
 SUMMARY:Upper bracket round 1 match 1: 9INE vs K27
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310803@tournamentics
