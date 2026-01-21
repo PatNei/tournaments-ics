@@ -775,7 +775,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260122T130000Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 3: M8 vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310817@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3383,8 +3383,8 @@ SUMMARY:JS vs STA
 UID:cs-go-playr-masters-1-2026-1318754@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dmitry_lixxx
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: Gentle Mates: 0 | HOTU: 2\nStream: https://www.twitch.tv/dmitry_lixxx
+DTEND:20260121T214139Z
 DTSTART:20260121T193546Z
 SUMMARY:Upper bracket quarterfinal 2: M8 vs HOTU
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310800@tournamentics
@@ -5381,7 +5381,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260122T160000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: HOTU vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310819@tournamentics
 END:VEVENT
 BEGIN:VEVENT
