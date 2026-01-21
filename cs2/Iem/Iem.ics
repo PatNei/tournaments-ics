@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260122T130000Z
-SUMMARY:Lower bracket round 2 match 1: FUT vs TBD
+SUMMARY:Lower bracket round 2 match 1: FUT vs EYE
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310815@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260122T160000Z
-SUMMARY:Upper bracket semifinal 2: BB vs TBD
+SUMMARY:Upper bracket semifinal 2: BB vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310820@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -443,8 +443,8 @@ SUMMARY:Upper bracket round 1 match 3: HOTU vs SNG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310805@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 1 | Ursa: 2\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260121T234343Z
 DTSTART:20260121T202645Z
 SUMMARY:Upper bracket quarterfinal 4: EYE vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310802@tournamentics
@@ -487,7 +487,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260121T234500Z
+DTSTART:20260122T001500Z
 SUMMARY:Upper bracket semifinal 2: BST vs SHIN
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310740@tournamentics
 END:VEVENT
