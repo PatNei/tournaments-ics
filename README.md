@@ -10,6 +10,29 @@ Subscribe to every tournament at once:
 
 ---
 
+## S Tier
+
+<details>
+<summary>IEM</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
+```
+
+---
+
+### Krakow 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Krakow2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Krakow2026.ics
+```
+
+</details>
+
 ## A Tier
 
 <details>
@@ -59,6 +82,99 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Seri
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series14Season32026.ics
+```
+
+</details>
+
+## C Tier
+
+<details>
+<summary>BetBoom RUSH B!</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/BetboomRushB.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/BetboomRushB.ics
+```
+
+---
+
+### Summit 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/Summit2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/Summit2026.ics
+```
+
+</details>
+
+<details>
+<summary>CCT South America</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics
+```
+
+---
+
+### Series #7 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/Series7Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/Series7Season32026.ics
+```
+
+</details>
+
+<details>
+<summary>European Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
+```
+
+---
+
+### Series 4 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics
+```
+
+</details>
+
+<details>
+<summary>IEM</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
+```
+
+---
+
+### Rio: Americas Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics
+```
+
+### Rio: Global Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics
 ```
 
 </details>
@@ -157,6 +273,90 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Dust2DkLigaen/
 </details>
 
 <details>
+<summary>ESEA</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/Esea.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/Esea.ics
+```
+
+---
+
+### Advanced Europe season 56 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/AdvancedEuropeSeason562026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/AdvancedEuropeSeason562026.ics
+```
+
+</details>
+
+<details>
+<summary>European Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
+```
+
+---
+
+### Series 4 Play-In 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series4PlayIn2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series4PlayIn2026.ics
+```
+
+</details>
+
+<details>
+<summary>Exort Series</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortSeries/ExortSeries.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortSeries/ExortSeries.ics
+```
+
+---
+
+### Season 21 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortSeries/Season212026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortSeries/Season212026.ics
+```
+
+</details>
+
+<details>
+<summary>fl0m's Mythical LAN</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/Fl0mSMythicalLan.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/Fl0mSMythicalLan.ics
+```
+
+---
+
+### Las Vegas 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/LasVegas2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/LasVegas2026.ics
+```
+
+</details>
+
+<details>
 <summary>Gamers Club Liga Série A</summary>
 
 ### Full Schedule
@@ -227,6 +427,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSe
 </details>
 
 <details>
+<summary>PLAYR Masters</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/PlayrMasters.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/PlayrMasters.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/Season12026.ics
+```
+
+</details>
+
+<details>
 <summary>Premier League</summary>
 
 ### Full Schedule
@@ -243,6 +464,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/Season12026.ics
+```
+
+</details>
+
+<details>
+<summary>Roman Imperium Cup</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumCup/RomanImperiumCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumCup/RomanImperiumCup.ics
+```
+
+---
+
+### Season 4 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumCup/Season42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumCup/Season42026.ics
 ```
 
 </details>
@@ -285,6 +527,34 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEspla
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/Season12026.ics
+```
+
+</details>
+
+<details>
+<summary>Zhi-Tech Elite Masters</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ZhiTechEliteMasters.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ZhiTechEliteMasters.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/2026.ics
+```
+
+### Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ClosedQualifier2026.ics
 ```
 
 </details>
