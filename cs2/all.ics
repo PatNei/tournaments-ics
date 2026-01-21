@@ -2210,7 +2210,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T190000Z
-SUMMARY:Lower bracket round 1 match 4: FNC vs TBD
+SUMMARY:Lower bracket round 1 match 4: FNC vs BCG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310814@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2462,7 +2462,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260121T190000Z
-SUMMARY:Upper bracket quarterfinal 4: KOL vs TBD
+SUMMARY:Upper bracket quarterfinal 4: KOL vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4118,8 +4118,8 @@ SUMMARY:BBP vs STA
 UID:cs-go-nodwin-clutch-series-4-2026-1312258@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: Ursa: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/trottah
+DTEND:20260121T163937Z
 DTSTART:20260121T141159Z
 SUMMARY:Upper bracket round 1 match 8: URSA vs BCG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310810@tournamentics
@@ -4387,7 +4387,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260123T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FX vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5285,13 +5285,6 @@ DURATION:PT2H
 DTSTART:20260201T153000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326462@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tris_mara
-DURATION:PT2H
-DTSTART:20260121T163000Z
-SUMMARY:Winners match: FX vs FDB
-UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 2 | HyperSpirit: 0\nStream: https://www.twitch.tv/rmncs

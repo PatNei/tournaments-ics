@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tris_mara
-DURATION:PT2H
-DTSTART:20260121T163000Z
-SUMMARY:Winners match: FX vs FDB
-UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322262@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260125T150000Z
@@ -68,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260123T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FX vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
