@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T200000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: 9z vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T230000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: IMP vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -84,13 +84,6 @@ DURATION:PT2H
 DTSTART:20260121T173259Z
 SUMMARY:Upper bracket quarterfinal 4: RED vs SHK
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310736@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260121T173408Z
-SUMMARY:Upper bracket quarterfinal 1: IMP vs 9z
-UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310733@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS

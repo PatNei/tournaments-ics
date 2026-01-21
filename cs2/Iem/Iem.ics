@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T230000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: IMP vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -189,13 +189,6 @@ DTEND:20260116T215000Z
 DTSTART:20260116T211000Z
 SUMMARY:Round of 32 match 8: G1 vs ACE
 UID:cs-go-iem-rio-global-open-qualifier-2026-1324895@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260121T173408Z
-SUMMARY:Upper bracket quarterfinal 1: IMP vs 9z
-UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310733@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Open Qualifier 2026\nMatch Type: Best Of\nResult: 9z: 2 | Galorys: 0\nStream: https://kick.com/forg1
@@ -270,7 +263,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dmitry_lixxx
 DURATION:PT2H
-DTSTART:20260121T180000Z
+DTSTART:20260121T190000Z
 SUMMARY:Upper bracket quarterfinal 2: M8 vs HOTU
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310800@tournamentics
 END:VEVENT
@@ -473,7 +466,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/redcs
 DURATION:PT2H
-DTSTART:20260121T180000Z
+DTSTART:20260121T190000Z
 SUMMARY:Upper bracket quarterfinal 1: 9INE vs BIG.A
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310795@tournamentics
 END:VEVENT
@@ -593,7 +586,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260121T200000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: 9z vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
