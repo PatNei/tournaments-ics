@@ -268,8 +268,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/joshua_official
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | ALGO Esports: 1\nStream: https://www.twitch.tv/joshua_official
+DTEND:20260121T195714Z
 DTSTART:20260121T191544Z
 SUMMARY:UNiTY vs ALGO
 UID:cs-go-esea-advanced-europe-56-2026-1328943@tournamentics
@@ -1204,13 +1204,6 @@ DURATION:PT2H
 DTSTART:20260122T120000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-13-3-2026-1313533@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260121T193000Z
-SUMMARY:FUT.A vs FF
-UID:cs-go-esea-advanced-europe-56-2026-1328941@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit 2026\nMatch Type: Best Of\nResult: MIBR: 0 | Legacy: 2\nStream: https://www.twitch.tv/btsbrasiltv
@@ -2188,7 +2181,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260121T195000Z
+DTSTART:20260121T201000Z
 SUMMARY:Lower bracket round 1 match 4: NEM vs BCG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310814@tournamentics
 END:VEVENT
@@ -2287,7 +2280,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260123T180000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: PRV vs TS
 UID:cs-go-blast-bounty-winter-2026-1314739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2685,7 +2678,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260121T200000Z
+DTSTART:20260121T201000Z
 SUMMARY:Lower bracket round 1 match 3: G1 vs FNC
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310813@tournamentics
 END:VEVENT
@@ -2805,7 +2798,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260123T150000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: GL vs VIT
 UID:cs-go-blast-bounty-winter-2026-1314738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3267,7 +3260,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260122T180000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: HERO vs FURIA
 UID:cs-go-blast-bounty-winter-2026-1314737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3715,7 +3708,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260122T150000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: TL vs FAL
 UID:cs-go-blast-bounty-winter-2026-1314736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5145,13 +5138,6 @@ DURATION:PT2H
 DTSTART:20260124T150000Z
 SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322389@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260121T190000Z
-SUMMARY:XPE vs hindsight
-UID:cs-go-esea-advanced-europe-56-2026-1328933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3

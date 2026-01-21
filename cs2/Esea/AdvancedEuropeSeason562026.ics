@@ -184,11 +184,11 @@ SUMMARY:LC vs EPG Family
 UID:cs-go-esea-advanced-europe-56-2026-1326115@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260121T193000Z
-SUMMARY:FUT.A vs FF
-UID:cs-go-esea-advanced-europe-56-2026-1328941@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Pigeons: 1 | BakS eSports: 0\nStream: https://www.twitch.tv/rob1nfall
+DTEND:20260114T175356Z
+DTSTART:20260114T171420Z
+SUMMARY:PGE vs BAKS
+UID:cs-go-esea-advanced-europe-56-2026-1319918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -203,13 +203,6 @@ DTEND:20260120T185136Z
 DTSTART:20260120T182316Z
 SUMMARY:MANA vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1326108@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Pigeons: 1 | BakS eSports: 0\nStream: https://www.twitch.tv/rob1nfall
-DTEND:20260114T175356Z
-DTSTART:20260114T171420Z
-SUMMARY:PGE vs BAKS
-UID:cs-go-esea-advanced-europe-56-2026-1319918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Brute: 1 | ZOTIX: 0\nStream: https://www.twitch.tv/brute_gg
@@ -338,8 +331,8 @@ SUMMARY:ex-GANK Esports vs PEEP
 UID:cs-go-esea-advanced-europe-56-2026-1328939@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/joshua_official
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | ALGO Esports: 1\nStream: https://www.twitch.tv/joshua_official
+DTEND:20260121T195714Z
 DTSTART:20260121T191544Z
 SUMMARY:UNiTY vs ALGO
 UID:cs-go-esea-advanced-europe-56-2026-1328943@tournamentics
@@ -380,11 +373,11 @@ SUMMARY:ChickenBurger vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1326107@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260121T190000Z
-SUMMARY:XPE vs hindsight
-UID:cs-go-esea-advanced-europe-56-2026-1328933@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | AM Gaming: 0\nStream: https://www.twitch.tv/dranzart1
+DTEND:20260120T135451Z
+DTSTART:20260120T131352Z
+SUMMARY:BW vs AM
+UID:cs-go-esea-advanced-europe-56-2026-1319917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: eLITenergy: 1 | JUMBO TEAM: 0\nStream: https://www.twitch.tv/jumboteamesports
@@ -483,13 +476,6 @@ DTEND:20260112T124838Z
 DTSTART:20260112T121710Z
 SUMMARY:ChickenBurger vs AM
 UID:cs-go-esea-advanced-europe-56-2026-1317212@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | AM Gaming: 0\nStream: https://www.twitch.tv/dranzart1
-DTEND:20260120T135451Z
-DTSTART:20260120T131352Z
-SUMMARY:BW vs AM
-UID:cs-go-esea-advanced-europe-56-2026-1319917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: aimclub: 1 | SUNFALL: 0\nStream: https://www.twitch.tv/gsancher
