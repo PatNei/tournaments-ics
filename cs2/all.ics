@@ -142,8 +142,8 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306442@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Yawara Esports: 1\nStream: https://www.twitch.tv/narodcast2
+DTEND:20260121T160235Z
 DTSTART:20260121T130852Z
 SUMMARY:FDB vs YAW
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322261@tournamentics
@@ -4804,10 +4804,10 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast2
 DURATION:PT2H
-DTSTART:20260121T160000Z
-SUMMARY:Elimination match: naocopulas vs TBD
+DTSTART:20260121T163000Z
+SUMMARY:Elimination match: naocopulas vs YAW
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5289,8 +5289,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tris_mara
 DURATION:PT2H
-DTSTART:20260121T160000Z
-SUMMARY:Winners match: FX vs TBD
+DTSTART:20260121T163000Z
+SUMMARY:Winners match: FX vs FDB
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
