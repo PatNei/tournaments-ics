@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260124T130000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: LDP vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3799,7 +3799,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260123T180000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: 9z vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322380@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4433,8 +4433,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322390@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | Four Magic: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260122T150116Z
 DTSTART:20260122T131401Z
 SUMMARY:Round of 16 match 1: LDP vs 4M
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315190@tournamentics
@@ -4447,7 +4447,7 @@ SUMMARY:Quarterfinal 4: TRI vs AAB
 UID:cs-go-playr-masters-1-2026-1318763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rnakano
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vilacattv
 DURATION:PT2H
 DTSTART:20260122T150000Z
 SUMMARY:Elimination match: CTN vs Keyd
@@ -4886,13 +4886,6 @@ DTEND:20260117T113550Z
 DTSTART:20260117T094229Z
 SUMMARY:Quarterfinal 1: SASHI vs JS
 UID:cs-go-playr-masters-1-2026-1318762@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260122T150000Z
-SUMMARY:Winners match: MIBR vs 9z
-UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322378@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 2 | Charrados FC: 1\nStream: https://kick.com/cct_cs3
