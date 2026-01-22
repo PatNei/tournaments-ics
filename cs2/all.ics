@@ -1447,7 +1447,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260123T210000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: BST.A vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2361,8 +2361,8 @@ SUMMARY:SINQU vs STA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314014@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vilacattv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | Gaimin Gladiators: 2\nStream: https://www.twitch.tv/vilacattv
+DTEND:20260122T222820Z
 DTSTART:20260122T211500Z
 SUMMARY:Winners match: BST.A vs GG
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322383@tournamentics
