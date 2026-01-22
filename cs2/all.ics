@@ -79,6 +79,13 @@ SUMMARY:Decider match: ACE vs BBP
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260122T170000Z
+SUMMARY:ALGO vs MINLATE
+UID:cs-go-esea-advanced-europe-56-2026-1330372@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260130T120000Z
@@ -147,13 +154,6 @@ DTEND:20260121T160235Z
 DTSTART:20260121T130852Z
 SUMMARY:FDB vs YAW
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322261@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: NRG: 2 | Marsborne: 1\nStream: https://www.twitch.tv/fl0m
-DTEND:20260111T234458Z
-DTSTART:20260111T203749Z
-SUMMARY:Semifinal 2: NRG vs MARS
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | MINLATE: 1\nStream: https://kick.com/cct_cs2
@@ -436,11 +436,11 @@ SUMMARY:Round 2: SASHI.A vs EF.A
 UID:cs-go-exort-series-21-2026-1320309@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: NRG: 2 | Phoenix: 1\nStream: https://www.twitch.tv/mythicleague
-DTEND:20260110T034047Z
-DTSTART:20260110T011302Z
-SUMMARY:NRG vs PHX
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306452@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Team PeeP: 1 | AKA HERO KAJO: 0\nStream: https://www.twitch.tv/peepcs2
+DTEND:20260115T190732Z
+DTSTART:20260115T183922Z
+SUMMARY:PEEP vs AHK
+UID:cs-go-esea-advanced-europe-56-2026-1321132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -462,13 +462,6 @@ DURATION:PT2H
 DTSTART:20260128T153000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326438@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Team PeeP: 1 | AKA HERO KAJO: 0\nStream: https://www.twitch.tv/peepcs2
-DTEND:20260115T190732Z
-DTSTART:20260115T183922Z
-SUMMARY:PEEP vs AHK
-UID:cs-go-esea-advanced-europe-56-2026-1321132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Brute: 0\nStream: https://www.twitch.tv/enthycia
@@ -576,18 +569,18 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322387@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | HAVU: 1\nStream: https://www.twitch.tv/havugaming
-DTEND:20260121T175624Z
-DTSTART:20260121T171750Z
-SUMMARY:FCF vs HAVU
-UID:cs-go-esea-advanced-europe-56-2026-1328931@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | HereWeGoAgain: 0\nStream: https://kick.com/cct_cs3
 DTEND:20260121T165658Z
 DTSTART:20260121T150130Z
 SUMMARY:Round 5: GH vs HWGA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315187@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | HAVU: 1\nStream: https://www.twitch.tv/havugaming
+DTEND:20260121T175624Z
+DTSTART:20260121T171750Z
+SUMMARY:FCF vs HAVU
+UID:cs-go-esea-advanced-europe-56-2026-1328931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | Gentle Mates: 2\nStream: https://www.twitch.tv/watchfultvb
@@ -602,6 +595,13 @@ DTEND:20260113T175453Z
 DTSTART:20260113T152011Z
 SUMMARY:Winners match: URSA vs BBP
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312237@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260122T163000Z
+SUMMARY:FS vs Imperial.A
+UID:cs-go-esea-advanced-europe-56-2026-1330371@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -672,13 +672,6 @@ DTEND:20260121T151012Z
 DTSTART:20260121T130311Z
 SUMMARY:FX vs naocopulas
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322260@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: M80: 2 | Voca: 0\nStream: https://www.twitch.tv/fl0m
-DTEND:20260111T194946Z
-DTSTART:20260111T180304Z
-SUMMARY:Semifinal 1: M80 vs VOCA
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | MASONIC: 0\nStream: https://kick.com/cct_cs2
@@ -1017,18 +1010,18 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | Lazer Cats: 1\nStream: https://www.twitch.tv/lzrcats
-DTEND:20260121T174953Z
-DTSTART:20260121T171352Z
-SUMMARY:BMB vs LC
-UID:cs-go-esea-advanced-europe-56-2026-1328930@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: Crashers: 1 | TEAM ORUGA: 2\nStream: https://kick.com/cct_cs3
 DTEND:20260121T001319Z
 DTSTART:20260120T211804Z
 SUMMARY:Round 4: CRASH vs ORUGA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315186@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | Lazer Cats: 1\nStream: https://www.twitch.tv/lzrcats
+DTEND:20260121T174953Z
+DTSTART:20260121T171352Z
+SUMMARY:BMB vs LC
+UID:cs-go-esea-advanced-europe-56-2026-1328930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: aimclub: 1 | Infinite: 0\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
@@ -1064,6 +1057,13 @@ DTEND:20260108T143216Z
 DTSTART:20260108T115530Z
 SUMMARY:LILMIX vs BW
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306408@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260122T160000Z
+SUMMARY:ALGO vs aimclub
+UID:cs-go-esea-advanced-europe-56-2026-1330370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 2 | HereWeGoAgain: 0\nStream: https://kick.com/cct_cs3
@@ -1108,13 +1108,6 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306440@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: BOSS: 0 | Marsborne: 2\nStream: https://www.twitch.tv/fl0m
-DTEND:20260111T041604Z
-DTSTART:20260111T023738Z
-SUMMARY:Decider Match: BOSS vs MARS
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306462@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260123T153000Z
@@ -1153,7 +1146,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260122T200000Z
-SUMMARY:Upper bracket final: RED vs TBD
+SUMMARY:Upper bracket final: RED vs BST
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1549,11 +1542,11 @@ SUMMARY:BIG vs EXSAD Gaming
 UID:cs-go-roman-imperium-cup-4-2026-1315220@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: M80: 2 | BOSS: 0\nStream: https://www.twitch.tv/fl0m
-DTEND:20260110T223534Z
-DTSTART:20260110T210749Z
-SUMMARY:Winners Match: M80 vs BOSS
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306461@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Impulse GW: 1 | MANA eSports: 2\nStream: https://www.twitch.tv/rmncs
+DTEND:20260115T172252Z
+DTSTART:20260115T145638Z
+SUMMARY:Decider match: IGW vs MANA
+UID:cs-go-roman-imperium-cup-4-2026-1315209@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -1575,13 +1568,6 @@ DURATION:PT2H
 DTSTART:20260123T090000Z
 SUMMARY:Elimination Match: DUNDU vs UNiTY
 UID:cs-go-european-pro-league-series-4-2026-1306428@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 4 2026\nMatch Type: Best Of\nResult: Impulse GW: 1 | MANA eSports: 2\nStream: https://www.twitch.tv/rmncs
-DTEND:20260115T172252Z
-DTSTART:20260115T145638Z
-SUMMARY:Decider match: IGW vs MANA
-UID:cs-go-roman-imperium-cup-4-2026-1315209@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: Bebop: 2 | los kogutos: 0\nStream: https://kick.com/eplcs_en
@@ -1715,6 +1701,13 @@ DURATION:PT2H
 DTSTART:20260123T170000Z
 SUMMARY:RT vs FA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314004@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260122T160000Z
+SUMMARY:ENRAGE vs TS.A
+UID:cs-go-esea-advanced-europe-56-2026-1330369@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: METANOIAGG: 0 | Game Hunters: 2\nStream: https://www.twitch.tv/tris_mara
@@ -1997,13 +1990,6 @@ SUMMARY:Elimination match: GRG vs MANA
 UID:cs-go-roman-imperium-cup-4-2026-1315208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: regain: 0 | Marsborne: 2\nStream: https://www.twitch.tv/fl0m
-DTEND:20260110T230902Z
-DTSTART:20260110T213553Z
-SUMMARY:Elimination Match: REGAIN vs MARS
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306460@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260122T093000Z
@@ -2056,7 +2042,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260122T170000Z
-SUMMARY:Lower bracket quarterfinal 1: 9z vs TBD
+SUMMARY:Lower bracket quarterfinal 1: 9z vs SHIN
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2396,18 +2382,18 @@ SUMMARY:URSA vs WTRML0N
 UID:cs-go-esea-advanced-europe-56-2026-1324885@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Pigeons: 0 | Brute: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260115T133855Z
-DTSTART:20260115T120521Z
-SUMMARY:PGE vs BRUTE
-UID:cs-go-nodwin-clutch-series-4-2026-1312261@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Charrados FC: 1\nStream: https://kick.com/cct_cs3
 DTEND:20260119T233941Z
 DTSTART:20260119T210236Z
 SUMMARY:Round 4: paiN.A vs Charrados
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315183@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Pigeons: 0 | Brute: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260115T133855Z
+DTSTART:20260115T120521Z
+SUMMARY:PGE vs BRUTE
+UID:cs-go-nodwin-clutch-series-4-2026-1312261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 1 | Prestige: 0\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
@@ -2550,8 +2536,8 @@ SUMMARY:hindsight vs QUA
 UID:cs-go-esea-advanced-europe-56-2026-1317217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | ShindeN: 1\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260122T040435Z
 DTSTART:20260122T010204Z
 SUMMARY:Upper bracket semifinal 2: BST vs SHIN
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310740@tournamentics
@@ -2758,13 +2744,6 @@ DTEND:20260113T143104Z
 DTSTART:20260113T130125Z
 SUMMARY:Lower bracket semifinal: MISA vs Midnight
 UID:cs-go-united21-43-2026-1308229@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: Marsborne: 1 | BOSS: 2\nStream: https://www.twitch.tv/fl0m
-DTEND:20260110T082116Z
-DTSTART:20260110T055813Z
-SUMMARY:MARS vs BOSS
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: XI Esport: 1 | MUERTA TEAM: 0\nStream: https://www.twitch.tv/untalentedkid785
@@ -3229,13 +3208,6 @@ SUMMARY:Upper bracket final: Imperial.A vs FUT.A
 UID:cs-go-united21-43-2026-1308228@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: M80: 2 | regain: 0\nStream: https://www.twitch.tv/mythicleague
-DTEND:20260110T054429Z
-DTSTART:20260110T043120Z
-SUMMARY:M80 vs REGAIN
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306458@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 2 | 777: 0\nStream: https://www.twitch.tv/a1gamingleague
 DTEND:20260111T152432Z
 DTSTART:20260111T140235Z
@@ -3684,13 +3656,6 @@ SUMMARY:Upper bracket semifinal 2: FUT.A vs Midnight
 UID:cs-go-united21-43-2026-1308227@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: Voca: 2 | SkinRave: 1\nStream: https://www.twitch.tv/fl0m
-DTEND:20260111T020416Z
-DTSTART:20260110T233302Z
-SUMMARY:Decider Match: VOCA vs SR
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306457@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Acend: 2 | Washington: 0\nStream: https://www.twitch.tv/a1gamingleague
 DTEND:20260111T133451Z
 DTSTART:20260111T114953Z
@@ -4048,6 +4013,13 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260122T160000Z
+SUMMARY:Round of 16 match 2: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315191@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 0 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
 DTEND:20260118T112130Z
 DTSTART:20260118T090925Z
@@ -4067,13 +4039,6 @@ DTEND:20260117T113745Z
 DTSTART:20260117T093726Z
 SUMMARY:Quarterfinal 3: PRE vs megoshort
 UID:cs-go-playr-masters-1-2026-1318764@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260122T160000Z
-SUMMARY:Round of 16 match 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315191@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Bebop: 2 | STATE: 0\nStream: https://kick.com/nodwin_cs2
@@ -4580,13 +4545,6 @@ SUMMARY:LFO YinYang vs ME
 UID:cs-go-esea-advanced-europe-56-2026-1317224@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: Voca: 0 | NRG: 2\nStream: https://www.twitch.tv/fl0m
-DTEND:20260110T202643Z
-DTSTART:20260110T183849Z
-SUMMARY:Winners Match: VOCA vs NRG
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306455@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Phantom: 0 | HyperSpirit: 2\nStream: https://www.twitch.tv/a1gamingleague
 DTEND:20260110T154550Z
 DTSTART:20260110T140508Z
@@ -4774,13 +4732,6 @@ DTEND:20260121T181719Z
 DTSTART:20260121T165037Z
 SUMMARY:Elimination match: naocopulas vs YAW
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322263@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: M80: 2 | NRG: 0\nStream: https://www.twitch.tv/fl0m
-DTEND:20260112T031253Z
-DTSTART:20260112T010423Z
-SUMMARY:Grand Final: M80 vs NRG
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -5021,13 +4972,6 @@ SUMMARY:Lower bracket semifinal: PRE vs XI
 UID:cs-go-united21-43-2026-1308224@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: SkinRave: 2 | Phoenix: 1\nStream: https://www.twitch.tv/fl0m
-DTEND:20260110T205052Z
-DTSTART:20260110T182322Z
-SUMMARY:Elimination Match: SR vs PHX
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306454@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Haspers: 0 | LFO: 1\nStream: No official stream linked
 DTEND:20260112T194719Z
 DTSTART:20260112T191448Z
@@ -5161,11 +5105,11 @@ SUMMARY:EF vs LK
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312239@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 |  Phantom Academy: 0\nStream: https://kick.com/exort_en2
-DTEND:20260116T211052Z
-DTSTART:20260116T193612Z
-SUMMARY:Round 3: MISA vs  Phantom Academy
-UID:cs-go-exort-series-21-2026-1322469@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260122T180000Z
+SUMMARY:QUA vs MISA
+UID:cs-go-esea-advanced-europe-56-2026-1330373@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -5173,6 +5117,13 @@ DURATION:PT2H
 DTSTART:20260130T150000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313496@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 |  Phantom Academy: 0\nStream: https://kick.com/exort_en2
+DTEND:20260116T211052Z
+DTSTART:20260116T193612Z
+SUMMARY:Round 3: MISA vs  Phantom Academy
+UID:cs-go-exort-series-21-2026-1322469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5413,18 +5364,18 @@ SUMMARY:Keyd vs 9z
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322377@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | MASONIC: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260112T162049Z
-DTSTART:20260112T150213Z
-SUMMARY: CSDIILIT vs MSC
-UID:cs-go-nodwin-clutch-series-4-2026-1312255@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | Satriales: 0\nStream: https://kick.com/cct_cs3
 DTEND:20260118T143833Z
 DTSTART:20260118T130411Z
 SUMMARY:Round 3: GH vs STL
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315177@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | MASONIC: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260112T162049Z
+DTSTART:20260112T150213Z
+SUMMARY: CSDIILIT vs MSC
+UID:cs-go-nodwin-clutch-series-4-2026-1312255@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 Play-In 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | Bushido Wildcats: 1\nStream: https://kick.com/eplcs_en
@@ -5504,11 +5455,11 @@ SUMMARY:megoshort vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1317222@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: fl0m's Mythical LAN - Las Vegas 2026\nMatch Type: Best Of\nResult: Voca: 2 | SkinRave: 1\nStream: https://www.youtube.com/watch?v=r6MOZHmOumM
-DTEND:20260110T045355Z
-DTSTART:20260110T021251Z
-SUMMARY:VOCA vs SR
-UID:cs-go-fl0m-s-mythical-lan-las-vegas-2026-1306453@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ENRAGE: 0 | MASONIC: 1\nStream: https://www.twitch.tv/dimkxs
+DTEND:20260115T195047Z
+DTSTART:20260115T191213Z
+SUMMARY:ENRAGE vs MSC
+UID:cs-go-esea-advanced-europe-56-2026-1321133@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: Acend: 1 | Ursa: 2\nStream: https://kick.com/cct_cs2
@@ -5516,13 +5467,6 @@ DTEND:20260119T182332Z
 DTSTART:20260119T153809Z
 SUMMARY:ACE vs URSA
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324187@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ENRAGE: 0 | MASONIC: 1\nStream: https://www.twitch.tv/dimkxs
-DTEND:20260115T195047Z
-DTSTART:20260115T191213Z
-SUMMARY:ENRAGE vs MSC
-UID:cs-go-esea-advanced-europe-56-2026-1321133@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | STATE: 0\nStream: https://www.twitch.tv/a1gamingleague

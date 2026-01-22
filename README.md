@@ -336,27 +336,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortSeries/Se
 </details>
 
 <details>
-<summary>fl0m's Mythical LAN</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/Fl0mSMythicalLan.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/Fl0mSMythicalLan.ics
-```
-
----
-
-### Las Vegas 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/LasVegas2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fl0mSMythicalLan/LasVegas2026.ics
-```
-
-</details>
-
-<details>
 <summary>Gamers Club Liga Série A</summary>
 
 ### Full Schedule
