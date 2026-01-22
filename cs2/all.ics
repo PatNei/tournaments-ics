@@ -3001,7 +3001,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260126T113000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: MSC vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306425@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3451,13 +3451,6 @@ DTEND:20260106T155117Z
 DTSTART:20260106T140837Z
 SUMMARY:Upper bracket semifinal 1: TD vs SNG
 UID:cs-go-united21-43-2026-1308216@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260122T113000Z
-SUMMARY:Winners Match: MSC vs EF
-UID:cs-go-european-pro-league-series-4-2026-1306424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | MANA eSports: 1\nStream: https://www.twitch.tv/csdiilit_com

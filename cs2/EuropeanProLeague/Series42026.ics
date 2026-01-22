@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260126T113000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: MSC vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306425@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -210,13 +210,6 @@ DTEND:20260119T154402Z
 DTSTART:20260119T140544Z
 SUMMARY:UNiTY vs Fingers
 UID:cs-go-european-pro-league-series-4-2026-1306427@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260122T113000Z
-SUMMARY:Winners Match: MSC vs EF
-UID:cs-go-european-pro-league-series-4-2026-1306424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: FORZE Reload: 0 | MASONIC: 2\nStream: https://kick.com/eplcs_en
