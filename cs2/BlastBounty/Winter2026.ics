@@ -110,12 +110,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260124T150000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FAL vs TBD
 UID:cs-go-blast-bounty-winter-2026-1314740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Liquid: 0 | Team Falcons: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260122T172012Z
 DTSTART:20260122T150450Z
 SUMMARY:Quarterfinal 1: TL vs FAL
 UID:cs-go-blast-bounty-winter-2026-1314736@tournamentics

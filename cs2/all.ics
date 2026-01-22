@@ -1573,13 +1573,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260124T150000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FAL vs TBD
 UID:cs-go-blast-bounty-winter-2026-1314740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
-DTSTART:20260122T171500Z
+DTSTART:20260122T172001Z
 SUMMARY:Lower bracket quarterfinal 2: ODK vs IMP
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310742@tournamentics
 END:VEVENT
@@ -3131,9 +3131,9 @@ SUMMARY:v: OXUJI vs PCF
 UID:cs-go-exort-series-21-2026-1322473@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260122T170000Z
+DTSTART:20260122T171642Z
 SUMMARY:LDP vs Alzon
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1330555@tournamentics
 END:VEVENT
@@ -3663,8 +3663,8 @@ SUMMARY:Round 1: ACE vs WSG
 UID:cs-go-a1-gaming-league-11-2026-1312626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Liquid: 0 | Team Falcons: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260122T172012Z
 DTSTART:20260122T150450Z
 SUMMARY:Quarterfinal 1: TL vs FAL
 UID:cs-go-blast-bounty-winter-2026-1314736@tournamentics
