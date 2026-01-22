@@ -765,8 +765,8 @@ SUMMARY:B8 Academy vs DRGN TEAM
 UID:cs-go-esea-advanced-europe-56-2026-1326103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/krl_stream
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | GenOne: 0\nStream: https://www.twitch.tv/krl_stream
+DTEND:20260122T143524Z
 DTSTART:20260122T130947Z
 SUMMARY:Lower bracket round 2 match 3: M8 vs G1
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310817@tournamentics
@@ -3778,7 +3778,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260122T160000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: M8 vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310822@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4447,7 +4447,7 @@ SUMMARY:Quarterfinal 4: TRI vs AAB
 UID:cs-go-playr-masters-1-2026-1318763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://kick.com/forg1
 DURATION:PT2H
 DTSTART:20260122T150000Z
 SUMMARY:Elimination match: CTN vs Keyd
@@ -4888,7 +4888,7 @@ SUMMARY:Quarterfinal 1: SASHI vs JS
 UID:cs-go-playr-masters-1-2026-1318762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/RNakano
 DURATION:PT2H
 DTSTART:20260122T150000Z
 SUMMARY:Winners match: MIBR vs 9z
