@@ -193,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260122T230000Z
+DTSTART:20260122T232000Z
 SUMMARY:Lower bracket final: BST vs SHIN
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310745@tournamentics
 END:VEVENT
@@ -1885,9 +1885,9 @@ SUMMARY:Round 1: NTR vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gaules
+DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gaules
 DURATION:PT2H
-DTSTART:20260122T220000Z
+DTSTART:20260122T225814Z
 SUMMARY:Elimination match: RED vs A FUNDACAO
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322384@tournamentics
 END:VEVENT
