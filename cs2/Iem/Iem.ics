@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
-DTSTART:20260122T160000Z
+DTSTART:20260122T161500Z
 SUMMARY:Lower bracket round 3 match 1: EYE vs NTR
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310821@tournamentics
 END:VEVENT
@@ -233,9 +233,9 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVd
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVd
 DURATION:PT2H
-DTSTART:20260122T160000Z
+DTSTART:20260122T161131Z
 SUMMARY:Upper bracket semifinal 2: BB vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310820@tournamentics
 END:VEVENT
@@ -424,7 +424,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/croissantstrike
 DURATION:PT2H
-DTSTART:20260122T162000Z
+DTSTART:20260122T163000Z
 SUMMARY:Lower bracket round 3 match 2: M8 vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310822@tournamentics
 END:VEVENT
@@ -520,9 +520,9 @@ SUMMARY:Round of 16 match 7: NEM vs 1WIN
 UID:cs-go-iem-rio-global-open-qualifier-2026-1323616@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTV
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTV
 DURATION:PT2H
-DTSTART:20260122T160000Z
+DTSTART:20260122T161029Z
 SUMMARY:Upper bracket semifinal 1: HOTU vs 9INE
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310819@tournamentics
 END:VEVENT
