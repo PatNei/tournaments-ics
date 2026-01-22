@@ -2364,7 +2364,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260123T230000Z
-SUMMARY:SINQU vs WOPA
+SUMMARY:SINQU vs STA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314014@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3344,7 +3344,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260123T220000Z
-SUMMARY:WOPA vs Sidequest
+SUMMARY:STA vs Sidequest
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314012@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4450,7 +4450,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260122T150000Z
-SUMMARY:Elimination match: CTN vs TBD
+SUMMARY:Elimination match: CTN vs Keyd
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322379@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4877,7 +4877,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260123T210000Z
-SUMMARY:ALL vs WOPA
+SUMMARY:ALL vs STA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314009@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4891,7 +4891,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260122T150000Z
-SUMMARY:Winners match: MIBR vs TBD
+SUMMARY:Winners match: MIBR vs 9z
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322378@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5364,8 +5364,8 @@ SUMMARY:megoshort vs SFE
 UID:cs-go-playr-masters-1-2026-1318761@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://kick.com/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: Keyd: 0 | 9z: 2\nStream: https://kick.com/forg1
+DTEND:20260122T143053Z
 DTSTART:20260122T120437Z
 SUMMARY:Keyd vs 9z
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322377@tournamentics
