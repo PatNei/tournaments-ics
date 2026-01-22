@@ -747,7 +747,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260124T130000Z
-SUMMARY:Quarterfinal 1: LDP vs TBD
+SUMMARY:Quarterfinal 1: LDP vs YAW
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3341,7 +3341,7 @@ SUMMARY:STA vs Sidequest
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314012@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/RNakano
 DURATION:PT2H
 DTSTART:20260122T190000Z
 SUMMARY:GG vs A FUNDACAO
@@ -4013,8 +4013,8 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | Prison Breakers: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260122T185533Z
 DTSTART:20260122T161250Z
 SUMMARY:Round of 16 match 2: YAW vs PB
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315191@tournamentics
@@ -5133,9 +5133,9 @@ SUMMARY:AAB vs STA
 UID:cs-go-playr-masters-1-2026-1318750@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260122T183000Z
+DTSTART:20260122T185154Z
 SUMMARY:Winners match: FORZE.R vs EF
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324200@tournamentics
 END:VEVENT
