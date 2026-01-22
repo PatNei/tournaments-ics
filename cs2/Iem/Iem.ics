@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260122T190000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: URSA vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -56,13 +56,6 @@ DTEND:20260121T232512Z
 DTSTART:20260121T194422Z
 SUMMARY:Upper bracket quarterfinal 3: BB vs KOL
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310801@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260128T173000Z
-SUMMARY:Round of 16 match 3: TL vs NIP
-UID:cs-go-iem-krakow-2026-1324058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -142,20 +135,6 @@ SUMMARY:Lower bracket round 1 match 2: NTR vs SNG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310812@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260128T123000Z
-SUMMARY:Round of 16 match 8: NRG vs B8
-UID:cs-go-iem-krakow-2026-1324063@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260128T150000Z
-SUMMARY:Round of 16 match 5: LGC vs BCG
-UID:cs-go-iem-krakow-2026-1324060@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 0 | Ursa: 1\nStream: No official stream linked
 DTEND:20260116T223000Z
 DTSTART:20260116T214500Z
@@ -233,8 +212,8 @@ SUMMARY:Lower bracket quarterfinal 1: 9INE vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Ursa: 0\nStream: https://www.twitch.tv/watchfulTVd
+DTEND:20260122T181409Z
 DTSTART:20260122T161131Z
 SUMMARY:Upper bracket semifinal 2: BB vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310820@tournamentics
@@ -266,13 +245,6 @@ DTEND:20260121T214139Z
 DTSTART:20260121T193546Z
 SUMMARY:Upper bracket quarterfinal 2: M8 vs HOTU
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310800@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260128T100000Z
-SUMMARY:Round of 16 match 2: HERO vs PRV
-UID:cs-go-iem-krakow-2026-1324057@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -336,13 +308,6 @@ DTEND:20260121T181640Z
 DTSTART:20260121T165452Z
 SUMMARY:Lower bracket round 1 match 1: FUT vs K27
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310811@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260128T123000Z
-SUMMARY:Round of 16 match 7: AST vs paiN
-UID:cs-go-iem-krakow-2026-1324062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | Nemiga: 0\nStream: No official stream linked
@@ -418,7 +383,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260123T160000Z
-SUMMARY:Upper bracket final: HOTU vs TBD
+SUMMARY:Upper bracket final: HOTU vs BB
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310825@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -448,20 +413,6 @@ DTEND:20260121T234343Z
 DTSTART:20260121T202645Z
 SUMMARY:Upper bracket quarterfinal 4: EYE vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310802@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260128T173000Z
-SUMMARY:Round of 16 match 4: PSSN.UA vs G2
-UID:cs-go-iem-krakow-2026-1324059@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260128T100000Z
-SUMMARY:Round of 16 match 1: AUR vs GL
-UID:cs-go-iem-krakow-2026-1324056@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 2 | BIG Academy: 1\nStream: https://www.twitch.tv/redcs
@@ -553,13 +504,6 @@ DTEND:20260121T163937Z
 DTSTART:20260121T141159Z
 SUMMARY:Upper bracket round 1 match 8: URSA vs BCG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310810@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260128T150000Z
-SUMMARY:Round of 16 match 6: FUT vs 3DMAX
-UID:cs-go-iem-krakow-2026-1324061@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | Leo Team: 1\nStream: No official stream linked
