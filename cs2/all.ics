@@ -698,7 +698,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260122T200000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: IMP vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310744@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1577,8 +1577,8 @@ SUMMARY:Semifinal 1: FAL vs TBD
 UID:cs-go-blast-bounty-winter-2026-1314740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 0 | Imperial: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260122T190613Z
 DTSTART:20260122T172001Z
 SUMMARY:Lower bracket quarterfinal 2: ODK vs IMP
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310742@tournamentics
@@ -2846,7 +2846,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260122T190000Z
+DTSTART:20260122T193000Z
 SUMMARY:Lower bracket quarterfinal 2: URSA vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310824@tournamentics
 END:VEVENT
@@ -3329,7 +3329,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260122T190000Z
+DTSTART:20260122T193000Z
 SUMMARY:Lower bracket quarterfinal 1: 9INE vs TBD
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310823@tournamentics
 END:VEVENT
@@ -3518,7 +3518,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260122T190000Z
+DTSTART:20260122T191000Z
 SUMMARY:Round of 16 match 3: BHE vs Bad Luck
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315192@tournamentics
 END:VEVENT
@@ -5098,8 +5098,8 @@ SUMMARY:EF vs LK
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312239@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/johny__cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: QUAZAR: 1 | Misa Esports: 0\nStream: https://www.twitch.tv/johny__cs
+DTEND:20260122T190101Z
 DTSTART:20260122T181625Z
 SUMMARY:QUA vs MISA
 UID:cs-go-esea-advanced-europe-56-2026-1330373@tournamentics

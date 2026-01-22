@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 0 | Imperial: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260122T190613Z
 DTSTART:20260122T172001Z
 SUMMARY:Lower bracket quarterfinal 2: ODK vs IMP
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310742@tournamentics
@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260122T200000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: IMP vs TBD
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310744@tournamentics
 END:VEVENT
 BEGIN:VEVENT
