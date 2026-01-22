@@ -222,12 +222,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260123T160000Z
-SUMMARY:Lower bracket semifinal: M8 vs TBD
+SUMMARY:Lower bracket semifinal: M8 vs 9INE
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310826@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 2 | Nuclear TigeRES: 1\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260122T223929Z
 DTSTART:20260122T194623Z
 SUMMARY:Lower bracket quarterfinal 1: 9INE vs NTR
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310823@tournamentics
