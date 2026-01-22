@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260123T150000Z
-SUMMARY:Decider match: METANOIAGG vs TBD
+SUMMARY:Decider match: METANOIAGG vs SHK
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:Keyd vs 9z
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322377@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/j1mmyneytron
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: Sharks: 2 | Galorys: 0\nStream: https://www.twitch.tv/j1mmyneytron
+DTEND:20260122T014103Z
 DTSTART:20260122T000519Z
 SUMMARY:Elimination match: SHK vs GLS
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322374@tournamentics
