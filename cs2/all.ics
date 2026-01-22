@@ -698,7 +698,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260122T200000Z
-SUMMARY:Lower bracket semifinal: IMP vs TBD
+SUMMARY:Lower bracket semifinal: IMP vs SHIN
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310744@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2032,8 +2032,8 @@ SUMMARY:WOPA vs LK
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306393@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9z: 0 | ShindeN: 2\nStream: https://kick.com/forg1
+DTEND:20260122T193403Z
 DTSTART:20260122T170817Z
 SUMMARY:Lower bracket quarterfinal 1: 9z vs SHIN
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310741@tournamentics
@@ -2846,7 +2846,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260122T193000Z
+DTSTART:20260122T194500Z
 SUMMARY:Lower bracket quarterfinal 2: URSA vs M8
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310824@tournamentics
 END:VEVENT
@@ -3329,7 +3329,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260122T193000Z
+DTSTART:20260122T200000Z
 SUMMARY:Lower bracket quarterfinal 1: 9INE vs NTR
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310823@tournamentics
 END:VEVENT
