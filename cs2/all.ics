@@ -1573,7 +1573,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260124T150000Z
-SUMMARY:Semifinal 1: FAL vs TBD
+SUMMARY:Semifinal 1: FAL vs FURIA
 UID:cs-go-blast-bounty-winter-2026-1314740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3229,8 +3229,8 @@ SUMMARY:Quarterfinal 1: FLY vs CW
 UID:cs-go-zhi-tech-elite-masters-2026-1318723@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Heroic: 1 | FURIA: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260122T203909Z
 DTSTART:20260122T180628Z
 SUMMARY:Quarterfinal 2: HERO vs FURIA
 UID:cs-go-blast-bounty-winter-2026-1314737@tournamentics
