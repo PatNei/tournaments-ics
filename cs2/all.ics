@@ -796,7 +796,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260123T150000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: METANOIAGG vs TBD
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1717,8 +1717,8 @@ SUMMARY:RT vs FA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314004@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tris_mara
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: METANOIAGG: 0 | Game Hunters: 2\nStream: https://www.twitch.tv/tris_mara
+DTEND:20260122T001138Z
 DTSTART:20260121T222448Z
 SUMMARY:Winners match: METANOIAGG vs GH
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322373@tournamentics
