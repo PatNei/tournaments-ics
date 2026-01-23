@@ -1493,9 +1493,9 @@ SUMMARY:OldBoys vs UNiTY
 UID:cs-go-esea-advanced-europe-56-2026-1326113@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260123T201000Z
+DTSTART:20260123T201039Z
 SUMMARY:Lower bracket final: BB vs M8
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310827@tournamentics
 END:VEVENT
@@ -4216,8 +4216,8 @@ SUMMARY:Round of 16 match 5: 9z vs Alzon
 UID:cs-go-iem-rio-americas-open-qualifier-2026-1323621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | ARCRED: 2\nStream: https://kick.com/cct_cs
+DTEND:20260123T201042Z
 DTSTART:20260123T183944Z
 SUMMARY:Round 3: ex-RUBY vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313539@tournamentics
