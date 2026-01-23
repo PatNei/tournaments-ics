@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260124T070000Z
-SUMMARY:Semifinal 1: Morningstar vs TBD
+SUMMARY:Semifinal 1: Morningstar vs FLY
 UID:cs-go-zhi-tech-elite-masters-2026-1318727@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Round of 16 match 6: FLY vs SH
 UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1317662@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nResult: FlyQuest: 2 | Chinggis Warriors: 0\nStream: https://www.twitch.tv/trottah
+DTEND:20260123T143146Z
 DTSTART:20260123T125223Z
 SUMMARY:Quarterfinal 1: FLY vs CW
 UID:cs-go-zhi-tech-elite-masters-2026-1318723@tournamentics
