@@ -1292,7 +1292,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260123T180000Z
+DTSTART:20260123T181000Z
 SUMMARY:MZP vs RT
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314005@tournamentics
 END:VEVENT
@@ -1787,8 +1787,8 @@ SUMMARY:LFO YinYang vs FUT.A
 UID:cs-go-esea-advanced-europe-56-2026-1318678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nResult: ReThink: 1 | Flying Angels: 0\nStream: https://kick.com/united21_en
+DTEND:20260123T175719Z
 DTSTART:20260123T172833Z
 SUMMARY:RT vs FA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314004@tournamentics
@@ -2249,8 +2249,8 @@ SUMMARY:Upper bracket quarterfinal 4: LGC vs GH
 UID:cs-go-betboom-rush-b-summit-2026-1317677@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | Vasco Esports: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260123T180301Z
 DTSTART:20260123T160808Z
 SUMMARY:Round of 16 match 6: PCY vs VSC
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315195@tournamentics
@@ -4218,7 +4218,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260123T180000Z
+DTSTART:20260123T184000Z
 SUMMARY:Round 3: ex-RUBY vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313539@tournamentics
 END:VEVENT
@@ -5591,7 +5591,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260124T220000Z
-SUMMARY:Quarterfinal 4: BHE vs TBD
+SUMMARY:Quarterfinal 4: BHE vs VSC
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315201@tournamentics
 END:VEVENT
 BEGIN:VEVENT

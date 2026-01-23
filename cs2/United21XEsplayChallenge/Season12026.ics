@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260123T180000Z
+DTSTART:20260123T181000Z
 SUMMARY:MZP vs RT
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314005@tournamentics
 END:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:HAVU vs RT
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314007@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nResult: ReThink: 1 | Flying Angels: 0\nStream: https://kick.com/united21_en
+DTEND:20260123T175719Z
 DTSTART:20260123T172833Z
 SUMMARY:RT vs FA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314004@tournamentics
