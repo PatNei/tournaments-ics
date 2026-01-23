@@ -541,13 +541,6 @@ SUMMARY:Upper bracket semifinal 1: MSC vs NAVI.J
 UID:cs-go-united21-43-2026-1322452@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260123T200000Z
-SUMMARY:Round 3: UVS vs STA
-UID:cs-go-a1-gaming-league-11-2026-1313573@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Lazer Cats: 0 | EPG Family: 1\nStream: https://www.twitch.tv/lzrcats
 DTEND:20260119T203134Z
 DTSTART:20260119T191430Z
@@ -1796,7 +1789,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260123T170000Z
+DTSTART:20260123T171500Z
 SUMMARY:RT vs FA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314004@tournamentics
 END:VEVENT
@@ -2312,9 +2305,9 @@ SUMMARY:Round 3: B8 Academy vs JUMBO
 UID:cs-go-exort-series-21-2026-1322475@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260123T170000Z
+DTSTART:20260123T170644Z
 SUMMARY:MZP vs HAVU
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314003@tournamentics
 END:VEVENT
@@ -2942,8 +2935,8 @@ SUMMARY:ENRAGE vs HASP
 UID:cs-go-esea-advanced-europe-56-2026-1322460@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: GamerLegion: 0 | Vitality: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260123T171217Z
 DTSTART:20260123T150240Z
 SUMMARY:Quarterfinal 3: GL vs VIT
 UID:cs-go-blast-bounty-winter-2026-1314738@tournamentics
