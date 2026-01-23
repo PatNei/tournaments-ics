@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260124T070000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: Morningstar vs TBD
 UID:cs-go-zhi-tech-elite-masters-2026-1318727@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nResult: Morningstar: 2 | The Huns Esports: 0\nStream: https://www.twitch.tv/Trottah
+DTEND:20260123T060937Z
 DTSTART:20260123T034233Z
 SUMMARY:Quarterfinal 2: Morningstar vs THE
 UID:cs-go-zhi-tech-elite-masters-2026-1318724@tournamentics
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260123T080000Z
+DTSTART:20260123T090000Z
 SUMMARY:Quarterfinal 1: FLY vs CW
 UID:cs-go-zhi-tech-elite-masters-2026-1318723@tournamentics
 END:VEVENT
@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260123T060000Z
+DTSTART:20260123T070000Z
 SUMMARY:Quarterfinal 3: RA vs JJH
 UID:cs-go-zhi-tech-elite-masters-2026-1318725@tournamentics
 END:VEVENT
