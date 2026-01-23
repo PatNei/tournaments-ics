@@ -453,7 +453,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260125T090000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: japczany vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1178,8 +1178,8 @@ SUMMARY:JS vs SFE
 UID:cs-go-united21-x-esplay-challenge-1-2025-1313997@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: japczany: 0 | Fingers Crossed: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260123T132000Z
 DTSTART:20260123T114828Z
 SUMMARY:Winners Match: japczany vs Fingers
 UID:cs-go-european-pro-league-series-4-2026-1306429@tournamentics
