@@ -229,7 +229,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260124T190000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: TBD vs LDP
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260124T160000Z
-SUMMARY:Quarterfinal 2: BHE vs TBD
+SUMMARY:Quarterfinal 2: TBD vs YAW
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260124T130000Z
-SUMMARY:Quarterfinal 1: LDP vs YAW
+SUMMARY:Quarterfinal 1: TBD vs FA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3082,8 +3082,8 @@ SUMMARY:Upper bracket quarterfinal 2: IMP vs FDB
 UID:cs-go-betboom-rush-b-summit-2026-1317675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 2 | Players: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260123T020050Z
 DTSTART:20260122T221237Z
 SUMMARY:Round of 16 match 4: FA vs PLS
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315193@tournamentics
@@ -5262,7 +5262,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260124T220000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: BHE vs TBD
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
