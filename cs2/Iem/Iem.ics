@@ -30,8 +30,8 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-iem-krakow-2026-1331882@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | Gentle Mates: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260123T233403Z
 DTSTART:20260123T201039Z
 SUMMARY:Lower bracket final: BB vs M8
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310827@tournamentics
@@ -718,7 +718,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260123T233000Z
+DTSTART:20260123T234500Z
 SUMMARY:Grand final: RED vs BST
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310746@tournamentics
 END:VEVENT

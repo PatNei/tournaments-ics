@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | Gentle Mates: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260123T233403Z
 DTSTART:20260123T201039Z
 SUMMARY:Lower bracket final: BB vs M8
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310827@tournamentics
