@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260124T183000Z
-SUMMARY:Semifinal 1: SFE vs TBD
+SUMMARY:Semifinal 1: SFE vs HAVU
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314019@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -16,15 +16,15 @@ SUMMARY:JS vs SFE
 UID:cs-go-united21-x-esplay-challenge-1-2025-1313997@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
 DURATION:PT2H
 DTSTART:20260124T183000Z
 SUMMARY:Semifinal 2: BIG vs ALL
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314020@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nResult: HAVU: 2 | STATE: 1\nStream: https://kick.com/united21_en
+DTEND:20260124T181408Z
 DTSTART:20260124T150247Z
 SUMMARY:Quarterfinal 2: HAVU vs STA
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314016@tournamentics
