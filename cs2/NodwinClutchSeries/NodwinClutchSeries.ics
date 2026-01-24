@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260124T120000Z
+DTSTART:20260124T121500Z
 SUMMARY:Round 1: G1 vs ARC
 UID:cs-go-nodwin-clutch-series-4-2026-1313472@tournamentics
 END:VEVENT
@@ -359,8 +359,8 @@ SUMMARY:Round 1: ex-RUBY vs EF
 UID:cs-go-nodwin-clutch-series-4-2026-1313474@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Favbet: 1 | illwill: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260124T120220Z
 DTSTART:20260124T090153Z
 SUMMARY:Round 1: FAV vs ILWL
 UID:cs-go-nodwin-clutch-series-4-2026-1313471@tournamentics
