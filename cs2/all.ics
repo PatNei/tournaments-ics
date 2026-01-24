@@ -4464,7 +4464,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260124T233000Z
-SUMMARY:Semifinal 2: MIBR vs TBD
+SUMMARY:Semifinal 2: MIBR vs RED
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322391@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5602,8 +5602,8 @@ SUMMARY:Quarterfinal match 4: 8S vs ENJOY
 UID:cs-go-premier-league-1-2026-1322464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/r_nicolino
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nResult: Game Hunters: 0 | RED Canids: 2\nStream: https://www.twitch.tv/r_nicolino
+DTEND:20260124T192003Z
 DTSTART:20260124T165257Z
 SUMMARY:Quarterfinal 4: GH vs RED
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322389@tournamentics
