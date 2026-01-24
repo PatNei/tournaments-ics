@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260125T090000Z
-SUMMARY:Grand final: FLY vs TBD
+SUMMARY:Grand final: FLY vs JJH
 UID:cs-go-zhi-tech-elite-masters-2026-1318729@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Round of 16 match 5: RA vs UR
 UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1323603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | Lynn Vision: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260124T125945Z
 DTSTART:20260124T100331Z
 SUMMARY:Semifinal 2: JJH vs LVG
 UID:cs-go-zhi-tech-elite-masters-2026-1318728@tournamentics

@@ -446,7 +446,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260125T090000Z
-SUMMARY:Grand final: FLY vs TBD
+SUMMARY:Grand final: FLY vs JJH
 UID:cs-go-zhi-tech-elite-masters-2026-1318729@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -919,8 +919,8 @@ SUMMARY:Round of 16 match 5: RA vs UR
 UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1323603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Zhi-Tech Elite Masters - 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | Lynn Vision: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260124T125945Z
 DTSTART:20260124T100331Z
 SUMMARY:Semifinal 2: JJH vs LVG
 UID:cs-go-zhi-tech-elite-masters-2026-1318728@tournamentics
@@ -5735,9 +5735,9 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #7 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260124T130000Z
+DTSTART:20260124T130405Z
 SUMMARY:Quarterfinal 4: BHE vs VSC
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315201@tournamentics
 END:VEVENT
