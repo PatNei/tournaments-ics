@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260124T180000Z
+DTSTART:20260124T183000Z
 SUMMARY:Semifinal 1: SFE vs TBD
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314019@tournamentics
 END:VEVENT
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260125T150000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: FAL vs TBD
 UID:cs-go-blast-bounty-winter-2026-1314743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1724,8 +1724,8 @@ SUMMARY:Winners match: BBP vs LK
 UID:cs-go-european-pro-league-series-4-play-in-2026-1306394@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Vitality: 1 | Team Falcons: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260124T174503Z
 DTSTART:20260124T150148Z
 SUMMARY:Semifinal 1: VIT vs FAL
 UID:cs-go-blast-bounty-winter-2026-1314740@tournamentics
@@ -5240,7 +5240,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260124T180000Z
+DTSTART:20260124T183000Z
 SUMMARY:Round 1: ex-RUBY vs EF
 UID:cs-go-nodwin-clutch-series-4-2026-1313474@tournamentics
 END:VEVENT

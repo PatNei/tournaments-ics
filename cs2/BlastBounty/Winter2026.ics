@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260125T150000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: FAL vs TBD
 UID:cs-go-blast-bounty-winter-2026-1314743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Quarterfinal 4: PRV vs TS
 UID:cs-go-blast-bounty-winter-2026-1314739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Vitality: 1 | Team Falcons: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260124T174503Z
 DTSTART:20260124T150148Z
 SUMMARY:Semifinal 1: VIT vs FAL
 UID:cs-go-blast-bounty-winter-2026-1314740@tournamentics
