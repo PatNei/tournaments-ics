@@ -2,6 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260201T150000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1333316@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260130T200000Z
+SUMMARY:Upper bracket semifinal 2: MIBR vs 9z
+UID:cs-go-fireconter-1-2026-1333313@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260130T140000Z
+SUMMARY:Upper bracket semifinal 2: MARS vs PCY
+UID:cs-go-fireconter-1-2026-1333309@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260130T170000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1333310@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260129T230000Z
@@ -23,6 +51,34 @@ SUMMARY:Upper bracket semifinal 1: IMP vs ZG
 UID:cs-go-fireconter-1-2026-1333300@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260201T220000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1333318@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260130T230000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1333315@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260130T200000Z
+SUMMARY:Upper bracket semifinal 1: SHK vs LUNA Esports
+UID:cs-go-fireconter-1-2026-1333312@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260130T140000Z
+SUMMARY:Upper bracket semifinal 1: BST vs ISG
+UID:cs-go-fireconter-1-2026-1333308@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260129T200000Z
@@ -35,6 +91,27 @@ DURATION:PT2H
 DTSTART:20260129T170000Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-fireconter-1-2026-1333302@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260201T180000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1333317@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260130T230000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1333314@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260130T170000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1333311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
