@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260124T180000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: SFE vs TBD
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314019@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2046,8 +2046,8 @@ SUMMARY:Lower bracket semifinal: M8 vs 9INE
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310826@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esplaycom
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nResult: Lilmix: 0 | SemperFi Esports: 2\nStream: https://www.twitch.tv/esplaycom
+DTEND:20260124T124324Z
 DTSTART:20260124T110851Z
 SUMMARY:Quarterfinal 1: LILMIX vs SFE
 UID:cs-go-united21-x-esplay-challenge-1-2025-1314015@tournamentics
@@ -5679,9 +5679,9 @@ SUMMARY:Elimination match: MSC vs MINLATE
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260124T123000Z
+DTSTART:20260124T123537Z
 SUMMARY:LK vs ACE
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1326117@tournamentics
 END:VEVENT
