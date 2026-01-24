@@ -336,6 +336,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortSeries/Se
 </details>
 
 <details>
+<summary>FiReCONTER</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fireconter/Fireconter.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fireconter/Fireconter.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fireconter/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Fireconter/Season12026.ics
+```
+
+</details>
+
+<details>
 <summary>Gamers Club Liga Série A</summary>
 
 ### Full Schedule
