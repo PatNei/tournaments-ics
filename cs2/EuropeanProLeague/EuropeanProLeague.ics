@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260125T113000Z
-SUMMARY:Decider Match: MANA vs TBD
+SUMMARY:Decider Match: MANA vs MOUZ.N
 UID:cs-go-european-pro-league-series-4-2026-1306435@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -282,8 +282,8 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 0 | magic: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260124T131745Z
 DTSTART:20260124T114337Z
 SUMMARY:Winners Match: MOUZ.N vs MGC
 UID:cs-go-european-pro-league-series-4-2026-1306434@tournamentics
