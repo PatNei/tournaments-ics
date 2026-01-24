@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/r_nicolino
 DURATION:PT2H
-DTSTART:20260124T150000Z
+DTSTART:20260124T151500Z
 SUMMARY:Quarterfinal 3: MIBR vs YAW
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322388@tournamentics
 END:VEVENT
@@ -2900,8 +2900,8 @@ SUMMARY:Round of 16 match 5: ODK vs GH
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: aimclub: 2 | Dark Tigers: 0\nStream: https://kick.com/exort_en2
+DTEND:20260124T145616Z
 DTSTART:20260124T133549Z
 SUMMARY:Round 2: aimclub vs DT
 UID:cs-go-exort-series-21-2026-1331760@tournamentics
@@ -5520,7 +5520,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Circuit X - Betboom Redemption Curitiba 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260124T150000Z
+DTSTART:20260124T154500Z
 SUMMARY:Quarterfinal 4: GH vs RED
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322389@tournamentics
 END:VEVENT
