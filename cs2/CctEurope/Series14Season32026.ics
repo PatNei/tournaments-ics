@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260125T183000Z
+DTSTART:20260125T190000Z
 SUMMARY:Round 1: Fingers vs MZP
 UID:cs-go-cct-europe-series-14-3-2026-1326383@tournamentics
 END:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | Ursa: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260125T165051Z
 DTSTART:20260125T144733Z
 SUMMARY:Round 1: AM vs URSA
 UID:cs-go-cct-europe-series-14-3-2026-1326381@tournamentics
