@@ -807,7 +807,7 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinon__cs
 DURATION:PT2H
 DTSTART:20260125T130000Z
 SUMMARY:BW vs FCF
@@ -1451,8 +1451,8 @@ SUMMARY:Round of 16 match 4: JJH vs JS
 UID:cs-go-zhi-tech-elite-masters-closed-qualifier-2026-1323602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: BakS eSports: 2 | Oxuji Esports: 1\nStream: https://kick.com/exort_en2
+DTEND:20260125T125727Z
 DTSTART:20260125T104142Z
 SUMMARY:Round 3: BAKS vs OXUJI
 UID:cs-go-exort-series-21-2026-1334275@tournamentics
