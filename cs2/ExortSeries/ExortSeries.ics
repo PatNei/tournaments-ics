@@ -2,6 +2,20 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260126T163000Z
+SUMMARY:Round 3: Falcons Force vs CYBERSHOKE Prospects
+UID:cs-go-exort-series-21-2026-1334281@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260125T133000Z
+SUMMARY:Round 3:  Phantom Academy vs gothboiclique
+UID:cs-go-exort-series-21-2026-1334277@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/exort_en2
 DTEND:20260115T212106Z
 DTSTART:20260115T193751Z
@@ -28,13 +42,6 @@ DTEND:20260115T121415Z
 DTSTART:20260115T104118Z
 SUMMARY:Round 2: PEEP vs JUMBO
 UID:cs-go-exort-series-21-2026-1320306@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
-DTEND:20260122T210819Z
-DTSTART:20260122T193953Z
-SUMMARY:Round 1: HERO.A vs gothboiclique
-UID:cs-go-exort-series-21-2026-1328923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: B8 Academy: 2 | JUMBO TEAM: 0\nStream: https://kick.com/exort_en2
@@ -119,6 +126,27 @@ DTEND:20260120T182247Z
 DTSTART:20260120T163802Z
 SUMMARY:Round 5: OXUJI vs JUMBO
 UID:cs-go-exort-series-21-2026-1327556@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260126T103000Z
+SUMMARY:Round 3: EJ vs aimclub
+UID:cs-go-exort-series-21-2026-1334279@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260126T133000Z
+SUMMARY:Round 3: WTRML0N vs MISA
+UID:cs-go-exort-series-21-2026-1334280@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260125T193000Z
+SUMMARY:Round 3: HERO.A vs AUR.YB
+UID:cs-go-exort-series-21-2026-1334276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Young TigeRES: 2 | 3DMAX Academy: 0\nStream: https://kick.com/exort_en2
@@ -226,6 +254,27 @@ SUMMARY:Round 5: B8 Academy vs DT
 UID:cs-go-exort-series-21-2026-1327555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260126T193000Z
+SUMMARY:Round 3: Y.TigeRES vs FS
+UID:cs-go-exort-series-21-2026-1334282@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260125T163000Z
+SUMMARY:Round 3: MAJOR WINNERS vs DT
+UID:cs-go-exort-series-21-2026-1334278@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260125T103000Z
+SUMMARY:Round 3: BAKS vs OXUJI
+UID:cs-go-exort-series-21-2026-1334275@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Flame Sharks: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
 DTEND:20260124T211008Z
 DTSTART:20260124T194432Z
@@ -268,6 +317,13 @@ SUMMARY:Round 4: DT vs SASHI.A
 UID:cs-go-exort-series-21-2026-1325324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
+DTEND:20260121T205245Z
+DTSTART:20260121T193735Z
+SUMMARY:Round 1: AUR.YB vs Y.TigeRES
+UID:cs-go-exort-series-21-2026-1328919@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | PCIFIC: 0\nStream: https://kick.com/exort_en2
 DTEND:20260117T120933Z
 DTSTART:20260117T103920Z
@@ -303,11 +359,11 @@ SUMMARY:Round 4:  Phantom Academy vs OXUJI
 UID:cs-go-exort-series-21-2026-1324888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
-DTEND:20260121T205245Z
-DTSTART:20260121T193735Z
-SUMMARY:Round 1: AUR.YB vs Y.TigeRES
-UID:cs-go-exort-series-21-2026-1328919@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
+DTEND:20260122T210819Z
+DTSTART:20260122T193953Z
+SUMMARY:Round 1: HERO.A vs gothboiclique
+UID:cs-go-exort-series-21-2026-1328923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Flame Sharks: 0 | Misa Esports: 2\nStream: https://kick.com/exort_en2
