@@ -11,16 +11,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260127T230000Z
+SUMMARY:Winners Match: GE vs MIBR.A
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1335461@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260126T190000Z
 SUMMARY:Winners match: Bad Luck vs 4M
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1334343@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | Alzon: 0\nStream: No official stream linked
-DTEND:20260122T175114Z
-DTSTART:20260122T171642Z
-SUMMARY:LDP vs Alzon
-UID:cs-go-gamers-club-liga-serie-a-january-2026-1330555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | METANOIAGG: 1\nStream: No official stream linked
@@ -28,6 +28,13 @@ DTEND:20260124T221837Z
 DTSTART:20260124T212559Z
 SUMMARY:BST.A vs METANOIAGG
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1333077@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | Alzon: 0\nStream: No official stream linked
+DTEND:20260122T175114Z
+DTSTART:20260122T171642Z
+SUMMARY:LDP vs Alzon
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1330555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | Vexa: 0\nStream: No official stream linked
