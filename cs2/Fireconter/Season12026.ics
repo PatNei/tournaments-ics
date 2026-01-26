@@ -18,6 +18,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
+DTSTART:20260131T230000Z
+SUMMARY:Qualification match: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335661@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
 DTSTART:20260130T200000Z
 SUMMARY:Upper bracket semifinal 2: MIBR vs 9z
 UID:cs-go-fireconter-1-2026-1333313@tournamentics
@@ -67,6 +74,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
+DTSTART:20260131T200000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335659@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
 DTSTART:20260130T230000Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-fireconter-1-2026-1333315@tournamentics
@@ -109,6 +123,20 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
+DTSTART:20260131T200000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335662@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260131T230000Z
+SUMMARY:Qualification match: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335658@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
 DTSTART:20260130T230000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-fireconter-1-2026-1333314@tournamentics
@@ -131,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260129T200000Z
-SUMMARY:Upper bracket semifinal 1: Fluxo W7M vs OUTPLAYED
+SUMMARY:Upper bracket semifinal 1: FXW7 vs OUTPLAYED
 UID:cs-go-fireconter-1-2026-1333304@tournamentics
 END:VEVENT
 BEGIN:VEVENT

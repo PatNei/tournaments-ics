@@ -102,7 +102,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T153000Z
+DTSTART:20260204T123000Z
 SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326484@tournamentics
 END:VEVENT
@@ -385,6 +385,13 @@ DTEND:20260117T235610Z
 DTSTART:20260117T220517Z
 SUMMARY:Round 3: CRASH vs MAG
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315176@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260131T200000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335662@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
@@ -683,7 +690,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T123000Z
+DTSTART:20260204T093000Z
 SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326483@tournamentics
 END:VEVENT
@@ -910,6 +917,13 @@ DURATION:PT2H
 DTSTART:20260127T080000Z
 SUMMARY:BB vs GGS
 UID:cs-go-myskill-pro-league-1-2026-1333748@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260131T230000Z
+SUMMARY:Qualification match: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335661@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PLAYR Masters - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | Infinite: 0\nStream: https://www.youtube.com/watch?v=ra-j80Jt7Uc
@@ -2207,6 +2221,13 @@ SUMMARY:Round 2:  Phantom Academy vs PCF
 UID:cs-go-exort-series-21-2026-1319967@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260131T200000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335659@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 2 | K27: 1\nStream: https://www.twitch.tv/vanfantv
 DTEND:20260121T142733Z
 DTSTART:20260121T101245Z
@@ -2244,7 +2265,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260203T183000Z
+DTSTART:20260203T153000Z
 SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326469@tournamentics
 END:VEVENT
@@ -2392,7 +2413,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260129T200000Z
-SUMMARY:Upper bracket semifinal 1: Fluxo W7M vs OUTPLAYED
+SUMMARY:Upper bracket semifinal 1: FXW7 vs OUTPLAYED
 UID:cs-go-fireconter-1-2026-1333304@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2779,6 +2800,13 @@ DTEND:20260114T161937Z
 DTSTART:20260114T135053Z
 SUMMARY:Round 2: B8 Academy vs EJ
 UID:cs-go-exort-series-21-2026-1319966@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
+DURATION:PT2H
+DTSTART:20260131T230000Z
+SUMMARY:Qualification match: TBD vs TBD
+UID:cs-go-fireconter-1-2026-1335658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
@@ -4449,7 +4477,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260126T093000Z
+DTSTART:20260126T094000Z
 SUMMARY:Round 1: 67 vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326384@tournamentics
 END:VEVENT
@@ -5863,7 +5891,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T183000Z
+DTSTART:20260204T153000Z
 SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326485@tournamentics
 END:VEVENT
