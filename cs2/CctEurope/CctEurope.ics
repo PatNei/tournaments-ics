@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260128T150000Z
-SUMMARY:Round of 16 match 7: TBD vs TBD
+SUMMARY:Round of 16 match 7: EYE vs 1WIN
 UID:cs-go-cct-europe-series-13-3-2026-1313555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260127T180000Z
-SUMMARY:Round of 16 match 4: TBD vs TBD
+SUMMARY:Round of 16 match 4: GL vs 33
 UID:cs-go-cct-europe-series-13-3-2026-1313552@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -474,7 +474,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260128T120000Z
-SUMMARY:Round of 16 match 6: TBD vs TBD
+SUMMARY:Round of 16 match 6: ENCE vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313554@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -527,8 +527,8 @@ SUMMARY:Winners match: EF vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-13-3-2026-1312242@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
+DTEND:20260126T214657Z
 DTSTART:20260126T183832Z
 SUMMARY:Round 1: JS vs ex-RUBY
 UID:cs-go-cct-europe-series-14-3-2026-1326390@tournamentics
@@ -775,7 +775,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260128T180000Z
-SUMMARY:Round of 16 match 8: TBD vs TBD
+SUMMARY:Round of 16 match 8: BIG vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -796,7 +796,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260128T090000Z
-SUMMARY:Round of 16 match 5: TBD vs TBD
+SUMMARY:Round of 16 match 5: SIN vs NTR
 UID:cs-go-cct-europe-series-13-3-2026-1313553@tournamentics
 END:VEVENT
 BEGIN:VEVENT
