@@ -23,8 +23,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-myskill-pro-league-1-2026-1333747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nResult: Team Novaq: 0 | mix52: 2\nStream: https://www.twitch.tv/dutchboycasts
+DTEND:20260127T095705Z
 DTSTART:20260127T083105Z
 SUMMARY:NVQ vs mix52
 UID:cs-go-myskill-pro-league-1-2026-1333744@tournamentics
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
 DTSTART:20260127T110000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: mix52 vs TBD
 UID:cs-go-myskill-pro-league-1-2026-1333746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
 DTSTART:20260127T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: NVQ vs TBD
 UID:cs-go-myskill-pro-league-1-2026-1333745@tournamentics
 END:VEVENT
 END:VCALENDAR
