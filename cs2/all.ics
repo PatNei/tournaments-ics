@@ -3418,9 +3418,9 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-krakow-2026-1331900@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260127T190000Z
+DTSTART:20260127T191130Z
 SUMMARY:Falcons Force vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1317216@tournamentics
 END:VEVENT
@@ -5350,8 +5350,8 @@ SUMMARY:Elimination match: naocopulas vs YAW
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 1 | Endless Journey: 2\nStream: https://kick.com/exort_en2
+DTEND:20260127T190212Z
 DTSTART:20260127T163703Z
 SUMMARY:Round 4: AUR.YB vs EJ
 UID:cs-go-exort-series-21-2026-1336658@tournamentics
@@ -5917,8 +5917,8 @@ SUMMARY:Upper bracket semifinal 2: ChickenBurger vs EF.A
 UID:cs-go-united21-43-2026-1308212@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: eLITenergy: 1 | XI Esport: 0\nStream: https://www.twitch.tv/rob1nfall
+DTEND:20260127T190500Z
 DTSTART:20260127T181303Z
 SUMMARY:eLITenergy vs XI
 UID:cs-go-esea-advanced-europe-56-2026-1336666@tournamentics
