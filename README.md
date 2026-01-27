@@ -448,27 +448,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/S
 </details>
 
 <details>
-<summary>Premier League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/PremierLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/PremierLeague.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PremierLeague/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>Roman Imperium Cup</summary>
 
 ### Full Schedule
