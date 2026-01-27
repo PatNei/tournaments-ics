@@ -422,8 +422,8 @@ SUMMARY:Round of 16 match 8: NRG vs B8
 UID:cs-go-iem-krakow-2026-1324063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 1 | FORZE Reload: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260127T124703Z
 DTSTART:20260127T093448Z
 SUMMARY:Round 2: FAV vs FORZE.R
 UID:cs-go-cct-europe-series-14-3-2026-1326391@tournamentics
@@ -3110,9 +3110,9 @@ SUMMARY:Round 1: MOUZ.N vs AAB
 UID:cs-go-nodwin-clutch-series-4-2026-1313467@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260127T124000Z
+DTSTART:20260127T124257Z
 SUMMARY:Round of 16 match 2: KOL vs EF
 UID:cs-go-european-pro-league-series-4-2026-1306437@tournamentics
 END:VEVENT
@@ -3201,7 +3201,7 @@ SUMMARY:Round 4: ORM vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313541@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260127T130000Z
 SUMMARY:Round 2: JS vs LK
