@@ -1290,9 +1290,9 @@ SUMMARY:Upper bracket final: RED vs BST
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
-DTSTART:20260127T160000Z
+DTSTART:20260127T161424Z
 SUMMARY:LFO YinYang vs MSC
 UID:cs-go-esea-advanced-europe-56-2026-1336663@tournamentics
 END:VEVENT
@@ -5875,8 +5875,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | Falcons Force: 1\nStream: https://kick.com/exort_en2
+DTEND:20260127T160816Z
 DTSTART:20260127T134459Z
 SUMMARY:Round 4: OXUJI vs Falcons Force
 UID:cs-go-exort-series-21-2026-1336657@tournamentics
