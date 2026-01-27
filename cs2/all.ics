@@ -198,6 +198,13 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-iem-krakow-2026-1331906@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260128T133000Z
+SUMMARY:Round 4: aimclub vs MISA
+UID:cs-go-exort-series-21-2026-1337885@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Bounty - Winter 2026\nMatch Type: Best Of\nResult: Team Falcons: 0 | PARIVISION: 3\nStream: https://www.twitch.tv/blastpremier
 DTEND:20260125T182327Z
 DTSTART:20260125T150237Z
@@ -1269,8 +1276,8 @@ SUMMARY:Upper bracket final: RED vs BST
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: LFO YinYang: 0 | MASONIC: 1\nStream: https://www.twitch.tv/dutchboycasts
+DTEND:20260127T173516Z
 DTSTART:20260127T161424Z
 SUMMARY:LFO YinYang vs MSC
 UID:cs-go-esea-advanced-europe-56-2026-1336663@tournamentics
@@ -4804,8 +4811,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313498@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nResult: Omega: 0 | ALLINNERS: 2\nStream: https://www.twitch.tv/myskill_top2
+DTEND:20260127T173317Z
 DTSTART:20260127T145327Z
 SUMMARY:Decider match: Omega vs ALLIN
 UID:cs-go-myskill-pro-league-1-2026-1333752@tournamentics
@@ -5336,6 +5343,13 @@ SUMMARY:URSA vs ILWL
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1326118@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260128T193000Z
+SUMMARY:Round 4: DT vs gothboiclique
+UID:cs-go-exort-series-21-2026-1337887@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | Bebop: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260120T105006Z
 DTSTART:20260120T090331Z
@@ -5504,8 +5518,8 @@ SUMMARY:BMB vs 777
 UID:cs-go-nodwin-clutch-series-4-2026-1317354@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 0 | Favbet: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260127T173310Z
 DTSTART:20260127T150243Z
 SUMMARY:Round 3: MOUZ.N vs FAV
 UID:cs-go-nodwin-clutch-series-4-2026-1313485@tournamentics
@@ -5852,6 +5866,13 @@ DTEND:20260122T004300Z
 DTSTART:20260121T201958Z
 SUMMARY:Upper bracket quarterfinal 1: 9INE vs BIG.A
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310795@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260128T163000Z
+SUMMARY:Round 4: CYBERSHOKE Prospects vs Y.TigeRES
+UID:cs-go-exort-series-21-2026-1337886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | BESTIA: 1\nStream: https://www.twitch.tv/eslcs
