@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260127T133000Z
+SUMMARY:Round 4: OXUJI vs Falcons Force
+UID:cs-go-exort-series-21-2026-1336657@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Falcons Force: 2 | CYBERSHOKE Prospects: 0\nStream: https://kick.com/exort_en2
 DTEND:20260126T183812Z
 DTSTART:20260126T163958Z
@@ -42,13 +49,6 @@ DTEND:20260115T121415Z
 DTSTART:20260115T104118Z
 SUMMARY:Round 2: PEEP vs JUMBO
 UID:cs-go-exort-series-21-2026-1320306@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
-DTEND:20260122T210819Z
-DTSTART:20260122T193953Z
-SUMMARY:Round 1: HERO.A vs gothboiclique
-UID:cs-go-exort-series-21-2026-1328923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: B8 Academy: 2 | JUMBO TEAM: 0\nStream: https://kick.com/exort_en2
@@ -133,6 +133,13 @@ DTEND:20260120T182247Z
 DTSTART:20260120T163802Z
 SUMMARY:Round 5: OXUJI vs JUMBO
 UID:cs-go-exort-series-21-2026-1327556@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260127T193000Z
+SUMMARY:Round 4: WTRML0N vs FS
+UID:cs-go-exort-series-21-2026-1336659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Endless Journey: 2 | aimclub: 0\nStream: https://kick.com/exort_en2
@@ -261,6 +268,13 @@ SUMMARY:Round 5: B8 Academy vs DT
 UID:cs-go-exort-series-21-2026-1327555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260127T163000Z
+SUMMARY:Round 4: AUR.YB vs EJ
+UID:cs-go-exort-series-21-2026-1336658@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Young TigeRES: 1 | Flame Sharks: 2\nStream: https://kick.com/exort_en2
 DTEND:20260126T215732Z
 DTSTART:20260126T194414Z
@@ -317,6 +331,13 @@ SUMMARY:Round 4: DT vs SASHI.A
 UID:cs-go-exort-series-21-2026-1325324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
+DTEND:20260121T205245Z
+DTSTART:20260121T193735Z
+SUMMARY:Round 1: AUR.YB vs Y.TigeRES
+UID:cs-go-exort-series-21-2026-1328919@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | PCIFIC: 0\nStream: https://kick.com/exort_en2
 DTEND:20260117T120933Z
 DTSTART:20260117T103920Z
@@ -352,11 +373,11 @@ SUMMARY:Round 4:  Phantom Academy vs OXUJI
 UID:cs-go-exort-series-21-2026-1324888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
-DTEND:20260121T205245Z
-DTSTART:20260121T193735Z
-SUMMARY:Round 1: AUR.YB vs Y.TigeRES
-UID:cs-go-exort-series-21-2026-1328919@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
+DTEND:20260122T210819Z
+DTSTART:20260122T193953Z
+SUMMARY:Round 1: HERO.A vs gothboiclique
+UID:cs-go-exort-series-21-2026-1328923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Flame Sharks: 0 | Misa Esports: 2\nStream: https://kick.com/exort_en2
