@@ -2636,7 +2636,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260127T153000Z
+DTSTART:20260127T154500Z
 SUMMARY:Round 2: 67 vs MZP
 UID:cs-go-cct-europe-series-14-3-2026-1326411@tournamentics
 END:VEVENT
@@ -3201,8 +3201,8 @@ SUMMARY:Round 4: ORM vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313541@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | los kogutos: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260127T152316Z
 DTSTART:20260127T130640Z
 SUMMARY:Round 2: JS vs LK
 UID:cs-go-cct-europe-series-14-3-2026-1326410@tournamentics
