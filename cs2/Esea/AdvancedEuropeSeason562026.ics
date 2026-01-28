@@ -116,6 +116,20 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:Peekaboo vs TNC
+UID:cs-go-esea-advanced-europe-56-2026-1337978@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T173000Z
+SUMMARY:LK vs UNiTY
+UID:cs-go-esea-advanced-europe-56-2026-1337975@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260128T170000Z
 SUMMARY:AUR.YB vs FCF
 UID:cs-go-esea-advanced-europe-56-2026-1337972@tournamentics
@@ -242,6 +256,34 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:LK vs TNT
+UID:cs-go-esea-advanced-europe-56-2026-1337989@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:DEPO vs HAVU
+UID:cs-go-esea-advanced-europe-56-2026-1337986@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:FF vs megoshort
+UID:cs-go-esea-advanced-europe-56-2026-1337983@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:PEEP vs OldBoys
+UID:cs-go-esea-advanced-europe-56-2026-1337980@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260128T150000Z
 SUMMARY:ME vs HS
 UID:cs-go-esea-advanced-europe-56-2026-1337969@tournamentics
@@ -352,11 +394,25 @@ SUMMARY:ex-GANK Esports vs megoshort
 UID:cs-go-esea-advanced-europe-56-2026-1336664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:ZOTIX vs AHK
+UID:cs-go-esea-advanced-europe-56-2026-1337977@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 0 | FC Famalicão Esports: 1\nStream: https://www.twitch.tv/sinon__cs
 DTEND:20260125T141834Z
 DTSTART:20260125T131340Z
 SUMMARY:BW vs FCF
 UID:cs-go-esea-advanced-europe-56-2026-1334274@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T170000Z
+SUMMARY:XI vs ALGO
+UID:cs-go-esea-advanced-europe-56-2026-1337974@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: HyperSpirit: 1 | FUT Academy: 0\nStream: https://www.twitch.tv/enthycia
@@ -483,6 +539,27 @@ DTEND:20260115T182845Z
 DTSTART:20260115T171330Z
 SUMMARY:eLITenergy vs LC
 UID:cs-go-esea-advanced-europe-56-2026-1321131@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:FS vs aimclub
+UID:cs-go-esea-advanced-europe-56-2026-1337988@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:UNiTY vs eLITenergy
+UID:cs-go-esea-advanced-europe-56-2026-1337985@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:AM vs SIU
+UID:cs-go-esea-advanced-europe-56-2026-1337982@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OLDBOYS-: 1 | Peekaboo: 0\nStream: https://www.twitch.tv/tudsonn
@@ -620,6 +697,27 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:OLDBOYS- vs ME
+UID:cs-go-esea-advanced-europe-56-2026-1337990@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:BIG.E vs BRUTE
+UID:cs-go-esea-advanced-europe-56-2026-1337979@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T180000Z
+SUMMARY:LFO vs STA
+UID:cs-go-esea-advanced-europe-56-2026-1337976@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260128T170000Z
 SUMMARY:QWE vs URSA
 UID:cs-go-esea-advanced-europe-56-2026-1337973@tournamentics
@@ -735,6 +833,27 @@ DTEND:20260116T193742Z
 DTSTART:20260116T191606Z
 SUMMARY:ENRAGE vs HASP
 UID:cs-go-esea-advanced-europe-56-2026-1322460@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:ex-GANK Esports vs 777
+UID:cs-go-esea-advanced-europe-56-2026-1337987@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:MSC vs BAKS
+UID:cs-go-esea-advanced-europe-56-2026-1337984@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260128T190000Z
+SUMMARY:BMB vs ENRAGE
+UID:cs-go-esea-advanced-europe-56-2026-1337981@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: aimclub: 1 | SUNFALL: 0\nStream: https://www.twitch.tv/gsancher
