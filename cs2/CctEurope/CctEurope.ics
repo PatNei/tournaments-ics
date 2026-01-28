@@ -2,6 +2,27 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | GenOne: 0\nStream: https://kick.com/cct_cs
+DTEND:20260120T203456Z
+DTSTART:20260120T180419Z
+SUMMARY:Round 2: 1WIN vs G1
+UID:cs-go-cct-europe-series-13-3-2026-1313527@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | UNiTY esports: 0\nStream: https://kick.com/cct_cs
+DTEND:20260120T103000Z
+DTSTART:20260120T090356Z
+SUMMARY:Round 2: NTR vs UNiTY
+UID:cs-go-cct-europe-series-13-3-2026-1313524@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | GenOne: 0\nStream: https://kick.com/cct_cs
+DTEND:20260119T132946Z
+DTSTART:20260119T120150Z
+SUMMARY:Round 1: NEMI vs G1
+UID:cs-go-cct-europe-series-13-3-2026-1313521@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260204T123000Z
@@ -135,6 +156,27 @@ SUMMARY:Round 3: 33 vs ILWL
 UID:cs-go-cct-europe-series-13-3-2026-1313538@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | 1WIN: 2\nStream: https://kick.com/cct_cs
+DTEND:20260122T194350Z
+DTSTART:20260122T180203Z
+SUMMARY:Round 3: AM vs 1WIN
+UID:cs-go-cct-europe-series-13-3-2026-1313535@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | Oramond: 0\nStream: https://kick.com/cct_cs
+DTEND:20260123T111338Z
+DTSTART:20260123T090820Z
+SUMMARY:Round 3: NTR vs ORM
+UID:cs-go-cct-europe-series-13-3-2026-1313532@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 2 | Phantom: 1\nStream: https://kick.com/cct_cs
+DTEND:20260118T174502Z
+DTSTART:20260118T151053Z
+SUMMARY:Round 1: ORM vs PHA
+UID:cs-go-cct-europe-series-13-3-2026-1313518@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 1 | FORZE Reload: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260127T124703Z
 DTSTART:20260127T093448Z
@@ -231,6 +273,34 @@ DTEND:20260124T132805Z
 DTSTART:20260124T120633Z
 SUMMARY:Round 4: AM vs PHA
 UID:cs-go-cct-europe-series-13-3-2026-1313540@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
+DTEND:20260121T145447Z
+DTSTART:20260121T120440Z
+SUMMARY:Round 2: NEMI vs ex-RUBY
+UID:cs-go-cct-europe-series-13-3-2026-1313529@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Sangal: 2 | FORZE Reload: 0\nStream: https://kick.com/cct_cs
+DTEND:20260120T165054Z
+DTSTART:20260120T150503Z
+SUMMARY:Round 2: SNG vs FORZE.R
+UID:cs-go-cct-europe-series-13-3-2026-1313526@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | FORZE Reload: 0\nStream: https://kick.com/cct_cs
+DTEND:20260119T195634Z
+DTSTART:20260119T180913Z
+SUMMARY:Round 1: NEM vs FORZE.R
+UID:cs-go-cct-europe-series-13-3-2026-1313523@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | ARCRED: 2\nStream: https://kick.com/cct_cs
+DTEND:20260119T112818Z
+DTSTART:20260119T090248Z
+SUMMARY:Round 1: NTR vs ARC
+UID:cs-go-cct-europe-series-13-3-2026-1313520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -352,6 +422,20 @@ SUMMARY:Round 3: SNG vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313537@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | illwill: 2\nStream: https://kick.com/cct_cs
+DTEND:20260121T195228Z
+DTSTART:20260121T180128Z
+SUMMARY:Round 2: AM vs ILWL
+UID:cs-go-cct-europe-series-13-3-2026-1313531@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Sangal: 0 | illwill: 2\nStream: https://kick.com/cct_cs
+DTEND:20260118T142556Z
+DTSTART:20260118T120733Z
+SUMMARY:Round 1: SNG vs ILWL
+UID:cs-go-cct-europe-series-13-3-2026-1313517@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
 DTEND:20260126T214657Z
 DTSTART:20260126T183832Z
@@ -441,6 +525,27 @@ DTEND:20260124T203248Z
 DTSTART:20260124T182523Z
 SUMMARY:Round 4: NEM vs G1
 UID:cs-go-cct-europe-series-13-3-2026-1313542@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | ARCRED: 2\nStream: https://kick.com/cct_cs
+DTEND:20260121T104919Z
+DTSTART:20260121T090634Z
+SUMMARY:Round 2: NEM vs ARC
+UID:cs-go-cct-europe-series-13-3-2026-1313528@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 2 | Phantom: 0\nStream: https://kick.com/cct_cs
+DTEND:20260120T143305Z
+DTSTART:20260120T120434Z
+SUMMARY:Round 2: FAV vs PHA
+UID:cs-go-cct-europe-series-13-3-2026-1313525@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: 33: 2 | Favbet: 0\nStream: https://kick.com/cct_cs
+DTEND:20260119T170654Z
+DTSTART:20260119T150715Z
+SUMMARY:Round 1: 33 vs FAV
+UID:cs-go-cct-europe-series-13-3-2026-1313522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -583,11 +688,46 @@ SUMMARY:Round 3: ex-RUBY vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313539@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: GenOne: 2 | UNiTY esports: 1\nStream: https://kick.com/cct_cs
+DTEND:20260122T114358Z
+DTSTART:20260122T091144Z
+SUMMARY:Round 3: G1 vs UNiTY
+UID:cs-go-cct-europe-series-13-3-2026-1313536@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Phantom: 2 | FORZE Reload: 0\nStream: https://kick.com/cct_cs
+DTEND:20260122T141822Z
+DTSTART:20260122T121043Z
+SUMMARY:Round 3: PHA vs FORZE.R
+UID:cs-go-cct-europe-series-13-3-2026-1313533@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 0 | 33: 2\nStream: https://kick.com/cct_cs
+DTEND:20260121T173229Z
+DTSTART:20260121T152236Z
+SUMMARY:Round 2: ORM vs 33
+UID:cs-go-cct-europe-series-13-3-2026-1313530@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | UNiTY esports: 1\nStream: https://kick.com/cct_cs
+DTEND:20260118T203010Z
+DTSTART:20260118T180452Z
+SUMMARY:Round 1: AM vs UNiTY
+UID:cs-go-cct-europe-series-13-3-2026-1313519@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260204T183000Z
 SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326499@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 0 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
+DTEND:20260118T112130Z
+DTSTART:20260118T090925Z
+SUMMARY:Round 1: 1WIN vs ex-RUBY
+UID:cs-go-cct-europe-series-13-3-2026-1313516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
