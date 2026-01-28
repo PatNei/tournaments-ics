@@ -740,7 +740,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260129T090000Z
-SUMMARY:Quarterfinal 1: 33 vs TBD
+SUMMARY:Quarterfinal 1: 33 vs BIG
 UID:cs-go-cct-europe-series-13-3-2026-1313557@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1239,13 +1239,6 @@ DTEND:20260127T173516Z
 DTSTART:20260127T161424Z
 SUMMARY:LFO YinYang vs MSC
 UID:cs-go-esea-advanced-europe-56-2026-1336663@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260128T182153Z
-SUMMARY:Round of 16 match 2: BIG vs ARC
-UID:cs-go-cct-europe-series-13-3-2026-1313556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
