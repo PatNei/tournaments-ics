@@ -350,27 +350,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GamersClubLiga
 </details>
 
 <details>
-<summary>IEM</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
-```
-
----
-
-### Rio: Americas Open Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasOpenQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasOpenQualifier2026.ics
-```
-
-</details>
-
-<details>
 <summary>Myskill Pro League</summary>
 
 ### Full Schedule
