@@ -1416,8 +1416,8 @@ SUMMARY:Elimination match: rottweilers vs PGE
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | MINLATE: 2\nStream: https://kick.com/cct_cs
+DTEND:20260128T135728Z
 DTSTART:20260128T123718Z
 SUMMARY:Round 2: AM vs MINLATE
 UID:cs-go-cct-europe-series-14-3-2026-1326436@tournamentics
@@ -2452,8 +2452,8 @@ SUMMARY:Round 4: PCF vs JUMBO
 UID:cs-go-exort-series-21-2026-1325322@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nResult: HOTU: 2 | ALLINNERS: 0\nStream: https://www.twitch.tv/myskill_top
+DTEND:20260128T135426Z
 DTSTART:20260128T122007Z
 SUMMARY:Lower bracket final: HOTU vs ALLIN
 UID:cs-go-myskill-pro-league-1-2026-1333894@tournamentics
@@ -2595,7 +2595,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
 DTSTART:20260128T140000Z
-SUMMARY:Grand final: BB vs TBD
+SUMMARY:Grand final: BB vs HOTU
 UID:cs-go-myskill-pro-league-1-2026-1333918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
