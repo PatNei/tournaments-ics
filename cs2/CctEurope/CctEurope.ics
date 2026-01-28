@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260129T120000Z
-SUMMARY:Quarterfinal 2: TBD vs NEMI
+SUMMARY:Quarterfinal 2: ENCE vs NEMI
 UID:cs-go-cct-europe-series-13-3-2026-1313558@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -401,8 +401,8 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326507@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: ENCE: 2 | ex-RUBY: 1\nStream: https://kick.com/cct_cs
+DTEND:20260128T145050Z
 DTSTART:20260128T123823Z
 SUMMARY:Round of 16 match 3: ENCE vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313554@tournamentics

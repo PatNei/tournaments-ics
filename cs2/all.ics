@@ -215,7 +215,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260129T120000Z
-SUMMARY:Quarterfinal 2: TBD vs NEMI
+SUMMARY:Quarterfinal 2: ENCE vs NEMI
 UID:cs-go-cct-europe-series-13-3-2026-1313558@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2200,8 +2200,8 @@ SUMMARY:Round 4:  Phantom Academy vs OXUJI
 UID:cs-go-exort-series-21-2026-1324888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: ENCE: 2 | ex-RUBY: 1\nStream: https://kick.com/cct_cs
+DTEND:20260128T145050Z
 DTSTART:20260128T123823Z
 SUMMARY:Round of 16 match 3: ENCE vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313554@tournamentics
@@ -5455,9 +5455,9 @@ SUMMARY:Grand final: RED vs BST
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260128T150000Z
+DTSTART:20260128T145928Z
 SUMMARY:Decider Match: MZP vs BBP
 UID:cs-go-european-pro-league-series-4-2026-1306420@tournamentics
 END:VEVENT
