@@ -1927,8 +1927,8 @@ SUMMARY:BW vs PGE
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | ex-RUBY: 1\nStream: https://kick.com/cct_cs
+DTEND:20260128T122131Z
 DTSTART:20260128T094529Z
 SUMMARY:Round 2: KOL vs ex-RUBY
 UID:cs-go-cct-europe-series-14-3-2026-1326435@tournamentics
@@ -2452,9 +2452,9 @@ SUMMARY:Round 4: PCF vs JUMBO
 UID:cs-go-exort-series-21-2026-1325322@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
+DESCRIPTION:🔴 LIVE NOW\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/myskill_top
 DURATION:PT2H
-DTSTART:20260128T120000Z
+DTSTART:20260128T122007Z
 SUMMARY:Lower bracket final: HOTU vs ALLIN
 UID:cs-go-myskill-pro-league-1-2026-1333894@tournamentics
 END:VEVENT
