@@ -392,27 +392,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSe
 </details>
 
 <details>
-<summary>PLAYR Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/PlayrMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/PlayrMasters.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/PlayrMasters/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>Roman Imperium Cup</summary>
 
 ### Full Schedule
