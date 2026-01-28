@@ -842,8 +842,8 @@ SUMMARY:BB vs GGS
 UID:cs-go-myskill-pro-league-1-2026-1333748@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Astralis: 2 | paiN: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260128T142653Z
 DTSTART:20260128T123152Z
 SUMMARY:Round of 16 match 7: AST vs paiN
 UID:cs-go-iem-krakow-2026-1324062@tournamentics
@@ -1097,7 +1097,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260130T130000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 4: paiN vs TBD
 UID:cs-go-iem-krakow-2026-1331846@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1327,7 +1327,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260128T150000Z
+DTSTART:20260128T153000Z
 SUMMARY:Round of 16 match 6: FUT vs 3DMAX
 UID:cs-go-iem-krakow-2026-1324061@tournamentics
 END:VEVENT
@@ -3399,7 +3399,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260128T160000Z
+DTSTART:20260128T153000Z
 SUMMARY:Round 3: G1 vs EF
 UID:cs-go-nodwin-clutch-series-4-2026-1313489@tournamentics
 END:VEVENT
@@ -4709,7 +4709,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260129T180000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 4: AST vs TBD
 UID:cs-go-iem-krakow-2026-1331850@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4839,9 +4839,9 @@ SUMMARY:Lower bracket quarterfinal 2: BIG.A vs NAVI.J
 UID:cs-go-united21-43-2026-1322455@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260128T140000Z
+DTSTART:20260128T142722Z
 SUMMARY:EPG Family vs BW
 UID:cs-go-esea-advanced-europe-56-2026-1337966@tournamentics
 END:VEVENT
