@@ -361,7 +361,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
 DURATION:PT2H
-DTSTART:20260128T130000Z
+DTSTART:20260128T130500Z
 SUMMARY:Round of 16 match 8: NRG vs B8
 UID:cs-go-iem-krakow-2026-1324063@tournamentics
 END:VEVENT
@@ -614,7 +614,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260129T153000Z
-SUMMARY:Upper bracket quarterfinal 1: AUR vs TBD
+SUMMARY:Upper bracket quarterfinal 1: AUR vs PRV
 UID:cs-go-iem-krakow-2026-1331847@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2623,7 +2623,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260129T130000Z
-SUMMARY:Lower bracket round 1 match 1: GL vs TBD
+SUMMARY:Lower bracket round 1 match 1: GL vs HERO
 UID:cs-go-iem-krakow-2026-1331843@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3642,8 +3642,8 @@ SUMMARY:Upper bracket quarterfinal 2: M8 vs HOTU
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310800@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Heroic: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260128T125134Z
 DTSTART:20260128T100101Z
 SUMMARY:Round of 16 match 2: HERO vs PRV
 UID:cs-go-iem-krakow-2026-1324057@tournamentics
