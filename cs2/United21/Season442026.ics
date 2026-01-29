@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260202T113000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: LAG vs TBD
 UID:cs-go-united21-44-2026-1339483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-44-2026-1339564@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: LAGUNA: 1 | AaB Esport: 2\nStream: https://kick.com/united21_en
+DTEND:20260129T114935Z
 DTSTART:20260129T090713Z
 SUMMARY:LAG vs AAB
 UID:cs-go-united21-44-2026-1339480@tournamentics
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260202T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: AAB vs TBD
 UID:cs-go-united21-44-2026-1339482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
