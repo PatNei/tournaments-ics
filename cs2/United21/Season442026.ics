@@ -4,9 +4,23 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
 DURATION:PT2H
+DTSTART:20260130T090000Z
+SUMMARY:ALL vs ALGO
+UID:cs-go-united21-44-2026-1339555@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
+DURATION:PT2H
 DTSTART:20260202T113000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-united21-44-2026-1339483@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260207T090000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-united21-44-2026-1339564@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
@@ -16,11 +30,53 @@ SUMMARY:LAG vs AAB
 UID:cs-go-united21-44-2026-1339480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260131T113000Z
+SUMMARY:BULGARIAPEEK vs SNG
+UID:cs-go-united21-44-2026-1339561@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260203T090000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-united21-44-2026-1339557@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260202T090000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-united21-44-2026-1339482@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260204T113000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-united21-44-2026-1339563@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260206T113000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-united21-44-2026-1339559@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260131T090000Z
+SUMMARY:Midnight vs MISA
+UID:cs-go-united21-44-2026-1339560@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260130T113000Z
+SUMMARY:FUT.A vs TD
+UID:cs-go-united21-44-2026-1339556@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
@@ -35,5 +91,19 @@ DURATION:PT2H
 DTSTART:20260129T113000Z
 SUMMARY:megoshort vs HERO.A
 UID:cs-go-united21-44-2026-1339481@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260204T090000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-united21-44-2026-1339562@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260203T113000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-united21-44-2026-1339558@tournamentics
 END:VEVENT
 END:VCALENDAR
