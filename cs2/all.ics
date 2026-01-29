@@ -1808,9 +1808,9 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vilacattv
+DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tris_mara
 DURATION:PT2H
-DTSTART:20260129T214500Z
+DTSTART:20260129T214517Z
 SUMMARY:Upper bracket semifinal 2: RED vs SHIN
 UID:cs-go-fireconter-1-2026-1333305@tournamentics
 END:VEVENT
@@ -2319,8 +2319,8 @@ SUMMARY:RED.A vs Charrados
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1327668@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | Fingers Crossed: 2\nStream: https://kick.com/cct_cs
+DTEND:20260129T214257Z
 DTSTART:20260129T190423Z
 SUMMARY:Round 3: 1WIN vs Fingers
 UID:cs-go-cct-europe-series-14-3-2026-1326446@tournamentics
