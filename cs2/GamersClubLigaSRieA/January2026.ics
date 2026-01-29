@@ -44,11 +44,11 @@ SUMMARY:MIBR.A vs VEXA
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1327667@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Players: 0 | Bad Luck: 1\nStream: No official stream linked
-DTEND:20260123T192042Z
-DTSTART:20260123T182351Z
-SUMMARY:PLS vs Bad Luck
-UID:cs-go-gamers-club-liga-serie-a-january-2026-1330648@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260130T183000Z
+SUMMARY:Decider match: RED.A vs Charrados
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1339649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | METANOIAGG: 1\nStream: No official stream linked
@@ -70,6 +70,20 @@ DTEND:20260127T202015Z
 DTSTART:20260127T181345Z
 SUMMARY:Winners match: RED.A vs FA
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1337930@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260131T203000Z
+SUMMARY:Decider match: METANOIAGG vs Alzon
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1339650@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Players: 0 | Bad Luck: 1\nStream: No official stream linked
+DTEND:20260123T192042Z
+DTSTART:20260123T182351Z
+SUMMARY:PLS vs Bad Luck
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1330648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Guara Esports: 1 | paiN Academy: 0\nStream: No official stream linked
