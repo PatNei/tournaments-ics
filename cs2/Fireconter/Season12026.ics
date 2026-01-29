@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T140000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: BHE vs TBD
 UID:cs-go-fireconter-1-2026-1335667@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +128,8 @@ SUMMARY:Upper bracket semifinal 2: RED vs SHIN
 UID:cs-go-fireconter-1-2026-1333305@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tr3jou
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Zingaro Gaming: 0 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/tr3jou
+DTEND:20260129T181434Z
 DTSTART:20260129T171803Z
 SUMMARY:Lower bracket semifinal: ZG vs BHE
 UID:cs-go-fireconter-1-2026-1333302@tournamentics

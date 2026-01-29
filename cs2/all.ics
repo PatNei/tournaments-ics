@@ -772,7 +772,7 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326507@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dream_3rrr
 DURATION:PT2H
 DTSTART:20260129T181212Z
 SUMMARY:TNC vs DRGN TEAM
@@ -2349,7 +2349,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260129T183000Z
+DTSTART:20260129T190000Z
 SUMMARY:Round 3: 1WIN vs Fingers
 UID:cs-go-cct-europe-series-14-3-2026-1326446@tournamentics
 END:VEVENT
@@ -3523,8 +3523,8 @@ SUMMARY:Round 1: aimclub vs WTRML0N
 UID:cs-go-exort-series-21-2026-1328917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tr3jou
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Zingaro Gaming: 0 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/tr3jou
+DTEND:20260129T181434Z
 DTSTART:20260129T171803Z
 SUMMARY:Lower bracket semifinal: ZG vs BHE
 UID:cs-go-fireconter-1-2026-1333302@tournamentics
@@ -4107,7 +4107,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T140000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: BHE vs TBD
 UID:cs-go-fireconter-1-2026-1335667@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4233,7 +4233,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260130T140000Z
-SUMMARY:Semifinal 2: SIN vs 1WIN
+SUMMARY:Semifinal 2: 1WIN vs SIN
 UID:cs-go-cct-europe-series-13-3-2026-1313562@tournamentics
 END:VEVENT
 BEGIN:VEVENT
