@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260131T130000Z
+DTSTART:20260131T180000Z
 SUMMARY:Upper bracket quarterfinal 2: 3DMAX vs FaZe
 UID:cs-go-iem-krakow-2026-1331890@tournamentics
 END:VEVENT
@@ -347,8 +347,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260131T130000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs FAL
+DTSTART:20260201T130000Z
+SUMMARY:Upper bracket quarterfinal 4: AUR vs FAL
 UID:cs-go-iem-krakow-2026-1331892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -410,8 +410,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260131T130000Z
-SUMMARY:Upper bracket quarterfinal 1: VIT vs TBD
+DTSTART:20260131T180000Z
+SUMMARY:Upper bracket quarterfinal 1: VIT vs BCG
 UID:cs-go-iem-krakow-2026-1331889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260131T130000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TS
+SUMMARY:Upper bracket quarterfinal 4: AST vs TS
 UID:cs-go-iem-krakow-2026-1331880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -564,7 +564,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260131T130000Z
+DTSTART:20260201T130000Z
 SUMMARY:Upper bracket quarterfinal 3: MOUZ vs NRG
 UID:cs-go-iem-krakow-2026-1331891@tournamentics
 END:VEVENT
@@ -572,7 +572,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260131T130000Z
-SUMMARY:Upper bracket quarterfinal 1: FURIA vs TBD
+SUMMARY:Upper bracket quarterfinal 1: FURIA vs FUT
 UID:cs-go-iem-krakow-2026-1331877@tournamentics
 END:VEVENT
 BEGIN:VEVENT
