@@ -2651,7 +2651,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T000000Z
-SUMMARY:Lower bracket semifinal: LYN vs TBD
+SUMMARY:Lower bracket semifinal: LYN vs 9z
 UID:cs-go-fireconter-1-2026-1333315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3225,7 +3225,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T000000Z
-SUMMARY:Upper bracket final: SHK vs TBD
+SUMMARY:Upper bracket final: SHK vs MIBR
 UID:cs-go-fireconter-1-2026-1333314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3768,8 +3768,8 @@ SUMMARY:Grand final: NEMI vs SIN
 UID:cs-go-cct-europe-series-13-3-2026-1313563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: MIBR: 2 | 9z: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260130T234634Z
 DTSTART:20260130T203721Z
 SUMMARY:Upper bracket semifinal 2: MIBR vs 9z
 UID:cs-go-fireconter-1-2026-1333313@tournamentics
