@@ -110,27 +110,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmeric
 </details>
 
 <details>
-<summary>European Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
-```
-
----
-
-### Series 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics
-```
-
-</details>
-
-<details>
 <summary>IEM</summary>
 
 ### Full Schedule
@@ -457,27 +436,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEspla
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/Season12026.ics
-```
-
-</details>
-
-<details>
-<summary>Zhi-Tech Elite Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ZhiTechEliteMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/ZhiTechEliteMasters.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ZhiTechEliteMasters/2026.ics
 ```
 
 </details>
