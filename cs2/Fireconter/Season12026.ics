@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T170000Z
-SUMMARY:Qualification match: TBD vs TBD
+SUMMARY:Qualification match: SHIN vs TBD
 UID:cs-go-fireconter-1-2026-1335664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-fireconter-1-2026-1333310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gaules
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 0 | ShindeN: 2\nStream: https://www.twitch.tv/gaules
+DTEND:20260130T031348Z
 DTSTART:20260130T013318Z
 SUMMARY:Upper bracket final: FXW7 vs SHIN
 UID:cs-go-fireconter-1-2026-1333306@tournamentics
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T140000Z
-SUMMARY:Lower bracket final: RED vs TBD
+SUMMARY:Lower bracket final: RED vs FXW7
 UID:cs-go-fireconter-1-2026-1335665@tournamentics
 END:VEVENT
 BEGIN:VEVENT
