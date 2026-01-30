@@ -184,8 +184,8 @@ SUMMARY:Round of 16 match 8: NRG vs B8
 UID:cs-go-iem-krakow-2026-1324063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Astralis: 1 | NRG: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260130T155613Z
 DTSTART:20260130T130051Z
 SUMMARY:Upper bracket quarterfinal 4: AST vs NRG
 UID:cs-go-iem-krakow-2026-1331850@tournamentics
@@ -614,7 +614,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260130T180000Z
-SUMMARY:Lower bracket round 2 match 1: GL vs TBD
+SUMMARY:Lower bracket round 2 match 1: GL vs AST
 UID:cs-go-iem-krakow-2026-1331851@tournamentics
 END:VEVENT
 BEGIN:VEVENT
