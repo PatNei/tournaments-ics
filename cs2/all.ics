@@ -3686,8 +3686,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260130T175000Z
-SUMMARY:Grand final: SIN vs NEMI
+DTSTART:20260130T183500Z
+SUMMARY:Grand final: NEMI vs SIN
 UID:cs-go-cct-europe-series-13-3-2026-1313563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5560,8 +5560,8 @@ SUMMARY:Round 5: Bad Luck vs MAG
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315189@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Flame Sharks: 1 | Misa Esports: 0\nStream: No official stream linked
+DTEND:20260130T174130Z
 DTSTART:20260130T172644Z
 SUMMARY:FS vs MISA
 UID:cs-go-esea-advanced-europe-56-2026-1340705@tournamentics
