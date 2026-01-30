@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260131T193000Z
-SUMMARY:Quarterfinal 4: 33 vs TBD
+SUMMARY:Quarterfinal 4: 33 vs ex-BAKS Esports
 UID:cs-go-exort-series-21-2026-1339729@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -226,8 +226,8 @@ SUMMARY:Round 3: HERO.A vs AUR.YB
 UID:cs-go-exort-series-21-2026-1334276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: ex-BAKS Esports: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
+DTEND:20260130T184442Z
 DTSTART:20260130T165404Z
 SUMMARY:Round 1 match 4: ex-BAKS Esports vs Y.TigeRES
 UID:cs-go-exort-series-21-2026-1339725@tournamentics
