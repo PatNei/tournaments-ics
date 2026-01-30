@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260131T130000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs FaZe
+SUMMARY:Upper bracket quarterfinal 2: 3DMAX vs FaZe
 UID:cs-go-iem-krakow-2026-1331890@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Lower bracket round 1 match 2: NTR vs SNG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310812@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Liquid: 0 | FUT Esports: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260130T195559Z
 DTSTART:20260130T181456Z
 SUMMARY:Lower bracket round 2 match 3: TL vs FUT
 UID:cs-go-iem-krakow-2026-1331853@tournamentics
@@ -565,7 +565,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260131T130000Z
-SUMMARY:Upper bracket quarterfinal 3: MOUZ vs TBD
+SUMMARY:Upper bracket quarterfinal 3: MOUZ vs NRG
 UID:cs-go-iem-krakow-2026-1331891@tournamentics
 END:VEVENT
 BEGIN:VEVENT
