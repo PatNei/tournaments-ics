@@ -817,7 +817,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260201T130000Z
-SUMMARY:Upper bracket quarterfinal 4: AUR vs FAL
+SUMMARY:Upper bracket quarterfinal 4: FAL vs AUR
 UID:cs-go-iem-krakow-2026-1331892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1118,7 +1118,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260131T153000Z
-SUMMARY:Upper bracket quarterfinal 4: AST vs TS
+SUMMARY:Upper bracket quarterfinal 4: TS vs AST
 UID:cs-go-iem-krakow-2026-1331880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3358,7 +3358,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260131T163000Z
-SUMMARY:Quarterfinal 3: AUR.YB vs MOUZ.N
+SUMMARY:Quarterfinal 3: MOUZ.N vs AUR.YB
 UID:cs-go-exort-series-21-2026-1339728@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3684,16 +3684,16 @@ SUMMARY:Upper bracket semifinal 1: IMP vs RED
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | Sinners: 2\nStream: https://kick.com/cct_cs
+DTEND:20260130T203706Z
 DTSTART:20260130T184504Z
 SUMMARY:Grand final: NEMI vs SIN
 UID:cs-go-cct-europe-series-13-3-2026-1313563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
+DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260130T203000Z
+DTSTART:20260130T203721Z
 SUMMARY:Upper bracket semifinal 2: MIBR vs 9z
 UID:cs-go-fireconter-1-2026-1333313@tournamentics
 END:VEVENT
@@ -3869,7 +3869,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260131T133000Z
-SUMMARY:Quarterfinal 2: MISA vs MSC
+SUMMARY:Quarterfinal 2: MSC vs MISA
 UID:cs-go-exort-series-21-2026-1339727@tournamentics
 END:VEVENT
 BEGIN:VEVENT
