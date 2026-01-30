@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260203T113000Z
-SUMMARY:Elimination match: ALGO vs TBD
+SUMMARY:Elimination match: ALGO vs TD
 UID:cs-go-united21-44-2026-1339558@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260203T090000Z
-SUMMARY:Winners match: ALL vs TBD
+SUMMARY:Winners match: ALL vs FUT.A
 UID:cs-go-united21-44-2026-1339557@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -317,8 +317,8 @@ SUMMARY:Midnight vs MISA
 UID:cs-go-united21-44-2026-1339560@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: FUT Academy: 2 | Truck Drivers: 0\nStream: https://kick.com/united21_en
+DTEND:20260130T133959Z
 DTSTART:20260130T122555Z
 SUMMARY:FUT.A vs TD
 UID:cs-go-united21-44-2026-1339556@tournamentics
