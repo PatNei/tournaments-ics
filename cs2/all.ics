@@ -2011,6 +2011,13 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | Charrados FC: 1\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260126T210000Z
+SUMMARY:PCY vs Charrados
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1341300@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Favbet: 2 | MOUZ NXT: 1\nStream: https://kick.com/eplcs_en
 DTEND:20260128T143700Z
 DTSTART:20260128T113732Z
@@ -4608,9 +4615,9 @@ SUMMARY:Lower bracket round 1 match 1: 9z vs SHK
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260130T142000Z
+DTSTART:20260130T142458Z
 SUMMARY:Semifinal 1: NEMI vs BIG
 UID:cs-go-cct-europe-series-13-3-2026-1313561@tournamentics
 END:VEVENT

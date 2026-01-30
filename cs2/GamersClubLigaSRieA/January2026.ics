@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | Charrados FC: 1\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260126T210000Z
+SUMMARY:PCY vs Charrados
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1341300@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 1 | Charrados FC: 0\nStream: No official stream linked
 DTEND:20260122T201249Z
 DTSTART:20260122T183927Z
@@ -72,18 +79,18 @@ SUMMARY:Elimination match: VEXA vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1334273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 0 | FOLHA AMARELA: 2\nStream: No official stream linked
-DTEND:20260127T202015Z
-DTSTART:20260127T181345Z
-SUMMARY:Winners match: RED.A vs FA
-UID:cs-go-gamers-club-liga-serie-a-january-2026-1337930@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260131T203000Z
 SUMMARY:Decider match: METANOIAGG vs Alzon
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1339650@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 0 | FOLHA AMARELA: 2\nStream: No official stream linked
+DTEND:20260127T202015Z
+DTSTART:20260127T181345Z
+SUMMARY:Winners match: RED.A vs FA
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1337930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Players: 0 | Bad Luck: 1\nStream: No official stream linked
