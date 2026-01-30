@@ -58,7 +58,7 @@ SUMMARY:Round 5: CRASH vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315188@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
 DURATION:PT2H
 DTSTART:20260130T160000Z
 SUMMARY:VP.P vs eLITenergy
@@ -233,8 +233,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | Isurus: 0\nStream: https://www.twitch.tv/forg1
+DTEND:20260130T155716Z
 DTSTART:20260130T141239Z
 SUMMARY:Upper bracket semifinal 1: BST vs ISG
 UID:cs-go-fireconter-1-2026-1333308@tournamentics
@@ -3056,7 +3056,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
-DTSTART:20260130T160000Z
+DTSTART:20260130T161000Z
 SUMMARY:Lower bracket round 2 match 4: paiN vs AUR
 UID:cs-go-iem-krakow-2026-1331854@tournamentics
 END:VEVENT
@@ -4625,7 +4625,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260130T170000Z
-SUMMARY:Lower bracket semifinal: PCY vs TBD
+SUMMARY:Lower bracket semifinal: ISG vs PCY
 UID:cs-go-fireconter-1-2026-1333311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5052,7 +5052,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260130T170000Z
-SUMMARY:Upper bracket final: MARS vs TBD
+SUMMARY:Upper bracket final: BST vs MARS
 UID:cs-go-fireconter-1-2026-1333310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
