@@ -492,11 +492,11 @@ SUMMARY:Decider match: rottweilers vs BW
 UID:cs-go-cct-europe-series-14-play-in-3-2026-1324186@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Brute: 0\nStream: https://www.twitch.tv/enthycia
-DTEND:20260112T194744Z
-DTSTART:20260112T191454Z
-SUMMARY:ex-GANK Esports vs BRUTE
-UID:cs-go-esea-advanced-europe-56-2026-1317221@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 0 | ex-RUBY: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260119T131124Z
+DTSTART:20260119T113815Z
+SUMMARY:Winners Match: MZP vs ex-RUBY
+UID:cs-go-european-pro-league-series-4-2026-1306419@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Fingers Crossed: 1 | magic: 2\nStream: https://kick.com/cct_cs
@@ -504,6 +504,13 @@ DTEND:20260128T185636Z
 DTSTART:20260128T153538Z
 SUMMARY:Round 2: Fingers vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326438@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Brute: 0\nStream: https://www.twitch.tv/enthycia
+DTEND:20260112T194744Z
+DTSTART:20260112T191454Z
+SUMMARY:ex-GANK Esports vs BRUTE
+UID:cs-go-esea-advanced-europe-56-2026-1317221@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
@@ -1024,6 +1031,13 @@ SUMMARY:Round 2: ORM vs Leo
 UID:cs-go-cct-europe-series-14-3-2026-1326437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Bebop: 2 | ALLINNERS: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260121T114809Z
+DTSTART:20260121T090650Z
+SUMMARY:Elimination Match: BBP vs ALLIN
+UID:cs-go-european-pro-league-series-4-2026-1306418@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260201T220000Z
@@ -1533,6 +1547,13 @@ DTEND:20260128T135728Z
 DTSTART:20260128T123718Z
 SUMMARY:Round 2: AM vs MINLATE
 UID:cs-go-cct-europe-series-14-3-2026-1326436@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | ALLINNERS: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260117T133823Z
+DTSTART:20260117T121016Z
+SUMMARY:ex-RUBY vs ALLIN
+UID:cs-go-european-pro-league-series-4-2026-1306417@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Dark Tigers: 2 | Sashi Academy: 1\nStream: https://kick.com/exort_en2
@@ -2088,6 +2109,13 @@ SUMMARY:Round 2: KOL vs ex-RUBY
 UID:cs-go-cct-europe-series-14-3-2026-1326435@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Bebop: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260117T115204Z
+DTSTART:20260117T091928Z
+SUMMARY:MZP vs BBP
+UID:cs-go-european-pro-league-series-4-2026-1306416@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: Team PeeP: 1 | VP.Future: 2\nStream: https://kick.com/exort_en2
 DTEND:20260119T191351Z
 DTSTART:20260119T163712Z
@@ -2338,6 +2366,13 @@ DTEND:20260129T214257Z
 DTSTART:20260129T190423Z
 SUMMARY:Round 3: 1WIN vs Fingers
 UID:cs-go-cct-europe-series-14-3-2026-1326446@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | Fingers Crossed: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260119T154402Z
+DTSTART:20260119T140544Z
+SUMMARY:UNiTY vs Fingers
+UID:cs-go-european-pro-league-series-4-2026-1306427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -3432,6 +3467,13 @@ SUMMARY:Round 3: FAV vs 67
 UID:cs-go-cct-europe-series-14-3-2026-1326444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: MASONIC: 2 | Acend: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260126T145318Z
+DTSTART:20260126T113737Z
+SUMMARY:Decider Match: MSC vs ACE
+UID:cs-go-european-pro-league-series-4-2026-1306425@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T180000Z
@@ -4300,8 +4342,8 @@ SUMMARY:Decider match: 9z vs Keyd
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322380@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Favbet: 0 | Fingers Crossed: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260131T170022Z
 DTSTART:20260131T151111Z
 SUMMARY:Round 5: FAV vs Fingers
 UID:cs-go-nodwin-clutch-series-4-2026-1313499@tournamentics
@@ -4431,6 +4473,13 @@ DTEND:20260114T103432Z
 DTSTART:20260114T091917Z
 SUMMARY:Lower bracket final: ChickenBurger vs EF.A
 UID:cs-go-united21-43-2026-1308215@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: FORZE Reload: 0 | Acend: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260122T112242Z
+DTSTART:20260122T091341Z
+SUMMARY:Elimination Match: FORZE.R vs ACE
+UID:cs-go-european-pro-league-series-4-2026-1306423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: SIUUUUUU: 0 | CYBERSHOKE Prospects: 1\nStream: https://www.twitch.tv/rob1nfall
@@ -4575,7 +4624,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vilacattv
 DURATION:PT2H
-DTSTART:20260131T170000Z
+DTSTART:20260131T171000Z
 SUMMARY:Qualification match: ODK vs BHE
 UID:cs-go-fireconter-1-2026-1335666@tournamentics
 END:VEVENT
@@ -4879,6 +4928,13 @@ DTEND:20260110T142052Z
 DTSTART:20260110T113652Z
 SUMMARY:Lower bracket semifinal: SHD vs EF.A
 UID:cs-go-united21-43-2026-1308214@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Acend: 0 | Eternal Fire: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260118T135455Z
+DTSTART:20260118T113754Z
+SUMMARY:ACE vs EF
+UID:cs-go-european-pro-league-series-4-2026-1306422@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: EPG Family: 1 | Aurora Young Blood: 0\nStream: https://www.twitch.tv/theeb1ye
@@ -5306,6 +5362,13 @@ DTEND:20260120T105006Z
 DTSTART:20260120T090331Z
 SUMMARY:ARC vs BBP
 UID:cs-go-nodwin-clutch-series-4-2026-1313451@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: FORZE Reload: 0 | MASONIC: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260118T111144Z
+DTSTART:20260118T091120Z
+SUMMARY:FORZE.R vs MSC
+UID:cs-go-european-pro-league-series-4-2026-1306421@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: MASONIC: 2 | ChickenBurger: 0\nStream: https://kick.com/united21_en
@@ -5796,6 +5859,13 @@ DTEND:20260124T030947Z
 DTSTART:20260123T234505Z
 SUMMARY:Grand final: RED vs BST
 UID:cs-go-iem-rio-americas-closed-qualifier-2026-1310746@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 0 | Bebop: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260128T173958Z
+DTSTART:20260128T145928Z
+SUMMARY:Decider Match: MZP vs BBP
+UID:cs-go-european-pro-league-series-4-2026-1306420@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 43 2026\nMatch Type: Best Of\nResult: ChickenBurger: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/united21_en
