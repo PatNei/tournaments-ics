@@ -593,7 +593,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260201T153000Z
-SUMMARY:Upper bracket semifinal 1: G2 vs TBD
+SUMMARY:Upper bracket semifinal 1: G2 vs FUT
 UID:cs-go-iem-krakow-2026-1331881@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1878,7 +1878,7 @@ SUMMARY:AUR.YB vs FCF
 UID:cs-go-esea-advanced-europe-56-2026-1337972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
 DURATION:PT2H
 DTSTART:20260131T180000Z
 SUMMARY:Upper bracket quarterfinal 2: 3DMAX vs FaZe
@@ -2202,7 +2202,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
-DTSTART:20260131T171000Z
+DTSTART:20260131T172000Z
 SUMMARY:Elimination match: WTRML0N vs FORZE.R
 UID:cs-go-exort-cataclysm-1-2025-1338670@tournamentics
 END:VEVENT
@@ -3054,8 +3054,8 @@ SUMMARY:Round 2: ORM vs 33
 UID:cs-go-cct-europe-series-13-3-2026-1313530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FURIA: 0 | FUT Esports: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260131T171155Z
 DTSTART:20260131T153052Z
 SUMMARY:Upper bracket quarterfinal 1: FURIA vs FUT
 UID:cs-go-iem-krakow-2026-1331877@tournamentics
@@ -4624,7 +4624,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vilacattv
 DURATION:PT2H
-DTSTART:20260131T171000Z
+DTSTART:20260131T172000Z
 SUMMARY:Qualification match: ODK vs BHE
 UID:cs-go-fireconter-1-2026-1335666@tournamentics
 END:VEVENT
@@ -5661,7 +5661,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260201T153000Z
-SUMMARY:Lower bracket quarterfinal 1: MGLZ vs TBD
+SUMMARY:Lower bracket quarterfinal 1: MGLZ vs FURIA
 UID:cs-go-iem-krakow-2026-1331883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
