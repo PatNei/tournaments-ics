@@ -1332,7 +1332,7 @@ SUMMARY:Upper bracket final: FXW7 vs SHIN
 UID:cs-go-fireconter-1-2026-1333306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
 DURATION:PT2H
 DTSTART:20260131T010000Z
 SUMMARY:RSTR vs The Gentlemans Kennel
@@ -1843,7 +1843,7 @@ SUMMARY:Upper bracket semifinal 2: RED vs SHIN
 UID:cs-go-fireconter-1-2026-1333305@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
 DTSTART:20260131T010000Z
 SUMMARY:THUNDER dOWNUNDER vs McTeam
@@ -3222,9 +3222,9 @@ SUMMARY:Quarterfinal 3: GL vs VIT
 UID:cs-go-blast-bounty-winter-2026-1314738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
+DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260131T004500Z
+DTSTART:20260131T005254Z
 SUMMARY:Upper bracket final: SHK vs MIBR
 UID:cs-go-fireconter-1-2026-1333314@tournamentics
 END:VEVENT
@@ -3427,7 +3427,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260131T163000Z
+DTSTART:20260131T103000Z
 SUMMARY:Quarterfinal 3: MOUZ.N vs AUR.YB
 UID:cs-go-exort-series-21-2026-1339728@tournamentics
 END:VEVENT
@@ -4428,7 +4428,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260131T103000Z
+DTSTART:20260131T163000Z
 SUMMARY:Quarterfinal 1: OXUJI vs ex-RUBY
 UID:cs-go-exort-series-21-2026-1339726@tournamentics
 END:VEVENT
