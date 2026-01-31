@@ -2245,7 +2245,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T200000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: 9z vs TBD
 UID:cs-go-fireconter-1-2026-1335659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2648,8 +2648,8 @@ SUMMARY:Lower bracket final: HOTU vs ALLIN
 UID:cs-go-myskill-pro-league-1-2026-1333894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elmorocho7
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: 9z: 2 | LUNA Esports: 0\nStream: https://www.twitch.tv/elmorocho7
+DTEND:20260131T020337Z
 DTSTART:20260131T004411Z
 SUMMARY:Lower bracket semifinal: 9z vs LYN
 UID:cs-go-fireconter-1-2026-1333315@tournamentics
