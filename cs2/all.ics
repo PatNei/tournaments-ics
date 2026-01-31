@@ -1864,6 +1864,13 @@ SUMMARY:Round 4: Fingers vs  CSDIILIT
 UID:cs-go-a1-gaming-league-11-2026-1313582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260131T193000Z
+SUMMARY:B8 Academy vs MANA
+UID:cs-go-esea-advanced-europe-56-2026-1342052@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 1 | FC Famalicão Esports: 0\nStream: https://www.twitch.tv/dred_
 DTEND:20260128T175426Z
 DTSTART:20260128T171507Z
@@ -2895,7 +2902,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260131T193000Z
+DTSTART:20260131T163000Z
 SUMMARY:Quarterfinal 4: 33 vs ex-BAKS Esports
 UID:cs-go-exort-series-21-2026-1339729@tournamentics
 END:VEVENT
@@ -4428,7 +4435,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260131T163000Z
+DTSTART:20260131T193000Z
 SUMMARY:Quarterfinal 1: OXUJI vs ex-RUBY
 UID:cs-go-exort-series-21-2026-1339726@tournamentics
 END:VEVENT
