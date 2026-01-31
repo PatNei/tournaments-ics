@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
 DTSTART:20260201T010000Z
-SUMMARY:Qualification match: BST vs TBD
+SUMMARY:Qualification match: BST vs MARS
 UID:cs-go-fireconter-1-2026-1335661@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-fireconter-1-2026-1333317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | Marsborne: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260131T233335Z
 DTSTART:20260131T215719Z
 SUMMARY:Lower bracket final: PCY vs MARS
 UID:cs-go-fireconter-1-2026-1335662@tournamentics
