@@ -1859,7 +1859,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
-DTSTART:20260131T163000Z
+DTSTART:20260131T113000Z
 SUMMARY:Round 4: Fingers vs  CSDIILIT
 UID:cs-go-a1-gaming-league-11-2026-1313582@tournamentics
 END:VEVENT
@@ -3014,7 +3014,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
-DTSTART:20260131T113000Z
+DTSTART:20260131T163000Z
 SUMMARY:Round 4: AAB vs WSG
 UID:cs-go-a1-gaming-league-11-2026-1313580@tournamentics
 END:VEVENT
@@ -5257,13 +5257,6 @@ DTEND:20260121T161722Z
 DTSTART:20260121T142721Z
 SUMMARY:Upper bracket round 1 match 6: KOL vs FNC
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310809@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260131T090000Z
-SUMMARY:Round 5: MOUZ.N vs ARC
-UID:cs-go-nodwin-clutch-series-4-2026-1313497@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Myskill Pro League - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Omega: 0\nStream: https://www.twitch.tv/dayneez
