@@ -4762,10 +4762,10 @@ SUMMARY:CYBERSHOKE Prospects vs WTRML0N
 UID:cs-go-esea-advanced-europe-56-2026-1337967@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aunkere
 DURATION:PT2H
 DTSTART:20260131T210000Z
-SUMMARY:Decider match: RUST vs TBD
+SUMMARY:Decider match: RUST vs WW
 UID:cs-go-exort-cataclysm-1-2025-1338677@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5210,8 +5210,8 @@ SUMMARY:EPG Family vs BW
 UID:cs-go-esea-advanced-europe-56-2026-1337966@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Virtus.pro: 1 | WW Team: 2\nStream: https://kick.com/exort_en4
+DTEND:20260131T214626Z
 DTSTART:20260131T182802Z
 SUMMARY:Elimination match: VP vs WW
 UID:cs-go-exort-cataclysm-1-2025-1338676@tournamentics
@@ -5444,7 +5444,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T130000Z
-SUMMARY:Lower bracket quarterfinal 1: FaZe vs BCG
+SUMMARY:Lower bracket quarterfinal 1: BCG vs FaZe
 UID:cs-go-iem-krakow-2026-1331895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
