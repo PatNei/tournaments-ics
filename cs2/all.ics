@@ -257,7 +257,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260131T043000Z
-SUMMARY:Elimination match: The Gentlemans Kennel vs TBD
+SUMMARY:Elimination match: The Gentlemans Kennel vs McTeam
 UID:cs-go-dfrag-open-series-3-2026-1339743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -803,7 +803,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260131T043000Z
-SUMMARY:Winners match: RSTR vs TBD
+SUMMARY:Winners match: RSTR vs THUNDER dOWNUNDER
 UID:cs-go-dfrag-open-series-3-2026-1339742@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1843,8 +1843,8 @@ SUMMARY:Upper bracket semifinal 2: RED vs SHIN
 UID:cs-go-fireconter-1-2026-1333305@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | McTeam: 1\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260131T035750Z
 DTSTART:20260131T010633Z
 SUMMARY:THUNDER dOWNUNDER vs McTeam
 UID:cs-go-dfrag-open-series-3-2026-1339740@tournamentics
@@ -2245,7 +2245,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T200000Z
-SUMMARY:Lower bracket final: 9z vs TBD
+SUMMARY:Lower bracket final: 9z vs SHK
 UID:cs-go-fireconter-1-2026-1335659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2791,7 +2791,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260131T230000Z
-SUMMARY:Qualification match: TBD vs TBD
+SUMMARY:Qualification match: MIBR vs TBD
 UID:cs-go-fireconter-1-2026-1335658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3222,8 +3222,8 @@ SUMMARY:Quarterfinal 3: GL vs VIT
 UID:cs-go-blast-bounty-winter-2026-1314738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Sharks: 1 | MIBR: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260131T035616Z
 DTSTART:20260131T005254Z
 SUMMARY:Upper bracket final: SHK vs MIBR
 UID:cs-go-fireconter-1-2026-1333314@tournamentics
