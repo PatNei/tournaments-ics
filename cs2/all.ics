@@ -1878,9 +1878,9 @@ SUMMARY:AUR.YB vs FCF
 UID:cs-go-esea-advanced-europe-56-2026-1337972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
 DURATION:PT2H
-DTSTART:20260131T181000Z
+DTSTART:20260131T181934Z
 SUMMARY:Upper bracket quarterfinal 2: 3DMAX vs FaZe
 UID:cs-go-iem-krakow-2026-1331890@tournamentics
 END:VEVENT
@@ -5497,8 +5497,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-44-2026-1339484@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elmorocho7
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: ShindeN: 0 | RED Canids: 2\nStream: https://www.twitch.tv/elmorocho7
+DTEND:20260131T181441Z
 DTSTART:20260131T164934Z
 SUMMARY:Qualification match: SHIN vs RED
 UID:cs-go-fireconter-1-2026-1335664@tournamentics
