@@ -1671,7 +1671,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260131T200000Z
-SUMMARY:Decider match: WB vs TBD
+SUMMARY:Decider match: WB vs FORZE.R
 UID:cs-go-exort-cataclysm-1-2025-1338671@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2200,8 +2200,8 @@ SUMMARY:VP.P vs NAVI.J
 UID:cs-go-united21-44-2026-1339675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: WATERMELON: 0 | FORZE Reload: 2\nStream: https://kick.com/exort_en3
+DTEND:20260131T194150Z
 DTSTART:20260131T172950Z
 SUMMARY:Elimination match: WTRML0N vs FORZE.R
 UID:cs-go-exort-cataclysm-1-2025-1338670@tournamentics
@@ -2249,7 +2249,7 @@ SUMMARY:Round 2:  Phantom Academy vs PCF
 UID:cs-go-exort-series-21-2026-1319967@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gaules
+DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
 DURATION:PT2H
 DTSTART:20260131T192625Z
 SUMMARY:Lower bracket final: SHK vs 9z
