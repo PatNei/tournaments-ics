@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260131T160000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: VP vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338676@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338702@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Virtus.pro: 0 | RUSTEC: 2\nStream: https://www.twitch.tv/virtuspro
+DTEND:20260131T093955Z
 DTSTART:20260131T073750Z
 SUMMARY:VP vs RUST
 UID:cs-go-exort-cataclysm-1-2025-1338673@tournamentics
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260131T130000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: RUST vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
