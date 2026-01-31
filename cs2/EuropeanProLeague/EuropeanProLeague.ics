@@ -89,12 +89,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260202T090000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FAV vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306448@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | Favbet: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260131T150217Z
 DTSTART:20260131T114132Z
 SUMMARY:Quarterfinal 2: ICE vs FAV
 UID:cs-go-european-pro-league-series-4-2026-1306445@tournamentics

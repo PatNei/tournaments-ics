@@ -3414,7 +3414,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260202T090000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FAV vs TBD
 UID:cs-go-european-pro-league-series-4-2026-1306448@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4344,7 +4344,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260131T153000Z
+DTSTART:20260131T151500Z
 SUMMARY:Round 5: FAV vs Fingers
 UID:cs-go-nodwin-clutch-series-4-2026-1313499@tournamentics
 END:VEVENT
@@ -4881,8 +4881,8 @@ SUMMARY:Decider match: FXW7 vs YAW
 UID:cs-go-circuit-x-betboom-redemption-curitiba-2026-1322264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | Favbet: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260131T150217Z
 DTSTART:20260131T114132Z
 SUMMARY:Quarterfinal 2: ICE vs FAV
 UID:cs-go-european-pro-league-series-4-2026-1306445@tournamentics
