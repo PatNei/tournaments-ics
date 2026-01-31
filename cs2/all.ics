@@ -2203,7 +2203,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260131T160000Z
-SUMMARY:Elimination match: WTRML0N vs TBD
+SUMMARY:Elimination match: WTRML0N vs FORZE.R
 UID:cs-go-exort-cataclysm-1-2025-1338670@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3043,7 +3043,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260131T130000Z
-SUMMARY:Winners match: K27 vs TBD
+SUMMARY:Winners match: K27 vs WB
 UID:cs-go-exort-cataclysm-1-2025-1338669@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3572,8 +3572,8 @@ SUMMARY:Round 2: Fingers vs BRUTE
 UID:cs-go-a1-gaming-league-11-2026-1313568@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: FORZE Reload: 0 | WHITEBIRD: 2\nStream: https://kick.com/exort_en3
+DTEND:20260131T125057Z
 DTSTART:20260131T104938Z
 SUMMARY:FORZE.R vs WB
 UID:cs-go-exort-cataclysm-1-2025-1338668@tournamentics
