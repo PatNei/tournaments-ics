@@ -369,7 +369,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260204T113000Z
-SUMMARY:Elimination match: MISA vs TBD
+SUMMARY:Elimination match: MISA vs BGPEEK
 UID:cs-go-united21-44-2026-1339563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -908,7 +908,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260204T090000Z
-SUMMARY:Winners match: MID vs TBD
+SUMMARY:Winners match: MID vs SNG
 UID:cs-go-united21-44-2026-1339562@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1430,8 +1430,8 @@ SUMMARY:Decider match: mix52 vs NVQ
 UID:cs-go-myskill-pro-league-1-2026-1333747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: BULGARIAPEEK: 1 | Sangal ALTERS: 2\nStream: https://kick.com/united21_en
+DTEND:20260131T142028Z
 DTSTART:20260131T120945Z
 SUMMARY:BGPEEK vs SNG
 UID:cs-go-united21-44-2026-1339561@tournamentics
@@ -2438,9 +2438,9 @@ SUMMARY:Upper bracket semifinal 1: FXW7 vs OUTPLAYED
 UID:cs-go-fireconter-1-2026-1333304@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
+DESCRIPTION:🔴 LIVE NOW\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
-DTSTART:20260131T140000Z
+DTSTART:20260131T142100Z
 SUMMARY:Round 4: LK vs 777
 UID:cs-go-a1-gaming-league-11-2026-1313581@tournamentics
 END:VEVENT
@@ -4344,7 +4344,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260131T150000Z
+DTSTART:20260131T153000Z
 SUMMARY:Round 5: FAV vs Fingers
 UID:cs-go-nodwin-clutch-series-4-2026-1313499@tournamentics
 END:VEVENT
@@ -5324,7 +5324,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260131T143000Z
+DTSTART:20260131T153000Z
 SUMMARY:Quarterfinal 1: ex-RUBY vs KOL
 UID:cs-go-european-pro-league-series-4-2026-1306444@tournamentics
 END:VEVENT
@@ -5651,7 +5651,7 @@ SUMMARY:EP vs BRUTE
 UID:cs-go-esea-advanced-europe-56-2026-1319924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
 DURATION:PT2H
 DTSTART:20260131T143000Z
 SUMMARY:Winners match: RUST vs ARC
