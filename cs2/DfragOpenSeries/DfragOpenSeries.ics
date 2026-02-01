@@ -32,8 +32,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
-DTSTART:20260201T070000Z
-SUMMARY:Decider match: UG vs TBD
+DTSTART:20260201T080000Z
+SUMMARY:Decider match: UG vs Ding Cuts
 UID:cs-go-dfrag-open-series-3-2026-1339749@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-dfrag-open-series-3-2026-1339752@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bowser0
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Shanghai Sharks ESC: 1 | Ding Cuts: 2\nStream: https://www.twitch.tv/bowser0
+DTEND:20260201T073040Z
 DTSTART:20260201T043531Z
 SUMMARY:Elimination match: Shanghai Sharks ESC vs Ding Cuts
 UID:cs-go-dfrag-open-series-3-2026-1339748@tournamentics
