@@ -1752,18 +1752,18 @@ SUMMARY:Round of 32 match 7: FC vs HERO
 UID:cs-go-blast-bounty-winter-2026-1318597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | Acend: 1\nStream: https://www.twitch.tv/a1gamingleague
-DTEND:20260118T195304Z
-DTSTART:20260118T170543Z
-SUMMARY:Round 2: EF vs ACE
-UID:cs-go-a1-gaming-league-11-2026-1313571@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OldBoys: 0 | UNiTY esports: 1\nStream: https://www.twitch.tv/unityesportseu
 DTEND:20260119T194425Z
 DTSTART:20260119T191435Z
 SUMMARY:OldBoys vs UNiTY
 UID:cs-go-esea-advanced-europe-56-2026-1326113@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | Acend: 1\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260118T195304Z
+DTSTART:20260118T170543Z
+SUMMARY:Round 2: EF vs ACE
+UID:cs-go-a1-gaming-league-11-2026-1313571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
@@ -3677,8 +3677,8 @@ SUMMARY:Falcons Force vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1317216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Underground ESC: 2 | Ding Cuts: 0\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260201T094322Z
 DTSTART:20260201T081817Z
 SUMMARY:Decider match: UG vs Ding Cuts
 UID:cs-go-dfrag-open-series-3-2026-1339749@tournamentics
@@ -4804,18 +4804,18 @@ SUMMARY:Round 3: ex-RUBY vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313539@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Washington: 1 | Phantom: 2\nStream: https://www.twitch.tv/a1gamingleague
-DTEND:20260117T142325Z
-DTSTART:20260117T113701Z
-SUMMARY:Round 2: WSG vs PHA
-UID:cs-go-a1-gaming-league-11-2026-1313566@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: MANA eSports: 1 | AKA HERO KAJO: 0\nStream: No official stream linked
 DTEND:20260120T185136Z
 DTSTART:20260120T182316Z
 SUMMARY:MANA vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1326108@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Washington: 1 | Phantom: 2\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260117T142325Z
+DTSTART:20260117T113701Z
+SUMMARY:Round 2: WSG vs PHA
+UID:cs-go-a1-gaming-league-11-2026-1313566@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 x Esplay Challenge - Season 1 2026\nMatch Type: Best Of\nResult: HAVU: 0 | BIG: 2\nStream: https://kick.com/united21_en
