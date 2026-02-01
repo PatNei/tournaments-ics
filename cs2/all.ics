@@ -2291,9 +2291,9 @@ SUMMARY:Round 1: ECF vs UNiTY
 UID:cs-go-nodwin-clutch-series-4-2026-1313469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
-DTSTART:20260201T160000Z
+DTSTART:20260201T161500Z
 SUMMARY:Elimination match: GLU vs JUMBO
 UID:cs-go-exort-cataclysm-1-2025-1338706@tournamentics
 END:VEVENT
@@ -5175,9 +5175,9 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
 DURATION:PT2H
-DTSTART:20260201T164500Z
+DTSTART:20260201T162000Z
 SUMMARY:Elimination match: MUERTA TEAM vs OXUJI
 UID:cs-go-exort-cataclysm-1-2025-1338701@tournamentics
 END:VEVENT
@@ -5497,8 +5497,8 @@ SUMMARY:Lower bracket quarterfinal 2: NRG vs FAL
 UID:cs-go-iem-krakow-2026-1331896@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Open Qualifier #16 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Open Qualifier #16 season 3 2026\nMatch Type: Best Of\nResult: Benched gods: 0 | ENJOY: 2\nStream: No official stream linked
+DTEND:20260201T161550Z
 DTSTART:20260201T151003Z
 SUMMARY:Semifinal 2: Benched gods vs ENJOY
 UID:cs-go-cct-europe-open-qualifier-16-3-2026-1343160@tournamentics
@@ -6246,9 +6246,9 @@ SUMMARY:Winners match: RUST vs ARC
 UID:cs-go-exort-cataclysm-1-2025-1338675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260201T161500Z
+DTSTART:20260201T161956Z
 SUMMARY:Lower bracket quarterfinal 1: FURIA vs MGLZ
 UID:cs-go-iem-krakow-2026-1331883@tournamentics
 END:VEVENT
