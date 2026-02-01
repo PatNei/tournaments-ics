@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260201T130000Z
-SUMMARY:Winners match: NEM vs TBD
+SUMMARY:Winners match: NEM vs NEMI
 UID:cs-go-exort-cataclysm-1-2025-1338700@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:K27 vs WTRML0N
 UID:cs-go-exort-cataclysm-1-2025-1338667@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Oxuji Esports: 0\nStream: https://kick.com/exort_en4
+DTEND:20260201T114518Z
 DTSTART:20260201T101303Z
 SUMMARY:NEMI vs OXUJI
 UID:cs-go-exort-cataclysm-1-2025-1338699@tournamentics
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260201T160000Z
-SUMMARY:Elimination match: MUERTA TEAM vs TBD
+SUMMARY:Elimination match: MUERTA TEAM vs OXUJI
 UID:cs-go-exort-cataclysm-1-2025-1338701@tournamentics
 END:VEVENT
 BEGIN:VEVENT
