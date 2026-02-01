@@ -96,6 +96,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Seri
 ## C Tier
 
 <details>
+<summary>CCT North America</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctNorthAmerica/CctNorthAmerica.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctNorthAmerica/CctNorthAmerica.ics
+```
+
+---
+
+### Series #3 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctNorthAmerica/Series3Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctNorthAmerica/Series3Season32026.ics
+```
+
+</details>
+
+<details>
 <summary>CCT South America</summary>
 
 ### Full Schedule
