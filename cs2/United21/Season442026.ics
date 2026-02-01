@@ -4,44 +4,16 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260205T090000Z
-SUMMARY:Winners match: Imperial.A vs VP.P
-UID:cs-go-united21-44-2026-1339676@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260206T090000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-united21-44-2026-1339484@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: megoshort: 1 | HEROIC Academy: 2\nStream: https://www.kick.com/united21_en
-DTEND:20260129T144503Z
-DTSTART:20260129T120510Z
-SUMMARY:megoshort vs HERO.A
-UID:cs-go-united21-44-2026-1339481@tournamentics
+DTSTART:20260205T113000Z
+SUMMARY:Elimination match: 8S vs NAVI.J
+UID:cs-go-united21-44-2026-1339677@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260204T090000Z
-SUMMARY:Winners match: MID vs SNG
-UID:cs-go-united21-44-2026-1339562@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260203T113000Z
-SUMMARY:Elimination match: ALGO vs TD
-UID:cs-go-united21-44-2026-1339558@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Alliance: 2 | ALGO Esports: 1\nStream: https://www.kick.com/united21_en
-DTEND:20260130T120638Z
-DTSTART:20260130T091233Z
-SUMMARY:ALL vs ALGO
-UID:cs-go-united21-44-2026-1339555@tournamentics
+DTSTART:20260205T090000Z
+SUMMARY:Winners match: Imperial.A vs VP.P
+UID:cs-go-united21-44-2026-1339676@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
@@ -49,96 +21,5 @@ DURATION:PT2H
 DTSTART:20260207T113000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-44-2026-1339678@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 2 | NAVI Junior: 0\nStream: https://kick.com/united21_en
-DTEND:20260201T131227Z
-DTSTART:20260201T113404Z
-SUMMARY:VP.P vs NAVI.J
-UID:cs-go-united21-44-2026-1339675@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260202T113000Z
-SUMMARY:Elimination match: LAG vs MEGO
-UID:cs-go-united21-44-2026-1339483@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260207T090000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-united21-44-2026-1339564@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: LAGUNA: 1 | AaB Esport: 2\nStream: https://kick.com/united21_en
-DTEND:20260129T114935Z
-DTSTART:20260129T090713Z
-SUMMARY:LAG vs AAB
-UID:cs-go-united21-44-2026-1339480@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: BULGARIAPEEK: 1 | Sangal ALTERS: 2\nStream: https://kick.com/united21_en
-DTEND:20260131T142028Z
-DTSTART:20260131T120945Z
-SUMMARY:BGPEEK vs SNG
-UID:cs-go-united21-44-2026-1339561@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260203T090000Z
-SUMMARY:Winners match: ALL vs ex-FUT Academy
-UID:cs-go-united21-44-2026-1339557@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260205T113000Z
-SUMMARY:Elimination match: 8S vs NAVI.J
-UID:cs-go-united21-44-2026-1339677@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | 8Sins: 0\nStream: https://kick.com/united21_en
-DTEND:20260201T104634Z
-DTSTART:20260201T090745Z
-SUMMARY:Imperial.A vs 8S
-UID:cs-go-united21-44-2026-1339674@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260202T090000Z
-SUMMARY:Winners match: AAB vs HERO.A
-UID:cs-go-united21-44-2026-1339482@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260204T113000Z
-SUMMARY:Elimination match: MISA vs BGPEEK
-UID:cs-go-united21-44-2026-1339563@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260206T113000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-united21-44-2026-1339559@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Midnight: 2 | Misa Esports: 0\nStream: https://kick.com/united21_en
-DTEND:20260131T113327Z
-DTSTART:20260131T093450Z
-SUMMARY:MID vs MISA
-UID:cs-go-united21-44-2026-1339560@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: FUT Academy: 2 | Truck Drivers: 0\nStream: https://kick.com/united21_en
-DTEND:20260130T133959Z
-DTSTART:20260130T122555Z
-SUMMARY:FUT.A vs TD
-UID:cs-go-united21-44-2026-1339556@tournamentics
 END:VEVENT
 END:VCALENDAR
