@@ -340,13 +340,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
-DTSTART:20260201T184500Z
+DTSTART:20260201T190000Z
 SUMMARY:Lower bracket quarterfinal 2: PRV vs AST
 UID:cs-go-iem-krakow-2026-1331884@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | G2: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260201T183328Z
 DTSTART:20260201T153119Z
 SUMMARY:Upper bracket semifinal 1: FUT vs G2
 UID:cs-go-iem-krakow-2026-1331881@tournamentics
@@ -642,7 +642,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T180000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: FUT vs TBD
 UID:cs-go-iem-krakow-2026-1331886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -943,7 +943,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T180000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: G2 vs TBD
 UID:cs-go-iem-krakow-2026-1331888@tournamentics
 END:VEVENT
 END:VCALENDAR

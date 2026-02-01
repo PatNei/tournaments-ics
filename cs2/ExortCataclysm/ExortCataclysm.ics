@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260201T190000Z
-SUMMARY:Decider match: NEM vs TBD
+SUMMARY:Decider match: NEM vs OXUJI
 UID:cs-go-exort-cataclysm-1-2025-1338702@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -184,8 +184,8 @@ SUMMARY:Winners match: RUST vs ARC
 UID:cs-go-exort-cataclysm-1-2025-1338675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: MUERTA TEAM: 0 | Oxuji Esports: 2\nStream: https://kick.com/exort_en4
+DTEND:20260201T182937Z
 DTSTART:20260201T162434Z
 SUMMARY:Elimination match: MUERTA TEAM vs OXUJI
 UID:cs-go-exort-cataclysm-1-2025-1338701@tournamentics

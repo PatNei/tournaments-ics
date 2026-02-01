@@ -667,8 +667,8 @@ SUMMARY:VP vs RUST
 UID:cs-go-exort-cataclysm-1-2025-1338673@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | G2: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260201T183328Z
 DTSTART:20260201T153119Z
 SUMMARY:Upper bracket semifinal 1: FUT vs G2
 UID:cs-go-iem-krakow-2026-1331881@tournamentics
@@ -3778,7 +3778,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T180000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: G2 vs TBD
 UID:cs-go-iem-krakow-2026-1331888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4870,7 +4870,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260201T190000Z
-SUMMARY:Decider match: NEM vs TBD
+SUMMARY:Decider match: NEM vs OXUJI
 UID:cs-go-exort-cataclysm-1-2025-1338702@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4982,7 +4982,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T180000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: FUT vs TBD
 UID:cs-go-iem-krakow-2026-1331886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5448,8 +5448,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: MUERTA TEAM: 0 | Oxuji Esports: 2\nStream: https://kick.com/exort_en4
+DTEND:20260201T182937Z
 DTSTART:20260201T162434Z
 SUMMARY:Elimination match: MUERTA TEAM vs OXUJI
 UID:cs-go-exort-cataclysm-1-2025-1338701@tournamentics
@@ -6087,7 +6087,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
-DTSTART:20260201T184500Z
+DTSTART:20260201T190000Z
 SUMMARY:Lower bracket quarterfinal 2: PRV vs AST
 UID:cs-go-iem-krakow-2026-1331884@tournamentics
 END:VEVENT
@@ -6204,9 +6204,9 @@ SUMMARY:Quarterfinal 1: ex-RUBY vs KOL
 UID:cs-go-european-pro-league-series-4-2026-1306444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260201T183000Z
+DTSTART:20260201T183237Z
 SUMMARY:Round 4: Fingers vs LK
 UID:cs-go-cct-europe-series-14-3-2026-1326463@tournamentics
 END:VEVENT
