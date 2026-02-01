@@ -282,9 +282,9 @@ SUMMARY:Elimination match: The Gentlemans Kennel vs McTeam
 UID:cs-go-dfrag-open-series-3-2026-1339743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
+DESCRIPTION:🔴 LIVE NOW\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
-DTSTART:20260201T163000Z
+DTSTART:20260201T163345Z
 SUMMARY:Round 4: EF vs MSC
 UID:cs-go-a1-gaming-league-11-2026-1313585@tournamentics
 END:VEVENT
@@ -1650,7 +1650,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260201T190000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: 33 vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338707@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2293,7 +2293,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
-DTSTART:20260201T161500Z
+DTSTART:20260201T170000Z
 SUMMARY:Elimination match: GLU vs JUMBO
 UID:cs-go-exort-cataclysm-1-2025-1338706@tournamentics
 END:VEVENT
@@ -2886,8 +2886,8 @@ SUMMARY:HAVU vs AM
 UID:cs-go-esea-advanced-europe-56-2026-1326099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | 33: 1\nStream: https://kick.com/exort_en3
+DTEND:20260201T163520Z
 DTSTART:20260201T135445Z
 SUMMARY:Winners match: NTR vs 33
 UID:cs-go-exort-cataclysm-1-2025-1338705@tournamentics
