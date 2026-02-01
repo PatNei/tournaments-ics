@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260201T070000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: UG vs TBD
 UID:cs-go-dfrag-open-series-3-2026-1339749@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-dfrag-open-series-3-2026-1339751@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Underground ESC: 0 | Mindfreak: 2\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260201T061423Z
 DTSTART:20260201T043529Z
 SUMMARY:Winners match: UG vs MF
 UID:cs-go-dfrag-open-series-3-2026-1339747@tournamentics
