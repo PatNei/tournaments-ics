@@ -1796,7 +1796,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
-DTSTART:20260201T184500Z
+DTSTART:20260201T191500Z
 SUMMARY:Semifinal 2: RED vs BST
 UID:cs-go-fireconter-1-2026-1333317@tournamentics
 END:VEVENT
@@ -6561,8 +6561,8 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Open Qualifier #16 season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/goyarego
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Open Qualifier #16 season 3 2026\nMatch Type: Best Of\nResult: Atreides: 2 | QUAZAR: 1\nStream: https://www.twitch.tv/goyarego
+DTEND:20260201T181210Z
 DTSTART:20260201T151517Z
 SUMMARY:Semifinal 1: Atreides vs QUA
 UID:cs-go-cct-europe-open-qualifier-16-3-2026-1343159@tournamentics
