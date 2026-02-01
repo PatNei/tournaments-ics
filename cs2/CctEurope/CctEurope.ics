@@ -2,21 +2,21 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260213T150000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343388@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260212T180000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260212T090000Z
 SUMMARY:Round 3: TBD vs TBD
@@ -44,7 +44,7 @@ SUMMARY:Round 1: NEMI vs G1
 UID:cs-go-cct-europe-series-13-3-2026-1313521@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260208T150000Z
 SUMMARY:Round 1: TBD vs TBD
@@ -72,6 +72,13 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260219T150000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343429@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260202T180000Z
@@ -86,11 +93,25 @@ SUMMARY:Round 1: KOL vs LK
 UID:cs-go-cct-europe-series-14-3-2026-1326389@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260218T180000Z
+SUMMARY:Round of 16 match 8: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343426@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 2 | FORZE Reload: 1\nStream: https://kick.com/cct_cs2
 DTEND:20260126T153310Z
 DTSTART:20260126T123840Z
 SUMMARY:Round 1: ORM vs FORZE.R
 UID:cs-go-cct-europe-series-14-3-2026-1326386@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260218T090000Z
+SUMMARY:Round of 16 match 5: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -112,6 +133,13 @@ DURATION:PT2H
 DTSTART:20260202T123000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326464@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260217T120000Z
+SUMMARY:Round of 16 match 2: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343420@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 1 | MINLATE: 2\nStream: https://kick.com/cct_cs2
@@ -212,7 +240,7 @@ SUMMARY:Round 3: 33 vs ILWL
 UID:cs-go-cct-europe-series-13-3-2026-1313538@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260214T150000Z
 SUMMARY:Round 4: TBD vs TBD
@@ -233,21 +261,21 @@ SUMMARY:Round 3: NTR vs ORM
 UID:cs-go-cct-europe-series-13-3-2026-1313532@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260211T120000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343379@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260210T150000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343376@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260209T180000Z
 SUMMARY:Round 1: TBD vs TBD
@@ -261,7 +289,7 @@ SUMMARY:Round 1: ORM vs PHA
 UID:cs-go-cct-europe-series-13-3-2026-1313518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260209T090000Z
 SUMMARY:Round 1: TBD vs TBD
@@ -282,11 +310,25 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260220T170000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343434@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260203T150000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341919@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260220T110000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343431@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 1 | FORZE Reload: 2\nStream: https://kick.com/cct_cs2
@@ -303,11 +345,25 @@ SUMMARY:WW vs AUR.YB
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341916@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260216T150000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343417@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | Favbet: 2\nStream: https://kick.com/cct_cs
 DTEND:20260131T200339Z
 DTSTART:20260131T183450Z
 SUMMARY:Round 4: AM vs FAV
 UID:cs-go-cct-europe-series-14-3-2026-1326458@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260215T150000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343414@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | los kogutos: 2\nStream: https://kick.com/cct_cs
@@ -394,14 +450,14 @@ SUMMARY:Round 4: AM vs PHA
 UID:cs-go-cct-europe-series-13-3-2026-1313540@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260213T120000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343387@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260212T150000Z
 SUMMARY:Round 3: TBD vs TBD
@@ -415,7 +471,7 @@ SUMMARY:Round 2: NEMI vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260211T180000Z
 SUMMARY:Round 2: TBD vs TBD
@@ -443,7 +499,7 @@ SUMMARY:Round 1: NTR vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260208T120000Z
 SUMMARY:Round 1: TBD vs TBD
@@ -485,11 +541,32 @@ SUMMARY:Omega vs BBP
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260219T120000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343428@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260203T153000Z
 SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326469@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260218T150000Z
+SUMMARY:Round of 16 match 7: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343425@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260217T180000Z
+SUMMARY:Round of 16 match 4: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343422@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -597,21 +674,21 @@ SUMMARY:Round 2: AM vs ILWL
 UID:cs-go-cct-europe-series-13-3-2026-1313531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260211T090000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343378@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260210T120000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260209T150000Z
 SUMMARY:Round 1: TBD vs TBD
@@ -639,11 +716,25 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260220T140000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343433@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260203T090000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341918@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260219T180000Z
+SUMMARY:Quarterfinal 4: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
@@ -653,11 +744,32 @@ SUMMARY:Round 1: JS vs ex-RUBY
 UID:cs-go-cct-europe-series-14-3-2026-1326390@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260217T090000Z
+SUMMARY:Round of 16 match 1: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343419@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260216T120000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343416@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | Leo Team: 0\nStream: https://kick.com/cct_cs
 DTEND:20260131T174025Z
 DTSTART:20260131T153625Z
 SUMMARY:Round 4: 1WIN vs Leo
 UID:cs-go-cct-europe-series-14-3-2026-1326457@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260215T120000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 2 | magic: 0\nStream: https://kick.com/cct_cs2
@@ -737,7 +849,7 @@ SUMMARY:Round 2: 67 vs MZP
 UID:cs-go-cct-europe-series-14-3-2026-1326411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260213T180000Z
 SUMMARY:Round 3: TBD vs TBD
@@ -751,14 +863,14 @@ SUMMARY:Round 4: NEM vs G1
 UID:cs-go-cct-europe-series-13-3-2026-1313542@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260213T090000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260212T120000Z
 SUMMARY:Round 3: TBD vs TBD
@@ -772,7 +884,7 @@ SUMMARY:Round 2: NEM vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260211T150000Z
 SUMMARY:Round 2: TBD vs TBD
@@ -793,14 +905,14 @@ SUMMARY:Round 1: 33 vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260208T180000Z
 SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343369@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260208T090000Z
 SUMMARY:Round 1: TBD vs TBD
@@ -849,6 +961,13 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260219T090000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343427@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260203T123000Z
@@ -856,11 +975,25 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326468@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260218T120000Z
+SUMMARY:Round of 16 match 6: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343424@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260202T153000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326465@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260217T150000Z
+SUMMARY:Round of 16 match 3: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343421@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | Ursa: 0\nStream: https://kick.com/cct_cs2
@@ -968,7 +1101,7 @@ SUMMARY:Round 3: ex-RUBY vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313539@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260214T120000Z
 SUMMARY:Round 4: TBD vs TBD
@@ -996,14 +1129,14 @@ SUMMARY:Round 2: ORM vs 33
 UID:cs-go-cct-europe-series-13-3-2026-1313530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260210T180000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343377@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260210T090000Z
 SUMMARY:Round 2: TBD vs TBD
@@ -1024,7 +1157,7 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260209T120000Z
 SUMMARY:Round 1: TBD vs TBD
@@ -1066,6 +1199,20 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326470@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260216T180000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343418@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260215T180000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343415@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260201T123000Z
@@ -1078,6 +1225,13 @@ DTEND:20260131T143052Z
 DTSTART:20260131T123549Z
 SUMMARY:Round 4: JS vs MZP
 UID:cs-go-cct-europe-series-14-3-2026-1326456@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260214T180000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-15-3-2026-1343412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | MINLATE: 1\nStream: https://kick.com/cct_cs
