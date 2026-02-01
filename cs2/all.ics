@@ -485,7 +485,7 @@ SUMMARY:WW vs AUR.YB
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341916@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
 DURATION:PT2H
 DTSTART:20260202T090000Z
 SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
@@ -593,7 +593,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260201T220000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: ODK vs TBD
 UID:cs-go-fireconter-1-2026-1333319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1195,7 +1195,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260201T220000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: MIBR vs TBD
 UID:cs-go-fireconter-1-2026-1333318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2459,8 +2459,8 @@ SUMMARY:Upper bracket final: BB vs HOTU
 UID:cs-go-myskill-pro-league-1-2026-1333895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | MIBR: 2\nStream: https://www.twitch.tv/fireleaguetv
+DTEND:20260201T185016Z
 DTSTART:20260201T150811Z
 SUMMARY:Semifinal 1: ODK vs MIBR
 UID:cs-go-fireconter-1-2026-1333316@tournamentics
@@ -6085,9 +6085,9 @@ SUMMARY:Elimination match: VP vs WW
 UID:cs-go-exort-cataclysm-1-2025-1338676@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
-DTSTART:20260201T190000Z
+DTSTART:20260201T185035Z
 SUMMARY:Lower bracket quarterfinal 2: PRV vs AST
 UID:cs-go-iem-krakow-2026-1331884@tournamentics
 END:VEVENT

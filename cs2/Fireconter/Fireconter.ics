@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260201T220000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: ODK vs TBD
 UID:cs-go-fireconter-1-2026-1333319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -23,8 +23,8 @@ SUMMARY:Qualification match: SHIN vs RED
 UID:cs-go-fireconter-1-2026-1335664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | MIBR: 2\nStream: https://www.twitch.tv/fireleaguetv
+DTEND:20260201T185016Z
 DTSTART:20260201T150811Z
 SUMMARY:Semifinal 1: ODK vs MIBR
 UID:cs-go-fireconter-1-2026-1333316@tournamentics
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260201T220000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: MIBR vs TBD
 UID:cs-go-fireconter-1-2026-1333318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
