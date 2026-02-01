@@ -100,8 +100,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-krakow-2026-1331887@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: PARIVISION: 1 | Astralis: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260201T220343Z
 DTSTART:20260201T185035Z
 SUMMARY:Lower bracket quarterfinal 2: PRV vs AST
 UID:cs-go-iem-krakow-2026-1331884@tournamentics
@@ -222,7 +222,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T180000Z
-SUMMARY:Lower bracket semifinal 2: FUT vs TBD
+SUMMARY:Lower bracket semifinal 2: FUT vs AST
 UID:cs-go-iem-krakow-2026-1331886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
