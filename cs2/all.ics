@@ -1188,7 +1188,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
 DURATION:PT2H
 DTSTART:20260201T230000Z
-SUMMARY:Grand final: MIBR vs TBD
+SUMMARY:Grand final: MIBR vs RED
 UID:cs-go-fireconter-1-2026-1333318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1787,8 +1787,8 @@ SUMMARY:Round 4: DT vs SASHI.A
 UID:cs-go-exort-series-21-2026-1325324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fireleaguetv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | BESTIA: 1\nStream: https://www.twitch.tv/fireleaguetv
+DTEND:20260201T223516Z
 DTSTART:20260201T192537Z
 SUMMARY:Semifinal 2: RED vs BST
 UID:cs-go-fireconter-1-2026-1333317@tournamentics
