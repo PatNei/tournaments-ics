@@ -315,6 +315,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Dust2DkLigaen/
 </details>
 
 <details>
+<summary>Dust2.us</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Dust2Us/Dust2Us.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Dust2Us/Dust2Us.ics
+```
+
+---
+
+### Eagle Masters season 6 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Dust2Us/EagleMastersSeason62026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Dust2Us/EagleMastersSeason62026.ics
+```
+
+</details>
+
+<details>
 <summary>ESEA</summary>
 
 ### Full Schedule
