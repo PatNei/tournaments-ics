@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260202T180000Z
-SUMMARY:Lower bracket semifinal 1: TBD vs TBD
+SUMMARY:Lower bracket semifinal 1: FURIA vs TBD
 UID:cs-go-iem-krakow-2026-1331885@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -646,8 +646,8 @@ SUMMARY:Lower bracket semifinal 2: FUT vs TBD
 UID:cs-go-iem-krakow-2026-1331886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FURIA: 2 | TheMongolz: 1\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260201T191606Z
 DTSTART:20260201T161956Z
 SUMMARY:Lower bracket quarterfinal 1: FURIA vs MGLZ
 UID:cs-go-iem-krakow-2026-1331883@tournamentics
