@@ -9,6 +9,20 @@ SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260202T180000Z
+SUMMARY:Lower bracket semifinal 1: FURIA vs NAVI
+UID:cs-go-iem-krakow-2026-1331885@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Natus Vincere: 0 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260201T213013Z
+DTSTART:20260201T193159Z
+SUMMARY:Upper bracket semifinal 2: NAVI vs TS
+UID:cs-go-iem-krakow-2026-1331882@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260210T160000Z
@@ -79,6 +93,48 @@ SUMMARY:Upper bracket quarterfinal 3: BB vs KOL
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310801@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Liquid: 1 | G2: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260129T211217Z
+DTSTART:20260129T180101Z
+SUMMARY:Upper bracket quarterfinal 2: TL vs G2
+UID:cs-go-iem-krakow-2026-1331848@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Liquid: 2 | NIP: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260128T191600Z
+DTSTART:20260128T173102Z
+SUMMARY:Round of 16 match 3: TL vs NIP
+UID:cs-go-iem-krakow-2026-1324058@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Legacy: 0 | FUT Esports: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260129T201056Z
+DTSTART:20260129T182542Z
+SUMMARY:Lower bracket round 1 match 3: LGC vs FUT
+UID:cs-go-iem-krakow-2026-1331845@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260208T160000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331906@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260207T144500Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331903@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260203T180000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331900@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: BESTIA: 2 | ShindeN: 0\nStream: https://kick.com/forg1
 DTEND:20260123T014433Z
 DTSTART:20260122T232700Z
@@ -121,6 +177,34 @@ SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344440@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260203T153000Z
+SUMMARY:Upper bracket final: VIT vs AUR
+UID:cs-go-iem-krakow-2026-1331899@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
+DURATION:PT2H
+DTSTART:20260202T153058Z
+SUMMARY:Lower bracket quarterfinal 2: NRG vs FAL
+UID:cs-go-iem-krakow-2026-1331896@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Vitality: 2 | 3DMAX: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260202T144409Z
+DTSTART:20260202T130118Z
+SUMMARY:Upper bracket semifinal 1: VIT vs 3DMAX
+UID:cs-go-iem-krakow-2026-1331893@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: 3DMAX: 2 | FaZe: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260131T201853Z
+DTSTART:20260131T181934Z
+SUMMARY:Upper bracket quarterfinal 2: 3DMAX vs FaZe
+UID:cs-go-iem-krakow-2026-1331890@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T190000Z
@@ -133,6 +217,13 @@ DURATION:PT2H
 DTSTART:20260212T160000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344424@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | PARIVISION: 1\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260131T163027Z
+DTSTART:20260131T130148Z
+SUMMARY:Upper bracket quarterfinal 3: NAVI vs PRV
+UID:cs-go-iem-krakow-2026-1331879@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -161,6 +252,41 @@ DTEND:20260121T195151Z
 DTSTART:20260121T171413Z
 SUMMARY:Lower bracket round 1 match 2: NTR vs SNG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310812@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260211T130000Z
+SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
+UID:cs-go-iem-atlanta-global-qualifier-2026-1344433@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Liquid: 0 | FUT Esports: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260130T195559Z
+DTSTART:20260130T181456Z
+SUMMARY:Lower bracket round 2 match 3: TL vs FUT
+UID:cs-go-iem-krakow-2026-1331853@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: NRG: 2 | B8: 1\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260128T153933Z
+DTSTART:20260128T130705Z
+SUMMARY:Round of 16 match 8: NRG vs B8
+UID:cs-go-iem-krakow-2026-1324063@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Astralis: 1 | NRG: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260130T155613Z
+DTSTART:20260130T130051Z
+SUMMARY:Upper bracket quarterfinal 4: AST vs NRG
+UID:cs-go-iem-krakow-2026-1331850@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Legacy: 0 | BC.Game Esports: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260128T165548Z
+DTSTART:20260128T150103Z
+SUMMARY:Round of 16 match 5: LGC vs BCG
+UID:cs-go-iem-krakow-2026-1324060@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: Imperial: 1 | RED Canids: 2\nStream: https://www.twitch.tv/ESLCSb
@@ -203,6 +329,27 @@ DURATION:PT2H
 DTSTART:20260211T130000Z
 SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344432@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260203T153000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331887@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: PARIVISION: 1 | Astralis: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260201T220343Z
+DTSTART:20260201T185035Z
+SUMMARY:Lower bracket quarterfinal 2: PRV vs AST
+UID:cs-go-iem-krakow-2026-1331884@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | G2: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260201T183328Z
+DTSTART:20260201T153119Z
+SUMMARY:Upper bracket semifinal 1: FUT vs G2
+UID:cs-go-iem-krakow-2026-1331881@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | 9INE: 1\nStream: https://www.twitch.tv/grimyrannarrcsgo
@@ -275,6 +422,41 @@ SUMMARY:Upper bracket quarterfinal 2: M8 vs HOTU
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310800@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260129T152932Z
+DTSTART:20260129T130105Z
+SUMMARY:Upper bracket quarterfinal 1: AUR vs PRV
+UID:cs-go-iem-krakow-2026-1331847@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Heroic: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260128T125134Z
+DTSTART:20260128T100101Z
+SUMMARY:Round of 16 match 2: HERO vs PRV
+UID:cs-go-iem-krakow-2026-1324057@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: NIP: 2 | Passion UA: 1\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260129T180950Z
+DTSTART:20260129T153057Z
+SUMMARY:Lower bracket round 1 match 2: NIP vs PSSN.UA
+UID:cs-go-iem-krakow-2026-1331844@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260208T123000Z
+SUMMARY:3rd Place match: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331905@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260206T180000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331902@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: Imperial: 0 | ShindeN: 2\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260122T224826Z
 DTSTART:20260122T201358Z
@@ -310,6 +492,27 @@ SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344442@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260203T130000Z
+SUMMARY:Lower bracket semifinal 2: 3DMAX vs TBD
+UID:cs-go-iem-krakow-2026-1331898@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260202T153058Z
+SUMMARY:Lower bracket quarterfinal 1: BCG vs FaZe
+UID:cs-go-iem-krakow-2026-1331895@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Team Falcons: 1 | Aurora Gaming: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260201T160303Z
+DTSTART:20260201T130127Z
+SUMMARY:Upper bracket quarterfinal 4: FAL vs AUR
+UID:cs-go-iem-krakow-2026-1331892@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T160000Z
@@ -329,6 +532,13 @@ DURATION:PT2H
 DTSTART:20260211T160000Z
 SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344423@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: G2: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260131T143737Z
+DTSTART:20260131T130213Z
+SUMMARY:Upper bracket quarterfinal 2: G2 vs MGLZ
+UID:cs-go-iem-krakow-2026-1331878@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -357,6 +567,20 @@ DTEND:20260121T181640Z
 DTSTART:20260121T165452Z
 SUMMARY:Lower bracket round 1 match 1: FUT vs K27
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310811@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 2 | NIP: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260130T171355Z
+DTSTART:20260130T153119Z
+SUMMARY:Lower bracket round 2 match 2: BCG vs NIP
+UID:cs-go-iem-krakow-2026-1331852@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Astralis: 2 | paiN: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260128T142653Z
+DTSTART:20260128T123152Z
+SUMMARY:Round of 16 match 7: AST vs paiN
+UID:cs-go-iem-krakow-2026-1324062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | Fluxo W7M: 1\nStream: https://www.twitch.tv/michel
@@ -401,11 +625,39 @@ SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344434@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Vitality: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260131T211004Z
+DTSTART:20260131T191910Z
+SUMMARY:Upper bracket quarterfinal 1: VIT vs BCG
+UID:cs-go-iem-krakow-2026-1331889@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T130000Z
 SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344431@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
+DURATION:PT2H
+DTSTART:20260202T183000Z
+SUMMARY:Lower bracket semifinal 2: FUT vs AST
+UID:cs-go-iem-krakow-2026-1331886@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FURIA: 2 | TheMongolz: 1\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260201T191606Z
+DTSTART:20260201T161956Z
+SUMMARY:Lower bracket quarterfinal 1: FURIA vs MGLZ
+UID:cs-go-iem-krakow-2026-1331883@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Spirit: 2 | Astralis: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260131T190304Z
+DTSTART:20260131T164616Z
+SUMMARY:Upper bracket quarterfinal 4: TS vs AST
+UID:cs-go-iem-krakow-2026-1331880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -457,6 +709,13 @@ SUMMARY:Upper bracket round 1 match 3: HOTU vs SNG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310805@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 0 | 3DMAX: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260129T171228Z
+DTSTART:20260129T154504Z
+SUMMARY:Upper bracket quarterfinal 3: BCG vs 3DMAX
+UID:cs-go-iem-krakow-2026-1331849@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 1 | Ursa: 2\nStream: https://www.twitch.tv/esportstudion
 DTEND:20260121T234343Z
 DTSTART:20260121T202645Z
@@ -464,11 +723,53 @@ SUMMARY:Upper bracket quarterfinal 4: EYE vs URSA
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Passion UA: 1 | G2: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260128T215307Z
+DTSTART:20260128T192432Z
+SUMMARY:Round of 16 match 4: PSSN.UA vs G2
+UID:cs-go-iem-krakow-2026-1324059@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: paiN: 2 | B8: 0\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260129T150019Z
+DTSTART:20260129T130106Z
+SUMMARY:Lower bracket round 1 match 4: paiN vs B8
+UID:cs-go-iem-krakow-2026-1331846@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | GamerLegion: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260128T114627Z
+DTSTART:20260128T100059Z
+SUMMARY:Round of 16 match 1: AUR vs GL
+UID:cs-go-iem-krakow-2026-1324056@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: GamerLegion: 2 | Heroic: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260130T145505Z
+DTSTART:20260130T130108Z
+SUMMARY:Lower bracket round 1 match 1: GL vs HERO
+UID:cs-go-iem-krakow-2026-1331843@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260207T180000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331904@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 2 | BIG Academy: 1\nStream: https://www.twitch.tv/redcs
 DTEND:20260122T004300Z
 DTSTART:20260121T201958Z
 SUMMARY:Upper bracket quarterfinal 1: 9INE vs BIG.A
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310795@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260206T144500Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-iem-krakow-2026-1331901@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Americas Closed Qualifier 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | BESTIA: 1\nStream: https://www.twitch.tv/eslcs
@@ -513,6 +814,27 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344441@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260203T130000Z
+SUMMARY:Lower bracket semifinal 1: MOUZ vs TBD
+UID:cs-go-iem-krakow-2026-1331897@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: MOUZ: 0 | Aurora Gaming: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260202T145552Z
+DTSTART:20260202T130119Z
+SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
+UID:cs-go-iem-krakow-2026-1331894@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | NRG: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260201T144908Z
+DTSTART:20260201T130050Z
+SUMMARY:Upper bracket quarterfinal 3: MOUZ vs NRG
+UID:cs-go-iem-krakow-2026-1331891@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T190000Z
@@ -532,6 +854,13 @@ DURATION:PT2H
 DTSTART:20260211T160000Z
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344422@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FURIA: 0 | FUT Esports: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260131T171155Z
+DTSTART:20260131T153052Z
+SUMMARY:Upper bracket quarterfinal 1: FURIA vs FUT
+UID:cs-go-iem-krakow-2026-1331877@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio: Global Closed Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 2 | 9INE: 0\nStream: https://www.twitch.tv/watchfulTV
@@ -562,6 +891,27 @@ SUMMARY:Upper bracket round 1 match 8: URSA vs BCG
 UID:cs-go-iem-rio-global-closed-qualifier-2026-1310810@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: paiN: 0 | Aurora Gaming: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260130T175858Z
+DTSTART:20260130T161216Z
+SUMMARY:Lower bracket round 2 match 4: paiN vs AUR
+UID:cs-go-iem-krakow-2026-1331854@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: GamerLegion: 0 | Astralis: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260130T194023Z
+DTSTART:20260130T180101Z
+SUMMARY:Lower bracket round 2 match 1: GL vs AST
+UID:cs-go-iem-krakow-2026-1331851@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | 3DMAX: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260128T190839Z
+DTSTART:20260128T155452Z
+SUMMARY:Round of 16 match 6: FUT vs 3DMAX
+UID:cs-go-iem-krakow-2026-1324061@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260210T220000Z
@@ -590,10 +940,10 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260211T130000Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344433@tournamentics
+DTSTART:20260203T180000Z
+SUMMARY:Upper bracket final: G2 vs TS
+UID:cs-go-iem-krakow-2026-1331888@tournamentics
 END:VEVENT
 END:VCALENDAR
