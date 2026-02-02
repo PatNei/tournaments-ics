@@ -334,7 +334,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T153000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: AST vs TBD
 UID:cs-go-iem-krakow-2026-1331887@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -639,8 +639,8 @@ SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344431@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: FUT Esports: 1 | Astralis: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260202T211124Z
 DTSTART:20260202T183255Z
 SUMMARY:Lower bracket semifinal 2: FUT vs AST
 UID:cs-go-iem-krakow-2026-1331886@tournamentics
