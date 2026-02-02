@@ -5185,7 +5185,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260202T180000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: NEMI vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338713@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6876,8 +6876,8 @@ SUMMARY:Round 1: AM vs URSA
 UID:cs-go-cct-europe-series-14-3-2026-1326381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | 33: 1\nStream: https://kick.com/exort_en4
+DTEND:20260202T115449Z
 DTSTART:20260202T091737Z
 SUMMARY:Upper bracket quarterfinal 3: NEMI vs 33
 UID:cs-go-exort-cataclysm-1-2025-1338710@tournamentics
@@ -7145,7 +7145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260202T180000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: 33 vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338721@tournamentics
 END:VEVENT
 BEGIN:VEVENT
