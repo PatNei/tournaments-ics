@@ -4496,8 +4496,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-krakow-2026-1331887@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: 9INE: 2 | MOUZ NXT: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260202T151015Z
 DTSTART:20260202T120240Z
 SUMMARY:Round of 16 match 1: 9INE vs MOUZ.N
 UID:cs-go-nodwin-clutch-series-4-2026-1313501@tournamentics
@@ -4603,7 +4603,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260202T150000Z
+DTSTART:20260202T151000Z
 SUMMARY:Omega vs BBP
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341921@tournamentics
 END:VEVENT
@@ -7285,7 +7285,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260204T090000Z
-SUMMARY:Quarterfinal 1: NTR vs TBD
+SUMMARY:Quarterfinal 1: NTR vs 9INE
 UID:cs-go-nodwin-clutch-series-4-2026-1313508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
