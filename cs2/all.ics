@@ -3204,7 +3204,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260205T223000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Mythic vs TBD
 UID:cs-go-cct-north-america-series-3-3-2026-1343579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3848,7 +3848,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260204T223000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: SportsBetExpert vs TBD
 UID:cs-go-cct-north-america-series-3-3-2026-1343578@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4510,13 +4510,6 @@ SUMMARY:Round of 16 match 1: 9INE vs MOUZ.N
 UID:cs-go-nodwin-clutch-series-4-2026-1313501@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260203T013000Z
-SUMMARY:Mythic vs SportsBetExpert
-UID:cs-go-cct-north-america-series-3-3-2026-1343577@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260212T150000Z
@@ -5070,9 +5063,9 @@ SUMMARY:Round of 16 match 2: NTR vs UNiTY
 UID:cs-go-nodwin-clutch-series-4-2026-1313500@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260202T223000Z
+DTSTART:20260202T223708Z
 SUMMARY:REGAIN vs mouse
 UID:cs-go-cct-north-america-series-3-3-2026-1343576@tournamentics
 END:VEVENT
