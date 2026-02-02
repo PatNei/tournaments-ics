@@ -481,7 +481,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260202T150000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: WB vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338720@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -492,8 +492,8 @@ SUMMARY:WW vs AUR.YB
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341916@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | WHITEBIRD: 0\nStream: https://kick.com/exort_en3
+DTEND:20260202T111623Z
 DTSTART:20260202T090528Z
 SUMMARY:Upper bracket quarterfinal 2: ARC vs WB
 UID:cs-go-exort-cataclysm-1-2025-1338709@tournamentics
@@ -5752,7 +5752,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
 DTSTART:20260202T150000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: ARC vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338712@tournamentics
 END:VEVENT
 BEGIN:VEVENT
