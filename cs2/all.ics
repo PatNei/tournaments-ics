@@ -4506,7 +4506,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260202T120000Z
-SUMMARY:Round of 16 match 2: 9INE vs MOUZ.N
+SUMMARY:Round of 16 match 1: 9INE vs MOUZ.N
 UID:cs-go-nodwin-clutch-series-4-2026-1313501@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5066,7 +5066,7 @@ BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260202T091050Z
-SUMMARY:Round of 16 match 1: NTR vs UNiTY
+SUMMARY:Round of 16 match 2: NTR vs UNiTY
 UID:cs-go-nodwin-clutch-series-4-2026-1313500@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6883,9 +6883,9 @@ SUMMARY:Round 1: AM vs URSA
 UID:cs-go-cct-europe-series-14-3-2026-1326381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
 DURATION:PT2H
-DTSTART:20260202T090000Z
+DTSTART:20260202T091737Z
 SUMMARY:Upper bracket quarterfinal 3: NEMI vs 33
 UID:cs-go-exort-cataclysm-1-2025-1338710@tournamentics
 END:VEVENT
