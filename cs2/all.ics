@@ -6501,7 +6501,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260206T090000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: LAG vs TBD
 UID:cs-go-united21-44-2026-1339484@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7128,8 +7128,8 @@ SUMMARY: CSDIILIT vs MSC
 UID:cs-go-nodwin-clutch-series-4-2026-1312255@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: LAGUNA: 2 | megoshort: 0\nStream: https://www.kick.com/united21_en
+DTEND:20260202T133450Z
 DTSTART:20260202T114227Z
 SUMMARY:Elimination match: LAG vs MEGO
 UID:cs-go-united21-44-2026-1339483@tournamentics
