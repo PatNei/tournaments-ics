@@ -70,13 +70,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/CctE
 
 ---
 
-### Series #13 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series13Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series13Season32026.ics
-```
-
 ### Series #14 season 3 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series14Season32026.ics)
 
@@ -127,13 +120,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmeric
 ```
 
 ---
-
-### Series #7 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/Series7Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/Series7Season32026.ics
-```
 
 ### Series #8 season 3 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmerica/Series8Season32026.ics)
@@ -191,44 +177,9 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaAme
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlobalQualifier2026.ics
 ```
 
-### Rio: Americas Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioAmericasClosedQualifier2026.ics
-```
-
-### Rio: Global Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/RioGlobalClosedQualifier2026.ics
-```
-
 </details>
 
 ## D Tier
-
-<details>
-<summary>A1 Gaming League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics
-```
-
----
-
-### Season 11 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics
-```
-
-</details>
 
 <details>
 <summary>CCT Europe</summary>
@@ -520,27 +471,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Unite
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Season442026.ics
-```
-
-</details>
-
-<details>
-<summary>United21 x Esplay Challenge</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/United21XEsplayChallenge.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/United21XEsplayChallenge.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21XEsplayChallenge/Season12026.ics
 ```
 
 </details>
