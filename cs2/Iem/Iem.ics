@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T153000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: VIT vs TBD
 UID:cs-go-iem-krakow-2026-1331899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:Lower bracket quarterfinal 2: NRG vs FAL
 UID:cs-go-iem-krakow-2026-1331896@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Vitality: 2 | 3DMAX: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260202T144409Z
 DTSTART:20260202T130118Z
 SUMMARY:Upper bracket semifinal 1: VIT vs 3DMAX
 UID:cs-go-iem-krakow-2026-1331893@tournamentics
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T130000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: 3DMAX vs TBD
 UID:cs-go-iem-krakow-2026-1331898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
