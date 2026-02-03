@@ -1402,8 +1402,8 @@ SUMMARY:Lower bracket round 1 match 4: paiN vs B8
 UID:cs-go-iem-krakow-2026-1331846@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: K27: 2 | Team Nemesis: 1\nStream: https://kick.com/exort_en3
+DTEND:20260203T121312Z
 DTSTART:20260203T090305Z
 SUMMARY:Lower bracket quarterfinal 2: K27 vs NEM
 UID:cs-go-exort-cataclysm-1-2025-1338719@tournamentics
@@ -1864,9 +1864,9 @@ SUMMARY:Round 4: 1WIN vs NEMI
 UID:cs-go-cct-europe-series-13-3-2026-1313544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260203T120000Z
+DTSTART:20260203T120654Z
 SUMMARY:Round of 16 match 7: SIN vs G1
 UID:cs-go-nodwin-clutch-series-4-2026-1313505@tournamentics
 END:VEVENT
@@ -2623,7 +2623,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
 DURATION:PT2H
 DTSTART:20260203T130000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: K27 vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338717@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3250,9 +3250,9 @@ SUMMARY:Round 3: ex-RUBY vs ILWL
 UID:cs-go-nodwin-clutch-series-4-2026-1313490@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260203T120000Z
+DTSTART:20260203T120908Z
 SUMMARY:Elimination match: BBP vs QUA
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341923@tournamentics
 END:VEVENT
@@ -4442,7 +4442,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
-DTSTART:20260203T122000Z
+DTSTART:20260203T123500Z
 SUMMARY:Upper bracket final: ARC vs NEMI
 UID:cs-go-exort-cataclysm-1-2025-1338714@tournamentics
 END:VEVENT

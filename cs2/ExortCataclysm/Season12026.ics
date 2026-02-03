@@ -145,13 +145,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en4
 DURATION:PT2H
 DTSTART:20260203T130000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: K27 vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338717@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
-DTSTART:20260203T122000Z
+DTSTART:20260203T123500Z
 SUMMARY:Upper bracket final: ARC vs NEMI
 UID:cs-go-exort-cataclysm-1-2025-1338714@tournamentics
 END:VEVENT
@@ -205,8 +205,8 @@ SUMMARY:NEM vs MUERTA TEAM
 UID:cs-go-exort-cataclysm-1-2025-1338697@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: K27: 2 | Team Nemesis: 1\nStream: https://kick.com/exort_en3
+DTEND:20260203T121312Z
 DTSTART:20260203T090305Z
 SUMMARY:Lower bracket quarterfinal 2: K27 vs NEM
 UID:cs-go-exort-cataclysm-1-2025-1338719@tournamentics
