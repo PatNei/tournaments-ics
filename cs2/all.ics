@@ -2651,7 +2651,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260205T010000Z
-SUMMARY:Round 1: OverKnight vs CCE
+SUMMARY:Round 1: OverKnight vs F5
 UID:cs-go-dust2-us-eagle-masters-6-2026-1344201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3663,11 +3663,11 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
-DURATION:PT2H
-DTSTART:20260203T024810Z
-SUMMARY:Round 1: SportsBetExpert vs F5
-UID:cs-go-dust2-us-eagle-masters-6-2026-1344187@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 1 | Favbet: 2\nStream: https://www.twitch.tv/officialhyper
+DTEND:20260124T180704Z
+DTSTART:20260124T150830Z
+SUMMARY:Round 4: ORM vs FAV
+UID:cs-go-cct-europe-series-13-3-2026-1313541@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | los kogutos: 2\nStream: https://kick.com/cct_cs2
@@ -3684,11 +3684,11 @@ SUMMARY:Upper bracket final: G2 vs TS
 UID:cs-go-iem-krakow-2026-1331888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Oramond: 1 | Favbet: 2\nStream: https://www.twitch.tv/officialhyper
-DTEND:20260124T180704Z
-DTSTART:20260124T150830Z
-SUMMARY:Round 4: ORM vs FAV
-UID:cs-go-cct-europe-series-13-3-2026-1313541@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | Betclic Apogee Esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260202T181416Z
+DTSTART:20260202T153008Z
+SUMMARY:Round of 16 match 3: ICE vs BCA
+UID:cs-go-nodwin-clutch-series-4-2026-1313502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
@@ -3717,13 +3717,6 @@ DTEND:20260120T155545Z
 DTSTART:20260120T151439Z
 SUMMARY:HAVU vs RUST
 UID:cs-go-esea-advanced-europe-56-2026-1327443@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | Betclic Apogee Esports: 2\nStream: https://kick.com/nodwin_cs2
-DTEND:20260202T181416Z
-DTSTART:20260202T153008Z
-SUMMARY:Round of 16 match 3: ICE vs BCA
-UID:cs-go-nodwin-clutch-series-4-2026-1313502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 0 | MASONIC: 1\nStream: https://www.twitch.tv/gsancher
@@ -4475,11 +4468,11 @@ SUMMARY:Quarterfinal 2: MSC vs MISA
 UID:cs-go-exort-series-21-2026-1339727@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Brute: 2 | MASONIC: 0\nStream: https://kick.com/nodwin_cs2
-DTEND:20260120T194332Z
-DTSTART:20260120T180858Z
-SUMMARY:BRUTE vs MSC
-UID:cs-go-nodwin-clutch-series-4-2026-1313454@tournamentics
+DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
+DURATION:PT2H
+DTSTART:20260203T034131Z
+SUMMARY:Round 1: SportsBetExpert vs CCE
+UID:cs-go-dust2-us-eagle-masters-6-2026-1345980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 Play-In season 3 2026\nMatch Type: Best Of\nResult: Acend: 2 | Bebop: 1\nStream: https://kick.com/cct_cs2
@@ -4515,6 +4508,13 @@ DTEND:20260112T195549Z
 DTSTART:20260112T191038Z
 SUMMARY: CSDIILIT vs MANA
 UID:cs-go-esea-advanced-europe-56-2026-1317215@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Brute: 2 | MASONIC: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260120T194332Z
+DTSTART:20260120T180858Z
+SUMMARY:BRUTE vs MSC
+UID:cs-go-nodwin-clutch-series-4-2026-1313454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Shanghai Sharks ESC: 1 | Ding Cuts: 2\nStream: https://www.twitch.tv/bowser0
