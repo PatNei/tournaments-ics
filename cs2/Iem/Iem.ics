@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260203T190000Z
+DTSTART:20260203T191000Z
 SUMMARY:Lower bracket final: FAL vs MOUZ
 UID:cs-go-iem-krakow-2026-1331900@tournamentics
 END:VEVENT
@@ -646,8 +646,8 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: G2: 1 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260203T185525Z
 DTSTART:20260203T153127Z
 SUMMARY:Upper bracket final: G2 vs TS
 UID:cs-go-iem-krakow-2026-1331888@tournamentics

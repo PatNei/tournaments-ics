@@ -480,7 +480,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260203T184500Z
+DTSTART:20260203T185500Z
 SUMMARY:Peekaboo vs XI
 UID:cs-go-esea-advanced-europe-56-2026-1345985@tournamentics
 END:VEVENT
@@ -536,7 +536,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
-DTSTART:20260203T184500Z
+DTSTART:20260203T190000Z
 SUMMARY:Quarterfinal 2: GE vs RED.A
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1345978@tournamentics
 END:VEVENT
@@ -639,9 +639,9 @@ SUMMARY:eLITenergy vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1339384@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260203T184000Z
+DTSTART:20260203T184746Z
 SUMMARY:Round of 16 match 5: ECS vs Fingers
 UID:cs-go-nodwin-clutch-series-4-2026-1313507@tournamentics
 END:VEVENT
@@ -2881,7 +2881,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260203T190000Z
+DTSTART:20260203T193000Z
 SUMMARY:Round 1: FURIA.F vs VSC
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343455@tournamentics
 END:VEVENT
@@ -3698,8 +3698,8 @@ SUMMARY:Round 2: JS vs LK
 UID:cs-go-cct-europe-series-14-3-2026-1326410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: G2: 1 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260203T185525Z
 DTSTART:20260203T153127Z
 SUMMARY:Upper bracket final: G2 vs TS
 UID:cs-go-iem-krakow-2026-1331888@tournamentics
@@ -3945,7 +3945,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260203T190000Z
+DTSTART:20260203T191000Z
 SUMMARY:Lower bracket final: FAL vs MOUZ
 UID:cs-go-iem-krakow-2026-1331900@tournamentics
 END:VEVENT
