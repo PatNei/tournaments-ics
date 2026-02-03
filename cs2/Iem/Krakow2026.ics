@@ -72,8 +72,8 @@ SUMMARY:Lower bracket round 1 match 3: LGC vs FUT
 UID:cs-go-iem-krakow-2026-1331845@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | FaZe: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260203T145125Z
 DTSTART:20260203T130606Z
 SUMMARY:Lower bracket semifinal 1: MOUZ vs FaZe
 UID:cs-go-iem-krakow-2026-1331897@tournamentics
@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260203T180000Z
-SUMMARY:Lower bracket final: FAL vs TBD
+SUMMARY:Lower bracket final: FAL vs MOUZ
 UID:cs-go-iem-krakow-2026-1331900@tournamentics
 END:VEVENT
 BEGIN:VEVENT
