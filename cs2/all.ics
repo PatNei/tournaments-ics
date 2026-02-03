@@ -3756,7 +3756,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en3
 DURATION:PT2H
-DTSTART:20260203T191500Z
+DTSTART:20260203T194500Z
 SUMMARY:Grand final: NEMI vs TBD
 UID:cs-go-exort-cataclysm-1-2025-1338715@tournamentics
 END:VEVENT
@@ -4013,8 +4013,8 @@ SUMMARY:Round 1: ORM vs PHA
 UID:cs-go-cct-europe-series-13-3-2026-1313518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ShindeN: 1 | 9z: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260203T192509Z
 DTSTART:20260203T161904Z
 SUMMARY:Round 1: SHIN vs 9z
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343453@tournamentics
@@ -6197,9 +6197,9 @@ SUMMARY:Round 3: MOUZ.N vs FAV
 UID:cs-go-nodwin-clutch-series-4-2026-1313485@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
 DURATION:PT2H
-DTSTART:20260203T191000Z
+DTSTART:20260203T191820Z
 SUMMARY:MSC vs B8 Academy
 UID:cs-go-esea-advanced-europe-56-2026-1345987@tournamentics
 END:VEVENT
@@ -6771,9 +6771,9 @@ SUMMARY:PGE vs RBLS
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/minicasterr
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/minicasterr
 DURATION:PT2H
-DTSTART:20260203T191000Z
+DTSTART:20260203T191818Z
 SUMMARY:BIG.E vs hindsight
 UID:cs-go-esea-advanced-europe-56-2026-1345986@tournamentics
 END:VEVENT
