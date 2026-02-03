@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260204T223000Z
-SUMMARY:Winners match: SportsBetExpert vs TBD
+SUMMARY:Winners match: SportsBetExpert vs REGAIN
 UID:cs-go-cct-north-america-series-3-3-2026-1343578@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ SUMMARY:LAG vs ZOMB
 UID:cs-go-cct-north-america-series-3-3-2026-1343581@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nResult: regain: 2 | mouse: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260203T000913Z
 DTSTART:20260202T223708Z
 SUMMARY:REGAIN vs mouse
 UID:cs-go-cct-north-america-series-3-3-2026-1343576@tournamentics
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260205T223000Z
-SUMMARY:Elimination match: Mythic vs TBD
+SUMMARY:Elimination match: Mythic vs mouse
 UID:cs-go-cct-north-america-series-3-3-2026-1343579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
