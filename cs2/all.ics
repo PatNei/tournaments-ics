@@ -2767,9 +2767,9 @@ SUMMARY:Round 2: AM vs ILWL
 UID:cs-go-cct-europe-series-13-3-2026-1313531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T161500Z
+DTSTART:20260204T161350Z
 SUMMARY:AUR.YB vs FUT.A
 UID:cs-go-esea-advanced-europe-56-2026-1347230@tournamentics
 END:VEVENT
@@ -5301,8 +5301,8 @@ SUMMARY:Round 1: AAB vs MSC
 UID:cs-go-a1-gaming-league-11-2026-1312625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | WATERMELON: 1\nStream: https://kick.com/exort_en2
+DTEND:20260204T161717Z
 DTSTART:20260204T134722Z
 SUMMARY:Round 2: Imperial.A vs WTRML0N
 UID:cs-go-exort-series-22-2026-1347258@tournamentics
