@@ -772,9 +772,9 @@ SUMMARY:home vs MSC
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260204T094000Z
+DTSTART:20260204T094613Z
 SUMMARY:Round of 16 match 2: NTR vs KOL
 UID:cs-go-cct-europe-series-14-3-2026-1326483@tournamentics
 END:VEVENT
@@ -3789,6 +3789,13 @@ SUMMARY:FCF vs MINLATE
 UID:cs-go-esea-advanced-europe-56-2026-1347240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
+DURATION:PT2H
+DTSTART:20260206T190000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1347418@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: QUAZAR: 1 | Square Sausages: 0\nStream: https://www.twitch.tv/goyarego
 DTEND:20260121T192118Z
 DTSTART:20260121T184848Z
@@ -3796,18 +3803,18 @@ SUMMARY:QUA vs SS
 UID:cs-go-esea-advanced-europe-56-2026-1328938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: HAVU: 0 | RUSTEC: 1\nStream: https://www.twitch.tv/dranzart1
-DTEND:20260120T155545Z
-DTSTART:20260120T151439Z
-SUMMARY:HAVU vs RUST
-UID:cs-go-esea-advanced-europe-56-2026-1327443@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260204T140000Z
 SUMMARY:MANA vs HS
 UID:cs-go-esea-advanced-europe-56-2026-1347229@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: HAVU: 0 | RUSTEC: 1\nStream: https://www.twitch.tv/dranzart1
+DTEND:20260120T155545Z
+DTSTART:20260120T151439Z
+SUMMARY:HAVU vs RUST
+UID:cs-go-esea-advanced-europe-56-2026-1327443@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 0 | MASONIC: 1\nStream: https://www.twitch.tv/gsancher
@@ -4447,11 +4454,11 @@ SUMMARY:MANA vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1328937@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
-DTEND:20260121T145447Z
-DTSTART:20260121T120440Z
-SUMMARY:Round 2: NEMI vs ex-RUBY
-UID:cs-go-cct-europe-series-13-3-2026-1313529@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
+DURATION:PT2H
+DTSTART:20260205T213000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-gamers-club-liga-serie-a-january-2026-1347417@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Vexa: 1 | paiN Academy: 2\nStream: No official stream linked
@@ -4459,6 +4466,13 @@ DTEND:20260127T221336Z
 DTSTART:20260127T192144Z
 SUMMARY:Elimination match: VEXA vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1334273@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
+DTEND:20260121T145447Z
+DTSTART:20260121T120440Z
+SUMMARY:Round 2: NEMI vs ex-RUBY
+UID:cs-go-cct-europe-series-13-3-2026-1313529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nStream: No official stream linked
