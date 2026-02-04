@@ -217,6 +217,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague
 </details>
 
 <details>
+<summary>Ace North American Masters</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceNorthAmericanMasters/AceNorthAmericanMasters.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceNorthAmericanMasters/AceNorthAmericanMasters.ics
+```
+
+---
+
+### Open Qualifier Spring 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceNorthAmericanMasters/OpenQualifierSpring2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceNorthAmericanMasters/OpenQualifierSpring2026.ics
+```
+
+</details>
+
+<details>
 <summary>Ace South American Masters</summary>
 
 ### Full Schedule
