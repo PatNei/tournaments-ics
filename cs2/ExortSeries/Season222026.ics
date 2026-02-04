@@ -2,11 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260205T193000Z
+SUMMARY:Round 2: SASHI.A vs B8 Academy
+UID:cs-go-exort-series-22-2026-1347263@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260204T163000Z
+SUMMARY:Round 2:  Phantom Academy vs Y.TigeRES
+UID:cs-go-exort-series-22-2026-1347259@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: aimclub: 1 | WATERMELON: 2\nStream: https://kick.com/exort_en2
 DTEND:20260203T180258Z
 DTSTART:20260203T163625Z
 SUMMARY:Round 1: aimclub vs WTRML0N
 UID:cs-go-exort-series-22-2026-1345983@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260204T193000Z
+SUMMARY:Round 2: Stinky Rats vs BNS
+UID:cs-go-exort-series-22-2026-1347260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | B8 Academy: 1\nStream: https://kick.com/exort_en2
@@ -21,6 +42,20 @@ DTEND:20260202T181203Z
 DTSTART:20260202T163802Z
 SUMMARY:Round 1: Y.TigeRES vs VP.F
 UID:cs-go-exort-series-22-2026-1344650@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260205T163000Z
+SUMMARY:Round 2: FOKUS vs PCF
+UID:cs-go-exort-series-22-2026-1347262@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260204T133000Z
+SUMMARY:Round 2: Imperial.A vs WTRML0N
+UID:cs-go-exort-series-22-2026-1347258@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: FOKUS: 0 | Bad News Snakes: 2\nStream: https://kick.com/exort_en2
@@ -42,6 +77,13 @@ DTEND:20260203T205155Z
 DTSTART:20260203T193415Z
 SUMMARY:Round 1: Stinky Rats vs PCF
 UID:cs-go-exort-series-22-2026-1345984@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260205T133000Z
+SUMMARY:Round 2: PEEP vs VP.F
+UID:cs-go-exort-series-22-2026-1347261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🕒 POSTPONED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
