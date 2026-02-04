@@ -1052,8 +1052,8 @@ SUMMARY:Qualification match: BST vs MARS
 UID:cs-go-fireconter-1-2026-1335661@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Midnight: 2 | Sangal ALTERS: 0\nStream: https://kick.com/united21_en
+DTEND:20260204T103642Z
 DTSTART:20260204T091046Z
 SUMMARY:Winners match: MID vs SNG
 UID:cs-go-united21-44-2026-1339562@tournamentics
@@ -3477,7 +3477,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260205T120000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: G1 vs TBD
 UID:cs-go-nodwin-clutch-series-4-2026-1313514@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5308,8 +5308,8 @@ SUMMARY:Round of 16 match 7: ICE vs NEM
 UID:cs-go-cct-europe-series-13-3-2026-1313550@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: GenOne: 2 | AM Gaming: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260204T104058Z
 DTSTART:20260204T090306Z
 SUMMARY:Quarterfinal 4: G1 vs AM
 UID:cs-go-nodwin-clutch-series-4-2026-1313511@tournamentics
@@ -7082,7 +7082,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260207T090000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: SNG vs TBD
 UID:cs-go-united21-44-2026-1339564@tournamentics
 END:VEVENT
 BEGIN:VEVENT
