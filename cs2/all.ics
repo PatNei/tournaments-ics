@@ -1402,13 +1402,6 @@ SUMMARY:Round 1: Bad Luck vs HWGA
 UID:cs-go-champion-of-champions-tour-series-7-3-2026-1315163@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🕒 POSTPONED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260203T103000Z
-SUMMARY:Round 1: JUMBO vs TBD
-UID:cs-go-exort-series-22-2026-1345981@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260218T120000Z
@@ -7177,9 +7170,9 @@ SUMMARY:Round 5: NEM vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313547@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260204T150000Z
+DTSTART:20260204T150250Z
 SUMMARY:Quarterfinal 1: NTR vs 9INE
 UID:cs-go-nodwin-clutch-series-4-2026-1313508@tournamentics
 END:VEVENT
