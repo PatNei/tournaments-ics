@@ -3215,13 +3215,6 @@ SUMMARY:Round 3: VP.F vs Y.TigeRES
 UID:cs-go-exort-series-21-2026-1322474@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260205T010000Z
-SUMMARY:Round 1: SE vs DNP
-UID:cs-go-dust2-us-eagle-masters-6-2026-1344072@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260205T180000Z
@@ -4027,8 +4020,8 @@ SUMMARY:Round 2: NEMI vs ex-RUBY
 UID:cs-go-cct-europe-series-13-3-2026-1313529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: 9z: 2 | ShindeN: 0\nStream: https://www.twitch.tv/forg1
+DTEND:20260204T235149Z
 DTSTART:20260204T211737Z
 SUMMARY:9z vs SHIN
 UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347255@tournamentics
@@ -4545,8 +4538,8 @@ SUMMARY:Round 2: NEM vs ARC
 UID:cs-go-cct-europe-series-13-3-2026-1313528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gatinhodoonlyfanss
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: Crashers: 1 | Galorys: 2\nStream: https://www.twitch.tv/gatinhodoonlyfanss
+DTEND:20260204T234504Z
 DTSTART:20260204T211407Z
 SUMMARY:CRASH vs GLS
 UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347254@tournamentics
@@ -4776,6 +4769,13 @@ SUMMARY:Quarterfinal 4: G1 vs AM
 UID:cs-go-nodwin-clutch-series-4-2026-1313511@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260205T000000Z
+SUMMARY:Round 1: SE vs FarmVille
+UID:cs-go-dust2-us-eagle-masters-6-2026-1348400@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260208T013000Z
@@ -4783,18 +4783,18 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-cct-north-america-series-3-3-2026-1343587@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260205T093000Z
-SUMMARY:Quarterfinal 1: KOL vs BB
-UID:cs-go-cct-europe-series-14-3-2026-1326500@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Zingaro Gaming: 0\nStream: https://www.twitch.tv/elmorocho7
 DTEND:20260129T152100Z
 DTSTART:20260129T142249Z
 SUMMARY:Upper bracket semifinal 1: IMP vs ZG
 UID:cs-go-fireconter-1-2026-1333300@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260205T093000Z
+SUMMARY:Quarterfinal 1: KOL vs BB
+UID:cs-go-cct-europe-series-14-3-2026-1326500@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | ARCRED: 2\nStream: https://kick.com/cct_cs
