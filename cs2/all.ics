@@ -2060,9 +2060,9 @@ SUMMARY:Round 4: Fingers vs  CSDIILIT
 UID:cs-go-a1-gaming-league-11-2026-1313582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T180000Z
+DTSTART:20260204T181405Z
 SUMMARY:B8 Academy vs MANA
 UID:cs-go-esea-advanced-europe-56-2026-1342052@tournamentics
 END:VEVENT
@@ -3026,9 +3026,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T180000Z
+DTSTART:20260204T181237Z
 SUMMARY:MSC vs Stinky Rats
 UID:cs-go-esea-advanced-europe-56-2026-1347241@tournamentics
 END:VEVENT
@@ -5101,7 +5101,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260205T093000Z
-SUMMARY:Quarterfinal 1: KOL vs TBD
+SUMMARY:Quarterfinal 1: KOL vs BB
 UID:cs-go-cct-europe-series-14-3-2026-1326500@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5660,7 +5660,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T180000Z
+DTSTART:20260204T181500Z
 SUMMARY:ECF vs UNiTY
 UID:cs-go-esea-advanced-europe-56-2026-1347237@tournamentics
 END:VEVENT
@@ -6386,9 +6386,9 @@ SUMMARY:Round 5: AM vs 33
 UID:cs-go-cct-europe-series-13-3-2026-1313548@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260204T180000Z
+DTSTART:20260204T180723Z
 SUMMARY:Quarterfinal 2: BCA vs ILWL
 UID:cs-go-nodwin-clutch-series-4-2026-1313509@tournamentics
 END:VEVENT
@@ -6533,8 +6533,8 @@ SUMMARY:Winners match: MSC vs BW
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | FORZE Reload: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260204T181035Z
 DTSTART:20260204T153920Z
 SUMMARY:Round of 16 match 1: BB vs FORZE.R
 UID:cs-go-cct-europe-series-14-3-2026-1326485@tournamentics
