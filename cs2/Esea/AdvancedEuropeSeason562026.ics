@@ -676,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260204T160000Z
+DTSTART:20260204T161500Z
 SUMMARY:AUR.YB vs FUT.A
 UID:cs-go-esea-advanced-europe-56-2026-1347230@tournamentics
 END:VEVENT
@@ -1234,9 +1234,9 @@ SUMMARY:Imperial.A vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1319923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/brute_gg
 DURATION:PT2H
-DTSTART:20260204T160000Z
+DTSTART:20260204T161132Z
 SUMMARY:WTRML0N vs BRUTE
 UID:cs-go-esea-advanced-europe-56-2026-1347243@tournamentics
 END:VEVENT
