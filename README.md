@@ -33,29 +33,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Krakow2026
 
 </details>
 
-## A Tier
-
-<details>
-<summary>BLAST Bounty</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/BlastBounty.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/BlastBounty.ics
-```
-
----
-
-### Winter 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/Winter2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BlastBounty/Winter2026.ics
-```
-
-</details>
-
 ## B Tier
 
 <details>
