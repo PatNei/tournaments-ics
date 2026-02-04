@@ -278,7 +278,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260205T120000Z
-SUMMARY:Elimination match:  CSDIILIT vs TBD
+SUMMARY:Elimination match:  CSDIILIT vs PRIME
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -639,8 +639,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341935@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 2 | PRIME: 1\nStream: https://kick.com/cct_cs
+DTEND:20260204T223732Z
 DTSTART:20260204T182548Z
 SUMMARY:WB vs PRIME
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341932@tournamentics
@@ -1055,7 +1055,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260205T180000Z
-SUMMARY:Winners match: LK vs TBD
+SUMMARY:Winners match: LK vs WB
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341934@tournamentics
 END:VEVENT
 BEGIN:VEVENT

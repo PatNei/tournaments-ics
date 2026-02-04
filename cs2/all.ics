@@ -3316,7 +3316,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260205T180000Z
-SUMMARY:Winners match: LK vs TBD
+SUMMARY:Winners match: LK vs WB
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341934@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3467,9 +3467,9 @@ SUMMARY:Round of 16 match 3: ICE vs BCA
 UID:cs-go-nodwin-clutch-series-4-2026-1313502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260204T223000Z
+DTSTART:20260204T223604Z
 SUMMARY:Winners match: SportsBetExpert vs REGAIN
 UID:cs-go-cct-north-america-series-3-3-2026-1343578@tournamentics
 END:VEVENT
@@ -3911,7 +3911,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260205T120000Z
-SUMMARY:Elimination match:  CSDIILIT vs TBD
+SUMMARY:Elimination match:  CSDIILIT vs PRIME
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4461,8 +4461,8 @@ SUMMARY:Round 3: DT vs 3DMAX.A
 UID:cs-go-exort-series-21-2026-1322472@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 Play-In season 3 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 2 | PRIME: 1\nStream: https://kick.com/cct_cs
+DTEND:20260204T223732Z
 DTSTART:20260204T182548Z
 SUMMARY:WB vs PRIME
 UID:cs-go-cct-europe-series-15-play-in-3-2026-1341932@tournamentics
