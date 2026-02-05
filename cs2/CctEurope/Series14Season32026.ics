@@ -194,12 +194,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260206T110000Z
-SUMMARY:Semifinal 1: BB vs TBD
+SUMMARY:Semifinal 1: BB vs ex-RUBY
 UID:cs-go-cct-europe-series-14-3-2026-1326508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: 9INE: 1 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
+DTEND:20260205T152510Z
 DTSTART:20260205T123959Z
 SUMMARY:Quarterfinal 2: 9INE vs ex-RUBY
 UID:cs-go-cct-europe-series-14-3-2026-1326505@tournamentics
@@ -298,7 +298,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260205T153000Z
+DTSTART:20260205T154000Z
 SUMMARY:Quarterfinal 4: EYE vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326507@tournamentics
 END:VEVENT
