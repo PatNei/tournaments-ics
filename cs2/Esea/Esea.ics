@@ -324,8 +324,8 @@ SUMMARY:FUT.A vs SIU
 UID:cs-go-esea-advanced-europe-56-2026-1335447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/havugaming
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: HAVU: 1 | Falcons Force: 0\nStream: https://www.twitch.tv/havugaming
+DTEND:20260205T161624Z
 DTSTART:20260205T154033Z
 SUMMARY:HAVU vs Falcons Force
 UID:cs-go-esea-advanced-europe-56-2026-1348420@tournamentics
@@ -774,7 +774,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260205T160000Z
+DTSTART:20260205T161500Z
 SUMMARY:DRGN TEAM vs Imperial.A
 UID:cs-go-esea-advanced-europe-56-2026-1348422@tournamentics
 END:VEVENT
@@ -1199,9 +1199,9 @@ SUMMARY:XI vs MUERTA TEAM
 UID:cs-go-esea-advanced-europe-56-2026-1317228@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260205T160000Z
+DTSTART:20260205T161707Z
 SUMMARY:ALGO vs TNT
 UID:cs-go-esea-advanced-europe-56-2026-1348421@tournamentics
 END:VEVENT
