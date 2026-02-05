@@ -527,7 +527,7 @@ SUMMARY:Round 5: SNG vs 1WIN
 UID:cs-go-cct-europe-series-13-3-2026-1313546@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/havugaming
 DURATION:PT2H
 DTSTART:20260205T170000Z
 SUMMARY:eLITenergy vs HAVU
@@ -744,8 +744,8 @@ SUMMARY:Quarterfinal 1: 33 vs BIG
 UID:cs-go-cct-europe-series-13-3-2026-1313557@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 0 | magic: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260205T170036Z
 DTSTART:20260205T154437Z
 SUMMARY:Quarterfinal 4: EYE vs MGC
 UID:cs-go-cct-europe-series-14-3-2026-1326507@tournamentics
@@ -3509,7 +3509,7 @@ SUMMARY:Decider Match: MSC vs ACE
 UID:cs-go-european-pro-league-series-4-2026-1306425@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
 DTSTART:20260205T170000Z
 SUMMARY:Round 2: SASHI vs sketch
@@ -3796,7 +3796,7 @@ SUMMARY:Round of 16 match 1: AM vs ex-RUBY
 UID:cs-go-european-pro-league-series-4-2026-1306436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rob1nfall
 DURATION:PT2H
 DTSTART:20260205T170000Z
 SUMMARY:aimclub vs URSA
@@ -6172,7 +6172,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260206T140000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: MGC vs TBD
 UID:cs-go-cct-europe-series-14-3-2026-1326509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
