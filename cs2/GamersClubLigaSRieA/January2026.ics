@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260206T190000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: LDP vs TBD
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1347418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:GE vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1327666@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | RED Canids Academy: 0\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260205T204641Z
 DTSTART:20260205T191127Z
 SUMMARY:Semifinal 1: LDP vs RED.A
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1347264@tournamentics
