@@ -205,6 +205,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlo
 
 </details>
 
+<details>
+<summary>RES Showdown Spring</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/ResShowdownSpring.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/ResShowdownSpring.ics
+```
+
+---
+
+### BLAST Premier Rising Event 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/BlastPremierRisingEvent2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdownSpring/BlastPremierRisingEvent2026.ics
+```
+
+</details>
+
 ## D Tier
 
 <details>

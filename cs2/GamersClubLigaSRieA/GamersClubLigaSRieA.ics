@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260206T190000Z
-SUMMARY:Grand final: LDP vs TBD
+SUMMARY:Grand final: LDP vs FA
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1347418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ SUMMARY:Decider match: MIBR.A vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1339651@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: Four Magic: 0 | FOLHA AMARELA: 2\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260205T231531Z
 DTSTART:20260205T213943Z
 SUMMARY:Semifinal 2: 4M vs FA
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1347417@tournamentics
