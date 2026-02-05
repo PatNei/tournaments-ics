@@ -338,8 +338,8 @@ SUMMARY: CSDIILIT vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1335444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ReThink: 0 | Millennium Esports: 1\nStream: No official stream linked
+DTEND:20260205T172330Z
 DTSTART:20260205T171057Z
 SUMMARY:RT vs ME
 UID:cs-go-esea-advanced-europe-56-2026-1317224@tournamentics
@@ -387,9 +387,9 @@ SUMMARY:DRGN TEAM vs QWE
 UID:cs-go-esea-advanced-europe-56-2026-1347248@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/havugaming
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/havugaming
 DURATION:PT2H
-DTSTART:20260205T170000Z
+DTSTART:20260205T171507Z
 SUMMARY:eLITenergy vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1339384@tournamentics
 END:VEVENT
@@ -758,7 +758,7 @@ SUMMARY:FCF vs SIU
 UID:cs-go-esea-advanced-europe-56-2026-1344559@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tchomi_
 DURATION:PT2H
 DTSTART:20260205T173000Z
 SUMMARY:WSG vs MINLATE
