@@ -2265,7 +2265,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260205T010000Z
+DTSTART:20260205T013000Z
 SUMMARY:Round 1: OverKnight vs F5
 UID:cs-go-dust2-us-eagle-masters-6-2026-1344201@tournamentics
 END:VEVENT
@@ -3799,7 +3799,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260205T213000Z
-SUMMARY:Semifinal 2: 4M vs TBD
+SUMMARY:Semifinal 2: 4M vs FA
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1347417@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5532,8 +5532,8 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344420@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - January 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 2 | paiN Academy: 1\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260205T004259Z
 DTSTART:20260204T220501Z
 SUMMARY:Quarterfinal 4: FA vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-january-2026-1346449@tournamentics
