@@ -296,8 +296,8 @@ SUMMARY:Round 1: B8 Academy vs Y.TigeRES
 UID:cs-go-exort-series-21-2026-1317350@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ligaaceesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nResult: Imperial: 1 | 9z: 2\nStream: https://www.twitch.tv/ligaaceesports
+DTEND:20260207T180828Z
 DTSTART:20260207T150315Z
 SUMMARY:Semifinal 1: IMP vs 9z
 UID:cs-go-ace-south-american-masters-spring-2026-1348603@tournamentics
@@ -1495,7 +1495,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260207T180000Z
+DTSTART:20260207T184000Z
 SUMMARY:Semifinal 2: VIT vs MOUZ
 UID:cs-go-iem-krakow-2026-1331904@tournamentics
 END:VEVENT
@@ -3110,8 +3110,8 @@ SUMMARY:BRUTE vs  CSDIILIT
 UID:cs-go-esea-advanced-europe-56-2026-1326100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #15 season 3 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 2 | Rebels Gaming: 1\nStream: https://kick.com/cct_cs
+DTEND:20260207T180055Z
 DTSTART:20260207T150221Z
 SUMMARY:WB vs RBLS
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1343595@tournamentics
@@ -6718,7 +6718,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ligaaceesports
 DURATION:PT2H
 DTSTART:20260208T150000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: 9z vs TBD
 UID:cs-go-ace-south-american-masters-spring-2026-1348605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7361,7 +7361,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ligaaceesports
 DURATION:PT2H
-DTSTART:20260207T180000Z
+DTSTART:20260207T181500Z
 SUMMARY:Semifinal 2: RED vs SHK
 UID:cs-go-ace-south-american-masters-spring-2026-1348604@tournamentics
 END:VEVENT
