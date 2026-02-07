@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260208T150000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: G1 vs VP.P
 UID:cs-go-cct-europe-series-15-3-2026-1343368@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -698,7 +698,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260208T120000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: FAV vs NXS
 UID:cs-go-cct-europe-series-15-3-2026-1343367@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1363,7 +1363,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260208T090000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: ACE vs ECF
 UID:cs-go-cct-europe-series-15-3-2026-1343366@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4324,7 +4324,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260209T180000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: BIG.E vs LK
 UID:cs-go-cct-europe-series-15-3-2026-1343373@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4940,7 +4940,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260209T150000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: Leo vs LC
 UID:cs-go-cct-europe-series-15-3-2026-1343372@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5584,7 +5584,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260209T120000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: PHA vs WB
 UID:cs-go-cct-europe-series-15-3-2026-1343371@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6137,7 +6137,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260209T090000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: MZP vs ALGO
 UID:cs-go-cct-europe-series-15-3-2026-1343370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6620,7 +6620,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ligaaceesports
 DURATION:PT2H
 DTSTART:20260208T150000Z
-SUMMARY:Grand final: 9z vs TBD
+SUMMARY:Grand final: 9z vs SHK
 UID:cs-go-ace-south-american-masters-spring-2026-1348605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6977,7 +6977,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260208T180000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: ASTRAL vs ex-Zero Tenacity
 UID:cs-go-cct-europe-series-15-3-2026-1343369@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7254,8 +7254,8 @@ SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
 UID:cs-go-iem-krakow-2026-1331894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://kick.com/tris_mara
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nResult: RED Canids: 1 | Sharks: 2\nStream: https://kick.com/tris_mara
+DTEND:20260207T215841Z
 DTSTART:20260207T183123Z
 SUMMARY:Semifinal 2: RED vs SHK
 UID:cs-go-ace-south-american-masters-spring-2026-1348604@tournamentics
