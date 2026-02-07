@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ligaaceesports
 DURATION:PT2H
 DTSTART:20260208T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: NRG vs TBD
 UID:cs-go-ace-masters-1-2026-1348598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
-DTSTART:20260207T210000Z
+DTSTART:20260207T211500Z
 SUMMARY:Semifinal 2: PSSN.UA vs M80
 UID:cs-go-ace-masters-1-2026-1348597@tournamentics
 END:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:BOSS vs OMEN
 UID:cs-go-ace-masters-open-qualifier-spring-2026-1347420@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nResult: NRG: 2 | Voca: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260207T205254Z
 DTSTART:20260207T170735Z
 SUMMARY:Semifinal 1: NRG vs VOCA
 UID:cs-go-ace-masters-1-2026-1348596@tournamentics
