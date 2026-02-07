@@ -579,7 +579,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: RES Showdown Spring - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260208T130000Z
-SUMMARY:Grand final: NIP vs TBD
+SUMMARY:Grand final: NIP vs GL
 UID:cs-go-res-showdown-spring-2026-1349933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1167,7 +1167,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Yuqilin - Pinnacle of Battle season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260208T120000Z
-SUMMARY:Grand final: LVG vs TBD
+SUMMARY:Grand final: LVG vs TYLOO
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-2-2026-1349940@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1199,8 +1199,8 @@ SUMMARY:Grand final: MIBR vs RED
 UID:cs-go-fireconter-1-2026-1333318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: RES Showdown Spring - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rlg_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: RES Showdown Spring - 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 0 | GamerLegion: 2\nStream: https://www.twitch.tv/rlg_cs
+DTEND:20260207T144934Z
 DTSTART:20260207T130303Z
 SUMMARY:Semifinal 2: BCG vs GL
 UID:cs-go-res-showdown-spring-2026-1349932@tournamentics
@@ -2130,16 +2130,16 @@ SUMMARY:ENRAGE vs Peekaboo
 UID:cs-go-esea-advanced-europe-56-2026-1344546@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Yuqilin - Pinnacle of Battle season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sigmacast2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Yuqilin - Pinnacle of Battle season 2 2026\nMatch Type: Best Of\nResult: Rare Atom: 0 | TYLOO: 2\nStream: https://www.twitch.tv/sigmacast2
+DTEND:20260207T144612Z
 DTSTART:20260207T121629Z
 SUMMARY:Semifinal 2: RA vs TYLOO
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-2-2026-1349939@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260207T144500Z
+DTSTART:20260207T144646Z
 SUMMARY:Semifinal 1: TS vs FURIA
 UID:cs-go-iem-krakow-2026-1331903@tournamentics
 END:VEVENT
@@ -2991,8 +2991,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350056@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Curralzinho: 0 | BESTIA Academy: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260207T144841Z
 DTSTART:20260207T132215Z
 SUMMARY:Round 3: Curralzinho vs BST.A
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343559@tournamentics
