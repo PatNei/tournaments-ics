@@ -485,7 +485,7 @@ SUMMARY:SUNFALL vs MINLATE
 UID:cs-go-esea-advanced-europe-56-2026-1348429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
 DURATION:PT2H
 DTSTART:20260208T170000Z
 SUMMARY:Round 16 match 3: MOUZ.N vs AY4
@@ -4846,7 +4846,7 @@ SUMMARY:Round 5: MINLATE vs FORZE.R
 UID:cs-go-cct-europe-series-14-3-2026-1326466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/misterhenrybatt
 DURATION:PT2H
 DTSTART:20260208T170000Z
 SUMMARY:Round 16 match 8: L00m1 vs WTRML0N
@@ -6820,8 +6820,8 @@ SUMMARY:Lower bracket quarterfinal 1: BCG vs FaZe
 UID:cs-go-iem-krakow-2026-1331895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ligaaceesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nResult: 9z: 2 | Sharks: 0\nStream: https://www.twitch.tv/ligaaceesports
+DTEND:20260208T165452Z
 DTSTART:20260208T150317Z
 SUMMARY:Grand final: 9z vs SHK
 UID:cs-go-ace-south-american-masters-spring-2026-1348605@tournamentics
