@@ -2133,7 +2133,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ligaaceesports
 DURATION:PT2H
 DTSTART:20260208T170000Z
-SUMMARY:Grand final: NRG vs TBD
+SUMMARY:Grand final: NRG vs PSSN.UA
 UID:cs-go-ace-masters-1-2026-1348598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2872,8 +2872,8 @@ SUMMARY:Round 2: FOKUS vs PCF
 UID:cs-go-exort-series-22-2026-1347262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | M80: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260208T000244Z
 DTSTART:20260207T211514Z
 SUMMARY:Semifinal 2: PSSN.UA vs M80
 UID:cs-go-ace-masters-1-2026-1348597@tournamentics
