@@ -212,6 +212,13 @@ SUMMARY:Round 4: aimclub vs MISA
 UID:cs-go-exort-series-21-2026-1337885@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260213T140000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353885@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T190000Z
@@ -709,8 +716,8 @@ SUMMARY:Round 1: NEM vs FORZE.R
 UID:cs-go-cct-europe-series-13-3-2026-1313523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 2 | Nexus: 1\nStream: https://kick.com/cct_cs
+DTEND:20260208T144304Z
 DTSTART:20260208T120546Z
 SUMMARY:Round 1: FAV vs NXS
 UID:cs-go-cct-europe-series-15-3-2026-1343367@tournamentics
@@ -840,6 +847,13 @@ DTEND:20260128T165511Z
 DTSTART:20260128T161714Z
 SUMMARY:HS vs QUA
 UID:cs-go-esea-advanced-europe-56-2026-1338166@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260213T110000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353884@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | GenOne: 0\nStream: https://kick.com/cct_cs
@@ -1521,6 +1535,13 @@ SUMMARY:Semifinal 2: VIT vs MOUZ
 UID:cs-go-iem-krakow-2026-1331904@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260213T110000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353883@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260212T010000Z
@@ -2170,6 +2191,13 @@ DTEND:20260207T181021Z
 DTSTART:20260207T144646Z
 SUMMARY:Semifinal 1: TS vs FURIA
 UID:cs-go-iem-krakow-2026-1331903@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260213T093000Z
+SUMMARY:ENCE vs ILWL
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353882@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | B8 Academy: 0\nStream: https://kick.com/exort_en2
@@ -2928,6 +2956,13 @@ SUMMARY:Stinky Rats vs SS
 UID:cs-go-esea-advanced-europe-56-2026-1317218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260213T093000Z
+SUMMARY:MNTE vs TRI
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353881@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: FOKUS: 0 | PCIFIC: 2\nStream: https://kick.com/exort_en
 DTEND:20260205T182719Z
 DTSTART:20260205T163000Z
@@ -3586,11 +3621,11 @@ SUMMARY:hindsight vs QUA
 UID:cs-go-esea-advanced-europe-56-2026-1317217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: RES Showdown Spring - 2026\nMatch Type: Best Of\nResult: GamerLegion: 2 | ex-RUBY: 1\nStream: https://www.twitch.tv/relog_cs
-DTEND:20260206T162329Z
-DTSTART:20260206T131150Z
-SUMMARY:Quarterfinal 3: GL vs ex-RUBY
-UID:cs-go-res-showdown-spring-2026-1349929@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260212T140000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Team PeeP: 1 | VP.Future: 2\nStream: https://kick.com/exort_en2
@@ -3598,6 +3633,13 @@ DTEND:20260205T163706Z
 DTSTART:20260205T134025Z
 SUMMARY:Round 2: PEEP vs VP.F
 UID:cs-go-exort-series-22-2026-1347261@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: RES Showdown Spring - 2026\nMatch Type: Best Of\nResult: GamerLegion: 2 | ex-RUBY: 1\nStream: https://www.twitch.tv/relog_cs
+DTEND:20260206T162329Z
+DTSTART:20260206T131150Z
+SUMMARY:Quarterfinal 3: GL vs ex-RUBY
+UID:cs-go-res-showdown-spring-2026-1349929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nResult: NRG: 2 | Voca: 1\nStream: https://www.twitch.tv/Trottah
@@ -4545,6 +4587,13 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260212T110000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353879@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #13 season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | Sinners: 2\nStream: https://kick.com/cct_cs
 DTEND:20260130T203706Z
 DTSTART:20260130T184504Z
@@ -5173,6 +5222,13 @@ DTEND:20260111T133451Z
 DTSTART:20260111T114953Z
 SUMMARY:Round 1: ACE vs WSG
 UID:cs-go-a1-gaming-league-11-2026-1312626@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260212T110000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353878@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | Young TigeRES: 0\nStream: https://kick.com/exort_en2
@@ -5833,6 +5889,13 @@ SUMMARY:Round 4: Fingers vs  CSDIILIT
 UID:cs-go-a1-gaming-league-11-2026-1313582@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260212T093000Z
+SUMMARY:SASHI vs KOL
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353877@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | WATERMELON: 1\nStream: https://kick.com/exort_en2
 DTEND:20260204T161717Z
 DTSTART:20260204T134722Z
@@ -6083,6 +6146,13 @@ DTEND:20260130T184442Z
 DTSTART:20260130T165404Z
 SUMMARY:Round 1 match 4: ex-BAKS Esports vs Y.TigeRES
 UID:cs-go-exort-series-21-2026-1339725@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260214T130000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | BASEMENT BOYS: 1\nStream: https://kick.com/nodwin_cs2
@@ -6407,6 +6477,13 @@ SUMMARY:Round 4: ORM vs FAV
 UID:cs-go-cct-europe-series-13-3-2026-1313541@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260212T093000Z
+SUMMARY:ECS vs MSC
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353876@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
 DTSTART:20260301T140000Z
@@ -6643,6 +6720,13 @@ DTEND:20260128T211337Z
 DTSTART:20260128T193316Z
 SUMMARY:Round 4: DT vs gothboiclique
 UID:cs-go-exort-series-21-2026-1337887@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260214T093000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353887@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | Bebop: 0\nStream: https://kick.com/nodwin_cs2
@@ -7282,6 +7366,13 @@ SUMMARY:Round 4: CYBERSHOKE Prospects vs Y.TigeRES
 UID:cs-go-exort-series-21-2026-1337886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260214T093000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-copenhagen-gaming-week-showdown-2026-1353886@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Metizport: 0 | Bebop: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260128T173958Z
 DTSTART:20260128T145928Z
@@ -7660,8 +7751,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350060@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | FOLHA AMARELA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260208T144917Z
 DTSTART:20260208T130807Z
 SUMMARY:Round 3: PCY vs FA
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343563@tournamentics

@@ -357,6 +357,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Open
 </details>
 
 <details>
+<summary>Copenhagen Gaming Week</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CopenhagenGamingWeek/CopenhagenGamingWeek.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CopenhagenGamingWeek/CopenhagenGamingWeek.ics
+```
+
+---
+
+### Showdown 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CopenhagenGamingWeek/Showdown2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CopenhagenGamingWeek/Showdown2026.ics
+```
+
+</details>
+
+<details>
 <summary>Dfrag Open Series</summary>
 
 ### Full Schedule
