@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260208T181500Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: MOUZ.N vs TBD
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351392@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,13 +177,6 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: G2: 1 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260203T185525Z
-DTSTART:20260203T153127Z
-SUMMARY:Upper bracket final: G2 vs TS
-UID:cs-go-iem-krakow-2026-1331888@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | PARIVISION: 1\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260131T163027Z
 DTSTART:20260131T130148Z
@@ -203,6 +196,13 @@ DURATION:PT2H
 DTSTART:20260208T221500Z
 SUMMARY:Quarterfinal 3: SportsBetExpert vs OMEN
 UID:cs-go-iem-atlanta-american-open-qualifier-2026-1352732@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260211T130000Z
+SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
+UID:cs-go-iem-atlanta-global-qualifier-2026-1344433@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: Liquid: 0 | FUT Esports: 2\nStream: https://www.twitch.tv/ESLCSb
@@ -238,13 +238,6 @@ DURATION:PT2H
 DTSTART:20260208T171132Z
 SUMMARY:Round 16 match 6: OG vs MZP
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351389@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
-DURATION:PT2H
-DTSTART:20260208T173000Z
-SUMMARY:Round 16 match 3: MOUZ.N vs AY4
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -758,10 +751,10 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260211T130000Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
-UID:cs-go-iem-atlanta-global-qualifier-2026-1344433@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: G2: 1 | Spirit: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260203T185525Z
+DTSTART:20260203T153127Z
+SUMMARY:Upper bracket final: G2 vs TS
+UID:cs-go-iem-krakow-2026-1331888@tournamentics
 END:VEVENT
 END:VCALENDAR
