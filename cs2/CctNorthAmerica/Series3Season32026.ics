@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260209T223000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: MARS vs TBD
 UID:cs-go-cct-north-america-series-3-3-2026-1343590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-north-america-series-3-3-2026-1343592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nResult: Marsborne: 2 | Zomblers: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260208T011908Z
 DTSTART:20260207T224426Z
 SUMMARY:Quarterfinal 1: MARS vs ZOMB
 UID:cs-go-cct-north-america-series-3-3-2026-1343586@tournamentics
