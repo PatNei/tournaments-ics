@@ -163,6 +163,13 @@ SUMMARY:Round 1: G1 vs ARC
 UID:cs-go-nodwin-clutch-series-4-2026-1313472@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260209T193000Z
+SUMMARY:Round 4: FOKUS vs JUMBO
+UID:cs-go-exort-series-22-2026-1352787@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | MASONIC: 1\nStream: https://kick.com/eplcs_en
 DTEND:20260130T120429Z
 DTSTART:20260130T090840Z
@@ -576,8 +583,8 @@ SUMMARY:Grand final: NIP vs GL
 UID:cs-go-res-showdown-spring-2026-1349933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Mindfreak: 1 | Rooster: 2\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260208T072809Z
 DTSTART:20260208T044321Z
 SUMMARY:Lower bracket final: MF vs RSTR
 UID:cs-go-dfrag-open-series-3-2026-1339754@tournamentics
@@ -3903,7 +3910,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260208T163000Z
+DTSTART:20260208T193000Z
 SUMMARY:Round 4: BNS vs VP.F
 UID:cs-go-exort-series-22-2026-1352736@tournamentics
 END:VEVENT
@@ -7522,8 +7529,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
-DTSTART:20260208T074500Z
-SUMMARY:Grand final: THUNDER dOWNUNDER vs TBD
+DTSTART:20260208T080000Z
+SUMMARY:Grand final: THUNDER dOWNUNDER vs RSTR
 UID:cs-go-dfrag-open-series-3-2026-1339755@tournamentics
 END:VEVENT
 BEGIN:VEVENT

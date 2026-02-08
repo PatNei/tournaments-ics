@@ -51,6 +51,13 @@ SUMMARY:Round 4: WTRML0N vs FS
 UID:cs-go-exort-series-21-2026-1336659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260209T193000Z
+SUMMARY:Round 4: FOKUS vs JUMBO
+UID:cs-go-exort-series-22-2026-1352787@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 21 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | Aurora Young Blood: 0\nStream: https://kick.com/exort_en2
 DTEND:20260131T125918Z
 DTSTART:20260131T115258Z
@@ -676,7 +683,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260208T163000Z
+DTSTART:20260208T193000Z
 SUMMARY:Round 4: BNS vs VP.F
 UID:cs-go-exort-series-22-2026-1352736@tournamentics
 END:VEVENT

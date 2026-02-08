@@ -60,8 +60,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
-DTSTART:20260208T074500Z
-SUMMARY:Grand final: THUNDER dOWNUNDER vs TBD
+DTSTART:20260208T080000Z
+SUMMARY:Grand final: THUNDER dOWNUNDER vs RSTR
 UID:cs-go-dfrag-open-series-3-2026-1339755@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:MF vs Ding Cuts
 UID:cs-go-dfrag-open-series-3-2026-1339745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nResult: Mindfreak: 1 | Rooster: 2\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260208T072809Z
 DTSTART:20260208T044321Z
 SUMMARY:Lower bracket final: MF vs RSTR
 UID:cs-go-dfrag-open-series-3-2026-1339754@tournamentics
