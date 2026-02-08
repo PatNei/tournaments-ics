@@ -786,6 +786,13 @@ SUMMARY:Round of 16 match 6: JS vs MGC
 UID:cs-go-european-pro-league-series-4-2026-1306441@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260209T163000Z
+SUMMARY:Round 4: PCF vs WTRML0N
+UID:cs-go-exort-series-22-2026-1352786@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260218T120000Z
@@ -1435,6 +1442,13 @@ DTEND:20260123T213254Z
 DTSTART:20260123T180546Z
 SUMMARY:Round 1: Fingers vs BCA
 UID:cs-go-nodwin-clutch-series-4-2026-1313470@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260209T133000Z
+SUMMARY:Round 4: PEEP vs SASHI.A
+UID:cs-go-exort-series-22-2026-1352785@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 4 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | UNiTY esports: 1\nStream: https://kick.com/eplcs_en
@@ -7508,7 +7522,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag Open Series - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
-DTSTART:20260208T073000Z
+DTSTART:20260208T074500Z
 SUMMARY:Grand final: THUNDER dOWNUNDER vs TBD
 UID:cs-go-dfrag-open-series-3-2026-1339755@tournamentics
 END:VEVENT
