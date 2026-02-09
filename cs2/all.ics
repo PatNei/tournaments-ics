@@ -4247,7 +4247,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260210T100000Z
-SUMMARY:Upper bracket round 1 match 4: TBD vs TBD
+SUMMARY:Upper bracket round 1 match 4: NTR vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4622,9 +4622,9 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
 DURATION:PT2H
-DTSTART:20260209T180000Z
+DTSTART:20260209T181426Z
 SUMMARY:MSC vs TS.A
 UID:cs-go-esea-advanced-europe-56-2026-1353967@tournamentics
 END:VEVENT
