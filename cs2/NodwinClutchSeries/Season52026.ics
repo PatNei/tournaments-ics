@@ -4,9 +4,16 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260212T180000Z
-SUMMARY:HAVU vs ALLIN
-UID:cs-go-nodwin-clutch-series-5-2026-1355215@tournamentics
+DTSTART:20260215T180000Z
+SUMMARY:PRIME vs BW
+UID:cs-go-nodwin-clutch-series-5-2026-1355221@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260212T150000Z
+SUMMARY:Omega vs home
+UID:cs-go-nodwin-clutch-series-5-2026-1355217@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -14,5 +21,40 @@ DURATION:PT2H
 DTSTART:20260212T090000Z
 SUMMARY:FCF vs TDK
 UID:cs-go-nodwin-clutch-series-5-2026-1355214@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260215T150000Z
+SUMMARY:RBLS vs VP.P
+UID:cs-go-nodwin-clutch-series-5-2026-1355219@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260215T120000Z
+SUMMARY:WB vs MSC
+UID:cs-go-nodwin-clutch-series-5-2026-1355220@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260212T120000Z
+SUMMARY:BMB vs PGE
+UID:cs-go-nodwin-clutch-series-5-2026-1355216@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260215T090000Z
+SUMMARY:ENCE.A vs  CSDIILIT
+UID:cs-go-nodwin-clutch-series-5-2026-1355218@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260212T180000Z
+SUMMARY:HAVU vs ALLIN
+UID:cs-go-nodwin-clutch-series-5-2026-1355215@tournamentics
 END:VEVENT
 END:VCALENDAR
