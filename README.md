@@ -623,6 +623,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istabulan/2026
 </details>
 
 <details>
+<summary>JB Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/JbProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/JbProLeague.ics
+```
+
+---
+
+### Female season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/FemaleSeason12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/FemaleSeason12026.ics
+```
+
+</details>
+
+<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
