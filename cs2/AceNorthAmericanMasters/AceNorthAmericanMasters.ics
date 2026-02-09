@@ -16,18 +16,18 @@ SUMMARY:Quarterfinal 4: PSSN.UA vs BOSS
 UID:cs-go-ace-masters-1-2026-1349951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nResult: NRG: 2 | Fisher College: 0\nStream: https://www.twitch.tv/Trottah
-DTEND:20260206T183048Z
-DTSTART:20260206T171156Z
-SUMMARY:Quarterfinal 1: NRG vs FC
-UID:cs-go-ace-masters-1-2026-1348592@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Ace North American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: SkinRave: 1 | Fisher College: 2\nStream: No official stream linked
 DTEND:20260205T013304Z
 DTSTART:20260204T230959Z
 SUMMARY:SR vs FC
 UID:cs-go-ace-masters-open-qualifier-spring-2026-1347421@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nResult: NRG: 2 | Fisher College: 0\nStream: https://www.twitch.tv/Trottah
+DTEND:20260206T183048Z
+DTSTART:20260206T171156Z
+SUMMARY:Quarterfinal 1: NRG vs FC
+UID:cs-go-ace-masters-1-2026-1348592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Ace North American Masters - Spring 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | M80: 1\nStream: https://www.twitch.tv/Trottah
