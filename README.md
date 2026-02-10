@@ -198,6 +198,13 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLea
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics
 ```
 
+### Series 5 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series52026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series52026.ics
+```
+
 </details>
 
 <details>

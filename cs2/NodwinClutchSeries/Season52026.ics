@@ -4,23 +4,9 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260215T180000Z
-SUMMARY:PRIME vs BW
-UID:cs-go-nodwin-clutch-series-5-2026-1355221@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260212T150000Z
-SUMMARY:Omega vs home
-UID:cs-go-nodwin-clutch-series-5-2026-1355217@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260212T090000Z
-SUMMARY:FCF vs TDK
-UID:cs-go-nodwin-clutch-series-5-2026-1355214@tournamentics
+DTSTART:20260213T120000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -46,6 +32,41 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
+DTSTART:20260216T180000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356133@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260213T150000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356091@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260216T150000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356109@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260217T090000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356110@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260214T120000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356106@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
 DTSTART:20260215T090000Z
 SUMMARY:ENCE.A vs  CSDIILIT
 UID:cs-go-nodwin-clutch-series-5-2026-1355218@tournamentics
@@ -56,5 +77,68 @@ DURATION:PT2H
 DTSTART:20260212T180000Z
 SUMMARY:HAVU vs ALLIN
 UID:cs-go-nodwin-clutch-series-5-2026-1355215@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260216T120000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356132@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260216T090000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356108@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260213T090000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356080@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260213T180000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356105@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260214T090000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356102@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260215T180000Z
+SUMMARY:PRIME vs BW
+UID:cs-go-nodwin-clutch-series-5-2026-1355221@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260212T150000Z
+SUMMARY:Omega vs home
+UID:cs-go-nodwin-clutch-series-5-2026-1355217@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260212T090000Z
+SUMMARY:FCF vs TDK
+UID:cs-go-nodwin-clutch-series-5-2026-1355214@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260217T120000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-5-2026-1356134@tournamentics
 END:VEVENT
 END:VCALENDAR
