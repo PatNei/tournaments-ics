@@ -68,14 +68,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260211T201500Z
-SUMMARY:Winners match: BIG.E vs TBD
+SUMMARY:Winners match: BIG.E vs LHC
 UID:cs-go-jb-pro-league-female-1-2026-1354009@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260212T170000Z
-SUMMARY:Elimination match: CONF vs TBD
+SUMMARY:Elimination match: CONF vs hindsight
 UID:cs-go-jb-pro-league-female-1-2026-1354010@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-jb-pro-league-female-1-2026-1354012@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Let Her Cook: 2 | hindsight: 1\nStream: https://kick.com/jbproleague
+DTEND:20260210T231255Z
 DTSTART:20260210T202802Z
 SUMMARY:LHC vs hindsight
 UID:cs-go-jb-pro-league-female-1-2026-1354008@tournamentics
