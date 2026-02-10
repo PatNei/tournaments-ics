@@ -1,0 +1,32 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Open Qualifier 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | 1WIN: 1\nStream: https://www.twitch.tv/floofys
+DTEND:20260209T020417Z
+DTSTART:20260208T232520Z
+SUMMARY:Quarterfinal 4: FC vs 1WIN
+UID:cs-go-iem-atlanta-american-open-qualifier-2026-1352733@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Open Qualifier 2026\nMatch Type: Best Of\nResult: SportsBetExpert: 2 | Omen Esports: 0\nStream: https://kick.com/bonamant
+DTEND:20260209T010801Z
+DTSTART:20260208T232237Z
+SUMMARY:Quarterfinal 3: SportsBetExpert vs OMEN
+UID:cs-go-iem-atlanta-american-open-qualifier-2026-1352732@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Open Qualifier 2026\nMatch Type: Best Of\nResult: mouse: 2 | F5 Esports: 0\nStream: https://www.twitch.tv/misterhenrybatt
+DTEND:20260209T005218Z
+DTSTART:20260208T232340Z
+SUMMARY:Quarterfinal 2: mouse vs F5
+UID:cs-go-iem-atlanta-american-open-qualifier-2026-1352731@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Open Qualifier 2026\nMatch Type: Best Of\nResult: ClayMakers Reborn: 0 | Wildcard: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260209T013311Z
+DTSTART:20260209T001818Z
+SUMMARY:Quarterfinal 1: ClayMakers Reborn vs WC
+UID:cs-go-iem-atlanta-american-open-qualifier-2026-1352730@tournamentics
+END:VEVENT
+END:VCALENDAR
