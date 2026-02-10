@@ -86,9 +86,9 @@ SUMMARY:Winners match: LAG vs O49
 UID:cs-go-cct-north-america-series-3-3-2026-1343583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
+DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
-DTSTART:20260210T201500Z
+DTSTART:20260210T202802Z
 SUMMARY:LHC vs hindsight
 UID:cs-go-jb-pro-league-female-1-2026-1354008@tournamentics
 END:VEVENT
@@ -3365,7 +3365,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T010000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: PSSN.UA vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344443@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6074,7 +6074,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260211T160000Z
-SUMMARY:Upper bracket semifinal 1: BB vs TBD
+SUMMARY:Upper bracket semifinal 1: BB vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344422@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6298,7 +6298,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260211T130000Z
-SUMMARY:Lower bracket round 2 match 2: JS vs TBD
+SUMMARY:Lower bracket round 2 match 2: JS vs ALL
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344432@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6435,8 +6435,8 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-a1-gaming-league-11-2026-1313598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/passion_ua
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | mouse: 0\nStream: https://www.twitch.tv/passion_ua
+DTEND:20260210T202531Z
 DTSTART:20260210T191312Z
 SUMMARY:Upper bracket quarterfinal 1: PSSN.UA vs mouse
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344439@tournamentics
@@ -6680,8 +6680,8 @@ SUMMARY:Round 3: AAB vs BRUTE
 UID:cs-go-a1-gaming-league-11-2026-1313574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Alliance: 0 | Sinners: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260210T202956Z
 DTSTART:20260210T182337Z
 SUMMARY:Upper bracket quarterfinal 2: ALL vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344419@tournamentics
@@ -7863,8 +7863,8 @@ SUMMARY:Round of 16 match 2: ORM vs Fingers
 UID:cs-go-a1-gaming-league-11-2026-1313590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfultvd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | CYBERSHOKE Esports: 2\nStream: https://www.twitch.tv/watchfultvd
+DTEND:20260210T202609Z
 DTSTART:20260210T184419Z
 SUMMARY:Lower bracket round 1 match 1: BMB vs CS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344435@tournamentics
@@ -8314,7 +8314,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260210T220000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: mouse vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8468,7 +8468,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260211T130000Z
-SUMMARY:Lower bracket round 2 match 1: ENCE vs TBD
+SUMMARY:Lower bracket round 2 match 1: ENCE vs CS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344431@tournamentics
 END:VEVENT
 BEGIN:VEVENT

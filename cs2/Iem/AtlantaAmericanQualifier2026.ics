@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T010000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: PSSN.UA vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344443@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -37,8 +37,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/passion_ua
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | mouse: 0\nStream: https://www.twitch.tv/passion_ua
+DTEND:20260210T202531Z
 DTSTART:20260210T191312Z
 SUMMARY:Upper bracket quarterfinal 1: PSSN.UA vs mouse
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344439@tournamentics
@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260210T220000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: mouse vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
