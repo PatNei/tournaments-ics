@@ -1986,7 +1986,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260211T003000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: MARS vs TBD
 UID:cs-go-cct-north-america-series-3-3-2026-1343592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3383,8 +3383,8 @@ SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nResult: Marsborne: 2 | SportsBetExpert: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260210T000753Z
 DTSTART:20260209T223856Z
 SUMMARY:Semifinal 1: MARS vs SportsBetExpert
 UID:cs-go-cct-north-america-series-3-3-2026-1343590@tournamentics
@@ -4006,8 +4006,8 @@ SUMMARY:Round of 16 match 3: SNG vs AAB
 UID:cs-go-a1-gaming-league-11-2026-1313591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 1 | BESTIA Academy: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260210T000414Z
 DTSTART:20260209T211034Z
 SUMMARY:Round 4: PCY vs BST.A
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343569@tournamentics
