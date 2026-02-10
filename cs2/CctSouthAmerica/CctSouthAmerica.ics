@@ -67,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260210T220000Z
+DTSTART:20260210T215000Z
 SUMMARY:Round 4: SHIN vs VSC
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343572@tournamentics
 END:VEVENT
@@ -142,8 +142,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Bad Luck: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260210T213823Z
 DTSTART:20260210T184853Z
 SUMMARY:Round 4: FDB vs Bad Luck
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343571@tournamentics
