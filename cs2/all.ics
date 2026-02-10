@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260210T160000Z
-SUMMARY:Upper bracket quarterfinal 1: BB vs TBD
+SUMMARY:Upper bracket quarterfinal 1: BB vs ENCE
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2531,7 +2531,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
-DTSTART:20260210T140000Z
+DTSTART:20260210T142000Z
 SUMMARY:Upper bracket round 1 match 8: 33 vs EYE
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344417@tournamentics
 END:VEVENT
@@ -5847,7 +5847,7 @@ SUMMARY:Quarterfinal 1: 3DMAX vs M1X KS
 UID:cs-go-res-showdown-spring-2026-1349927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
 DURATION:PT2H
 DTSTART:20260210T190000Z
 SUMMARY:Upper bracket quarterfinal 4: WC vs VOCA
@@ -7866,7 +7866,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260210T160000Z
-SUMMARY:Lower bracket round 1 match 1: BMB vs TBD
+SUMMARY:Lower bracket round 1 match 1: BMB vs CS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344435@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8024,8 +8024,8 @@ SUMMARY:Elimination match: WW vs PGE
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1341918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 2 | CYBERSHOKE Esports: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260210T140504Z
 DTSTART:20260210T111430Z
 SUMMARY:Upper bracket round 1 match 2: ENCE vs CS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344411@tournamentics
