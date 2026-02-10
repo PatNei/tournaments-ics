@@ -1986,7 +1986,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260211T003000Z
-SUMMARY:Grand final: MARS vs TBD
+SUMMARY:Grand final: MARS vs SR
 UID:cs-go-cct-north-america-series-3-3-2026-1343592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2730,13 +2730,6 @@ DURATION:PT2H
 DTSTART:20260210T190000Z
 SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344438@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260210T013000Z
-SUMMARY:Semifinal 2: SR vs LAG
-UID:cs-go-cct-north-america-series-3-3-2026-1343591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | Falcons Force: 0\nStream: No official stream linked
