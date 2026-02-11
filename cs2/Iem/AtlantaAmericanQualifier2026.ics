@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T190000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: VOCA vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Upper bracket quarterfinal 2: SportsBetExpert vs BOSS
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344440@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cmarty
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: SkinRave: 0 | Voca: 2\nStream: https://www.twitch.tv/cmarty
+DTEND:20260211T002154Z
 DTSTART:20260210T233203Z
 SUMMARY:Lower bracket round 1 match 2: SR vs VOCA
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344452@tournamentics
