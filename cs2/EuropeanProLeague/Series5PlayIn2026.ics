@@ -40,15 +40,8 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260215T113000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BRUTE vs TBD
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353995@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260211T090000Z
-SUMMARY:BRUTE vs PRIME
-UID:cs-go-european-pro-league-series-5-play-in-2026-1353992@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nResult: home: 1 | The Last Resort: 2\nStream: https://kick.com/eplcs_en
@@ -96,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260215T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: PRIME vs TBD
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353994@tournamentics
 END:VEVENT
 BEGIN:VEVENT

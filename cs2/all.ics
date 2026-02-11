@@ -807,8 +807,8 @@ SUMMARY:SIU vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1353969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | Peekaboo: 0\nStream: https://kick.com/jbproleague
+DTEND:20260211T182413Z
 DTSTART:20260211T170530Z
 SUMMARY:Winners match: PGE vs Peekaboo
 UID:cs-go-jb-pro-league-female-1-2026-1354004@tournamentics
@@ -2431,13 +2431,6 @@ SUMMARY:Round 3: PCF vs  Phantom Academy
 UID:cs-go-exort-series-22-2026-1351383@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260211T090000Z
-SUMMARY:BRUTE vs PRIME
-UID:cs-go-european-pro-league-series-5-play-in-2026-1353992@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260303T090000Z
@@ -2839,7 +2832,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260211T190000Z
+DTSTART:20260211T200000Z
 SUMMARY:Lower bracket quarterfinal 1: JS vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344427@tournamentics
 END:VEVENT
@@ -4226,7 +4219,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260215T113000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BRUTE vs TBD
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353995@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4870,7 +4863,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260212T201500Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Peekaboo vs TBD
 UID:cs-go-jb-pro-league-female-1-2026-1354006@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5504,9 +5497,9 @@ SUMMARY:Semifinal 1: NRG vs VOCA
 UID:cs-go-ace-masters-1-2026-1348596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260211T182000Z
+DTSTART:20260211T182657Z
 SUMMARY: CSDIILIT vs OXUJI
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350055@tournamentics
 END:VEVENT
@@ -6662,7 +6655,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260215T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: PRIME vs TBD
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
