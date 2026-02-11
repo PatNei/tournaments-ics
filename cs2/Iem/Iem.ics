@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260211T160000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: ENCE vs TBD
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -506,8 +506,8 @@ SUMMARY:Upper bracket quarterfinal 1: VIT vs BCG
 UID:cs-go-iem-krakow-2026-1331889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 2 | EYEBALLERS: 0\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260211T144012Z
 DTSTART:20260211T130343Z
 SUMMARY:Lower bracket round 2 match 4: ENCE vs EYE
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344431@tournamentics
