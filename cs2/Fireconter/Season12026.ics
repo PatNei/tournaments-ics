@@ -51,6 +51,27 @@ SUMMARY:Upper bracket final: BST vs MARS
 UID:cs-go-fireconter-1-2026-1333310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 0 | ShindeN: 2\nStream: https://www.twitch.tv/gaules
+DTEND:20260130T031348Z
+DTSTART:20260130T013318Z
+SUMMARY:Upper bracket final: FXW7 vs SHIN
+UID:cs-go-fireconter-1-2026-1333306@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Imperial: 1 | ODDIK: 2\nStream: https://www.twitch.tv/forg1
+DTEND:20260129T204250Z
+DTSTART:20260129T173021Z
+SUMMARY:Upper bracket final: IMP vs ODK
+UID:cs-go-fireconter-1-2026-1333303@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Zingaro Gaming: 0\nStream: https://www.twitch.tv/elmorocho7
+DTEND:20260129T152100Z
+DTSTART:20260129T142249Z
+SUMMARY:Upper bracket semifinal 1: IMP vs ZG
+UID:cs-go-fireconter-1-2026-1333300@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/vilacattv
 DTEND:20260131T211926Z
 DTSTART:20260131T172837Z
@@ -91,6 +112,20 @@ DTEND:20260130T155716Z
 DTSTART:20260130T141239Z
 SUMMARY:Upper bracket semifinal 1: BST vs ISG
 UID:cs-go-fireconter-1-2026-1333308@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: RED Canids: 0 | ShindeN: 2\nStream: https://www.twitch.tv/tris_mara
+DTEND:20260130T001934Z
+DTSTART:20260129T214517Z
+SUMMARY:Upper bracket semifinal 2: RED vs SHIN
+UID:cs-go-fireconter-1-2026-1333305@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Zingaro Gaming: 0 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/tr3jou
+DTEND:20260129T181434Z
+DTSTART:20260129T171803Z
+SUMMARY:Lower bracket semifinal: ZG vs BHE
+UID:cs-go-fireconter-1-2026-1333302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 0 | RED Canids: 2\nStream: https://www.twitch.tv/locomass22
@@ -140,5 +175,19 @@ DTEND:20260130T023459Z
 DTSTART:20260130T011904Z
 SUMMARY:Lower bracket semifinal: OUTPLAYED vs RED
 UID:cs-go-fireconter-1-2026-1333307@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 2 | OUTPLAYED: 0\nStream: https://www.twitch.tv/tris_mara
+DTEND:20260129T213838Z
+DTSTART:20260129T194828Z
+SUMMARY:Upper bracket semifinal 1: FXW7 vs OUTPLAYED
+UID:cs-go-fireconter-1-2026-1333304@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 1 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | Bounty Hunters Esports: 0\nStream: https://www.twitch.tv/vilacattv
+DTEND:20260129T161437Z
+DTSTART:20260129T141753Z
+SUMMARY:Upper bracket semifinal 2: ODK vs BHE
+UID:cs-go-fireconter-1-2026-1333301@tournamentics
 END:VEVENT
 END:VCALENDAR
