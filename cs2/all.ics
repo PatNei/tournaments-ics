@@ -2830,9 +2830,9 @@ SUMMARY:Winners match: ARC vs BMB
 UID:cs-go-nodwin-clutch-series-4-2026-1314664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
-DTSTART:20260211T200000Z
+DTSTART:20260211T200146Z
 SUMMARY:Lower bracket quarterfinal 1: JS vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344427@tournamentics
 END:VEVENT
@@ -4132,8 +4132,8 @@ SUMMARY:Round 4: AUR.YB vs EJ
 UID:cs-go-exort-series-21-2026-1336658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: SUNFALL: 0 | ENRAGE: 1\nStream: No official stream linked
+DTEND:20260211T200152Z
 DTSTART:20260211T191213Z
 SUMMARY:SUNFALL vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1356660@tournamentics
