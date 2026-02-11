@@ -1432,7 +1432,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260211T160000Z
+DTSTART:20260224T160000Z
 SUMMARY:PGE vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1356651@tournamentics
 END:VEVENT
@@ -7387,9 +7387,9 @@ SUMMARY:CYBERSHOKE Prospects vs AUR.YB
 UID:cs-go-esea-advanced-europe-56-2026-1331690@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260211T133000Z
+DTSTART:20260211T134224Z
 SUMMARY:Round 1: CYBERSHOKE Prospects vs WTRML0N
 UID:cs-go-exort-series-22-2026-1356664@tournamentics
 END:VEVENT
