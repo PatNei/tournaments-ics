@@ -16,8 +16,8 @@ SUMMARY:PRIME vs HS
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350049@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nResult: Pigeons: 0 | Ursa: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260211T140417Z
 DTSTART:20260211T123301Z
 SUMMARY:PGE vs URSA
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350050@tournamentics
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260212T150000Z
-SUMMARY:Winners match: HS vs TBD
+SUMMARY:Winners match: HS vs URSA
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350052@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260212T090000Z
-SUMMARY:Elimination match: PRIME vs TBD
+SUMMARY:Elimination match: PRIME vs PGE
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350051@tournamentics
 END:VEVENT
 BEGIN:VEVENT
