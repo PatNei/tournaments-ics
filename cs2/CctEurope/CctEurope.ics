@@ -331,13 +331,6 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Open Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nResult: Atreides: 2 | QUAZAR: 1\nStream: https://www.twitch.tv/goyarego
-DTEND:20260201T181210Z
-DTSTART:20260201T151517Z
-SUMMARY:Semifinal 1: Atreides vs QUA
-UID:cs-go-cct-europe-open-qualifier-series-16-3-2026-1343159@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260220T150000Z
@@ -485,9 +478,9 @@ SUMMARY:home vs WSG
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350045@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260211T181000Z
+DTSTART:20260211T181733Z
 SUMMARY:Round 2: PHA vs VP.P
 UID:cs-go-cct-europe-series-15-3-2026-1343381@tournamentics
 END:VEVENT
@@ -961,13 +954,6 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Open Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 1 | ENJOY: 2\nStream: No official stream linked
-DTEND:20260201T181206Z
-DTSTART:20260201T150003Z
-SUMMARY:Semifinal 2: HERO.A vs ENJOY
-UID:cs-go-cct-europe-open-qualifier-series-16-3-2026-1343160@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #14 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 2 | Fingers Crossed: 1\nStream: https://kick.com/cct_cs
 DTEND:20260202T182404Z
 DTSTART:20260202T153231Z
@@ -1082,7 +1068,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260211T180000Z
+DTSTART:20260211T182000Z
 SUMMARY: CSDIILIT vs OXUJI
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350055@tournamentics
 END:VEVENT
