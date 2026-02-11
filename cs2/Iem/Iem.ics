@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T190000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: BOSS vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344449@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -240,8 +240,8 @@ SUMMARY:Round 16 match 6: OG vs MZP
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351389@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: mouse: 0 | BOSS: 2\nStream: No official stream linked
+DTEND:20260211T001912Z
 DTSTART:20260210T223122Z
 SUMMARY:Lower bracket round 1 match 1: mouse vs BOSS
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344451@tournamentics

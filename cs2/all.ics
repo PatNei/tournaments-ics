@@ -1388,9 +1388,9 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1355898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260211T000000Z
+DTSTART:20260211T001859Z
 SUMMARY:Round 3: SE vs InC
 UID:cs-go-dust2-us-eagle-masters-6-2026-1353875@tournamentics
 END:VEVENT
@@ -6781,7 +6781,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260211T190000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: BOSS vs TBD
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344449@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8395,8 +8395,8 @@ SUMMARY:ECS vs MSC
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353876@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: mouse: 0 | BOSS: 2\nStream: No official stream linked
+DTEND:20260211T001912Z
 DTSTART:20260210T223122Z
 SUMMARY:Lower bracket round 1 match 1: mouse vs BOSS
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344451@tournamentics
