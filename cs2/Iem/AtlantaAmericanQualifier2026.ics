@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JTMythic
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: BOSS: 2 | Fisher College: 0\nStream: https://www.twitch.tv/JTMythic
+DTEND:20260211T211754Z
 DTSTART:20260211T191802Z
 SUMMARY:Lower bracket quarterfinal 1: BOSS vs FC
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344449@tournamentics
@@ -58,10 +58,10 @@ SUMMARY:Lower bracket round 1 match 2: SR vs VOCA
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344452@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JTMythic
 DURATION:PT2H
 DTSTART:20260211T220000Z
-SUMMARY:Lower bracket semifinal: VOCA vs TBD
+SUMMARY:Lower bracket semifinal: VOCA vs BOSS
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344448@tournamentics
 END:VEVENT
 BEGIN:VEVENT
