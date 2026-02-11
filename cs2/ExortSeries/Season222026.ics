@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260212T163000Z
+SUMMARY:Round 1: XI vs Stinky Rats
+UID:cs-go-exort-series-22-2026-1358003@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Team PeeP: 2 | Sashi Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260209T161249Z
 DTSTART:20260209T134453Z
@@ -37,8 +44,8 @@ SUMMARY:Round 1: aimclub vs WTRML0N
 UID:cs-go-exort-series-22-2026-1345983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 1 | FOKUS: 2\nStream: https://kick.com/exort_en2
+DTEND:20260211T231542Z
 DTSTART:20260211T193444Z
 SUMMARY:Round 1: SNG vs FOKUS
 UID:cs-go-exort-series-22-2026-1356666@tournamentics
@@ -91,6 +98,13 @@ DTEND:20260209T213151Z
 DTSTART:20260209T193806Z
 SUMMARY:Round 4: FOKUS vs JUMBO
 UID:cs-go-exort-series-22-2026-1352787@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260212T133000Z
+SUMMARY:Round 1: 3DMAX.A vs G2.A
+UID:cs-go-exort-series-22-2026-1358002@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: VP.Future: 2 | Sashi Academy: 1\nStream: https://kick.com/exort_en2
@@ -168,6 +182,13 @@ DTEND:20260208T122713Z
 DTSTART:20260208T103913Z
 SUMMARY:Round 4: Stinky Rats vs Imperial.A
 UID:cs-go-exort-series-22-2026-1352734@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260212T193000Z
+SUMMARY:Round 1: EF.A vs BNS
+UID:cs-go-exort-series-22-2026-1358004@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: PCIFIC: 0 | WATERMELON: 2\nStream: https://kick.com/exort_en2
