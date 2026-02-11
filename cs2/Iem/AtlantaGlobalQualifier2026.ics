@@ -72,8 +72,8 @@ SUMMARY:Lower bracket round 1 match 1: BMB vs CS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344435@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: K27: 0 | Johnny Speeds: 2\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260211T151816Z
 DTSTART:20260211T130407Z
 SUMMARY:Lower bracket round 2 match 2: K27 vs JS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344432@tournamentics
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260211T160000Z
-SUMMARY:Lower bracket round 3 match 1: ICE vs TBD
+SUMMARY:Lower bracket round 3 match 1: ICE vs JS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344429@tournamentics
 END:VEVENT
 END:VCALENDAR

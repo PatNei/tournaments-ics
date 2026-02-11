@@ -3873,9 +3873,9 @@ SUMMARY:Round 3: KOL vs MINLATE
 UID:cs-go-cct-europe-series-14-3-2026-1326453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/26kapy
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/26kapy
 DURATION:PT2H
-DTSTART:20260211T151500Z
+DTSTART:20260211T151706Z
 SUMMARY:BW vs FUT.A
 UID:cs-go-esea-advanced-europe-56-2026-1356650@tournamentics
 END:VEVENT
@@ -6372,8 +6372,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356211@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: K27: 0 | Johnny Speeds: 2\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260211T151816Z
 DTSTART:20260211T130407Z
 SUMMARY:Lower bracket round 2 match 2: K27 vs JS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344432@tournamentics
@@ -7019,7 +7019,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260211T160000Z
-SUMMARY:Lower bracket round 3 match 1: ICE vs TBD
+SUMMARY:Lower bracket round 3 match 1: ICE vs JS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
