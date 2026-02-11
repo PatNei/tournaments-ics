@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260213T090000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: ALL vs TBD
 UID:cs-go-united21-44-2026-1352364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260212T113000Z
-SUMMARY:Lower bracket quarterfinal 2: LAG vs TBD
+SUMMARY:Lower bracket quarterfinal 2: LAG vs AAB
 UID:cs-go-united21-44-2026-1352363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -205,11 +205,11 @@ SUMMARY:Elimination match: MISA vs BGPEEK
 UID:cs-go-united21-44-2026-1339563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260211T090000Z
-SUMMARY:Upper bracket semifinal 1: AAB vs ALL
-UID:cs-go-united21-44-2026-1352360@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: ex-FUT Academy: 2 | Truck Drivers: 0\nStream: https://kick.com/united21_en
+DTEND:20260206T140147Z
+DTSTART:20260206T114108Z
+SUMMARY:Decider match: ex-FUT Academy vs TD
+UID:cs-go-united21-44-2026-1339559@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Midnight: 0 | ex-FUT Academy: 2\nStream: https://kick.com/united21_en
@@ -224,13 +224,6 @@ DTEND:20260131T113327Z
 DTSTART:20260131T093450Z
 SUMMARY:MID vs MISA
 UID:cs-go-united21-44-2026-1339560@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: ex-FUT Academy: 2 | Truck Drivers: 0\nStream: https://kick.com/united21_en
-DTEND:20260206T140147Z
-DTSTART:20260206T114108Z
-SUMMARY:Decider match: ex-FUT Academy vs TD
-UID:cs-go-united21-44-2026-1339559@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: FUT Academy: 2 | Truck Drivers: 0\nStream: https://kick.com/united21_en
