@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260212T163000Z
-SUMMARY:Round 1: XI vs Stinky Rats
-UID:cs-go-exort-series-22-2026-1358003@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Team PeeP: 2 | Sashi Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260209T161249Z
 DTSTART:20260209T134453Z

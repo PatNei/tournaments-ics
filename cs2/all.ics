@@ -1311,8 +1311,8 @@ SUMMARY:MANA vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1328937@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: Leo Team: 0 | WHITEBIRD: 2\nStream: https://kick.com/cct_cs
+DTEND:20260212T165141Z
 DTSTART:20260212T151437Z
 SUMMARY:Round 3: Leo vs WB
 UID:cs-go-cct-europe-series-15-3-2026-1343384@tournamentics
@@ -1398,7 +1398,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260213T150000Z
-SUMMARY:Decider match: PRIME vs TBD
+SUMMARY:Decider match: PRIME vs URSA
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350053@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3838,8 +3838,8 @@ SUMMARY:BMB vs AHK
 UID:cs-go-esea-advanced-europe-56-2026-1347238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | Ursa: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260212T165825Z
 DTSTART:20260212T150416Z
 SUMMARY:Winners match: HS vs URSA
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350052@tournamentics
@@ -7422,7 +7422,7 @@ SUMMARY:Decider match: mouse vs REGAIN
 UID:cs-go-cct-north-america-series-3-3-2026-1343580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/corvex666
 DURATION:PT2H
 DTSTART:20260212T170000Z
 SUMMARY:Elimination match: imodium vs  Fingers Crossed Female
@@ -7847,13 +7847,6 @@ DTEND:20260204T175522Z
 DTSTART:20260204T151213Z
 SUMMARY:LK vs  CSDIILIT
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1341931@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260212T163000Z
-SUMMARY:Round 1: XI vs Stinky Rats
-UID:cs-go-exort-series-22-2026-1358003@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
