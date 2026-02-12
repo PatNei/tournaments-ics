@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260212T123000Z
-SUMMARY:Winners' match: 1WIN vs TBD
+SUMMARY:Winners' match: 1WIN vs 33
 UID:cs-go-gluck-starpearl-1-2026-1358145@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358147@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: 33: 2 | RUSTEC: 0\nStream: https://www.twitch.tv/gluck_esports_4
+DTEND:20260212T125002Z
 DTSTART:20260212T091503Z
 SUMMARY:33 vs RUST
 UID:cs-go-gluck-starpearl-1-2026-1358144@tournamentics
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260212T123000Z
-SUMMARY:Elimination match: SNZ.P vs TBD
+SUMMARY:Elimination match: SNZ.P vs RUST
 UID:cs-go-gluck-starpearl-1-2026-1358146@tournamentics
 END:VEVENT
 BEGIN:VEVENT

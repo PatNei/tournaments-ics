@@ -310,8 +310,8 @@ SUMMARY:Upper bracket semifinal 1: VIT vs 3DMAX
 UID:cs-go-iem-krakow-2026-1331893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: 33: 2 | RUSTEC: 0\nStream: https://www.twitch.tv/gluck_esports_4
+DTEND:20260212T125002Z
 DTSTART:20260212T091503Z
 SUMMARY:33 vs RUST
 UID:cs-go-gluck-starpearl-1-2026-1358144@tournamentics
@@ -7285,7 +7285,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260212T123000Z
-SUMMARY:Elimination match: SNZ.P vs TBD
+SUMMARY:Elimination match: SNZ.P vs RUST
 UID:cs-go-gluck-starpearl-1-2026-1358146@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7457,7 +7457,7 @@ SUMMARY:Round 16 match 5: BMB vs BL
 UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351388@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
 DURATION:PT2H
 DTSTART:20260212T130000Z
 SUMMARY:Round 16 match 3: MGC vs ex-GANK Esports
@@ -7915,7 +7915,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260212T123000Z
-SUMMARY:Winners' match: 1WIN vs TBD
+SUMMARY:Winners' match: 1WIN vs 33
 UID:cs-go-gluck-starpearl-1-2026-1358145@tournamentics
 END:VEVENT
 BEGIN:VEVENT
