@@ -539,6 +539,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GamersClubLiga
 </details>
 
 <details>
+<summary>GLuck StarPearl</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GluckStarpearl/GluckStarpearl.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GluckStarpearl/GluckStarpearl.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GluckStarpearl/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GluckStarpearl/Season12026.ics
+```
+
+</details>
+
+<details>
 <summary>IEM</summary>
 
 ### Full Schedule
