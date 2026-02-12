@@ -5672,8 +5672,8 @@ SUMMARY:REGAIN vs mouse
 UID:cs-go-cct-north-america-series-3-3-2026-1343576@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | kONO.ECF: 2\nStream: https://kick.com/cct_cs
+DTEND:20260212T131531Z
 DTSTART:20260212T120216Z
 SUMMARY:Round 3: BIG.E vs ECF
 UID:cs-go-cct-europe-series-15-3-2026-1343383@tournamentics
@@ -7914,7 +7914,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
 DURATION:PT2H
-DTSTART:20260212T123000Z
+DTSTART:20260212T133000Z
 SUMMARY:Winners' match: 1WIN vs 33
 UID:cs-go-gluck-starpearl-1-2026-1358145@tournamentics
 END:VEVENT
