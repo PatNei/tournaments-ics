@@ -1398,7 +1398,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260213T150000Z
-SUMMARY:Decider match: PRIME vs URSA
+SUMMARY:Decider match: URSA vs PRIME
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350053@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2977,8 +2977,8 @@ SUMMARY:Elimination match:  CSDIILIT vs PRIME
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1341933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Wave Esports: 1 | LPH Gaming: 2\nStream: https://kick.com/exort_en2
+DTEND:20260212T222832Z
 DTSTART:20260212T193943Z
 SUMMARY:Round 1: WAVE vs LPH
 UID:cs-go-exort-series-22-2026-1358005@tournamentics
@@ -7215,7 +7215,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260213T180000Z
-SUMMARY:Decider match: Atreides vs  CSDIILIT
+SUMMARY:Decider match:  CSDIILIT vs Atreides
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8339,7 +8339,7 @@ SUMMARY:LC vs Falcons Force
 UID:cs-go-esea-advanced-europe-56-2026-1353976@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/affinity_mp4
 DURATION:PT2H
 DTSTART:20260212T202721Z
 SUMMARY:Decider match: LHC vs hindsight
