@@ -172,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260212T160000Z
+DTSTART:20260212T161000Z
 SUMMARY:Upper bracket final: BB vs 33
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344424@tournamentics
 END:VEVENT
@@ -408,9 +408,9 @@ SUMMARY:Lower bracket round 3 match 1: ICE vs JS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260212T160000Z
+DTSTART:20260212T160825Z
 SUMMARY:Lower bracket semifinal: SIN vs FNC
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344426@tournamentics
 END:VEVENT
