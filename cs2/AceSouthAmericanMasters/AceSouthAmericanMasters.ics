@@ -2,18 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: Game Hunters: 1 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/shoowtime
-DTEND:20260205T013318Z
-DTSTART:20260204T221330Z
-SUMMARY:GH vs BHE
-UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347257@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nResult: Sharks: 2 | Galorys: 0\nStream: https://www.twitch.tv/vilacattv
 DTEND:20260207T001115Z
 DTSTART:20260206T220519Z
 SUMMARY:Quarterfinal 4: SHK vs GLS
 UID:cs-go-ace-south-american-masters-spring-2026-1348602@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: Game Hunters: 1 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/shoowtime
+DTEND:20260205T013318Z
+DTSTART:20260204T221330Z
+SUMMARY:GH vs BHE
+UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347257@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: Crashers: 1 | Galorys: 2\nStream: https://www.twitch.tv/gatinhodoonlyfanss
@@ -37,18 +37,18 @@ SUMMARY:Quarterfinal 1: IMP vs Bad Luck
 UID:cs-go-ace-south-american-masters-spring-2026-1348599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: Bad Luck: 2 | Yawara Esports: 0\nStream: https://www.twitch.tv/lorranbs_
-DTEND:20260204T204247Z
-DTSTART:20260204T203343Z
-SUMMARY:Bad Luck vs YAW
-UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347256@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | Bounty Hunters Esports: 0\nStream: https://www.twitch.tv/vilacattv
 DTEND:20260206T213756Z
 DTSTART:20260206T195141Z
 SUMMARY:Quarterfinal 3: RED vs BHE
 UID:cs-go-ace-south-american-masters-spring-2026-1348601@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: Bad Luck: 2 | Yawara Esports: 0\nStream: https://www.twitch.tv/lorranbs_
+DTEND:20260204T204247Z
+DTSTART:20260204T203343Z
+SUMMARY:Bad Luck vs YAW
+UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347256@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Spring 2026\nMatch Type: Best Of\nResult: Imperial: 1 | 9z: 2\nStream: https://www.twitch.tv/ligaaceesports
