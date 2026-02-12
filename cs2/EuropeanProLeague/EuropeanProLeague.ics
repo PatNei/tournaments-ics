@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260216T090000Z
-SUMMARY:Elimination match: MSQ vs TBD
+SUMMARY:Elimination match: MSQ vs  CSDIILIT
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -338,8 +338,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1355895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | Ursa: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260212T141516Z
 DTSTART:20260212T121843Z
 SUMMARY: CSDIILIT vs URSA
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353998@tournamentics
@@ -404,7 +404,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260216T113000Z
-SUMMARY:Winners match: QWE vs TBD
+SUMMARY:Winners match: QWE vs URSA
 UID:cs-go-european-pro-league-series-5-play-in-2026-1354000@tournamentics
 END:VEVENT
 BEGIN:VEVENT

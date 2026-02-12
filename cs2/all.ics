@@ -1454,7 +1454,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260216T113000Z
-SUMMARY:Winners match: QWE vs TBD
+SUMMARY:Winners match: QWE vs URSA
 UID:cs-go-european-pro-league-series-5-play-in-2026-1354000@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4751,7 +4751,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260216T090000Z
-SUMMARY:Elimination match: MSQ vs TBD
+SUMMARY:Elimination match: MSQ vs  CSDIILIT
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4853,9 +4853,9 @@ SUMMARY:Quarterfinal 1: BW vs M8
 UID:cs-go-istabulan-2026-1351040@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260212T140000Z
+DTSTART:20260212T141420Z
 SUMMARY:Lower bracket quarterfinal 1: MISA vs ex-FUT Academy
 UID:cs-go-united21-44-2026-1352362@tournamentics
 END:VEVENT
@@ -5448,8 +5448,8 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | Ursa: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260212T141516Z
 DTSTART:20260212T121843Z
 SUMMARY: CSDIILIT vs URSA
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353998@tournamentics
