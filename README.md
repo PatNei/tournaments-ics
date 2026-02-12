@@ -191,11 +191,11 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerL
 
 ---
 
-### Europe Cup 1 season 51 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EuropeCup1Season512026.ics)
+### Europe Cup 1 season 50 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EuropeCup1Season502026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EuropeCup1Season512026.ics
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EuropeCup1Season502026.ics
 ```
 
 </details>
