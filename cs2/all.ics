@@ -6262,7 +6262,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2tr
 DURATION:PT2H
-DTSTART:20260212T083000Z
+DTSTART:20260212T090000Z
 SUMMARY:Round 16 match 2: BW vs G2.A
 UID:cs-go-istabulan-2026-1350973@tournamentics
 END:VEVENT
@@ -6694,7 +6694,7 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=KerqqPbIX1Y
 DURATION:PT2H
 DTSTART:20260212T103000Z
 SUMMARY:Round 16 match 4: ICE vs MISA
@@ -6934,7 +6934,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/croissantstrike
 DURATION:PT2H
-DTSTART:20260212T083000Z
+DTSTART:20260212T090000Z
 SUMMARY:Round 16 match 1: M8 vs gothboiclique
 UID:cs-go-istabulan-2026-1350972@tournamentics
 END:VEVENT
