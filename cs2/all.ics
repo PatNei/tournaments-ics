@@ -656,7 +656,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260213T153000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: MANA vs TBD
 UID:cs-go-istabulan-2026-1351043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2448,7 +2448,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260213T150000Z
-SUMMARY:Winners match: TDK vs TBD
+SUMMARY:Winners match: TDK vs HAVU
 UID:cs-go-nodwin-clutch-series-5-2026-1356091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3502,8 +3502,8 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359243@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2tr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | MANA eSports: 2\nStream: https://www.twitch.tv/istanbulancs2tr
+DTEND:20260212T204522Z
 DTSTART:20260212T192921Z
 SUMMARY:Round 16 match 7: AAB vs MANA
 UID:cs-go-istabulan-2026-1351029@tournamentics
@@ -4604,7 +4604,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260213T090000Z
-SUMMARY:Elimination match: FCF vs TBD
+SUMMARY:Elimination match: FCF vs ALLIN
 UID:cs-go-nodwin-clutch-series-5-2026-1356080@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5868,8 +5868,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-pgl-cluj-napoca-2026-1349968@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: HAVU: 2 | ALLINNERS: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260212T204232Z
 DTSTART:20260212T180723Z
 SUMMARY:HAVU vs ALLIN
 UID:cs-go-nodwin-clutch-series-5-2026-1355215@tournamentics

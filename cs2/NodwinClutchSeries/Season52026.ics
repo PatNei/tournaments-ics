@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260213T150000Z
-SUMMARY:Winners match: TDK vs TBD
+SUMMARY:Winners match: TDK vs HAVU
 UID:cs-go-nodwin-clutch-series-5-2026-1356091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -240,8 +240,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356226@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: HAVU: 2 | ALLINNERS: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260212T204232Z
 DTSTART:20260212T180723Z
 SUMMARY:HAVU vs ALLIN
 UID:cs-go-nodwin-clutch-series-5-2026-1355215@tournamentics
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260213T090000Z
-SUMMARY:Elimination match: FCF vs TBD
+SUMMARY:Elimination match: FCF vs ALLIN
 UID:cs-go-nodwin-clutch-series-5-2026-1356080@tournamentics
 END:VEVENT
 BEGIN:VEVENT

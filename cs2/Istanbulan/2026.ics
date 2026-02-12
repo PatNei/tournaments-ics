@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260213T153000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: MANA vs TBD
 UID:cs-go-istabulan-2026-1351043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:Round 16 match 6: JJH vs EF
 UID:cs-go-istabulan-2026-1351017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2tr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | MANA eSports: 2\nStream: https://www.twitch.tv/istanbulancs2tr
+DTEND:20260212T204522Z
 DTSTART:20260212T192921Z
 SUMMARY:Round 16 match 7: AAB vs MANA
 UID:cs-go-istabulan-2026-1351029@tournamentics
