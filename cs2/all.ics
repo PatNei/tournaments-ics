@@ -172,7 +172,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260213T010000Z
+DTSTART:20260213T013000Z
 SUMMARY:Round 4: TA vs FV
 UID:cs-go-dust2-us-eagle-masters-6-2026-1358127@tournamentics
 END:VEVENT
@@ -2223,7 +2223,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260213T180000Z
+DTSTART:20260213T150000Z
 SUMMARY:Winners match: BMB vs Omega
 UID:cs-go-nodwin-clutch-series-5-2026-1356105@tournamentics
 END:VEVENT
@@ -2447,7 +2447,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260213T150000Z
+DTSTART:20260213T090000Z
 SUMMARY:Winners match: TDK vs HAVU
 UID:cs-go-nodwin-clutch-series-5-2026-1356091@tournamentics
 END:VEVENT
@@ -3108,13 +3108,6 @@ DURATION:PT2H
 DTSTART:20260213T130000Z
 SUMMARY:Quarterfinal 3: 9INE vs JJH
 UID:cs-go-istabulan-2026-1351042@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260213T090000Z
-SUMMARY:Upper bracket final: ALL vs VP.P
-UID:cs-go-united21-44-2026-1352364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -4267,7 +4260,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260214T010000Z
+DTSTART:20260213T020000Z
 SUMMARY:Round 4: LAG vs SportsBetExpert
 UID:cs-go-dust2-us-eagle-masters-6-2026-1358129@tournamentics
 END:VEVENT
@@ -4603,7 +4596,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260213T090000Z
+DTSTART:20260213T180000Z
 SUMMARY:Elimination match: FCF vs ALLIN
 UID:cs-go-nodwin-clutch-series-5-2026-1356080@tournamentics
 END:VEVENT
@@ -6780,7 +6773,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260213T010000Z
+DTSTART:20260213T030000Z
 SUMMARY:Round 4: BK vs OverKnight
 UID:cs-go-dust2-us-eagle-masters-6-2026-1358128@tournamentics
 END:VEVENT
@@ -7509,7 +7502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260215T090000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: ALL vs TBD
 UID:cs-go-united21-44-2026-1352423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8390,7 +8383,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260214T010000Z
+DTSTART:20260213T023000Z
 SUMMARY:Round 4: CCE vs F5
 UID:cs-go-dust2-us-eagle-masters-6-2026-1358130@tournamentics
 END:VEVENT

@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260215T090000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: ALL vs TBD
 UID:cs-go-united21-44-2026-1352423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -98,13 +98,6 @@ DTEND:20260202T133450Z
 DTSTART:20260202T114227Z
 SUMMARY:Elimination match: LAG vs MEGO
 UID:cs-go-united21-44-2026-1339483@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260213T090000Z
-SUMMARY:Upper bracket final: ALL vs VP.P
-UID:cs-go-united21-44-2026-1352364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Misa Esports: 2\nStream: https://kick.com/united21_en
