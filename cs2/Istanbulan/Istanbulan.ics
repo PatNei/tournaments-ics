@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260213T103000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: MISA vs TBD
 UID:cs-go-istabulan-2026-1351041@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -63,13 +63,6 @@ DURATION:PT2H
 DTSTART:20260212T104500Z
 SUMMARY:Round 16 match 1: M8 vs gothboiclique
 UID:cs-go-istabulan-2026-1350972@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=KerqqPbIX1Y
-DURATION:PT2H
-DTSTART:20260212T130000Z
-SUMMARY:Round 16 match 4: ICE vs MISA
-UID:cs-go-istabulan-2026-1351015@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked

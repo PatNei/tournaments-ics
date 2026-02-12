@@ -10,6 +10,52 @@ Subscribe to every tournament at once:
 
 ---
 
+## S Tier
+
+<details>
+<summary>IEM</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
+```
+
+---
+
+### Krakow 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Krakow2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Krakow2026.ics
+```
+
+</details>
+
+## A Tier
+
+<details>
+<summary>PGL</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/Pgl.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/Pgl.ics
+```
+
+---
+
+### Cluj-Napoca 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/ClujNapoca2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Pgl/ClujNapoca2026.ics
+```
+
+</details>
+
 ## B Tier
 
 <details>
@@ -189,7 +235,49 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlo
 
 </details>
 
+<details>
+<summary>RES Showdown</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics
+```
+
+---
+
+### Spring 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/Spring2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/Spring2026.ics
+```
+
+</details>
+
 ## D Tier
+
+<details>
+<summary>A1 Gaming League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics
+```
+
+---
+
+### Season 11 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics
+```
+
+</details>
 
 <details>
 <summary>Ace North American Masters</summary>
@@ -553,6 +641,13 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSe
 
 ---
 
+### Season 4 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season42026.ics
+```
+
 ### Season 5 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season52026.ics)
 
@@ -600,6 +695,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Unite
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Season442026.ics
+```
+
+</details>
+
+<details>
+<summary>Yuqilin</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/Yuqilin.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/Yuqilin.ics
+```
+
+---
+
+### Pinnacle of Battle season 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason22026.ics
 ```
 
 </details>
