@@ -2350,7 +2350,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260214T160000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: FA vs TBD
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3509,9 +3509,9 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359243@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://kick.com/istanbulancs2tr
+DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2tr
 DURATION:PT2H
-DTSTART:20260212T180000Z
+DTSTART:20260212T183000Z
 SUMMARY:Round 16 match 7: AAB vs MANA
 UID:cs-go-istabulan-2026-1351029@tournamentics
 END:VEVENT
@@ -8031,8 +8031,8 @@ SUMMARY:K27 vs DRGN TEAM
 UID:cs-go-gluck-starpearl-1-2026-1358138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Keyd: 0 | FOLHA AMARELA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260212T175510Z
 DTSTART:20260212T160649Z
 SUMMARY:Round of 16 match 4: Keyd vs FA
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343441@tournamentics
@@ -8075,7 +8075,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
 DURATION:PT2H
-DTSTART:20260212T174500Z
+DTSTART:20260212T180000Z
 SUMMARY:Round 16 match 6: JJH vs EF
 UID:cs-go-istabulan-2026-1351017@tournamentics
 END:VEVENT

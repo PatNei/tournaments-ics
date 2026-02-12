@@ -88,14 +88,14 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
 DURATION:PT2H
-DTSTART:20260212T174500Z
+DTSTART:20260212T180000Z
 SUMMARY:Round 16 match 6: JJH vs EF
 UID:cs-go-istabulan-2026-1351017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://kick.com/istanbulancs2tr
+DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2tr
 DURATION:PT2H
-DTSTART:20260212T180000Z
+DTSTART:20260212T183000Z
 SUMMARY:Round 16 match 7: AAB vs MANA
 UID:cs-go-istabulan-2026-1351029@tournamentics
 END:VEVENT
