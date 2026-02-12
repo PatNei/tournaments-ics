@@ -362,7 +362,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260213T180000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BMB vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1076,7 +1076,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: PGE vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3841,7 +3841,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260212T143000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: MSC vs TBD
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4293,8 +4293,8 @@ SUMMARY:Upper bracket round 1 match 4: NTR vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 2 | Pigeons: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260212T135422Z
 DTSTART:20260212T122655Z
 SUMMARY:BMB vs PGE
 UID:cs-go-nodwin-clutch-series-5-2026-1355216@tournamentics
@@ -5539,8 +5539,8 @@ SUMMARY:Round 1: ACE vs WSG
 UID:cs-go-a1-gaming-league-11-2026-1312626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://kick.com/luffastream
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | MASONIC: 0\nStream: https://kick.com/luffastream
+DTEND:20260212T135334Z
 DTSTART:20260212T120514Z
 SUMMARY:Winners match: KOL vs MSC
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353878@tournamentics
@@ -7646,9 +7646,9 @@ SUMMARY:Lower bracket quarterfinal 1: FURIA vs MGLZ
 UID:cs-go-iem-krakow-2026-1331883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_4
+DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
 DURATION:PT2H
-DTSTART:20260212T133000Z
+DTSTART:20260212T134619Z
 SUMMARY:Winners' match: ex-RUBY vs NEM
 UID:cs-go-gluck-starpearl-1-2026-1358134@tournamentics
 END:VEVENT
@@ -7912,7 +7912,7 @@ SUMMARY:LFO vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1337976@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_4
 DURATION:PT2H
 DTSTART:20260212T133000Z
 SUMMARY:Winners' match: 1WIN vs 33

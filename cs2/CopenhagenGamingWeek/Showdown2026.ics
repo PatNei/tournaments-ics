@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://kick.com/luffastream
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | MASONIC: 0\nStream: https://kick.com/luffastream
+DTEND:20260212T135334Z
 DTSTART:20260212T120514Z
 SUMMARY:Winners match: KOL vs MSC
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353878@tournamentics
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260212T143000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: MSC vs TBD
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
