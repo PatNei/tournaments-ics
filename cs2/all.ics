@@ -1454,7 +1454,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260216T113000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: QWE vs TBD
 UID:cs-go-european-pro-league-series-5-play-in-2026-1354000@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1706,7 +1706,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260213T180000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Atreides vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3229,11 +3229,11 @@ SUMMARY:Elimination match: GLECS vs 777
 UID:cs-go-nodwin-clutch-series-4-2026-1314663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260212T120000Z
-SUMMARY:Elimination match: Atreides vs OXUJI
-UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350056@tournamentics
+DTSTART:20260220T080000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-pgl-cluj-napoca-2026-1349993@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Curralzinho: 0 | BESTIA Academy: 2\nStream: https://kick.com/cct_cs3
@@ -3243,18 +3243,18 @@ SUMMARY:Round 3: Curralzinho vs BST.A
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343559@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260220T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349993@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: MUERTA TEAM: 0 |  CSDIILIT: 1\nStream: https://www.twitch.tv/csdiilit_com
 DTEND:20260128T175458Z
 DTSTART:20260128T171128Z
 SUMMARY:MUERTA TEAM vs  CSDIILIT
 UID:cs-go-esea-advanced-europe-56-2026-1337971@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | WOPA Esport: 1\nStream: https://www.twitch.tv/csdiilit_com
+DTEND:20260114T190147Z
+DTSTART:20260114T181755Z
+SUMMARY: CSDIILIT vs WOPA
+UID:cs-go-esea-advanced-europe-56-2026-1319919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
@@ -3269,13 +3269,6 @@ DURATION:PT2H
 DTSTART:20260212T160000Z
 SUMMARY:Lower bracket semifinal: SIN vs FNC
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344426@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | WOPA Esport: 1\nStream: https://www.twitch.tv/csdiilit_com
-DTEND:20260114T190147Z
-DTSTART:20260114T181755Z
-SUMMARY: CSDIILIT vs WOPA
-UID:cs-go-esea-advanced-europe-56-2026-1319919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | 777: 0\nStream: https://www.twitch.tv/a1gamingleague
@@ -4309,7 +4302,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260212T120000Z
+DTSTART:20260212T122000Z
 SUMMARY:BMB vs PGE
 UID:cs-go-nodwin-clutch-series-5-2026-1355216@tournamentics
 END:VEVENT
@@ -4765,7 +4758,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260216T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MSQ vs TBD
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5686,9 +5679,9 @@ SUMMARY:REGAIN vs mouse
 UID:cs-go-cct-north-america-series-3-3-2026-1343576@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260212T120000Z
+DTSTART:20260212T120216Z
 SUMMARY:Round 3: BIG.E vs ECF
 UID:cs-go-cct-europe-series-15-3-2026-1343383@tournamentics
 END:VEVENT
@@ -6176,8 +6169,8 @@ SUMMARY:Round 3: FLY.R vs F5
 UID:cs-go-dust2-us-eagle-masters-6-2026-1353874@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nResult: Mousquetaires: 1 | QWENTRY: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260212T120112Z
 DTSTART:20260212T091625Z
 SUMMARY:MSQ vs QWE
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353997@tournamentics
@@ -7046,7 +7039,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260212T120000Z
+DTSTART:20260212T123000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358135@tournamentics
 END:VEVENT
@@ -7298,7 +7291,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260212T120000Z
+DTSTART:20260212T123000Z
 SUMMARY:Elimination match: SNZ.P vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358146@tournamentics
 END:VEVENT
@@ -7662,7 +7655,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260212T120000Z
+DTSTART:20260212T123000Z
 SUMMARY:Winners' match: TBD vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358134@tournamentics
 END:VEVENT
@@ -7928,7 +7921,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
-DTSTART:20260212T120000Z
+DTSTART:20260212T123000Z
 SUMMARY:Winners' match: 1WIN vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358145@tournamentics
 END:VEVENT

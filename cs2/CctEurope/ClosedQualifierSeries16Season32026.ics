@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260213T180000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Atreides vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -161,12 +161,5 @@ DURATION:PT2H
 DTSTART:20260214T120000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350060@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260212T120000Z
-SUMMARY:Elimination match: Atreides vs OXUJI
-UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350056@tournamentics
 END:VEVENT
 END:VCALENDAR

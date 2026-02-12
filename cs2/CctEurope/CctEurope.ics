@@ -627,13 +627,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260212T120000Z
-SUMMARY:Elimination match: Atreides vs OXUJI
-UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350056@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
 DTSTART:20260213T150000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350053@tournamentics
@@ -877,9 +870,9 @@ SUMMARY:Winners match: BRUTE vs home
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350047@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260212T120000Z
+DTSTART:20260212T120216Z
 SUMMARY:Round 3: BIG.E vs ECF
 UID:cs-go-cct-europe-series-15-3-2026-1343383@tournamentics
 END:VEVENT
@@ -1048,7 +1041,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260213T180000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Atreides vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
