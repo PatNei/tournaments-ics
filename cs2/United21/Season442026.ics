@@ -19,12 +19,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260213T113000Z
-SUMMARY:Lower bracket semifinal: LAG vs TBD
+SUMMARY:Lower bracket semifinal: LAG vs ex-FUT Academy
 UID:cs-go-united21-44-2026-1352365@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | ex-FUT Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260212T155139Z
 DTSTART:20260212T141420Z
 SUMMARY:Lower bracket quarterfinal 1: MISA vs ex-FUT Academy
 UID:cs-go-united21-44-2026-1352362@tournamentics
