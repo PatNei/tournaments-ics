@@ -662,7 +662,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2
 DURATION:PT2H
-DTSTART:20260213T173000Z
+DTSTART:20260213T180000Z
 SUMMARY:Quarterfinal 4: MANA vs HOTU
 UID:cs-go-istabulan-2026-1351043@tournamentics
 END:VEVENT
@@ -1850,6 +1850,13 @@ SUMMARY:NEMI vs OXUJI
 UID:cs-go-exort-cataclysm-1-2025-1338699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DURATION:PT2H
+DTSTART:20260219T133000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-roman-imperium-cup-5-2026-1360762@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260217T180000Z
@@ -2387,6 +2394,13 @@ DTEND:20260128T165511Z
 DTSTART:20260128T161714Z
 SUMMARY:HS vs QUA
 UID:cs-go-esea-advanced-europe-56-2026-1338166@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DURATION:PT2H
+DTSTART:20260219T100000Z
+SUMMARY:EYE vs BCA
+UID:cs-go-roman-imperium-cup-5-2026-1360759@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -3138,8 +3152,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1359588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ils4f_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nResult: 9INE: 2 | JiJieHao: 0\nStream: https://www.twitch.tv/ils4f_
+DTEND:20260213T173310Z
 DTSTART:20260213T155454Z
 SUMMARY:Quarterfinal 3: 9INE vs JJH
 UID:cs-go-istabulan-2026-1351042@tournamentics
@@ -4321,6 +4335,13 @@ SUMMARY:FS vs aimclub
 UID:cs-go-esea-advanced-europe-56-2026-1337988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DURATION:PT2H
+DTSTART:20260219T110000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-roman-imperium-cup-5-2026-1360761@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | SportsBetExpert: 0\nStream: https://kick.com/dust2us
 DTEND:20260213T035752Z
 DTSTART:20260213T021754Z
@@ -4881,6 +4902,13 @@ SUMMARY:Semifinal 2: VIT vs MOUZ
 UID:cs-go-iem-krakow-2026-1331904@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DURATION:PT2H
+DTSTART:20260219T100000Z
+SUMMARY:M8 vs FCF
+UID:cs-go-roman-imperium-cup-5-2026-1360758@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260228T113000Z
@@ -5143,7 +5171,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260214T143000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: 9INE vs TBD
 UID:cs-go-istabulan-2026-1351055@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6839,6 +6867,13 @@ DTEND:20260208T095049Z
 DTSTART:20260208T081536Z
 SUMMARY:Grand final: THUNDER dOWNUNDER vs RSTR
 UID:cs-go-dfrag-open-series-3-2026-1339755@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DURATION:PT2H
+DTSTART:20260219T110000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-roman-imperium-cup-5-2026-1360760@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Cataclysm - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | MUERTA TEAM: 1\nStream: https://kick.com/exort_en3
