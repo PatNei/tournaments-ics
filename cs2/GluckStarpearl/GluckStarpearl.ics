@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Elimination match: WW vs TBD
+SUMMARY:Elimination match: WW vs DRGN TEAM
 UID:cs-go-gluck-starpearl-1-2026-1358140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: K27: 2 | DRGN TEAM: 0\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260213T105604Z
 DTSTART:20260213T091330Z
 SUMMARY:K27 vs DRGN TEAM
 UID:cs-go-gluck-starpearl-1-2026-1358138@tournamentics
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Winners' match: FORZE.R vs TBD
+SUMMARY:Winners' match: FORZE.R vs K27
 UID:cs-go-gluck-starpearl-1-2026-1358141@tournamentics
 END:VEVENT
 BEGIN:VEVENT

@@ -803,7 +803,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Elimination match: WW vs TBD
+SUMMARY:Elimination match: WW vs DRGN TEAM
 UID:cs-go-gluck-starpearl-1-2026-1358140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4692,7 +4692,7 @@ SUMMARY:BMB vs BW
 UID:cs-go-esea-advanced-europe-56-2026-1332991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/titaanitv
 DURATION:PT2H
 DTSTART:20260213T110000Z
 SUMMARY:Elimination match: TRI vs ENCE
@@ -7268,9 +7268,9 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ar3nagg
+DESCRIPTION:🔴 LIVE NOW\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ar3nagg
 DURATION:PT2H
-DTSTART:20260213T110000Z
+DTSTART:20260213T110154Z
 SUMMARY:Winners match: MNTE vs ILWL
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353883@tournamentics
 END:VEVENT
@@ -7481,7 +7481,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Winners' match: FORZE.R vs TBD
+SUMMARY:Winners' match: FORZE.R vs K27
 UID:cs-go-gluck-starpearl-1-2026-1358141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8108,8 +8108,8 @@ SUMMARY:Round 4:  Phantom Academy vs Y.TigeRES
 UID:cs-go-exort-series-22-2026-1352735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: K27: 2 | DRGN TEAM: 0\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260213T105604Z
 DTSTART:20260213T091330Z
 SUMMARY:K27 vs DRGN TEAM
 UID:cs-go-gluck-starpearl-1-2026-1358138@tournamentics
