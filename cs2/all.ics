@@ -5269,7 +5269,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T150000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: B52 vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7723,8 +7723,8 @@ SUMMARY:Quarterfinal 1: BMB vs FNC
 UID:cs-go-res-showdown-spring-east-european-open-qualifier-2026-1347222@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: B52: 2 | CTAK_SOBAK: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260213T125850Z
 DTSTART:20260213T113921Z
 SUMMARY:Elimination match: B52 vs C_S
 UID:cs-go-gluck-starpearl-1-2026-1358151@tournamentics
