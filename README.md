@@ -70,13 +70,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/CctE
 
 ---
 
-### Series #14 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series14Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series14Season32026.ics
-```
-
 ### Series #15 season 3 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series15Season32026.ics)
 
@@ -211,13 +204,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLea
 ```
 
 ---
-
-### Series 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics
-```
 
 ### Series 5 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series52026.ics)
@@ -413,27 +399,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CopenhagenGami
 </details>
 
 <details>
-<summary>Dfrag Open Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/DfragOpenSeries/DfragOpenSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/DfragOpenSeries/DfragOpenSeries.ics
-```
-
----
-
-### Season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/DfragOpenSeries/Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/DfragOpenSeries/Season32026.ics
-```
-
-</details>
-
-<details>
 <summary>Dust2.dk Ligaen</summary>
 
 ### Full Schedule
@@ -513,27 +478,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLea
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series5PlayIn2026.ics
-```
-
-</details>
-
-<details>
-<summary>Exort Cataclysm</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortCataclysm/ExortCataclysm.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortCataclysm/ExortCataclysm.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortCataclysm/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortCataclysm/Season12026.ics
 ```
 
 </details>
