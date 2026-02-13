@@ -607,7 +607,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260214T090000Z
-SUMMARY:Decider match: HAVU vs TBD
+SUMMARY:Decider match: HAVU vs ALLIN
 UID:cs-go-nodwin-clutch-series-5-2026-1356102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4797,8 +4797,8 @@ SUMMARY:Round 1: FAV vs ILWL
 UID:cs-go-nodwin-clutch-series-4-2026-1313471@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 1 | ALLINNERS: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260213T204852Z
 DTSTART:20260213T180505Z
 SUMMARY:Elimination match: FCF vs ALLIN
 UID:cs-go-nodwin-clutch-series-5-2026-1356080@tournamentics
