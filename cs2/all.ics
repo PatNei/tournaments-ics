@@ -3344,7 +3344,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260215T140000Z
-SUMMARY:Lower bracket round 1 match 8: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 8: LC vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359048@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3740,8 +3740,8 @@ SUMMARY:Round 1: REGAIN vs BK
 UID:cs-go-dust2-us-eagle-masters-6-2026-1344185@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/anishared
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Lazer Cats: 1 | WW Team: 2\nStream: https://www.twitch.tv/anishared
+DTEND:20260213T165831Z
 DTSTART:20260213T140949Z
 SUMMARY:Upper bracket round 1 match 8: LC vs WW
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358796@tournamentics
@@ -7558,7 +7558,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260214T140000Z
-SUMMARY:Upper bracket round 2 match 8: ORM vs TBD
+SUMMARY:Upper bracket round 2 match 8: ORM vs WW
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
