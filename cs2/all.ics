@@ -1052,10 +1052,10 @@ SUMMARY:Round 4: PCY vs BST.A
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Winners' match: TBD vs TBD
+SUMMARY:Winners' match: WB vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358150@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4692,7 +4692,7 @@ SUMMARY:BMB vs BW
 UID:cs-go-esea-advanced-europe-56-2026-1332991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
 DURATION:PT2H
 DTSTART:20260213T110000Z
 SUMMARY:Elimination match: TRI vs ENCE
@@ -4811,9 +4811,9 @@ SUMMARY:Round of 16 match 7: FAV vs HS
 UID:cs-go-a1-gaming-league-11-2026-1313595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260213T103000Z
+DTSTART:20260213T103535Z
 SUMMARY:Round 2: PSY vs LPH
 UID:cs-go-exort-series-22-2026-1359513@tournamentics
 END:VEVENT
@@ -6001,8 +6001,8 @@ SUMMARY:Upper bracket quarterfinal 4: WC vs VOCA
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344442@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 2 | CTAK_SOBAK: 0\nStream: https://www.twitch.tv/gluck_esports_3
+DTEND:20260213T103913Z
 DTSTART:20260213T091550Z
 SUMMARY:WB vs C_S
 UID:cs-go-gluck-starpearl-1-2026-1358149@tournamentics
@@ -7268,7 +7268,7 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lentbb
 DURATION:PT2H
 DTSTART:20260213T110000Z
 SUMMARY:Winners match: MNTE vs ILWL
@@ -7754,7 +7754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: C_S vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358151@tournamentics
 END:VEVENT
 BEGIN:VEVENT

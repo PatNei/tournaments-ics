@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: C_S vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -198,17 +198,17 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1359577@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 2 | CTAK_SOBAK: 0\nStream: https://www.twitch.tv/gluck_esports_3
+DTEND:20260213T103913Z
 DTSTART:20260213T091550Z
 SUMMARY:WB vs C_S
 UID:cs-go-gluck-starpearl-1-2026-1358149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
+DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Winners' match: TBD vs TBD
+SUMMARY:Winners' match: WB vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1358150@tournamentics
 END:VEVENT
 BEGIN:VEVENT
