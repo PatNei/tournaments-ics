@@ -1076,7 +1076,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260214T113000Z
-SUMMARY:Lower bracket semifinal: LHC vs TBD
+SUMMARY:Lower bracket semifinal: LHC vs  Fingers Crossed Female
 UID:cs-go-jb-pro-league-female-1-2026-1354014@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3586,8 +3586,8 @@ SUMMARY:UNiTY vs MANA
 UID:cs-go-esea-advanced-europe-56-2026-1353978@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 2 |  Fingers Crossed Female: 1\nStream: https://kick.com/jbproleague
+DTEND:20260213T225029Z
 DTSTART:20260213T202222Z
 SUMMARY:Upper bracket semifinal 2: BIG.E vs  Fingers Crossed Female
 UID:cs-go-jb-pro-league-female-1-2026-1354013@tournamentics
@@ -7789,7 +7789,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260214T150000Z
-SUMMARY:Upper bracket final: PGE vs TBD
+SUMMARY:Upper bracket final: PGE vs BIG.E
 UID:cs-go-jb-pro-league-female-1-2026-1354015@tournamentics
 END:VEVENT
 BEGIN:VEVENT
