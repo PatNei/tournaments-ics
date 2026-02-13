@@ -84,13 +84,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Seri
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series15Season32026.ics
 ```
 
-### Series #16 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series16Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Series16Season32026.ics
-```
-
 </details>
 
 ## C Tier
@@ -180,55 +173,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctSouthAmeric
 </details>
 
 <details>
-<summary>ESL Challenger League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics
-```
-
----
-
-### Europe Cup 1 season 51 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EuropeCup1Season512026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EslChallengerLeague/EuropeCup1Season512026.ics
-```
-
-</details>
-
-<details>
-<summary>European Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
-```
-
----
-
-### Series 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series42026.ics
-```
-
-### Series 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series52026.ics
-```
-
-</details>
-
-<details>
 <summary>IEM</summary>
 
 ### Full Schedule
@@ -256,49 +200,7 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlo
 
 </details>
 
-<details>
-<summary>RES Showdown</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/ResShowdown.ics
-```
-
----
-
-### Spring 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/Spring2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ResShowdown/Spring2026.ics
-```
-
-</details>
-
 ## D Tier
-
-<details>
-<summary>A1 Gaming League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics
-```
-
----
-
-### Season 11 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/A1GamingLeague/Season112026.ics
-```
-
-</details>
 
 <details>
 <summary>Ace North American Masters</summary>
@@ -343,27 +245,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceSouthAmeric
 </details>
 
 <details>
-<summary>BetBoom RUSH B!</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/BetboomRushB.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/BetboomRushB.ics
-```
-
----
-
-### Summit season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/SummitSeason22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/BetboomRushB/SummitSeason22026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT Europe</summary>
 
 ### Full Schedule
@@ -380,34 +261,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/CctE
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries15Season32026.ics
-```
-
-### Closed Qualifier: Series #16 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries16Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/ClosedQualifierSeries16Season32026.ics
-```
-
-</details>
-
-<details>
-<summary>Copenhagen Gaming Week</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CopenhagenGamingWeek/CopenhagenGamingWeek.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CopenhagenGamingWeek/CopenhagenGamingWeek.ics
-```
-
----
-
-### Showdown 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CopenhagenGamingWeek/Showdown2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CopenhagenGamingWeek/Showdown2026.ics
 ```
 
 </details>
@@ -471,48 +324,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Dust2Us/Dust2U
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Dust2Us/EagleMastersSeason62026.ics
-```
-
-</details>
-
-<details>
-<summary>ESEA</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/Esea.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/Esea.ics
-```
-
----
-
-### Advanced Europe season 56 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/AdvancedEuropeSeason562026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Esea/AdvancedEuropeSeason562026.ics
-```
-
-</details>
-
-<details>
-<summary>European Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
-```
-
----
-
-### Series 5 Play-In 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series5PlayIn2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLeague/Series5PlayIn2026.ics
 ```
 
 </details>
@@ -588,167 +399,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GamersClubLiga
 </details>
 
 <details>
-<summary>GLuck StarPearl</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GluckStarpearl/GluckStarpearl.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GluckStarpearl/GluckStarpearl.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GluckStarpearl/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/GluckStarpearl/Season12026.ics
-```
-
-</details>
-
-<details>
-<summary>IEM</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/Iem.ics
-```
-
----
-
-### Atlanta: American Open Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaAmericanOpenQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaAmericanOpenQualifier2026.ics
-```
-
-### Atlanta: Global Open Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlobalOpenQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Iem/AtlantaGlobalOpenQualifier2026.ics
-```
-
-</details>
-
-<details>
-<summary>IstanbuLAN</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istanbulan/Istanbulan.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istanbulan/Istanbulan.ics
-```
-
----
-
-### 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istanbulan/2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Istanbulan/2026.ics
-```
-
-</details>
-
-<details>
-<summary>JB Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/JbProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/JbProLeague.ics
-```
-
----
-
-### Female season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/FemaleSeason12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/JbProLeague/FemaleSeason12026.ics
-```
-
-</details>
-
-<details>
-<summary>NA Revival Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NaRevivalSeries/NaRevivalSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NaRevivalSeries/NaRevivalSeries.ics
-```
-
----
-
-### Season 12 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NaRevivalSeries/Season122026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NaRevivalSeries/Season122026.ics
-```
-
-</details>
-
-<details>
-<summary>NODWIN Clutch Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/NodwinClutchSeries.ics
-```
-
----
-
-### Season 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season42026.ics
-```
-
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season52026.ics
-```
-
-</details>
-
-<details>
-<summary>Roman Imperium Cup</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumCup/RomanImperiumCup.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumCup/RomanImperiumCup.ics
-```
-
----
-
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumCup/Season52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/RomanImperiumCup/Season52026.ics
-```
-
-</details>
-
-<details>
 <summary>United21</summary>
 
 ### Full Schedule
@@ -765,27 +415,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Unite
 
 ```text
 https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/United21/Season442026.ics
-```
-
-</details>
-
-<details>
-<summary>Yuqilin</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/Yuqilin.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/Yuqilin.ics
-```
-
----
-
-### Pinnacle of Battle season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason22026.ics
 ```
 
 </details>
