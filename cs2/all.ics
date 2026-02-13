@@ -655,7 +655,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kant0ka
 DURATION:PT2H
-DTSTART:20260213T153000Z
+DTSTART:20260213T163000Z
 SUMMARY:Quarterfinal 4: MANA vs HOTU
 UID:cs-go-istabulan-2026-1351043@tournamentics
 END:VEVENT
@@ -1055,7 +1055,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Winners' match: WB vs TBD
+SUMMARY:Winners' match: WB vs NTR
 UID:cs-go-gluck-starpearl-1-2026-1358150@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2179,8 +2179,8 @@ SUMMARY:Round 1: G1 vs ARC
 UID:cs-go-nodwin-clutch-series-4-2026-1313472@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 2 | Bebop: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260213T110856Z
 DTSTART:20260213T091903Z
 SUMMARY:Elimination match: RBLS vs BBP
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353982@tournamentics
@@ -3140,7 +3140,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260213T130000Z
+DTSTART:20260213T140000Z
 SUMMARY:Quarterfinal 3: 9INE vs JJH
 UID:cs-go-istabulan-2026-1351042@tournamentics
 END:VEVENT
@@ -4692,9 +4692,9 @@ SUMMARY:BMB vs BW
 UID:cs-go-esea-advanced-europe-56-2026-1332991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/titaanitv
+DESCRIPTION:🔴 LIVE NOW\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/titaanitv
 DURATION:PT2H
-DTSTART:20260213T110000Z
+DTSTART:20260213T111052Z
 SUMMARY:Elimination match: TRI vs ENCE
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353884@tournamentics
 END:VEVENT
@@ -5653,7 +5653,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260213T113000Z
+DTSTART:20260213T130000Z
 SUMMARY:Quarterfinal 2: MISA vs MGC
 UID:cs-go-istabulan-2026-1351041@tournamentics
 END:VEVENT
@@ -6529,7 +6529,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260218T090000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: RBLS vs TBD
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353984@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7268,9 +7268,9 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ar3nagg
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ar3nagg
 DURATION:PT2H
-DTSTART:20260213T110154Z
+DTSTART:20260213T111500Z
 SUMMARY:Winners match: MNTE vs ILWL
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353883@tournamentics
 END:VEVENT
@@ -7754,7 +7754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260213T120000Z
-SUMMARY:Elimination match: C_S vs TBD
+SUMMARY:Elimination match: C_S vs B52
 UID:cs-go-gluck-starpearl-1-2026-1358151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8339,8 +8339,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356224@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | B52: 0\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260213T110710Z
 DTSTART:20260213T092232Z
 SUMMARY:NTR vs B52
 UID:cs-go-gluck-starpearl-1-2026-1358148@tournamentics
