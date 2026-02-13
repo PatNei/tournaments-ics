@@ -518,27 +518,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/EuropeanProLea
 </details>
 
 <details>
-<summary>Exort Cataclysm</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortCataclysm/ExortCataclysm.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortCataclysm/ExortCataclysm.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortCataclysm/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/ExortCataclysm/Season12026.ics
-```
-
-</details>
-
-<details>
 <summary>Exort Series</summary>
 
 ### Full Schedule
