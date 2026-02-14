@@ -2966,7 +2966,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MythicLeague
 DURATION:PT2H
 DTSTART:20260215T200000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: BOSS vs TBD
 UID:cs-go-na-revival-series-12-2026-1360756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3376,9 +3376,9 @@ SUMMARY:Upper bracket semifinal 1: PSSN.UA vs SportsBetExpert
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344443@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260214T193000Z
+DTSTART:20260214T194234Z
 SUMMARY:Round 2: Imperial.A vs Stinky Rats
 UID:cs-go-exort-series-22-2026-1359520@tournamentics
 END:VEVENT
@@ -5430,7 +5430,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MythicLeague
 DURATION:PT2H
 DTSTART:20260215T170000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: S2K vs TBD
 UID:cs-go-na-revival-series-12-2026-1360755@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6209,13 +6209,6 @@ DTEND:20260213T203104Z
 DTSTART:20260213T180755Z
 SUMMARY:Upper bracket round 1 match 11: BW vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358819@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MythicLeague
-DURATION:PT2H
-DTSTART:20260214T230000Z
-SUMMARY:Quarterfinal 1: SR vs S2K
-UID:cs-go-na-revival-series-12-2026-1360751@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -7791,13 +7784,6 @@ DURATION:PT2H
 DTSTART:20260215T140000Z
 SUMMARY:Lower bracket round 1 match 2: ex-Fire Flux Esports vs JJH
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359002@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MythicLeague
-DURATION:PT2H
-DTSTART:20260214T200000Z
-SUMMARY:Quarterfinal 4: MONEY CREW vs BOSS
-UID:cs-go-na-revival-series-12-2026-1360754@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
