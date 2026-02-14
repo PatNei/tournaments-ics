@@ -1311,7 +1311,7 @@ SUMMARY:Lower bracket round 1 match 1: ex-Zero Tenacity vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359001@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MythicLeague
+DESCRIPTION:⏳ UPCOMING\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dariacs
 DURATION:PT2H
 DTSTART:20260214T200000Z
 SUMMARY:Quarterfinal 3: SE vs O49
@@ -5528,7 +5528,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260215T090000Z
-SUMMARY:Lower bracket semifinal: K27 vs TBD
+SUMMARY:Lower bracket semifinal: K27 vs OXUJI
 UID:cs-go-gluck-starpearl-1-2026-1359587@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7863,8 +7863,8 @@ SUMMARY:Imperial.A vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1356652@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 1 | Oxuji Esports: 2\nStream: https://www.twitch.tv/gluck_esports_2
+DTEND:20260214T195500Z
 DTSTART:20260214T163918Z
 SUMMARY:Lower bracket quarterfinal 2: NEM vs OXUJI
 UID:cs-go-gluck-starpearl-1-2026-1359586@tournamentics
