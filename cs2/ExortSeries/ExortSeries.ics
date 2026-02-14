@@ -2,11 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260216T163000Z
+SUMMARY:Round 3: 3DMAX.A vs SNG
+UID:cs-go-exort-series-22-2026-1362057@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Team PeeP: 2 | Sashi Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260209T161249Z
 DTSTART:20260209T134453Z
 SUMMARY:Round 4: PEEP vs SASHI.A
 UID:cs-go-exort-series-22-2026-1352785@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260215T103000Z
+SUMMARY:Round 3: LPH vs Y.TigeRES
+UID:cs-go-exort-series-22-2026-1362051@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | Imperial Academy: 0\nStream: https://kick.com/exort_en2
@@ -114,6 +128,20 @@ SUMMARY:Round 4: FOKUS vs JUMBO
 UID:cs-go-exort-series-22-2026-1352787@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260216T133000Z
+SUMMARY:Round 3: PSY vs CYBERSHOKE Prospects
+UID:cs-go-exort-series-22-2026-1362056@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260215T163000Z
+SUMMARY:Round 3: mix52 vs Imperial.A
+UID:cs-go-exort-series-22-2026-1362053@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: VP.Future: 2 | Sashi Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260207T191707Z
 DTSTART:20260207T163636Z
@@ -212,11 +240,32 @@ SUMMARY:Round 4: Stinky Rats vs Imperial.A
 UID:cs-go-exort-series-22-2026-1352734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260216T193000Z
+SUMMARY:Round 3: FOKUS vs EF.A
+UID:cs-go-exort-series-22-2026-1362058@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: PCIFIC: 0 | WATERMELON: 2\nStream: https://kick.com/exort_en2
 DTEND:20260209T180809Z
 DTSTART:20260209T164329Z
 SUMMARY:Round 4: PCF vs WTRML0N
 UID:cs-go-exort-series-22-2026-1352786@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260216T103000Z
+SUMMARY:Round 3: G2.A vs Stinky Rats
+UID:cs-go-exort-series-22-2026-1362055@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260215T133000Z
+SUMMARY:Round 3: XI vs WTRML0N
+UID:cs-go-exort-series-22-2026-1362052@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: VP.Future: 0 | FOKUS: 2\nStream: https://kick.com/exort_en2
