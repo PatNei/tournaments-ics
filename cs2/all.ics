@@ -2165,8 +2165,8 @@ SUMMARY:Elimination match: The Gentlemans Kennel vs McTeam
 UID:cs-go-dfrag-open-series-3-2026-1339743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 1 | ALGO Esports: 2\nStream: https://kick.com/cct_cs
+DTEND:20260214T171416Z
 DTSTART:20260214T142937Z
 SUMMARY:Round 4: ex-Zero Tenacity vs ALGO
 UID:cs-go-cct-europe-series-15-3-2026-1343390@tournamentics
@@ -2886,7 +2886,7 @@ SUMMARY:Round 1: ECF vs UNiTY
 UID:cs-go-nodwin-clutch-series-4-2026-1313469@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2en
 DURATION:PT2H
 DTSTART:20260214T173000Z
 SUMMARY:Grand final: M8 vs HOTU
@@ -5171,7 +5171,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260214T183000Z
-SUMMARY:Lower bracket final: LHC vs BIG.E
+SUMMARY:Lower bracket final: BIG.E vs LHC
 UID:cs-go-jb-pro-league-female-1-2026-1354016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7905,9 +7905,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356214@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
+DESCRIPTION:🔴 LIVE NOW\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
-DTSTART:20260214T171500Z
+DTSTART:20260214T170525Z
 SUMMARY:Round of 16 match 2: ORM vs Fingers
 UID:cs-go-a1-gaming-league-11-2026-1313590@tournamentics
 END:VEVENT
@@ -8080,9 +8080,9 @@ SUMMARY:Upper bracket round 1 match 2: ENCE vs CS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
-DTSTART:20260214T170000Z
+DTSTART:20260214T170903Z
 SUMMARY:Round 1: MGLZ vs paiN
 UID:cs-go-pgl-cluj-napoca-2026-1349967@tournamentics
 END:VEVENT
