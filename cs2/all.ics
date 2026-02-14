@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
-DTSTART:20260214T110000Z
+DTSTART:20260214T114500Z
 SUMMARY:Round 1: FaZe vs HERO
 UID:cs-go-pgl-cluj-napoca-2026-1349963@tournamentics
 END:VEVENT
@@ -2382,9 +2382,9 @@ SUMMARY:Quarterfinal 2: FA vs RED
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260214T110000Z
+DTSTART:20260214T103410Z
 SUMMARY:Round 1: MOUZ vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349962@tournamentics
 END:VEVENT
@@ -3953,7 +3953,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260214T120000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: OXUJI vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1359584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4618,7 +4618,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260214T120000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: 1WIN vs TBD
 UID:cs-go-gluck-starpearl-1-2026-1359580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5392,8 +5392,8 @@ SUMMARY:Round 2: FOKUS vs PCF
 UID:cs-go-exort-series-22-2026-1347262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports_3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 0 | 1WIN: 2\nStream: https://www.twitch.tv/gluck_esports_3
+DTEND:20260214T103248Z
 DTSTART:20260214T090346Z
 SUMMARY:Upper bracket quarterfinal 3: OXUJI vs 1WIN
 UID:cs-go-gluck-starpearl-1-2026-1359577@tournamentics
