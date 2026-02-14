@@ -151,7 +151,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260215T150000Z
+DTSTART:20260220T150000Z
 SUMMARY:MUERTA TEAM vs SIU
 UID:cs-go-esea-advanced-europe-56-2026-1345074@tournamentics
 END:VEVENT
@@ -8400,6 +8400,13 @@ DTEND:20260121T194556Z
 DTSTART:20260121T191804Z
 SUMMARY:BRUTE vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1328934@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260215T170000Z
+SUMMARY:EP vs WSG
+UID:cs-go-esea-advanced-europe-56-2026-1362050@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
