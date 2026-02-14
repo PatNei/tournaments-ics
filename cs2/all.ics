@@ -2762,7 +2762,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260301T140000Z
+DTSTART:20260301T113000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1355938@tournamentics
 END:VEVENT
@@ -3322,7 +3322,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260302T140000Z
+DTSTART:20260302T113000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1355877@tournamentics
 END:VEVENT
@@ -4888,9 +4888,9 @@ SUMMARY:Quarterfinal 1: GH vs LDP
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
-DTSTART:20260214T083000Z
+DTSTART:20260214T083257Z
 SUMMARY:Round 1: AUR vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349961@tournamentics
 END:VEVENT
@@ -7450,9 +7450,9 @@ SUMMARY:Round of 16 match 8: ODK vs FDB
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343445@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260214T083000Z
+DTSTART:20260214T083258Z
 SUMMARY:Round 1: NAVI vs AST
 UID:cs-go-pgl-cluj-napoca-2026-1349960@tournamentics
 END:VEVENT
