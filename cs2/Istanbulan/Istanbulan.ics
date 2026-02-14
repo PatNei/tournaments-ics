@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260214T173000Z
-SUMMARY:Grand final: M8 vs TBD
+SUMMARY:Grand final: M8 vs HOTU
 UID:cs-go-istabulan-2026-1351066@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Quarterfinal 4: MANA vs HOTU
 UID:cs-go-istabulan-2026-1351043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nResult: 9INE: 0 | HOTU: 2\nStream: https://www.twitch.tv/istanbulancs2en
+DTEND:20260214T165556Z
 DTSTART:20260214T145923Z
 SUMMARY:Semifinal 2: 9INE vs HOTU
 UID:cs-go-istabulan-2026-1351055@tournamentics
