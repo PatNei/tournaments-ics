@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
 DURATION:PT2H
 DTSTART:20260215T170000Z
-SUMMARY:Grand final: PGE vs TBD
+SUMMARY:Grand final: PGE vs LHC
 UID:cs-go-jb-pro-league-female-1-2026-1354017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Winners match: PGE vs Peekaboo
 UID:cs-go-jb-pro-league-female-1-2026-1354004@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 1 | Let Her Cook: 2\nStream: https://kick.com/jbproleague
+DTEND:20260214T212555Z
 DTSTART:20260214T184109Z
 SUMMARY:Lower bracket final: BIG.E vs LHC
 UID:cs-go-jb-pro-league-female-1-2026-1354016@tournamentics
