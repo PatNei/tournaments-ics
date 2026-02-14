@@ -5073,7 +5073,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260215T180000Z
-SUMMARY:Lower bracket round 1 match 15: ASTRAL vs TBD
+SUMMARY:Lower bracket round 1 match 15: ASTRAL vs TNT
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359050@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6449,8 +6449,8 @@ SUMMARY:HASP vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1328945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | TNT: 0\nStream: No official stream linked
+DTEND:20260214T155442Z
 DTSTART:20260214T140726Z
 SUMMARY:Upper bracket round 2 match 2: SPARTA vs TNT
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358886@tournamentics
@@ -6550,7 +6550,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260216T180000Z
-SUMMARY:Upper bracket round 3 match 1: TBD vs TBD
+SUMMARY:Upper bracket round 3 match 1: SPARTA vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
