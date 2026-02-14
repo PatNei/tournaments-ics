@@ -4009,7 +4009,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
 DTSTART:20260214T130000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: MNTE vs TBD
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4888,8 +4888,8 @@ SUMMARY:Quarterfinal 1: GH vs LDP
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 1 | FUT Esports: 2\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260214T113225Z
 DTSTART:20260214T083257Z
 SUMMARY:Round 1: AUR vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349961@tournamentics
@@ -6561,8 +6561,8 @@ SUMMARY:Decider match: RBLS vs HS
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353984@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: ECSTATIC: 0 | Monte: 2\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260214T112808Z
 DTSTART:20260214T093447Z
 SUMMARY:Semifinal 2: ECS vs MNTE
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353887@tournamentics
@@ -7389,7 +7389,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IstanbuLAN - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/istanbulancs2en
 DURATION:PT2H
-DTSTART:20260214T113000Z
+DTSTART:20260214T123000Z
 SUMMARY:Semifinal 1: M8 vs MGC
 UID:cs-go-istabulan-2026-1351044@tournamentics
 END:VEVENT
