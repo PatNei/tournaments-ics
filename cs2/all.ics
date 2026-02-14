@@ -3756,7 +3756,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
 DURATION:PT2H
-DTSTART:20260214T142500Z
+DTSTART:20260214T144000Z
 SUMMARY:Round of 16 match 1: NEM vs ACE
 UID:cs-go-a1-gaming-league-11-2026-1313589@tournamentics
 END:VEVENT
@@ -4062,9 +4062,9 @@ SUMMARY:Upper bracket round 3 match 2: RBLS vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
-DTSTART:20260214T143000Z
+DTSTART:20260214T144000Z
 SUMMARY:Round 1: FAL vs 3DMAX
 UID:cs-go-pgl-cluj-napoca-2026-1349965@tournamentics
 END:VEVENT
@@ -6570,7 +6570,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260214T144500Z
+DTSTART:20260214T143500Z
 SUMMARY:Round 1: VIT vs G2
 UID:cs-go-pgl-cluj-napoca-2026-1349964@tournamentics
 END:VEVENT
@@ -7359,7 +7359,7 @@ SUMMARY:Round 2: AM vs EF
 UID:cs-go-nodwin-clutch-series-4-2026-1313480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🕒 POSTPONED\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260214T120000Z
 SUMMARY:Winners match: BMB vs TLR
