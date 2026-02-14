@@ -4890,7 +4890,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260214T080000Z
+DTSTART:20260214T083000Z
 SUMMARY:Round 1: AUR vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349961@tournamentics
 END:VEVENT
@@ -5558,6 +5558,13 @@ DTEND:20260206T140147Z
 DTSTART:20260206T114108Z
 SUMMARY:Decider match: ex-FUT Academy vs TD
 UID:cs-go-united21-44-2026-1339559@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260216T210000Z
+SUMMARY:GE vs MIBR.A
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1360836@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: GamerLegion: 2 | Heroic: 0\nStream: https://www.twitch.tv/ESLCS
@@ -7452,7 +7459,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260214T080000Z
+DTSTART:20260214T083000Z
 SUMMARY:Round 1: NAVI vs AST
 UID:cs-go-pgl-cluj-napoca-2026-1349960@tournamentics
 END:VEVENT
@@ -8864,7 +8871,7 @@ SUMMARY:Winners match: OXUJI vs HS
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
 DURATION:PT2H
 DTSTART:20260214T093000Z
 SUMMARY:Semifinal 1: KOL vs ILWL
