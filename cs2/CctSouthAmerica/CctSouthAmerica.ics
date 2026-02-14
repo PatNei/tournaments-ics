@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260215T180000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: SHIN vs TBD
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -212,8 +212,8 @@ SUMMARY:Round 1: SHIN vs 9z
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | Fake do Biru: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260214T152118Z
 DTSTART:20260214T131156Z
 SUMMARY:Quarterfinal 4: SHIN vs FDB
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343449@tournamentics
