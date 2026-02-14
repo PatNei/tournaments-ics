@@ -1642,7 +1642,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260214T170000Z
+DTSTART:20260214T173000Z
 SUMMARY:Round 1: FURIA vs B8
 UID:cs-go-pgl-cluj-napoca-2026-1349966@tournamentics
 END:VEVENT
@@ -2305,9 +2305,9 @@ SUMMARY:Round 1: FAV vs NXS
 UID:cs-go-cct-europe-series-15-3-2026-1343367@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260214T160000Z
+DTSTART:20260214T160726Z
 SUMMARY:Quarterfinal 2: FA vs RED
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343447@tournamentics
 END:VEVENT
