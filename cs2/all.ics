@@ -219,7 +219,7 @@ SUMMARY:ex-GANK Esports vs Stinky Rats
 UID:cs-go-esea-advanced-europe-56-2026-1355278@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Open Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Open Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cct_cs2
 DURATION:PT2H
 DTSTART:20260215T150000Z
 SUMMARY:Semifinal 1: AUR.YB vs FA
@@ -282,9 +282,9 @@ SUMMARY:Round 2: AUR vs paiN
 UID:cs-go-pgl-cluj-napoca-2026-1349973@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260215T121000Z
+DTSTART:20260215T122412Z
 SUMMARY:WB vs MSC
 UID:cs-go-nodwin-clutch-series-5-2026-1355220@tournamentics
 END:VEVENT
@@ -3106,7 +3106,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260215T123000Z
-SUMMARY:Lower bracket final: NTR vs TBD
+SUMMARY:Lower bracket final: NTR vs OXUJI
 UID:cs-go-gluck-starpearl-1-2026-1359588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5616,8 +5616,8 @@ SUMMARY:ENRAGE vs HASP
 UID:cs-go-esea-advanced-europe-56-2026-1322460@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: K27: 1 | Oxuji Esports: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260215T121602Z
 DTSTART:20260215T090740Z
 SUMMARY:Lower bracket semifinal: K27 vs OXUJI
 UID:cs-go-gluck-starpearl-1-2026-1359587@tournamentics
@@ -8129,7 +8129,7 @@ SUMMARY:Lower bracket round 2 match 2: BCG vs NIP
 UID:cs-go-iem-krakow-2026-1331852@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
 DTSTART:20260215T140000Z
 SUMMARY:Lower bracket round 1 match 3: OlyBet SB vs AM

@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
 DURATION:PT2H
 DTSTART:20260215T123000Z
-SUMMARY:Lower bracket final: NTR vs TBD
+SUMMARY:Lower bracket final: NTR vs OXUJI
 UID:cs-go-gluck-starpearl-1-2026-1359588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -156,8 +156,8 @@ SUMMARY:Winners' match: ex-RUBY vs NEM
 UID:cs-go-gluck-starpearl-1-2026-1358134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gluck_esports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: K27: 1 | Oxuji Esports: 2\nStream: https://www.twitch.tv/gluck_esports
+DTEND:20260215T121602Z
 DTSTART:20260215T090740Z
 SUMMARY:Lower bracket semifinal: K27 vs OXUJI
 UID:cs-go-gluck-starpearl-1-2026-1359587@tournamentics
