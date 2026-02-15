@@ -26,12 +26,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MythicLeague
 DURATION:PT2H
 DTSTART:20260215T230000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: BOSS vs TBD
 UID:cs-go-na-revival-series-12-2026-1360757@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MythicLeague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nResult: BOSS: 2 | Outfit 49: 0\nStream: https://www.twitch.tv/MythicLeague
+DTEND:20260215T190420Z
 DTSTART:20260215T171414Z
 SUMMARY:Semifinal 2: BOSS vs O49
 UID:cs-go-na-revival-series-12-2026-1360756@tournamentics
