@@ -509,7 +509,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260216T170000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: G2 vs paiN
 UID:cs-go-pgl-cluj-napoca-2026-1349983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1909,7 +1909,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260216T080000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: FaZe vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349976@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3603,7 +3603,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260216T110000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: MGLZ vs B8
 UID:cs-go-pgl-cluj-napoca-2026-1349979@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4328,8 +4328,8 @@ SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
 UID:cs-go-iem-krakow-2026-1331894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sangalgg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 1 | Sangal: 2\nStream: https://www.twitch.tv/sangalgg
+DTEND:20260215T202703Z
 DTSTART:20260215T180313Z
 SUMMARY:Lower bracket round 1 match 14:  CSDIILIT vs SNG
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359054@tournamentics
@@ -5444,7 +5444,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260216T140000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: 3DMAX vs HERO
 UID:cs-go-pgl-cluj-napoca-2026-1349981@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6151,7 +6151,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260216T110000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: FUT vs AST
 UID:cs-go-pgl-cluj-napoca-2026-1349978@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7219,9 +7219,9 @@ SUMMARY:BGPEEK vs SNG
 UID:cs-go-united21-44-2026-1339561@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: https://kick.com/ismetsener
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: https://kick.com/ismetsener
 DURATION:PT2H
-DTSTART:20260215T201500Z
+DTSTART:20260215T201825Z
 SUMMARY:Semifinal 1: ICE vs EF
 UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362071@tournamentics
 END:VEVENT
@@ -7824,7 +7824,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260216T140000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: MOUZ vs VIT
 UID:cs-go-pgl-cluj-napoca-2026-1349980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8384,7 +8384,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260216T080000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: NAVI vs AUR
 UID:cs-go-pgl-cluj-napoca-2026-1349977@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8552,7 +8552,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260216T140000Z
-SUMMARY:Lower bracket round 2 match 7: LK vs TBD
+SUMMARY:Lower bracket round 2 match 7: LK vs SNG
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359113@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8787,8 +8787,8 @@ SUMMARY:Decider match: SNG vs MISA
 UID:cs-go-united21-44-2026-1339564@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: Lazer Cats: 0 | WHITEBIRD: 2\nStream: https://kick.com/cct_cs
+DTEND:20260215T202321Z
 DTSTART:20260215T182125Z
 SUMMARY:Round 4: LC vs WB
 UID:cs-go-cct-europe-series-15-3-2026-1343415@tournamentics
