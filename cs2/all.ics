@@ -2732,8 +2732,8 @@ SUMMARY:Grand final: MARS vs SR
 UID:cs-go-cct-north-america-series-3-3-2026-1343592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | Let Her Cook: 1\nStream: https://kick.com/jbproleague
+DTEND:20260215T192719Z
 DTSTART:20260215T170423Z
 SUMMARY:Grand final: PGE vs LHC
 UID:cs-go-jb-pro-league-female-1-2026-1354017@tournamentics
@@ -7221,7 +7221,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260215T190000Z
+DTSTART:20260215T201500Z
 SUMMARY:Semifinal 1: ICE vs TBD
 UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362071@tournamentics
 END:VEVENT
