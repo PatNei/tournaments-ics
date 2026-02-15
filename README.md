@@ -315,27 +315,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceNorthAmeric
 </details>
 
 <details>
-<summary>Ace South American Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceSouthAmericanMasters/AceSouthAmericanMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceSouthAmericanMasters/AceSouthAmericanMasters.ics
-```
-
----
-
-### Open Qualifier Spring 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceSouthAmericanMasters/OpenQualifierSpring2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/AceSouthAmericanMasters/OpenQualifierSpring2026.ics
-```
-
-</details>
-
-<details>
 <summary>BetBoom RUSH B!</summary>
 
 ### Full Schedule

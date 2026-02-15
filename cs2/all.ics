@@ -16,8 +16,8 @@ SUMMARY:Round 1: G1 vs VP.P
 UID:cs-go-cct-europe-series-15-3-2026-1343368@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Sharks: 2 | 9z: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260215T005729Z
 DTSTART:20260214T220821Z
 SUMMARY:Quarterfinal 3: SHK vs 9z
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343448@tournamentics
@@ -1064,13 +1064,6 @@ DTEND:20260204T145704Z
 DTSTART:20260204T140813Z
 SUMMARY:MANA vs HS
 UID:cs-go-esea-advanced-europe-56-2026-1347229@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: Bad Luck: 2 | Yawara Esports: 0\nStream: https://www.twitch.tv/lorranbs_
-DTEND:20260204T204247Z
-DTSTART:20260204T203343Z
-SUMMARY:Bad Luck vs YAW
-UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347256@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -3523,13 +3516,6 @@ SUMMARY:Winners match: ENJOY vs QWE
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350042@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: 9z: 2 | ShindeN: 0\nStream: https://www.twitch.tv/forg1
-DTEND:20260204T235149Z
-DTSTART:20260204T211737Z
-SUMMARY:9z vs SHIN
-UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347255@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 |  Phantom Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260210T224247Z
 DTSTART:20260210T193852Z
@@ -5406,18 +5392,18 @@ SUMMARY:WB vs PRIME
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1341932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Team PeeP: 0\nStream: https://www.twitch.tv/peepcs2
-DTEND:20260121T194714Z
-DTSTART:20260121T191321Z
-SUMMARY:ex-GANK Esports vs PEEP
-UID:cs-go-esea-advanced-europe-56-2026-1328939@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 1 | Lazer Cats: 2\nStream: https://kick.com/cct_cs
 DTEND:20260213T121005Z
 DTSTART:20260213T090436Z
 SUMMARY:Round 3: ex-Zero Tenacity vs LC
 UID:cs-go-cct-europe-series-15-3-2026-1343386@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | Team PeeP: 0\nStream: https://www.twitch.tv/peepcs2
+DTEND:20260121T194714Z
+DTSTART:20260121T191321Z
+SUMMARY:ex-GANK Esports vs PEEP
+UID:cs-go-esea-advanced-europe-56-2026-1328939@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -6034,13 +6020,6 @@ DTEND:20260210T103322Z
 DTSTART:20260210T090738Z
 SUMMARY:Elimination match: VP.P vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350041@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: Crashers: 1 | Galorys: 2\nStream: https://www.twitch.tv/gatinhodoonlyfanss
-DTEND:20260204T234504Z
-DTSTART:20260204T211407Z
-SUMMARY:CRASH vs GLS
-UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Team PeeP: 0 | WATERMELON: 2\nStream: https://kick.com/exort_en2
@@ -7618,13 +7597,6 @@ SUMMARY:BBP vs BRUTE
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350044@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Ace South American Masters - Open Qualifier Spring 2026\nMatch Type: Best Of\nResult: Game Hunters: 1 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/shoowtime
-DTEND:20260205T013318Z
-DTSTART:20260204T221330Z
-SUMMARY:GH vs BHE
-UID:cs-go-ace-south-american-masters-open-qualifier-spring-2026-1347257@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 4 2026\nMatch Type: Best Of\nResult: Pigeons: 0 | Brute: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260115T133855Z
 DTSTART:20260115T120521Z
@@ -8202,7 +8174,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260215T180000Z
-SUMMARY:Semifinal 2: SHIN vs TBD
+SUMMARY:Semifinal 2: SHIN vs SHK
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
