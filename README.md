@@ -648,13 +648,6 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSe
 
 ---
 
-### Season 4 2026
-[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season42026.ics
-```
-
 ### Season 5 2026
 [Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/NodwinClutchSeries/Season52026.ics)
 
