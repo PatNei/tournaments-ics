@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260215T190000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: AAB vs TBD
 UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Round of 16 match 3: JS vs YNG
 UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362061@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | AaB Esport: 2\nStream: No official stream linked
+DTEND:20260215T190939Z
 DTSTART:20260215T164120Z
 SUMMARY:Quarterfinal 3: LILMIX vs AAB
 UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362069@tournamentics
