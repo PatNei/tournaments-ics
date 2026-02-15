@@ -1573,7 +1573,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260216T150000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ENCE.A vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356109@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3988,7 +3988,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260216T090000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match:  CSDIILIT vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356108@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7506,8 +7506,8 @@ SUMMARY:Upper bracket round 1 match 6: NEM vs K27
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344415@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 |  CSDIILIT: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260215T105231Z
 DTSTART:20260215T090720Z
 SUMMARY:ENCE.A vs  CSDIILIT
 UID:cs-go-nodwin-clutch-series-5-2026-1355218@tournamentics
