@@ -4643,13 +4643,6 @@ SUMMARY:Upper bracket final: VIT vs AUR
 UID:cs-go-iem-krakow-2026-1331899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260216T010000Z
-SUMMARY:Round 5: SportsBetExpert vs BK
-UID:cs-go-dust2-us-eagle-masters-6-2026-1362044@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #3 season 3 2026\nMatch Type: Best Of\nResult: Sakura Esports: 0 | LAG Gaming: 2\nStream: https://kick.com/cct_cs4
 DTEND:20260208T030519Z
 DTSTART:20260208T014018Z
@@ -6463,7 +6456,7 @@ SUMMARY:Round 2: PLS vs CRASH
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
 DTSTART:20260215T230000Z
 SUMMARY:Quarterfinal 4: YAW vs FA
