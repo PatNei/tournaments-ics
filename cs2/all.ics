@@ -5170,7 +5170,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
-DTSTART:20260215T110000Z
+DTSTART:20260215T102500Z
 SUMMARY:Round 2: G2 vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349971@tournamentics
 END:VEVENT
@@ -5875,8 +5875,8 @@ SUMMARY:Upper bracket round 1 match 3: ALL vs JS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Natus Vincere: 0 | MOUZ: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260215T101837Z
 DTSTART:20260215T080854Z
 SUMMARY:Round 2: NAVI vs MOUZ
 UID:cs-go-pgl-cluj-napoca-2026-1349968@tournamentics
@@ -5999,13 +5999,6 @@ DTEND:20260212T141516Z
 DTSTART:20260212T121843Z
 SUMMARY: CSDIILIT vs URSA
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353998@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260215T193000Z
-SUMMARY:Round 3: WAVE vs BNS
-UID:cs-go-exort-series-22-2026-1362073@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -7620,7 +7613,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260215T110000Z
+DTSTART:20260215T104000Z
 SUMMARY:Round 2: FAL vs FaZe
 UID:cs-go-pgl-cluj-napoca-2026-1349970@tournamentics
 END:VEVENT
