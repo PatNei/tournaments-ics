@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260217T180000Z
-SUMMARY:Lower bracket round 3 match 6: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 6: ILWL vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2403,8 +2403,8 @@ SUMMARY:TNT vs FCF
 UID:cs-go-esea-advanced-europe-56-2026-1347235@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/virtuspro
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: illwill: 2 | VP.Prodigy: 0\nStream: https://www.twitch.tv/virtuspro
+DTEND:20260216T155004Z
 DTSTART:20260216T140823Z
 SUMMARY:Lower bracket round 2 match 6: ILWL vs VP.P
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359112@tournamentics
@@ -6295,8 +6295,8 @@ SUMMARY:Round 3: ex-Zero Tenacity vs LC
 UID:cs-go-cct-europe-series-15-3-2026-1343386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfultvb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Heroic: 2\nStream: https://www.twitch.tv/watchfultvb
+DTEND:20260216T155730Z
 DTSTART:20260216T132745Z
 SUMMARY:Round 3: 3DMAX vs HERO
 UID:cs-go-pgl-cluj-napoca-2026-1349981@tournamentics
