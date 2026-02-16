@@ -728,6 +728,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/JbProLeague/Season2
 </details>
 
 <details>
+<summary>META Cup</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MetaCup/MetaCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MetaCup/MetaCup.ics
+```
+
+---
+
+### Season 4 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MetaCup/Season42026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MetaCup/Season42026.ics
+```
+
+</details>
+
+<details>
 <summary>NA Revival Series</summary>
 
 ### Full Schedule
