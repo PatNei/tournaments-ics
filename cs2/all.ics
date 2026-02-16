@@ -5661,7 +5661,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260217T180000Z
-SUMMARY:Lower bracket round 3 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 4: ex-RUBY vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7016,8 +7016,8 @@ SUMMARY:Quarterfinal 4: GAT vs CYBERSHOKE Prospects
 UID:cs-go-cct-europe-open-qualifier-series-17-3-2026-1362079@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | Nexus: 1\nStream: https://www.twitch.tv/fyflo
+DTEND:20260216T162552Z
 DTSTART:20260216T140621Z
 SUMMARY:Lower bracket round 2 match 4: ex-RUBY vs NXS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359104@tournamentics
@@ -9051,13 +9051,6 @@ DURATION:PT2H
 DTSTART:20260216T151034Z
 SUMMARY:Round 3: MOUZ vs VIT
 UID:cs-go-pgl-cluj-napoca-2026-1349980@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
-DTSTART:20260216T190000Z
-SUMMARY:Round 3: sketch vs FOR
-UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: ALGO Esports: 1 | Truck Drivers: 2\nStream: https://kick.com/united21_en
