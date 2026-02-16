@@ -3749,7 +3749,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260217T010000Z
+DTSTART:20260217T230000Z
 SUMMARY:Quarterfinal 4: REGAIN vs O49
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363263@tournamentics
 END:VEVENT
@@ -4435,7 +4435,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260218T010000Z
+DTSTART:20260216T230000Z
 SUMMARY:Quarterfinal 3: ZOMB vs FV
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363262@tournamentics
 END:VEVENT
@@ -5198,7 +5198,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260220T010000Z
+DTSTART:20260219T230000Z
 SUMMARY:Quarterfinal 2: TA vs LAG
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363261@tournamentics
 END:VEVENT
@@ -5919,7 +5919,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260219T010000Z
+DTSTART:20260218T230000Z
 SUMMARY:Quarterfinal 1: WC vs BK
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363260@tournamentics
 END:VEVENT
@@ -6239,9 +6239,9 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260216T090000Z
+DTSTART:20260216T090657Z
 SUMMARY:Winners match: ENCE.A vs VP.P
 UID:cs-go-nodwin-clutch-series-5-2026-1356109@tournamentics
 END:VEVENT
@@ -6540,9 +6540,9 @@ SUMMARY:SUNFALL vs OLDBOYS-
 UID:cs-go-esea-advanced-europe-56-2026-1347249@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
+DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
 DURATION:PT2H
-DTSTART:20260216T090000Z
+DTSTART:20260216T090846Z
 SUMMARY:Round 1: OlyBet SB vs PGE
 UID:cs-go-jb-pro-league-season-2-2026-1363234@tournamentics
 END:VEVENT
@@ -7751,9 +7751,9 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360784@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260216T090000Z
+DTSTART:20260216T090502Z
 SUMMARY:Round 1: ARC vs WB
 UID:cs-go-cct-europe-series-16-3-2026-1351278@tournamentics
 END:VEVENT
