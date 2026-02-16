@@ -1437,9 +1437,9 @@ SUMMARY:Elimination match: SASHI vs ECS
 UID:cs-go-copenhagen-gaming-week-showdown-2026-1353879@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
+DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
 DURATION:PT2H
-DTSTART:20260216T150000Z
+DTSTART:20260216T152647Z
 SUMMARY:Round 1: ARC vs PRIME
 UID:cs-go-jb-pro-league-season-2-2026-1363236@tournamentics
 END:VEVENT
@@ -6354,7 +6354,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260217T120000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: PRIME vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9018,8 +9018,8 @@ SUMMARY:Lower bracket quarterfinal 1: MISA vs ex-FUT Academy
 UID:cs-go-united21-44-2026-1352362@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 2 | PRIME: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260216T151932Z
 DTSTART:20260216T121211Z
 SUMMARY:Winners match: WB vs PRIME
 UID:cs-go-nodwin-clutch-series-5-2026-1356133@tournamentics
