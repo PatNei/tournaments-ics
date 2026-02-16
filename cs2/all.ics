@@ -2368,8 +2368,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351285@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MythicLeague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NA Revival Series - Season 12 2026\nMatch Type: Best Of\nResult: BOSS: 1 | LAG Gaming: 2\nStream: https://www.twitch.tv/MythicLeague
+DTEND:20260216T015938Z
 DTSTART:20260215T230435Z
 SUMMARY:Grand final: BOSS vs LAG
 UID:cs-go-na-revival-series-12-2026-1360757@tournamentics
@@ -3292,7 +3292,7 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1355844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
 DURATION:PT2H
 DTSTART:20260216T020000Z
 SUMMARY:Round 5: CCE vs FV
@@ -5142,7 +5142,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260216T020000Z
+DTSTART:20260216T023000Z
 SUMMARY:Semifinal 2: FA vs TBD
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362103@tournamentics
 END:VEVENT
