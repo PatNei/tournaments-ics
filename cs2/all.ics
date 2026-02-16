@@ -25,7 +25,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260216T190000Z
+DTSTART:20260224T170000Z
 SUMMARY:Imperial.A vs OLDBOYS-
 UID:cs-go-esea-advanced-europe-56-2026-1363232@tournamentics
 END:VEVENT
@@ -210,6 +210,13 @@ DTEND:20260213T040401Z
 DTSTART:20260213T015207Z
 SUMMARY:Round 4: TA vs FV
 UID:cs-go-dust2-us-eagle-masters-6-2026-1358127@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260223T080000Z
+SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364272@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Lazer Cats: 0 | EPG Family: 1\nStream: https://www.twitch.tv/lzrcats
@@ -735,6 +742,13 @@ DTEND:20260211T180411Z
 DTSTART:20260211T171146Z
 SUMMARY:B8 Academy vs STA
 UID:cs-go-esea-advanced-europe-56-2026-1356655@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260217T103000Z
+SUMMARY:UG vs Shanghai Sharks ESC
+UID:cs-go-cct-oceania-series-4-3-2026-1364201@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2007,8 +2021,15 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260217T180000Z
-SUMMARY:Lower bracket round 3 match 8: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 8: TNT vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359240@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260224T103000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364275@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | Vasco Esports: 0\nStream: https://kick.com/cct_cs3
@@ -2256,6 +2277,13 @@ SUMMARY:Lower bracket round 2 match 6: ILWL vs VP.P
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359112@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260220T103000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364228@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nResult: SportsBetExpert: 2 | Reign Above: 0\nStream: https://kick.com/dust2us
 DTEND:20260210T034347Z
 DTSTART:20260210T023606Z
@@ -2464,6 +2492,13 @@ DTEND:20260215T172931Z
 DTSTART:20260215T151125Z
 SUMMARY:Round 4: ASTRAL vs LK
 UID:cs-go-cct-europe-series-15-3-2026-1343414@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260221T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2774,6 +2809,13 @@ SUMMARY:Upper bracket round 2 match 10: ex-RUBY vs eLITenergy
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260222T103000Z
+SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364271@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | Game Hunters: 0\nStream: https://kick.com/cct_cs3
 DTEND:20260207T203454Z
 DTSTART:20260207T191210Z
@@ -2912,6 +2954,13 @@ DTEND:20260215T172351Z
 DTSTART:20260215T135447Z
 SUMMARY:Round 2: FURIA vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349972@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260228T070000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364329@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | Team PeeP: 0\nStream: https://kick.com/exort_en2
@@ -3346,6 +3395,13 @@ DTEND:20260211T175218Z
 DTSTART:20260211T171555Z
 SUMMARY:AUR.YB vs OldBoys
 UID:cs-go-esea-advanced-europe-56-2026-1356654@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260217T080000Z
+SUMMARY:Time Waves vs BBBMBCBS
+UID:cs-go-cct-oceania-series-4-3-2026-1364200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: GLuck StarPearl - Season 1 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | Oxuji Esports: 0\nStream: https://www.twitch.tv/gluck_esports
@@ -4377,6 +4433,13 @@ SUMMARY:Round 5: ECF vs LC
 UID:cs-go-cct-europe-series-15-3-2026-1343417@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260218T103000Z
+SUMMARY:JFT vs Abyssal
+UID:cs-go-cct-oceania-series-4-3-2026-1364207@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T173000Z
@@ -4396,6 +4459,13 @@ DTEND:20260212T133118Z
 DTSTART:20260212T113722Z
 SUMMARY:Round 16 match 1: M8 vs gothboiclique
 UID:cs-go-istabulan-2026-1350972@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260226T080000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364298@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
@@ -4641,6 +4711,13 @@ DTEND:20260213T035752Z
 DTSTART:20260213T021754Z
 SUMMARY:Round 4: LAG vs SportsBetExpert
 UID:cs-go-dust2-us-eagle-masters-6-2026-1358129@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260224T080000Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364274@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Players: 0\nStream: https://kick.com/cct_cs3
@@ -4895,6 +4972,13 @@ SUMMARY:Lower bracket round 2 match 5: WW vs FORZE.R
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359111@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260219T103000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364227@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: NRG: 2 | B8: 1\nStream: https://www.twitch.tv/ESLCSb
 DTEND:20260128T153933Z
 DTSTART:20260128T130705Z
@@ -5147,6 +5231,13 @@ SUMMARY:Round 4: MZP vs VP.P
 UID:cs-go-cct-europe-series-15-3-2026-1343413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260220T080000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364203@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T190000Z
@@ -5250,6 +5341,13 @@ DTEND:20260214T113225Z
 DTSTART:20260214T083257Z
 SUMMARY:Round 1: AUR vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349961@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260221T103000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5418,6 +5516,13 @@ DTEND:20260128T194322Z
 DTSTART:20260128T192039Z
 SUMMARY:MSC vs BAKS
 UID:cs-go-esea-advanced-europe-56-2026-1337984@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260222T080000Z
+SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: FURIA fe: 0 | Bad Luck: 2\nStream: https://kick.com/cct_cs3
@@ -5621,6 +5726,13 @@ DTEND:20260215T131204Z
 DTSTART:20260215T102955Z
 SUMMARY:Round 2: G2 vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349971@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260227T100000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: LFO YinYang: 0 | FUT Academy: 1\nStream: https://www.twitch.tv/enthycia
@@ -6160,6 +6272,13 @@ DTEND:20260212T234035Z
 DTSTART:20260212T220525Z
 SUMMARY:Round of 16 match 5: SHK vs ex-KRÜ Esports
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343442@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260227T050000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -6876,13 +6995,6 @@ SUMMARY:Elimination match: PRIME vs PGE
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350051@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260216T140000Z
-SUMMARY:Lower bracket round 2 match 8: ECF vs TNT
-UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359114@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Galorys: 0 | largadosypelados: 2\nStream: https://kick.com/cct_cs3
 DTEND:20260213T213934Z
 DTSTART:20260213T194643Z
@@ -7100,6 +7212,13 @@ SUMMARY:Round 5: PHA vs ALGO
 UID:cs-go-cct-europe-series-15-3-2026-1343416@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260218T080000Z
+SUMMARY:Skele vs Ding Cuts
+UID:cs-go-cct-oceania-series-4-3-2026-1364206@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T140000Z
@@ -7112,6 +7231,13 @@ DURATION:PT2H
 DTSTART:20260224T180000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359262@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260225T103000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
@@ -7357,6 +7483,13 @@ DTEND:20260213T053746Z
 DTSTART:20260213T035803Z
 SUMMARY:Round 4: BK vs OverKnight
 UID:cs-go-dust2-us-eagle-masters-6-2026-1358128@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260223T103000Z
+SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Imperial Academy: 1 | ZOTIX: 0\nStream: https://www.twitch.tv/rob1nfall
@@ -7646,9 +7779,9 @@ SUMMARY:Round of 16 match 7: AST vs paiN
 UID:cs-go-iem-krakow-2026-1324062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260216T133000Z
+DTSTART:20260216T134119Z
 SUMMARY:Round 3: PSY vs CYBERSHOKE Prospects
 UID:cs-go-exort-series-22-2026-1362056@tournamentics
 END:VEVENT
@@ -7861,6 +7994,13 @@ DTEND:20260214T200420Z
 DTSTART:20260214T181556Z
 SUMMARY:Round 4: PHA vs NXS
 UID:cs-go-cct-europe-series-15-3-2026-1343412@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260219T080000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -8232,6 +8372,13 @@ DTEND:20260215T133242Z
 DTSTART:20260215T103539Z
 SUMMARY:Round 2: FAL vs FaZe
 UID:cs-go-pgl-cluj-napoca-2026-1349970@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260227T073000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -8694,6 +8841,13 @@ DTEND:20260212T175510Z
 DTSTART:20260212T160649Z
 SUMMARY:Round of 16 match 4: Keyd vs FA
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343441@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260226T103000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -9562,6 +9716,13 @@ DURATION:PT2H
 DTSTART:20260223T180000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359261@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260225T080000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-cct-oceania-series-4-3-2026-1364296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague

@@ -385,6 +385,27 @@ https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctEurope/Open
 </details>
 
 <details>
+<summary>CCT Oceania</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctOceania/CctOceania.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctOceania/CctOceania.ics
+```
+
+---
+
+### Series #4 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctOceania/Series4Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/tournaments-ics/main/cs2/CctOceania/Series4Season32026.ics
+```
+
+</details>
+
+<details>
 <summary>Copenhagen Gaming Week</summary>
 
 ### Full Schedule
