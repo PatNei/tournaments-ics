@@ -1495,7 +1495,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
-DTSTART:20260216T160000Z
+DTSTART:20260219T190000Z
 SUMMARY:Round 3: TRI vs ST
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356412@tournamentics
 END:VEVENT
@@ -4076,8 +4076,8 @@ SUMMARY:Upper bracket semifinal 2: FNC vs 33
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | B8: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260216T144532Z
 DTSTART:20260216T114450Z
 SUMMARY:Round 3: MGLZ vs B8
 UID:cs-go-pgl-cluj-napoca-2026-1349979@tournamentics
@@ -4512,7 +4512,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260216T150000Z
+DTSTART:20260216T152000Z
 SUMMARY:Elimination match:  CSDIILIT vs RBLS
 UID:cs-go-nodwin-clutch-series-5-2026-1356108@tournamentics
 END:VEVENT
@@ -8859,7 +8859,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260216T150000Z
+DTSTART:20260216T151000Z
 SUMMARY:Round 3: MOUZ vs VIT
 UID:cs-go-pgl-cluj-napoca-2026-1349980@tournamentics
 END:VEVENT
