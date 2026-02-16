@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260217T180000Z
-SUMMARY:Lower bracket round 3 match 6: ILWL vs TBD
+SUMMARY:Lower bracket round 3 match 6: ILWL vs FCF
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1948,8 +1948,8 @@ SUMMARY:PGE vs RBLS
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1341917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/misterhenrybatt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | GenOne: 2\nStream: https://www.twitch.tv/misterhenrybatt
+DTEND:20260216T192938Z
 DTSTART:20260216T180615Z
 SUMMARY:Upper bracket round 3 match 3: FCF vs G1
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359207@tournamentics
@@ -2709,13 +2709,6 @@ DTEND:20260214T174418Z
 DTSTART:20260214T160726Z
 SUMMARY:Quarterfinal 2: FA vs RED
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343447@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260216T190000Z
-SUMMARY:TS.A vs aimclub
-UID:cs-go-esea-advanced-europe-56-2026-1363231@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | PARIVISION: 1\nStream: https://www.twitch.tv/PGL
@@ -5581,11 +5574,11 @@ SUMMARY:Quarterfinal 1: GH vs LDP
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343446@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
 DURATION:PT2H
-DTSTART:20260216T190000Z
-SUMMARY:HAVU vs OldBoys
-UID:cs-go-esea-advanced-europe-56-2026-1363230@tournamentics
+DTSTART:20260228T090000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-jb-pro-league-season-2-2026-1364609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 1 | FUT Esports: 2\nStream: https://www.twitch.tv/pgl_cs2
@@ -5593,13 +5586,6 @@ DTEND:20260214T113225Z
 DTSTART:20260214T083257Z
 SUMMARY:Round 1: AUR vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349961@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260228T090000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-jb-pro-league-season-2-2026-1364609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
@@ -6942,7 +6928,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260218T180000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 2: G1 vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359242@tournamentics
 END:VEVENT
 BEGIN:VEVENT
