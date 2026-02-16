@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260217T090000Z
-SUMMARY:Decider match: VP.P vs TBD
+SUMMARY:Decider match: VP.P vs  CSDIILIT
 UID:cs-go-nodwin-clutch-series-5-2026-1356110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -270,7 +270,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260216T183000Z
+DTSTART:20260216T185000Z
 SUMMARY:Elimination match: MSC vs BW
 UID:cs-go-nodwin-clutch-series-5-2026-1356132@tournamentics
 END:VEVENT
@@ -338,8 +338,8 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | Rebels Gaming: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260216T184148Z
 DTSTART:20260216T153717Z
 SUMMARY:Elimination match:  CSDIILIT vs RBLS
 UID:cs-go-nodwin-clutch-series-5-2026-1356108@tournamentics

@@ -1647,8 +1647,8 @@ SUMMARY:DREYN vs FUT.A
 UID:cs-go-esea-advanced-europe-56-2026-1343266@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OldBoys: 1 | ENRAGE: 0\nStream: No official stream linked
+DTEND:20260216T184930Z
 DTSTART:20260216T181257Z
 SUMMARY:OldBoys vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1363225@tournamentics
@@ -1719,7 +1719,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260216T183000Z
+DTSTART:20260216T185000Z
 SUMMARY:Elimination match: MSC vs BW
 UID:cs-go-nodwin-clutch-series-5-2026-1356132@tournamentics
 END:VEVENT
@@ -4594,8 +4594,8 @@ SUMMARY:Upper bracket round 2 match 3: SNG vs TDK
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358887@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | Rebels Gaming: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260216T184148Z
 DTSTART:20260216T153717Z
 SUMMARY:Elimination match:  CSDIILIT vs RBLS
 UID:cs-go-nodwin-clutch-series-5-2026-1356108@tournamentics
@@ -5952,9 +5952,9 @@ SUMMARY:VP.P vs QUA
 UID:cs-go-cct-europe-closed-qualifier-series-15-3-2026-1341922@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
 DURATION:PT2H
-DTSTART:20260216T184000Z
+DTSTART:20260216T184307Z
 SUMMARY:Upper bracket round 3 match 8: ex-Flame Sharks vs JS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359212@tournamentics
 END:VEVENT
@@ -6725,7 +6725,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260217T090000Z
-SUMMARY:Decider match: VP.P vs TBD
+SUMMARY:Decider match: VP.P vs  CSDIILIT
 UID:cs-go-nodwin-clutch-series-5-2026-1356110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8740,7 +8740,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
 DURATION:PT2H
-DTSTART:20260216T183500Z
+DTSTART:20260216T184500Z
 SUMMARY:Upper bracket round 3 match 7: MOUZ.N vs Omega
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359211@tournamentics
 END:VEVENT
