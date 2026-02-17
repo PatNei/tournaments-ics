@@ -2706,7 +2706,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/strogo
 DURATION:PT2H
-DTSTART:20260217T180000Z
+DTSTART:20260217T190000Z
 SUMMARY:Lower bracket round 3 match 5: WW vs eLITenergy
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359237@tournamentics
 END:VEVENT
@@ -5224,8 +5224,8 @@ SUMMARY:ex-GANK Esports vs megoshort
 UID:cs-go-esea-advanced-europe-56-2026-1336664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: WW Team: 2 | Bushido Wildcats: 0\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260217T184810Z
 DTSTART:20260217T165708Z
 SUMMARY:Round 1: WW vs BW
 UID:cs-go-jb-pro-league-season-2-2026-1363241@tournamentics
@@ -9067,8 +9067,8 @@ SUMMARY:Elimination match: Shanghai Sharks ESC vs Ding Cuts
 UID:cs-go-dfrag-open-series-3-2026-1339748@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: XI Esport: 1 | Sangal ALTERS: 2\nStream: https://kick.com/exort_en2
+DTEND:20260217T185402Z
 DTSTART:20260217T163645Z
 SUMMARY:Round 4: XI vs SNG
 UID:cs-go-exort-series-22-2026-1364682@tournamentics
