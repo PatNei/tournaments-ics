@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260218T220000Z
-SUMMARY:Upper bracket quarterfinal 2: RED vs TBD
+SUMMARY:Upper bracket quarterfinal 2: RED vs ODK
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363909@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5843,7 +5843,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260218T220000Z
-SUMMARY:Lower bracket round 1 match 2: ex-KRÜ Esports vs TBD
+SUMMARY:Lower bracket round 1 match 2: ex-KRÜ Esports vs PCY
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6468,13 +6468,6 @@ DTEND:20260130T195559Z
 DTSTART:20260130T181456Z
 SUMMARY:Lower bracket round 2 match 3: TL vs FUT
 UID:cs-go-iem-krakow-2026-1331853@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/locomass22
-DURATION:PT2H
-DTSTART:20260217T220000Z
-SUMMARY:Upper bracket round 1 match 3: ODK vs PCY
-UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363856@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
