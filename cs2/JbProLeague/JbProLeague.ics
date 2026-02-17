@@ -123,7 +123,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
 DURATION:PT2H
-DTSTART:20260217T120000Z
+DTSTART:20260217T121500Z
 SUMMARY:Round 1: LC vs ENCE.A
 UID:cs-go-jb-pro-league-season-2-2026-1363239@tournamentics
 END:VEVENT
@@ -282,8 +282,8 @@ SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-jb-pro-league-season-2-2026-1364601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: kONO.ECF: 1 | VP.Prodigy: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260217T120945Z
 DTSTART:20260217T090655Z
 SUMMARY:Round 1: ECF vs VP.P
 UID:cs-go-jb-pro-league-season-2-2026-1363238@tournamentics
