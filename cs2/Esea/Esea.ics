@@ -275,8 +275,8 @@ SUMMARY:AUR.YB vs FCF
 UID:cs-go-esea-advanced-europe-56-2026-1337972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tlrlive
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: The Last Resort: 1 | SIUUUUUU: 0\nStream: https://www.twitch.tv/tlrlive
+DTEND:20260217T165309Z
 DTSTART:20260217T161326Z
 SUMMARY:TLR vs SIU
 UID:cs-go-esea-advanced-europe-56-2026-1364671@tournamentics
@@ -842,9 +842,9 @@ SUMMARY:XI vs ALGO
 UID:cs-go-esea-advanced-europe-56-2026-1337974@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260217T165000Z
+DTSTART:20260217T165235Z
 SUMMARY:ECF vs WTRML0N
 UID:cs-go-esea-advanced-europe-56-2026-1364673@tournamentics
 END:VEVENT
@@ -1731,8 +1731,8 @@ SUMMARY:Imperial.A vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1319923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | ex-GANK Esports: 1\nStream: No official stream linked
+DTEND:20260217T165200Z
 DTSTART:20260217T161520Z
 SUMMARY:Imperial.A vs ex-GANK Esports
 UID:cs-go-esea-advanced-europe-56-2026-1364669@tournamentics
