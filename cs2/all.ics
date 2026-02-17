@@ -1759,9 +1759,9 @@ SUMMARY:Winners match: UG vs MF
 UID:cs-go-dfrag-open-series-3-2026-1339747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260217T133000Z
+DTSTART:20260217T134136Z
 SUMMARY:Round 4: G2.A vs CYBERSHOKE Prospects
 UID:cs-go-exort-series-22-2026-1364681@tournamentics
 END:VEVENT
@@ -9130,6 +9130,13 @@ SUMMARY:MSC vs  CSDIILIT
 UID:cs-go-esea-advanced-europe-56-2026-1353966@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T190000Z
+SUMMARY:Alzon vs PLS
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1365885@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Krakow 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 2 | NIP: 0\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260130T171355Z
 DTSTART:20260130T153119Z
@@ -9188,7 +9195,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260218T230000Z
+DTSTART:20260219T021500Z
 SUMMARY:Quarterfinal 1: WC vs BK
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363260@tournamentics
 END:VEVENT
