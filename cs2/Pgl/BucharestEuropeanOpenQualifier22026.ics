@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260217T190000Z
-SUMMARY:Semifinal 1: FOKUS vs TBD
+SUMMARY:Semifinal 1: FOKUS vs mix52
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Quarterfinal 1: JJH vs FOKUS
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: mix52: 2 | Nemiga: 0\nStream: No official stream linked
+DTEND:20260217T190024Z
 DTSTART:20260217T163616Z
 SUMMARY:Quarterfinal 2: mix52 vs NEMI
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364660@tournamentics
