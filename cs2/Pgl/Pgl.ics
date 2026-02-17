@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260217T190000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FOKUS vs TBD
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -429,8 +429,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: JiJieHao: 0 | FOKUS: 2\nStream: No official stream linked
+DTEND:20260217T174500Z
 DTSTART:20260217T160401Z
 SUMMARY:Quarterfinal 1: JJH vs FOKUS
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364659@tournamentics

@@ -2704,7 +2704,7 @@ SUMMARY:EYE vs BCA
 UID:cs-go-roman-imperium-cup-5-2026-1360759@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/strogo
 DURATION:PT2H
 DTSTART:20260217T180000Z
 SUMMARY:Lower bracket round 3 match 5: WW vs eLITenergy
@@ -3607,7 +3607,7 @@ SUMMARY:Round 4: Stinky Rats vs PSY
 UID:cs-go-exort-series-22-2026-1364684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260217T180000Z
 SUMMARY:Lower bracket round 3 match 1: UNiTY vs ALL
@@ -5850,7 +5850,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260217T190000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: FOKUS vs TBD
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9228,8 +9228,8 @@ SUMMARY:Upper bracket round 1 match 3: CS vs TBD
 UID:cs-go-draculan-5-2026-1363290@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: JiJieHao: 0 | FOKUS: 2\nStream: No official stream linked
+DTEND:20260217T174500Z
 DTSTART:20260217T160401Z
 SUMMARY:Quarterfinal 1: JJH vs FOKUS
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364659@tournamentics
