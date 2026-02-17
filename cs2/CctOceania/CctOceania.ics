@@ -68,12 +68,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260220T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: BBBMBCBS vs TBD
 UID:cs-go-cct-oceania-series-4-3-2026-1364203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nResult: Time Waves: 2 | BBBMBCBS: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260217T094444Z
 DTSTART:20260217T081644Z
 SUMMARY:Time Waves vs BBBMBCBS
 UID:cs-go-cct-oceania-series-4-3-2026-1364200@tournamentics
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260219T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Time Waves vs TBD
 UID:cs-go-cct-oceania-series-4-3-2026-1364202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
