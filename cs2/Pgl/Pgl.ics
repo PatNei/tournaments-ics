@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DURATION:PT2H
+DTSTART:20260218T100000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-pgl-cluj-napoca-2026-1349990@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | TheMongolz: 2\nStream: https://www.twitch.tv/PGL
 DTEND:20260217T151127Z
 DTSTART:20260217T123657Z
@@ -16,6 +23,13 @@ SUMMARY:Round 3: G2 vs paiN
 UID:cs-go-pgl-cluj-napoca-2026-1349983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | B8: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260216T144532Z
+DTSTART:20260216T114450Z
+SUMMARY:Round 3: MGLZ vs B8
+UID:cs-go-pgl-cluj-napoca-2026-1349979@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: MOUZ: 0 | Vitality: 2\nStream: https://www.twitch.tv/PGL
 DTEND:20260216T165315Z
 DTSTART:20260216T151034Z
@@ -23,11 +37,18 @@ SUMMARY:Round 3: MOUZ vs VIT
 UID:cs-go-pgl-cluj-napoca-2026-1349980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Yawara Esports: 0 | FOLHA AMARELA: 2\nStream: No official stream linked
-DTEND:20260216T004950Z
-DTSTART:20260215T231907Z
-SUMMARY:Quarterfinal 4: YAW vs FA
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362101@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FaZe: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/qrushcsgo
+DTEND:20260216T104635Z
+DTSTART:20260216T080412Z
+SUMMARY:Round 3: FaZe vs PRV
+UID:cs-go-pgl-cluj-napoca-2026-1349976@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | paiN: 1\nStream: https://www.twitch.tv/PGL_cs2
+DTEND:20260215T161327Z
+DTSTART:20260215T133046Z
+SUMMARY:Round 2: AUR vs paiN
+UID:cs-go-pgl-cluj-napoca-2026-1349973@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Astralis: 2\nStream: https://www.twitch.tv/pgl_cs2
@@ -37,11 +58,25 @@ SUMMARY:Round 2: 3DMAX vs AST
 UID:cs-go-pgl-cluj-napoca-2026-1349969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | FaZe: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260215T133242Z
+DTSTART:20260215T103539Z
+SUMMARY:Round 2: FAL vs FaZe
+UID:cs-go-pgl-cluj-napoca-2026-1349970@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FURIA: 2 | B8: 0\nStream: https://www.twitch.tv/PGL
 DTEND:20260214T202550Z
 DTSTART:20260214T182821Z
 SUMMARY:Round 1: FURIA vs B8
 UID:cs-go-pgl-cluj-napoca-2026-1349966@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T230000Z
+SUMMARY:Quarterinal 4: YAW vs GE
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364691@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FaZe: 2 | Heroic: 0\nStream: https://www.twitch.tv/pgl_cs2
@@ -65,6 +100,13 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T163120Z
+SUMMARY:Quarterfinal 4: MOUZ.N vs MGC
+UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364662@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | Prestige: 0\nStream: No official stream linked
 DTEND:20260217T155101Z
 DTSTART:20260217T151159Z
@@ -86,95 +128,25 @@ SUMMARY:Round of 16 match 2: Fingers vs JJH
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364652@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: yngods: 1 | Eternal Fire: 2\nStream: https://kick.com/ismetsener
-DTEND:20260215T195127Z
-DTSTART:20260215T170436Z
-SUMMARY:Quarterfinal 2: YNG vs EF
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362068@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Tricked: 1 | Prestige: 0\nStream: No official stream linked
-DTEND:20260215T155812Z
-DTSTART:20260215T152428Z
-SUMMARY:Round of 16 match 7: TRI vs PRE
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362065@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: OG: 0 | Eternal Fire: 1\nStream: No official stream linked
-DTEND:20260215T162953Z
-DTSTART:20260215T151157Z
-SUMMARY:Round of 16 match 4: OG vs EF
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362062@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DURATION:PT2H
+DTSTART:20260221T180000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-pgl-cluj-napoca-2026-1349998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260221T150000Z
-SUMMARY:Semifinal 1: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349997@tournamentics
+DTSTART:20260220T140000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-pgl-cluj-napoca-2026-1349995@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260220T110000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349994@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260218T130000Z
+DTSTART:20260218T160000Z
 SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349991@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | Aurora Gaming: 1\nStream: https://www.twitch.tv/PGL
-DTEND:20260216T112746Z
-DTSTART:20260216T080029Z
-SUMMARY:Round 3: NAVI vs AUR
-UID:cs-go-pgl-cluj-napoca-2026-1349977@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Vitality: 2 | TheMongolz: 1\nStream: https://www.twitch.tv/PGL
-DTEND:20260215T200645Z
-DTSTART:20260215T174016Z
-SUMMARY:Round 2: VIT vs MGLZ
-UID:cs-go-pgl-cluj-napoca-2026-1349974@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: G2: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260215T131204Z
-DTSTART:20260215T102955Z
-SUMMARY:Round 2: G2 vs PRV
-UID:cs-go-pgl-cluj-napoca-2026-1349971@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260217T230000Z
-SUMMARY:Quarterinal 3: Keyd vs MW
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364692@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260217T190000Z
-SUMMARY:Semifinal 1: FOKUS vs TBD
-UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364663@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260217T163616Z
-SUMMARY:Quarterfinal 2: mix52 vs NEMI
-UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364660@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Tricked: 2 | mix52: 1\nStream: No official stream linked
-DTEND:20260215T192010Z
-DTSTART:20260215T163007Z
-SUMMARY:Quarterfinal 4: TRI vs mix52
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362070@tournamentics
+UID:cs-go-pgl-cluj-napoca-2026-1349992@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -198,18 +170,25 @@ SUMMARY:Round 3: FURIA vs FAL
 UID:cs-go-pgl-cluj-napoca-2026-1349982@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 2 | Bounty Hunters Esports: 0\nStream: No official stream linked
-DTEND:20260216T042754Z
-DTSTART:20260216T023844Z
-SUMMARY:Semifinal 2: FA vs BHE
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362103@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | Astralis: 0\nStream: https://www.twitch.tv/bysl4m
+DTEND:20260216T124748Z
+DTSTART:20260216T111306Z
+SUMMARY:Round 3: FUT vs AST
+UID:cs-go-pgl-cluj-napoca-2026-1349978@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | R2 Esports Club: 1\nStream: No official stream linked
-DTEND:20260216T021010Z
-DTSTART:20260215T231504Z
-SUMMARY:Quarterfinal 3: BHE vs R2
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362100@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: B8: 2 | Heroic: 0\nStream: https://www.twitch.tv/PGL_cs2
+DTEND:20260215T180740Z
+DTSTART:20260215T163200Z
+SUMMARY:Round 2: B8 vs HERO
+UID:cs-go-pgl-cluj-napoca-2026-1349975@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FURIA: 2 | FUT Esports: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260215T172351Z
+DTSTART:20260215T135447Z
+SUMMARY:Round 2: FURIA vs FUT
+UID:cs-go-pgl-cluj-napoca-2026-1349972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Natus Vincere: 0 | MOUZ: 2\nStream: https://www.twitch.tv/PGL
@@ -233,11 +212,32 @@ SUMMARY:Round 1: FAL vs 3DMAX
 UID:cs-go-pgl-cluj-napoca-2026-1349965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T230000Z
+SUMMARY:Quarterinal 2: Back to Back  vs VEXA
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364690@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T190000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364664@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | PARIVISION: 1\nStream: https://www.twitch.tv/PGL
 DTEND:20260214T141954Z
 DTSTART:20260214T103410Z
 SUMMARY:Round 1: MOUZ vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349962@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T171519Z
+SUMMARY:Quarterfinal 3: URSA vs OXUJI
+UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364661@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: magic: 1 | Team Novaq: 0\nStream: No official stream linked
@@ -254,13 +254,6 @@ SUMMARY:Round of 16 match 4: NEMI vs LILMIX
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364654@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Galorys: 2 | Procyon Gaming: 0\nStream: No official stream linked
-DTEND:20260216T005120Z
-DTSTART:20260215T231152Z
-SUMMARY:Quarterfinal 2: GLS vs PCY
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362099@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 0 | FOKUS: 1\nStream: No official stream linked
 DTEND:20260217T154259Z
 DTSTART:20260217T151120Z
@@ -268,102 +261,25 @@ SUMMARY:Round of 16 match 1: JS vs FOKUS
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364651@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | japczany: 0\nStream: No official stream linked
-DTEND:20260215T180750Z
-DTSTART:20260215T162843Z
-SUMMARY:Quarterfinal 1: ICE vs japczany
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362067@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Players: 0 | AaB Esport: 1\nStream: No official stream linked
-DTEND:20260215T161902Z
-DTSTART:20260215T152945Z
-SUMMARY:Round of 16 match 6: Players vs AAB
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362064@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 0 | yngods: 1\nStream: No official stream linked
-DTEND:20260215T160136Z
-DTSTART:20260215T152721Z
-SUMMARY:Round of 16 match 3: JS vs YNG
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362061@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DURATION:PT2H
+DTSTART:20260221T150000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-pgl-cluj-napoca-2026-1349997@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260222T120000Z
-SUMMARY:3rd place decider: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349999@tournamentics
+DTSTART:20260220T110000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-pgl-cluj-napoca-2026-1349994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260220T170000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349996@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260220T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349993@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260218T100000Z
+DTSTART:20260218T130000Z
 SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349990@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | B8: 1\nStream: https://www.twitch.tv/PGL
-DTEND:20260216T144532Z
-DTSTART:20260216T114450Z
-SUMMARY:Round 3: MGLZ vs B8
-UID:cs-go-pgl-cluj-napoca-2026-1349979@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FaZe: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/qrushcsgo
-DTEND:20260216T104635Z
-DTSTART:20260216T080412Z
-SUMMARY:Round 3: FaZe vs PRV
-UID:cs-go-pgl-cluj-napoca-2026-1349976@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | paiN: 1\nStream: https://www.twitch.tv/PGL_cs2
-DTEND:20260215T161327Z
-DTSTART:20260215T133046Z
-SUMMARY:Round 2: AUR vs paiN
-UID:cs-go-pgl-cluj-napoca-2026-1349973@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | FaZe: 1\nStream: https://www.twitch.tv/PGL
-DTEND:20260215T133242Z
-DTSTART:20260215T103539Z
-SUMMARY:Round 2: FAL vs FaZe
-UID:cs-go-pgl-cluj-napoca-2026-1349970@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260217T230000Z
-SUMMARY:Quarterinal 4: YAW vs GE
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364691@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260217T163120Z
-SUMMARY:Quarterfinal 4: MOUZ.N vs MGC
-UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364662@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Tricked: 2\nStream: No official stream linked
-DTEND:20260215T220246Z
-DTSTART:20260215T194659Z
-SUMMARY:Semifinal 2: AAB vs TRI
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362072@tournamentics
+UID:cs-go-pgl-cluj-napoca-2026-1349991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: B8: 0 | Aurora Gaming: 2\nStream: https://www.twitch.tv/pgl_cs2
@@ -394,11 +310,25 @@ SUMMARY:Round 3: 3DMAX vs HERO
 UID:cs-go-pgl-cluj-napoca-2026-1349981@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | Galorys: 2\nStream: No official stream linked
-DTEND:20260216T040745Z
-DTSTART:20260216T011402Z
-SUMMARY:Semifinal 1: LDP vs GLS
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362102@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | Aurora Gaming: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260216T112746Z
+DTSTART:20260216T080029Z
+SUMMARY:Round 3: NAVI vs AUR
+UID:cs-go-pgl-cluj-napoca-2026-1349977@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Vitality: 2 | TheMongolz: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260215T200645Z
+DTSTART:20260215T174016Z
+SUMMARY:Round 2: VIT vs MGLZ
+UID:cs-go-pgl-cluj-napoca-2026-1349974@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: G2: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260215T131204Z
+DTSTART:20260215T102955Z
+SUMMARY:Round 2: G2 vs PRV
+UID:cs-go-pgl-cluj-napoca-2026-1349971@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | paiN: 1\nStream: https://www.twitch.tv/pgl_cs2
@@ -406,6 +336,13 @@ DTEND:20260214T192413Z
 DTSTART:20260214T170903Z
 SUMMARY:Round 1: MGLZ vs paiN
 UID:cs-go-pgl-cluj-napoca-2026-1349967@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T230000Z
+SUMMARY:Quarterinal 3: Keyd vs MW
+UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364692@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Vitality: 2 | G2: 1\nStream: https://www.twitch.tv/PGL
@@ -429,6 +366,20 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T190000Z
+SUMMARY:Semifinal 1: FOKUS vs TBD
+UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364663@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260217T163616Z
+SUMMARY:Quarterfinal 2: mix52 vs NEMI
+UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364660@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: JiJieHao: 0 | FOKUS: 2\nStream: No official stream linked
 DTEND:20260217T174500Z
 DTSTART:20260217T160401Z
@@ -450,109 +401,25 @@ SUMMARY:Round of 16 match 3: BIG.A vs mix52
 UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364653@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | Crashers: 0\nStream: No official stream linked
-DTEND:20260216T004743Z
-DTSTART:20260215T231154Z
-SUMMARY:Quarterfinal 1: LDP vs CRASH
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362098@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | AaB Esport: 2\nStream: No official stream linked
-DTEND:20260215T190939Z
-DTSTART:20260215T164120Z
-SUMMARY:Quarterfinal 3: LILMIX vs AAB
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362069@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 0 | mix52: 1\nStream: No official stream linked
-DTEND:20260215T160920Z
-DTSTART:20260215T151802Z
-SUMMARY:Round of 16 match 8: MOUZ.N vs mix52
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362066@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Lilmix: 1\nStream: No official stream linked
-DTEND:20260215T161241Z
-DTSTART:20260215T153343Z
-SUMMARY:Round of 16 match 5: CS vs LILMIX
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362063@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: japczany: 1 | WOPA Esport: 0\nStream: No official stream linked
-DTEND:20260215T160815Z
-DTSTART:20260215T153646Z
-SUMMARY:Round of 16 match 2: japczany vs WOPA
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362060@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DURATION:PT2H
+DTSTART:20260222T120000Z
+SUMMARY:3rd place decider: TBD vs TBD
+UID:cs-go-pgl-cluj-napoca-2026-1349999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260221T180000Z
-SUMMARY:Semifinal 2: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349998@tournamentics
+DTSTART:20260220T170000Z
+SUMMARY:Quarterfinal 4: TBD vs TBD
+UID:cs-go-pgl-cluj-napoca-2026-1349996@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260220T140000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349995@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260218T160000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-pgl-cluj-napoca-2026-1349992@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | Astralis: 0\nStream: https://www.twitch.tv/bysl4m
-DTEND:20260216T124748Z
-DTSTART:20260216T111306Z
-SUMMARY:Round 3: FUT vs AST
-UID:cs-go-pgl-cluj-napoca-2026-1349978@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: B8: 2 | Heroic: 0\nStream: https://www.twitch.tv/PGL_cs2
-DTEND:20260215T180740Z
-DTSTART:20260215T163200Z
-SUMMARY:Round 2: B8 vs HERO
-UID:cs-go-pgl-cluj-napoca-2026-1349975@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FURIA: 2 | FUT Esports: 1\nStream: https://www.twitch.tv/PGL
-DTEND:20260215T172351Z
-DTSTART:20260215T135447Z
-SUMMARY:Round 2: FURIA vs FUT
-UID:cs-go-pgl-cluj-napoca-2026-1349972@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260217T230000Z
-SUMMARY:Quarterinal 2: Back to Back  vs VEXA
-UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364690@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260217T190000Z
-SUMMARY:Semifinal 2: TBD vs TBD
-UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364664@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260217T171519Z
-SUMMARY:Quarterfinal 3: URSA vs OXUJI
-UID:cs-go-pgl-bucharest-european-open-qualifier-2-2026-1364661@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Eternal Fire: 0\nStream: https://kick.com/ismetsener
-DTEND:20260215T220940Z
-DTSTART:20260215T201825Z
-SUMMARY:Semifinal 1: ICE vs EF
-UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362071@tournamentics
+DTSTART:20260220T080000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-pgl-cluj-napoca-2026-1349993@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: G2: 2 | Heroic: 0\nStream: https://www.youtube.com/watch?v=oEyXe_Zjq4o
