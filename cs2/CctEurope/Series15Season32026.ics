@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260219T150000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: ACE vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -200,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260217T180000Z
+DTSTART:20260217T194000Z
 SUMMARY:Round of 16 match 4: SIN vs LC
 UID:cs-go-cct-europe-series-15-3-2026-1343422@tournamentics
 END:VEVENT
@@ -331,8 +331,8 @@ SUMMARY:Round of 16 match 6: KOL vs LK
 UID:cs-go-cct-europe-series-15-3-2026-1343424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 1 | Acend: 2\nStream: https://kick.com/cct_cs
+DTEND:20260217T192854Z
 DTSTART:20260217T164759Z
 SUMMARY:Round of 16 match 3: AM vs ACE
 UID:cs-go-cct-europe-series-15-3-2026-1343421@tournamentics

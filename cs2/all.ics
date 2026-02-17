@@ -1080,8 +1080,8 @@ SUMMARY:ZOTIX vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1355274@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 1 | Acend: 2\nStream: https://kick.com/cct_cs
+DTEND:20260217T192854Z
 DTSTART:20260217T164759Z
 SUMMARY:Round of 16 match 3: AM vs ACE
 UID:cs-go-cct-europe-series-15-3-2026-1343421@tournamentics
@@ -3610,7 +3610,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260218T160000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: NAVI vs G2
 UID:cs-go-pgl-cluj-napoca-2026-1349992@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6445,7 +6445,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260218T130000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: FUT vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8059,8 +8059,8 @@ SUMMARY:RSTR vs The Gentlemans Kennel
 UID:cs-go-dfrag-open-series-3-2026-1339741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: hindsight: 0 | Haspers: 1\nStream: No official stream linked
+DTEND:20260217T193438Z
 DTSTART:20260217T191909Z
 SUMMARY:hindsight vs HASP
 UID:cs-go-esea-advanced-europe-56-2026-1364678@tournamentics
@@ -8453,7 +8453,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260217T180000Z
+DTSTART:20260217T194000Z
 SUMMARY:Round of 16 match 4: SIN vs LC
 UID:cs-go-cct-europe-series-15-3-2026-1343422@tournamentics
 END:VEVENT
@@ -9102,9 +9102,9 @@ SUMMARY:MSC vs  CSDIILIT
 UID:cs-go-esea-advanced-europe-56-2026-1353966@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260217T190000Z
+DTSTART:20260217T192636Z
 SUMMARY:Alzon vs PLS
 UID:cs-go-gamers-club-liga-serie-a-february-2026-1365885@tournamentics
 END:VEVENT
@@ -9399,7 +9399,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260219T150000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: ACE vs TBD
 UID:cs-go-cct-europe-series-15-3-2026-1343429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
