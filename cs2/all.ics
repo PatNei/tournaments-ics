@@ -950,7 +950,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260220T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: FAL vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349993@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1500,8 +1500,8 @@ SUMMARY:CeraVe vs HASP
 UID:cs-go-esea-advanced-europe-56-2026-1345990@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: MASONIC: 1 | XI Esport: 0\nStream: No official stream linked
+DTEND:20260218T181154Z
 DTSTART:20260218T174244Z
 SUMMARY:MSC vs XI
 UID:cs-go-esea-advanced-europe-56-2026-1366026@tournamentics
@@ -2791,7 +2791,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260220T170000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: FURIA vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349996@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3992,9 +3992,9 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
 DURATION:PT2H
-DTSTART:20260218T181500Z
+DTSTART:20260218T182124Z
 SUMMARY:Upper bracket quarterfinal 3: NTR vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359243@tournamentics
 END:VEVENT
@@ -5696,7 +5696,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260220T140000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: VIT vs AUR
 UID:cs-go-pgl-cluj-napoca-2026-1349995@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8573,7 +8573,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260220T110000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: MOUZ vs NAVI
 UID:cs-go-pgl-cluj-napoca-2026-1349994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9011,8 +9011,8 @@ SUMMARY:3rd Place match: TBD vs TBD
 UID:cs-go-meta-cup-4-2026-1364648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 2 | HAVU: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260218T181338Z
 DTSTART:20260218T153359Z
 SUMMARY:WB vs HAVU
 UID:cs-go-nodwin-clutch-series-5-2026-1356157@tournamentics
@@ -9627,9 +9627,9 @@ SUMMARY:HOTU vs ALGO
 UID:cs-go-roman-imperium-cup-5-2026-1360763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/anishared
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/anishared
 DURATION:PT2H
-DTSTART:20260218T181500Z
+DTSTART:20260218T182014Z
 SUMMARY:Upper bracket quarterfinal 1: TDK vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359241@tournamentics
 END:VEVENT
