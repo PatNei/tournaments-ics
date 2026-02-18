@@ -89,12 +89,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T100000Z
-SUMMARY:Upper bracket semifinal 1: MF vs TBD
+SUMMARY:Upper bracket semifinal 1: MF vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Underground ESC: 0 | Ground Zero: 2\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260218T120446Z
 DTSTART:20260218T101436Z
 SUMMARY:Upper bracket quarterfinal 2: UG vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363321@tournamentics
