@@ -583,13 +583,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/AtlantaAmericanOpenQualifier2026.ics
 ```
 
-### Atlanta: Global Open Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/AtlantaGlobalOpenQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/AtlantaGlobalOpenQualifier2026.ics
-```
-
 </details>
 
 <details>

@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Lazer Cats: 0 | Phantom: 1\nStream: https://www.twitch.tv/phantomesports_
-DTEND:20260208T181603Z
-DTSTART:20260208T170907Z
-SUMMARY:Round 16 match 7: LC vs PHA
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351390@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 2 | Alliance: 0\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260211T185257Z
 DTSTART:20260211T164514Z
@@ -72,18 +65,18 @@ SUMMARY:Upper bracket round 1 match 1: BB vs BMB
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: mouse: 0 | BOSS: 2\nStream: No official stream linked
-DTEND:20260211T001912Z
-DTSTART:20260210T223122Z
-SUMMARY:Lower bracket round 1 match 1: mouse vs BOSS
-UID:cs-go-iem-atlanta-american-qualifier-2026-1344451@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: Voca: 1 | Wildcard: 2\nStream: https://www.twitch.tv/eslcsb
 DTEND:20260212T043841Z
 DTSTART:20260212T015613Z
 SUMMARY:Lower bracket final: VOCA vs WC
 UID:cs-go-iem-atlanta-american-qualifier-2026-1344447@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: mouse: 0 | BOSS: 2\nStream: No official stream linked
+DTEND:20260211T001912Z
+DTSTART:20260210T223122Z
+SUMMARY:Lower bracket round 1 match 1: mouse vs BOSS
+UID:cs-go-iem-atlanta-american-qualifier-2026-1344451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: American Qualifier 2026\nMatch Type: Best Of\nResult: Fisher College: 0 | Wildcard: 2\nStream: https://www.twitch.tv/Trottah
@@ -100,32 +93,11 @@ SUMMARY:Lower bracket round 1 match 4: TRI vs EYE
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344438@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: L00m1: 0 | 33: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260208T203555Z
-DTSTART:20260208T191052Z
-SUMMARY:Quarterfinal 4: L00m1 vs 33
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351395@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | CYBERSHOKE Esports: 2\nStream: https://www.twitch.tv/watchfultvd
 DTEND:20260210T202609Z
 DTSTART:20260210T184419Z
 SUMMARY:Lower bracket round 1 match 1: BMB vs CS
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344435@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 0 | Nuclear TigeRES: 2\nStream: https://www.twitch.tv/anishared
-DTEND:20260208T195347Z
-DTSTART:20260208T180127Z
-SUMMARY:Quarterfinal 1: MOUZ.N vs NTR
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351392@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | brazylijski luz: 0\nStream: https://www.twitch.tv/tchomi_
-DTEND:20260208T182852Z
-DTSTART:20260208T171228Z
-SUMMARY:Round 16 match 5: BMB vs BL
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351388@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: K27: 0 | Johnny Speeds: 2\nStream: https://www.twitch.tv/watchfulTVb
@@ -140,13 +112,6 @@ DTEND:20260211T233101Z
 DTSTART:20260211T200420Z
 SUMMARY:Lower bracket quarterfinal 2: ENCE vs FNC
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344428@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | HAVU: 0\nStream: https://www.twitch.tv/streamross
-DTEND:20260208T175027Z
-DTSTART:20260208T171247Z
-SUMMARY:Round 16 match 2: NTR vs HAVU
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Sinners: 1 | 33: 2\nStream: https://www.twitch.tv/ESLCS
@@ -254,32 +219,11 @@ SUMMARY:Lower bracket round 1 match 3: OG vs NEM
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: OG: 2 | Phantom: 0\nStream: https://www.twitch.tv/phantomesports_
-DTEND:20260208T202110Z
-DTSTART:20260208T182640Z
-SUMMARY:Quarterfinal 3: OG vs PHA
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351394@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Inner Circle Esports: 2\nStream: https://www.twitch.tv/vanfantv
 DTEND:20260211T150830Z
 DTSTART:20260211T131017Z
 SUMMARY:Lower bracket round 2 match 1: CS vs ICE
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344434@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: L00m1: 1 | WATERMELON: 0\nStream: https://www.twitch.tv/misterhenrybatt
-DTEND:20260208T175114Z
-DTSTART:20260208T170937Z
-SUMMARY:Round 16 match 8: L00m1 vs WTRML0N
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351391@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: VODKA: 0 | ARCRED: 1\nStream: No official stream linked
-DTEND:20260208T175031Z
-DTSTART:20260208T171138Z
-SUMMARY:Round 16 match 4: VOD vs ARC
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351387@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: ENCE: 2 | EYEBALLERS: 0\nStream: https://www.twitch.tv/esportstudion
@@ -294,13 +238,6 @@ DTEND:20260211T220920Z
 DTSTART:20260211T200146Z
 SUMMARY:Lower bracket quarterfinal 1: JS vs SIN
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344427@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: 33: 1 | QWENTRY: 0\nStream: https://www.twitch.tv/nolik_2k
-DTEND:20260208T181543Z
-DTSTART:20260208T171201Z
-SUMMARY:Round 16 match 1: 33 vs QWE
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351384@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | 33: 0\nStream: https://www.twitch.tv/ESLCS
@@ -378,13 +315,6 @@ DTEND:20260210T192045Z
 DTSTART:20260210T172227Z
 SUMMARY:Lower bracket round 1 match 2: JS vs NTR
 UID:cs-go-iem-atlanta-global-qualifier-2026-1344436@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Open Qualifier 2026\nMatch Type: Best Of\nResult: OG: 1 | Metizport: 0\nStream: https://www.twitch.tv/muchapt
-DTEND:20260208T174922Z
-DTSTART:20260208T171132Z
-SUMMARY:Round 16 match 6: OG vs MZP
-UID:cs-go-iem-atlanta-global-open-qualifier-2026-1351389@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta: Global Qualifier 2026\nMatch Type: Best Of\nResult: Alliance: 2 | OG: 1\nStream: https://www.twitch.tv/eslcs
