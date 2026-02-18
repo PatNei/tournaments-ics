@@ -8580,7 +8580,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260218T013000Z
-SUMMARY:Semifinal 2: Keyd vs TBD
+SUMMARY:Semifinal 2: Keyd vs YAW
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9571,8 +9571,8 @@ SUMMARY:PGE vs URSA
 UID:cs-go-cct-europe-closed-qualifier-series-16-3-2026-1350050@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Open Qualifier season 2 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | Guara Esports: 0\nStream: No official stream linked
+DTEND:20260218T010500Z
 DTSTART:20260217T231341Z
 SUMMARY:Quarterinal 4: YAW vs GE
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364691@tournamentics
