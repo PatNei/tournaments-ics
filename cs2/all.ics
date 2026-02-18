@@ -849,7 +849,7 @@ SUMMARY:Round of 16 match 7: MIBR vs SHIN
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/streamross
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260218T100000Z
 SUMMARY:Upper bracket quarterfinal 4: THUNDER dOWNUNDER vs BBBMBCBS
@@ -2364,7 +2364,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260220T103000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Ding Cuts vs JFT
 UID:cs-go-cct-oceania-series-4-3-2026-1364228@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4559,13 +4559,6 @@ SUMMARY:Round 5: ECF vs LC
 UID:cs-go-cct-europe-series-15-3-2026-1343417@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260218T103000Z
-SUMMARY:JFT vs Abyssal
-UID:cs-go-cct-oceania-series-4-3-2026-1364207@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T173000Z
@@ -5115,7 +5108,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260219T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Skele vs Abyssal
 UID:cs-go-cct-oceania-series-4-3-2026-1364227@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6449,7 +6442,7 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-jb-pro-league-season-2-2026-1364605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
 DTSTART:20260218T100000Z
 SUMMARY:Upper bracket quarterfinal 2: UG vs GZ
@@ -7408,8 +7401,8 @@ SUMMARY:Round 5: PHA vs ALGO
 UID:cs-go-cct-europe-series-15-3-2026-1343416@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nResult: Skele: 2 | Ding Cuts: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260218T093453Z
 DTSTART:20260218T080710Z
 SUMMARY:Skele vs Ding Cuts
 UID:cs-go-cct-oceania-series-4-3-2026-1364206@tournamentics
