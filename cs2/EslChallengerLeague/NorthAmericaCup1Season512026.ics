@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T020000Z
-SUMMARY:Lower bracket round 1 match 1: REGAIN vs TBD
+SUMMARY:Lower bracket round 1 match 1: REGAIN vs MONEY CREW
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364036@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Upper bracket round 1 match 4: O49 vs SR
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364023@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: M80: 2 | MONEY CREW: 0\nStream: https://www.twitch.tv/Trottah
+DTEND:20260218T030642Z
 DTSTART:20260218T020344Z
 SUMMARY:Upper bracket round 1 match 1: M80 vs MONEY CREW
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364020@tournamentics
@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T020000Z
-SUMMARY:Upper bracket quarterfinal 1: LAG vs TBD
+SUMMARY:Upper bracket quarterfinal 1: LAG vs M80
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364028@tournamentics
 END:VEVENT
 BEGIN:VEVENT
