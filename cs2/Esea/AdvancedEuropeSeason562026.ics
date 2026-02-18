@@ -772,15 +772,15 @@ SUMMARY:FUT.A vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1366029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260218T173000Z
+DTSTART:20260218T174244Z
 SUMMARY:MSC vs XI
 UID:cs-go-esea-advanced-europe-56-2026-1366026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: SUNFALL: 0 | SIUUUUUU: 1\nStream: No official stream linked
+DTEND:20260218T174407Z
 DTSTART:20260218T171722Z
 SUMMARY:SUNFALL vs SIU
 UID:cs-go-esea-advanced-europe-56-2026-1366023@tournamentics
@@ -1458,8 +1458,8 @@ SUMMARY:URSA vs B8 Academy
 UID:cs-go-esea-advanced-europe-56-2026-1366025@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rustec_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: TNT: 1 | RUSTEC: 0\nStream: https://www.twitch.tv/rustec_cs2
+DTEND:20260218T174831Z
 DTSTART:20260218T171826Z
 SUMMARY:TNT vs RUST
 UID:cs-go-esea-advanced-europe-56-2026-1366022@tournamentics
