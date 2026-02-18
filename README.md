@@ -131,27 +131,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AceNorthAmericanMas
 </details>
 
 <details>
-<summary>Ace South American Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AceSouthAmericanMasters/AceSouthAmericanMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AceSouthAmericanMasters/AceSouthAmericanMasters.ics
-```
-
----
-
-### Spring 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AceSouthAmericanMasters/Spring2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AceSouthAmericanMasters/Spring2026.ics
-```
-
-</details>
-
-<details>
 <summary>CCT North America</summary>
 
 ### Full Schedule
