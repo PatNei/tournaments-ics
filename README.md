@@ -319,27 +319,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerCha
 
 </details>
 
-<details>
-<summary>RES Showdown</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/ResShowdown.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/ResShowdown.ics
-```
-
----
-
-### Spring 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/Spring2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ResShowdown/Spring2026.ics
-```
-
-</details>
-
 ## D Tier
 
 <details>
