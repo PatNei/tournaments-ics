@@ -2326,13 +2326,6 @@ SUMMARY:Quarterinal 2: Back to Back  vs VEXA
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364690@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260218T180000Z
-SUMMARY:Round 2: DUNDU vs PGE
-UID:cs-go-jb-pro-league-season-2-2026-1364519@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260220T103000Z
@@ -6102,7 +6095,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T100000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: Time Waves vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363345@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8237,7 +8230,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T100000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: MF vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9004,8 +8997,8 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-cct-oceania-series-4-3-2026-1364313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Mindfreak: 2 | Time Waves: 0\nStream: No official stream linked
+DTEND:20260218T113832Z
 DTSTART:20260218T101716Z
 SUMMARY:Upper bracket quarterfinal 1: MF vs Time Waves
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363320@tournamentics
@@ -9454,7 +9447,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260218T113000Z
+DTSTART:20260218T120000Z
 SUMMARY:FOKUS REALITY vs aAa
 UID:cs-go-united21-45-2026-1365948@tournamentics
 END:VEVENT
