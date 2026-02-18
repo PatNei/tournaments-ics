@@ -89,14 +89,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260222T090000Z
-SUMMARY:Winners match: ex-FUT Academy vs TBD
+SUMMARY:Winners match: ex-FUT Academy vs FOKUS REALITY
 UID:cs-go-united21-45-2026-1365949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260222T113000Z
-SUMMARY:Elimination match: WOPA vs TBD
+SUMMARY:Elimination match: WOPA vs aAa
 UID:cs-go-united21-45-2026-1365950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:NAVI.J vs KSM
 UID:cs-go-united21-45-2026-1365952@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: FOKUS REALITY: 2 | against All authority: 0\nStream: https://kick.com/united21_en
+DTEND:20260218T141452Z
 DTSTART:20260218T122508Z
 SUMMARY:FOKUS REALITY vs aAa
 UID:cs-go-united21-45-2026-1365948@tournamentics

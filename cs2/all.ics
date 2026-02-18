@@ -1461,7 +1461,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260222T113000Z
-SUMMARY:Elimination match: WOPA vs TBD
+SUMMARY:Elimination match: WOPA vs aAa
 UID:cs-go-united21-45-2026-1365950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2140,7 +2140,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260219T120000Z
-SUMMARY:Quarterfinal 2: WB vs TBD
+SUMMARY:Quarterfinal 2: WB vs LK
 UID:cs-go-cct-europe-series-15-3-2026-1343428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2706,7 +2706,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/misterhenrybatt
 DURATION:PT2H
-DTSTART:20260218T141000Z
+DTSTART:20260218T142000Z
 SUMMARY:Upper bracket quarterfinal 4: NM vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363597@tournamentics
 END:VEVENT
@@ -2984,8 +2984,8 @@ SUMMARY:QWE vs ALGO
 UID:cs-go-esea-advanced-europe-56-2026-1366042@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: KOLESIE: 0 | los kogutos: 2\nStream: https://kick.com/cct_cs
+DTEND:20260218T142215Z
 DTSTART:20260218T121856Z
 SUMMARY:Round of 16 match 6: KOL vs LK
 UID:cs-go-cct-europe-series-15-3-2026-1343424@tournamentics
@@ -3315,7 +3315,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260218T141000Z
+DTSTART:20260218T142000Z
 SUMMARY:Upper bracket quarterfinal 3: ERUPT vs LB
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363583@tournamentics
 END:VEVENT
@@ -6206,7 +6206,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260218T141000Z
+DTSTART:20260218T142000Z
 SUMMARY:Upper bracket quarterfinal 2: BP vs CTG
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363582@tournamentics
 END:VEVENT
@@ -7082,7 +7082,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260222T090000Z
-SUMMARY:Winners match: ex-FUT Academy vs TBD
+SUMMARY:Winners match: ex-FUT Academy vs FOKUS REALITY
 UID:cs-go-united21-45-2026-1365949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8376,7 +8376,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260218T141000Z
+DTSTART:20260218T142000Z
 SUMMARY:Upper bracket quarterfinal 1: Morningstar vs LEGION
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363561@tournamentics
 END:VEVENT
@@ -9657,7 +9657,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260218T141000Z
+DTSTART:20260218T142000Z
 SUMMARY:Lower bracket round 1 match 1: DCG vs ARISE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363659@tournamentics
 END:VEVENT
@@ -9718,8 +9718,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: FOKUS REALITY: 2 | against All authority: 0\nStream: https://kick.com/united21_en
+DTEND:20260218T141452Z
 DTSTART:20260218T122508Z
 SUMMARY:FOKUS REALITY vs aAa
 UID:cs-go-united21-45-2026-1365948@tournamentics
