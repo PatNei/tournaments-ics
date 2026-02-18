@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T010000Z
-SUMMARY:Semifinal 2: FV vs TBD
+SUMMARY:Semifinal 2: FV vs O49
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363265@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +205,8 @@ SUMMARY:Round 2: O49 vs F5
 UID:cs-go-dust2-us-eagle-masters-6-2026-1348525@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nResult: regain: 0 | Outfit 49: 2\nStream: https://kick.com/dust2us
+DTEND:20260218T005034Z
 DTSTART:20260217T231718Z
 SUMMARY:Quarterfinal 4: REGAIN vs O49
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363263@tournamentics
