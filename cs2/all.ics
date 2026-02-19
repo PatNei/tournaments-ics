@@ -1416,7 +1416,7 @@ SUMMARY:Elimination match: STA vs aAa
 UID:cs-go-united21-45-2026-1365950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fessorcs
 DURATION:PT2H
 DTSTART:20260219T181000Z
 SUMMARY:Round 3: TRI vs ST
@@ -1808,9 +1808,9 @@ SUMMARY:Round 2: mix52 vs SNG
 UID:cs-go-exort-series-22-2026-1359518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260219T181000Z
+DTSTART:20260219T181855Z
 SUMMARY:Round 3: Invicta vs CUT
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356456@tournamentics
 END:VEVENT
@@ -2011,8 +2011,8 @@ SUMMARY:Upper bracket round 1 match 10: MINLATE vs eLITenergy
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358807@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 2 | EYEBALLERS: 1\nStream: https://www.twitch.tv/rmncs
+DTEND:20260219T182437Z
 DTSTART:20260219T152203Z
 SUMMARY:Decider match: BCA vs EYE
 UID:cs-go-roman-imperium-cup-5-2026-1360762@tournamentics
@@ -6710,7 +6710,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260219T183000Z
+DTSTART:20260219T190000Z
 SUMMARY:PSSN.UA vs RBLS
 UID:cs-go-roman-imperium-cup-5-2026-1360764@tournamentics
 END:VEVENT
@@ -7814,9 +7814,9 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356231@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esportstudion
 DURATION:PT2H
-DTSTART:20260219T182000Z
+DTSTART:20260219T182334Z
 SUMMARY:Lower bracket round 5 match 1: ALL vs JS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359249@tournamentics
 END:VEVENT
@@ -9335,7 +9335,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
 DURATION:PT2H
-DTSTART:20260219T183000Z
+DTSTART:20260219T190000Z
 SUMMARY:HOTU vs ALGO
 UID:cs-go-roman-imperium-cup-5-2026-1360763@tournamentics
 END:VEVENT
@@ -9412,7 +9412,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260219T181500Z
+DTSTART:20260219T183000Z
 SUMMARY:Quarterfinal 3: SIN vs ACE
 UID:cs-go-cct-europe-series-15-3-2026-1343429@tournamentics
 END:VEVENT
@@ -9620,9 +9620,9 @@ SUMMARY:NIP vs 100T
 UID:cs-go-roman-imperium-cup-5-2026-1360773@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nagu_fr
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nagu_fr
 DURATION:PT2H
-DTSTART:20260219T182000Z
+DTSTART:20260219T181727Z
 SUMMARY:Lower bracket round 5 match 3: ILWL vs ORM
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359251@tournamentics
 END:VEVENT
