@@ -47,6 +47,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope
 
 ---
 
+### Series #15 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series15Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series15Season32026.ics
+```
+
 ### Series #16 season 3 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series16Season32026.ics)
 
@@ -78,6 +85,48 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Se
 </details>
 
 ## C Tier
+
+<details>
+<summary>CCT North America</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctNorthAmerica/CctNorthAmerica.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctNorthAmerica/CctNorthAmerica.ics
+```
+
+---
+
+### Series #3 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctNorthAmerica/Series3Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctNorthAmerica/Series3Season32026.ics
+```
+
+</details>
+
+<details>
+<summary>CCT South America</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/CctSouthAmerica.ics
+```
+
+---
+
+### Series #8 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series8Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series8Season32026.ics
+```
+
+</details>
 
 <details>
 <summary>DraculaN</summary>
@@ -157,6 +206,34 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/S
 </details>
 
 <details>
+<summary>IEM</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Iem.ics
+```
+
+---
+
+### Atlanta: American Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/AtlantaAmericanQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/AtlantaAmericanQualifier2026.ics
+```
+
+### Atlanta: Global Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/AtlantaGlobalQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/AtlantaGlobalQualifier2026.ics
+```
+
+</details>
+
+<details>
 <summary>Parken Challenger Championship</summary>
 
 ### Full Schedule
@@ -178,6 +255,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerCha
 </details>
 
 ## D Tier
+
+<details>
+<summary>A1 Gaming League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/A1GamingLeague/A1GamingLeague.ics
+```
+
+---
+
+### Season 11 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/A1GamingLeague/Season112026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/A1GamingLeague/Season112026.ics
+```
+
+</details>
 
 <details>
 <summary>BetBoom RUSH B!</summary>
