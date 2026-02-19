@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T150000Z
-SUMMARY:Decider match: BCA vs TBD
+SUMMARY:Decider match: BCA vs EYE
 UID:cs-go-roman-imperium-cup-5-2026-1360762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:EYE vs BCA
 UID:cs-go-roman-imperium-cup-5-2026-1360759@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | EYEBALLERS: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260219T144248Z
 DTSTART:20260219T113732Z
 SUMMARY:Winners match: M8 vs EYE
 UID:cs-go-roman-imperium-cup-5-2026-1360760@tournamentics

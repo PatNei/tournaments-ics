@@ -1500,13 +1500,6 @@ SUMMARY:Upper bracket semifinal 2: MOUZ.N vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260219T140000Z
-SUMMARY:Lower bracket round 2 match 3: CTG vs IHC
-UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363638@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: kONO.ECF: 1 | WATERMELON: 0\nStream: No official stream linked
 DTEND:20260217T172731Z
 DTSTART:20260217T165235Z
@@ -2021,7 +2014,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T150000Z
-SUMMARY:Decider match: BCA vs TBD
+SUMMARY:Decider match: BCA vs EYE
 UID:cs-go-roman-imperium-cup-5-2026-1360762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2294,7 +2287,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T140000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: CTG vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4293,8 +4286,8 @@ SUMMARY:Round 1: AAB vs Invicta
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1326178@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 0 | FORZE Reload: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260219T144455Z
 DTSTART:20260219T125742Z
 SUMMARY:Round 3: ex-Zero Tenacity vs FORZE.R
 UID:cs-go-cct-europe-series-16-3-2026-1351291@tournamentics
@@ -5222,6 +5215,13 @@ DTEND:20260127T174317Z
 DTSTART:20260127T171102Z
 SUMMARY:ex-GANK Esports vs megoshort
 UID:cs-go-esea-advanced-europe-56-2026-1336664@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260220T173000Z
+SUMMARY:Winners match: LDP vs Bad Luck
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1368461@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: WW Team: 2 | Bushido Wildcats: 0\nStream: https://www.twitch.tv/jbproleague
@@ -6645,8 +6645,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-jb-pro-league-season-2-2026-1364615@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/michass21
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | Aurora Young Blood: 1\nStream: https://www.twitch.tv/michass21
+DTEND:20260219T144534Z
 DTSTART:20260219T141806Z
 SUMMARY:MISA vs AUR.YB
 UID:cs-go-esea-advanced-europe-56-2026-1367381@tournamentics
@@ -7625,8 +7625,8 @@ SUMMARY:BCG vs 9INE
 UID:cs-go-parken-challenger-championship-1-2026-1366228@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | EYEBALLERS: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260219T144248Z
 DTSTART:20260219T113732Z
 SUMMARY:Winners match: M8 vs EYE
 UID:cs-go-roman-imperium-cup-5-2026-1360760@tournamentics
