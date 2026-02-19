@@ -366,8 +366,8 @@ SUMMARY:hindsight vs megoshort
 UID:cs-go-esea-advanced-europe-56-2026-1326104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/brute_gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: QWENTRY: 0 | Brute: 1\nStream: https://www.twitch.tv/brute_gg
+DTEND:20260219T184315Z
 DTSTART:20260219T181247Z
 SUMMARY:QWE vs BRUTE
 UID:cs-go-esea-advanced-europe-56-2026-1367388@tournamentics
@@ -709,8 +709,8 @@ SUMMARY:FCF vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1328931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/michass21
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: MUERTA TEAM: 1 | TNC: 0\nStream: https://www.twitch.tv/michass21
+DTEND:20260219T184628Z
 DTSTART:20260219T181450Z
 SUMMARY:MUERTA TEAM vs TNC
 UID:cs-go-esea-advanced-europe-56-2026-1367390@tournamentics
@@ -1675,9 +1675,9 @@ SUMMARY:HASP vs TNC
 UID:cs-go-esea-advanced-europe-56-2026-1326105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260219T183000Z
+DTSTART:20260219T184701Z
 SUMMARY:SVEN vs MEGO
 UID:cs-go-esea-advanced-europe-56-2026-1367389@tournamentics
 END:VEVENT
