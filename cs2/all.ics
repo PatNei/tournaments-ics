@@ -1314,7 +1314,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260220T110000Z
-SUMMARY:Semifinal 1: ECS vs TBD
+SUMMARY:Semifinal 1: ECS vs LK
 UID:cs-go-cct-europe-series-15-3-2026-1343431@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2081,8 +2081,8 @@ SUMMARY:Lower bracket round 2 match 4: BHE vs LDP
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nResult: WHITEBIRD: 1 | los kogutos: 2\nStream: https://kick.com/cct_cs
+DTEND:20260219T154331Z
 DTSTART:20260219T120425Z
 SUMMARY:Quarterfinal 2: WB vs LK
 UID:cs-go-cct-europe-series-15-3-2026-1343428@tournamentics
@@ -5017,7 +5017,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T140000Z
-SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 1: QUBE vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9641,8 +9641,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-jb-pro-league-season-2-2026-1364577@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Nomads: 0 | The QUBE Esports: 2\nStream: No official stream linked
+DTEND:20260219T155130Z
 DTSTART:20260219T142030Z
 SUMMARY:Lower bracket round 2 match 1: NM vs QUBE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363635@tournamentics
