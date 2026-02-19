@@ -4736,8 +4736,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260219T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260219T113000Z
+SUMMARY:Elimination match: FCF vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360761@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5483,8 +5483,8 @@ SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-parken-challenger-championship-1-2026-1366410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/croissantstrike
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: Gentle Mates: 1 | FC Famalicão Esports: 0\nStream: https://www.twitch.tv/croissantstrike
+DTEND:20260219T105546Z
 DTSTART:20260219T101954Z
 SUMMARY:M8 vs FCF
 UID:cs-go-roman-imperium-cup-5-2026-1360758@tournamentics
@@ -7212,8 +7212,8 @@ SUMMARY:AAB vs YN
 UID:cs-go-de_airport-masters-2026-1367357@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: OlyBet SB: 0 |  CSDIILIT: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260219T105602Z
 DTSTART:20260219T090458Z
 SUMMARY:Round 2: OlyBet SB vs  CSDIILIT
 UID:cs-go-jb-pro-league-season-2-2026-1364520@tournamentics
@@ -7627,8 +7627,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260219T110000Z
-SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260219T113000Z
+SUMMARY:Winners match: M8 vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360760@tournamentics
 END:VEVENT
 BEGIN:VEVENT

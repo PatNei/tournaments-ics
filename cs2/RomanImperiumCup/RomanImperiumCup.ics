@@ -51,8 +51,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/croissantstrike
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: Gentle Mates: 1 | FC Famalicão Esports: 0\nStream: https://www.twitch.tv/croissantstrike
+DTEND:20260219T105546Z
 DTSTART:20260219T101954Z
 SUMMARY:M8 vs FCF
 UID:cs-go-roman-imperium-cup-5-2026-1360758@tournamentics
@@ -109,8 +109,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260219T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+DTSTART:20260219T113000Z
+SUMMARY:Elimination match: FCF vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360761@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -193,8 +193,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260219T110000Z
-SUMMARY:Winners match: TBD vs TBD
+DTSTART:20260219T113000Z
+SUMMARY:Winners match: M8 vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360760@tournamentics
 END:VEVENT
 END:VCALENDAR
