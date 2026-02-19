@@ -131,12 +131,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T010000Z
-SUMMARY:Semifinal 1: WC vs TBD
+SUMMARY:Semifinal 1: WC vs LAG
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 6 2026\nMatch Type: Best Of\nResult: Team Aether: 0 | LAG Gaming: 2\nStream: https://kick.com/dust2us
+DTEND:20260219T015342Z
 DTSTART:20260219T002413Z
 SUMMARY:Quarterfinal 2: TA vs LAG
 UID:cs-go-dust2-us-eagle-masters-6-2026-1363261@tournamentics
