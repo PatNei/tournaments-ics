@@ -1115,7 +1115,7 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-jb-pro-league-season-2-2026-1364536@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
 DURATION:PT2H
 DTSTART:20260219T160000Z
 SUMMARY:MUERTA TEAM vs AUR.YB
@@ -1787,8 +1787,8 @@ SUMMARY:Round 16 match 2: BW vs G2.A
 UID:cs-go-istabulan-2026-1350973@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/misterhenrybatt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Legion: 2 | Just Swing: 0\nStream: https://www.twitch.tv/misterhenrybatt
+DTEND:20260219T155646Z
 DTSTART:20260219T141655Z
 SUMMARY:Lower bracket round 2 match 4: LEGION vs JS
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363648@tournamentics
@@ -2287,7 +2287,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T140000Z
-SUMMARY:Lower bracket round 3 match 2: CTG vs TBD
+SUMMARY:Lower bracket round 3 match 2: CTG vs LEGION
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2977,8 +2977,8 @@ SUMMARY:Round 2: FURIA vs FUT
 UID:cs-go-pgl-cluj-napoca-2026-1349972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/michass21
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | eternal premium: 1\nStream: https://www.twitch.tv/michass21
+DTEND:20260219T160306Z
 DTSTART:20260219T151638Z
 SUMMARY:MANA vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1367386@tournamentics
@@ -3789,7 +3789,7 @@ SUMMARY:Round 1: SHIN vs 9z
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
 DTSTART:20260219T160000Z
 SUMMARY:MEGO vs HAVU
@@ -4006,9 +4006,9 @@ SUMMARY:SFE vs YN
 UID:cs-go-de_airport-masters-2026-1367348@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #15 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260219T155000Z
+DTSTART:20260219T155945Z
 SUMMARY:Quarterfinal 4: ALL vs MZP
 UID:cs-go-cct-europe-series-15-3-2026-1343430@tournamentics
 END:VEVENT
@@ -4195,8 +4195,8 @@ SUMMARY:Round 16 match 8: HOTU vs ROCEAN Lords
 UID:cs-go-istabulan-2026-1351039@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Team Arise: 2 | Eruption: 1\nStream: No official stream linked
+DTEND:20260219T155657Z
 DTSTART:20260219T145802Z
 SUMMARY:Lower bracket round 2 match 2: ARISE vs ERUPT
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363637@tournamentics
@@ -5017,7 +5017,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T140000Z
-SUMMARY:Lower bracket round 3 match 1: QUBE vs TBD
+SUMMARY:Lower bracket round 3 match 1: QUBE vs ARISE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6757,7 +6757,7 @@ SUMMARY:STA vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1353977@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T160000Z
 SUMMARY:Round 3: struggletony vs WAZ
@@ -7828,8 +7828,8 @@ SUMMARY:Lower bracket round 5 match 1: ALL vs JS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359249@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gsancher
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: HyperSpirit: 0 | kONO.ECF: 1\nStream: https://www.twitch.tv/gsancher
+DTEND:20260219T155754Z
 DTSTART:20260219T151637Z
 SUMMARY:HS vs ECF
 UID:cs-go-esea-advanced-europe-56-2026-1364668@tournamentics
