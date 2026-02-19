@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T201500Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: HOTU vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,9 +100,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260219T190000Z
+DTSTART:20260219T191131Z
 SUMMARY:PSSN.UA vs RBLS
 UID:cs-go-roman-imperium-cup-5-2026-1360764@tournamentics
 END:VEVENT
@@ -173,15 +173,8 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T201500Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: ALGO vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360766@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
-DURATION:PT2H
-DTSTART:20260219T190000Z
-SUMMARY:HOTU vs ALGO
-UID:cs-go-roman-imperium-cup-5-2026-1360763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 1 | Betclic Apogee Esports: 0\nStream: https://www.twitch.tv/Trottah

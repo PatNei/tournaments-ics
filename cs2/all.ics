@@ -1160,7 +1160,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T201500Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: ALGO vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3841,7 +3841,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T201500Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: HOTU vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6708,9 +6708,9 @@ SUMMARY:Round 2: LPH vs Y.TigeRES
 UID:cs-go-exort-series-22-2026-1347259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260219T190000Z
+DTSTART:20260219T191131Z
 SUMMARY:PSSN.UA vs RBLS
 UID:cs-go-roman-imperium-cup-5-2026-1360764@tournamentics
 END:VEVENT
@@ -9331,13 +9331,6 @@ DTEND:20260204T161717Z
 DTSTART:20260204T134722Z
 SUMMARY:Round 2: Imperial.A vs WTRML0N
 UID:cs-go-exort-series-22-2026-1347258@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
-DURATION:PT2H
-DTSTART:20260219T190000Z
-SUMMARY:HOTU vs ALGO
-UID:cs-go-roman-imperium-cup-5-2026-1360763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
