@@ -1160,7 +1160,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T201500Z
-SUMMARY:Elimination match: ALGO vs TBD
+SUMMARY:Elimination match: ALGO vs PSSN.UA
 UID:cs-go-roman-imperium-cup-5-2026-1360766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2270,8 +2270,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | Nuclear TigeRES: 0\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260219T200949Z
 DTSTART:20260219T180152Z
 SUMMARY:Lower bracket round 5 match 2: ex-RUBY vs NTR
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359250@tournamentics
@@ -3841,7 +3841,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T201500Z
-SUMMARY:Winners match: HOTU vs TBD
+SUMMARY:Winners match: HOTU vs RBLS
 UID:cs-go-roman-imperium-cup-5-2026-1360765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6207,7 +6207,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T180000Z
-SUMMARY:Lower bracket round 6 match 2: SPARTA vs TBD
+SUMMARY:Lower bracket round 6 match 2: SPARTA vs ILWL
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359256@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6708,8 +6708,8 @@ SUMMARY:Round 2: LPH vs Y.TigeRES
 UID:cs-go-exort-series-22-2026-1347259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: Passion UA: 0 | Rebels Gaming: 1\nStream: https://www.twitch.tv/rmncs
+DTEND:20260219T200138Z
 DTSTART:20260219T191131Z
 SUMMARY:PSSN.UA vs RBLS
 UID:cs-go-roman-imperium-cup-5-2026-1360764@tournamentics
@@ -8874,7 +8874,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T180000Z
-SUMMARY:Lower bracket round 6 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 6 match 1: ex-RUBY vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359255@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9011,8 +9011,8 @@ SUMMARY:K27 vs DRGN TEAM
 UID:cs-go-gluck-starpearl-1-2026-1358138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: WW Team: 2 | home: 0\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260219T200702Z
 DTSTART:20260219T190416Z
 SUMMARY:Round 2: WW vs home
 UID:cs-go-jb-pro-league-season-2-2026-1364523@tournamentics
@@ -9613,8 +9613,8 @@ SUMMARY:NIP vs 100T
 UID:cs-go-roman-imperium-cup-5-2026-1360773@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/luffastream
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: illwill: 2 | Oramond: 0\nStream: https://www.twitch.tv/luffastream
+DTEND:20260219T200118Z
 DTSTART:20260219T181727Z
 SUMMARY:Lower bracket round 5 match 3: ILWL vs ORM
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359251@tournamentics

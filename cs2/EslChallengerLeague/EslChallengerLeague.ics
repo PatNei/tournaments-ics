@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T180000Z
-SUMMARY:Lower bracket round 6 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 6 match 1: ex-RUBY vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359255@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -485,8 +485,8 @@ SUMMARY:Upper bracket semifinal 2: MOUZ.N vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/luffastream
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: illwill: 2 | Oramond: 0\nStream: https://www.twitch.tv/luffastream
+DTEND:20260219T200118Z
 DTSTART:20260219T181727Z
 SUMMARY:Lower bracket round 5 match 3: ILWL vs ORM
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359251@tournamentics
@@ -796,7 +796,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260220T180000Z
-SUMMARY:Lower bracket round 6 match 2: SPARTA vs TBD
+SUMMARY:Lower bracket round 6 match 2: SPARTA vs ILWL
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359256@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -814,8 +814,8 @@ SUMMARY:Upper bracket semifinal 1: G1 vs TDK
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359253@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kartash0v
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | Nuclear TigeRES: 0\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260219T200949Z
 DTSTART:20260219T180152Z
 SUMMARY:Lower bracket round 5 match 2: ex-RUBY vs NTR
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359250@tournamentics

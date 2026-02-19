@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T201500Z
-SUMMARY:Winners match: HOTU vs TBD
+SUMMARY:Winners match: HOTU vs RBLS
 UID:cs-go-roman-imperium-cup-5-2026-1360765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: Passion UA: 0 | Rebels Gaming: 1\nStream: https://www.twitch.tv/rmncs
+DTEND:20260219T200138Z
 DTSTART:20260219T191131Z
 SUMMARY:PSSN.UA vs RBLS
 UID:cs-go-roman-imperium-cup-5-2026-1360764@tournamentics
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260219T201500Z
-SUMMARY:Elimination match: ALGO vs TBD
+SUMMARY:Elimination match: ALGO vs PSSN.UA
 UID:cs-go-roman-imperium-cup-5-2026-1360766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
