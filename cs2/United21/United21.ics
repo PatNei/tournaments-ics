@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260223T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MISA vs TBD
 UID:cs-go-united21-45-2026-1365964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260223T113000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: HERO.A vs TBD
 UID:cs-go-united21-45-2026-1365965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -261,8 +261,8 @@ SUMMARY:Elimination match: 8S vs NAVI.J
 UID:cs-go-united21-44-2026-1339677@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | HEROIC Academy: 0\nStream: https://kick.com/united21_en
+DTEND:20260219T112615Z
 DTSTART:20260219T090958Z
 SUMMARY:MISA vs HERO.A
 UID:cs-go-united21-45-2026-1365962@tournamentics
