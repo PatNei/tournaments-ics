@@ -107,18 +107,18 @@ SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364045@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: RED Canids: 1 | ODDIK: 2\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260219T011218Z
-DTSTART:20260218T222348Z
-SUMMARY:Upper bracket quarterfinal 2: RED vs ODK
-UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363909@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T180000Z
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359258@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: RED Canids: 1 | ODDIK: 2\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260219T011218Z
+DTSTART:20260218T222348Z
+SUMMARY:Upper bracket quarterfinal 2: RED vs ODK
+UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363909@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -247,13 +247,6 @@ SUMMARY:Upper bracket quarterfinal 3: ERUPT vs LB
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ex-KRÜ Esports: 0 | Procyon Gaming: 2\nStream: https://www.twitch.tv/nolik_2k
-DTEND:20260219T001740Z
-DTSTART:20260218T220630Z
-SUMMARY:Lower bracket round 1 match 2: ex-KRÜ Esports vs PCY
-UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363917@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | los kogutos: 0\nStream: https://www.twitch.tv/eslcs
 DTEND:20260213T201916Z
 DTSTART:20260213T180800Z
@@ -261,18 +254,18 @@ SUMMARY:Upper bracket round 1 match 13: ENCE.A vs LK
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ex-KRÜ Esports: 0 | Procyon Gaming: 2\nStream: https://www.twitch.tv/nolik_2k
+DTEND:20260219T001740Z
+DTSTART:20260218T220630Z
+SUMMARY:Lower bracket round 1 match 2: ex-KRÜ Esports vs PCY
+UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363917@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260221T220000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363914@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Galorys: 2 | Imperial: 0\nStream: https://www.twitch.tv/vilacattv
-DTEND:20260218T234255Z
-DTSTART:20260218T220840Z
-SUMMARY:Upper bracket quarterfinal 4: GLS vs IMP
-UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363911@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -287,6 +280,13 @@ DTEND:20260213T193543Z
 DTSTART:20260213T181131Z
 SUMMARY:Upper bracket round 1 match 10: MINLATE vs eLITenergy
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358807@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Galorys: 2 | Imperial: 0\nStream: https://www.twitch.tv/vilacattv
+DTEND:20260218T234255Z
+DTSTART:20260218T220840Z
+SUMMARY:Upper bracket quarterfinal 4: GLS vs IMP
+UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363911@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: MONEY CREW: 2 | regain: 0\nStream: https://www.twitch.tv/regent_xd
@@ -331,18 +331,18 @@ SUMMARY:Lower bracket round 3 match 8: TNT vs ex-Flame Sharks
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Team Arise: 1 | Change The Game: 2\nStream: No official stream linked
-DTEND:20260217T171928Z
-DTSTART:20260217T140913Z
-SUMMARY:Upper bracket round 1 match 3: ARISE vs CTG
-UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363529@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Oramond: 2 | WW Team: 1\nStream: https://www.twitch.tv/bambikxde
 DTEND:20260214T165646Z
 DTSTART:20260214T141822Z
 SUMMARY:Upper bracket round 2 match 8: ORM vs WW
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358892@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Team Arise: 1 | Change The Game: 2\nStream: No official stream linked
+DTEND:20260217T171928Z
+DTSTART:20260217T140913Z
+SUMMARY:Upper bracket round 1 match 3: ARISE vs CTG
+UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -464,18 +464,18 @@ SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364044@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 0 | MIBR: 2\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260218T232832Z
-DTSTART:20260218T220613Z
-SUMMARY:Upper bracket quarterfinal 1: BHE vs MIBR
-UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363908@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T180000Z
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359257@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 0 | MIBR: 2\nStream: https://www.twitch.tv/tris_mara
+DTEND:20260218T232832Z
+DTSTART:20260218T220613Z
+SUMMARY:Upper bracket quarterfinal 1: BHE vs MIBR
+UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363908@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -506,13 +506,6 @@ SUMMARY:Lower bracket round 2 match 3: CTG vs IHC
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260219T140000Z
-SUMMARY:Lower bracket round 2 match 1: NM vs QUBE
-UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363635@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: InControl: 0 | Marsborne: 2\nStream: https://www.twitch.tv/jtmythic
 DTEND:20260218T033528Z
 DTSTART:20260218T020733Z
@@ -522,9 +515,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260221T140000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363632@tournamentics
+DTSTART:20260219T140000Z
+SUMMARY:Lower bracket round 2 match 1: NM vs QUBE
+UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Voca: 2 | Zomblers: 1\nStream: https://www.twitch.tv/kevindoruk
@@ -532,6 +525,13 @@ DTEND:20260218T044950Z
 DTSTART:20260218T020621Z
 SUMMARY:Upper bracket round 1 match 5: VOCA vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364024@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260221T140000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: WW Team: 0 | eLITenergy: 2\nStream: https://www.twitch.tv/strogo
@@ -597,18 +597,18 @@ SUMMARY:Lower bracket round 1 match 3: OlyBet SB vs AM
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359012@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260220T220000Z
-SUMMARY:Upper bracket semifinal 2: SHIN vs GLS
-UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363913@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260224T180000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359262@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260220T220000Z
+SUMMARY:Upper bracket semifinal 2: SHIN vs GLS
+UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363913@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | Sharks: 0\nStream: https://www.twitch.tv/dutchboycasts
@@ -653,18 +653,18 @@ SUMMARY:Lower bracket round 4 match 1: RBLS vs ALL
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359245@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260223T140000Z
-SUMMARY:Lower bracket final: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363629@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Oramond: 0\nStream: https://www.twitch.tv/luffastream
 DTEND:20260218T200726Z
 DTSTART:20260218T183512Z
 SUMMARY:Upper bracket quarterfinal 2: G1 vs ORM
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359242@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260223T140000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | eLITenergy: 2\nStream: https://www.twitch.tv/kevindoruk
@@ -828,18 +828,18 @@ SUMMARY:Upper bracket semifinal 1: G1 vs TDK
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359253@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260219T140000Z
-SUMMARY:Lower bracket round 2 match 2: ARISE vs ERUPT
-UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363637@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260219T180000Z
 SUMMARY:Lower bracket round 5 match 2: ex-RUBY vs NTR
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359250@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260219T140000Z
+SUMMARY:Lower bracket round 2 match 2: ARISE vs ERUPT
+UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -856,18 +856,18 @@ SUMMARY:Lower bracket round 3 match 7: SNG vs Omega
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359239@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260221T140000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363631@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Outfit 49: 0 | SkinRave: 2\nStream: https://www.twitch.tv/floofys
 DTEND:20260218T031401Z
 DTSTART:20260218T020508Z
 SUMMARY:Upper bracket round 1 match 4: O49 vs SR
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364023@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260221T140000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | HAVU: 1\nStream: No official stream linked
@@ -905,18 +905,18 @@ SUMMARY:Lower bracket round 1 match 10: MINLATE vs FORZE.R
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359051@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: largadosypelados: 0 | Imperial: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260218T000404Z
-DTSTART:20260217T220642Z
-SUMMARY:Upper bracket round 1 match 8: LDP vs IMP
-UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363897@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Alliance: 2 | kONO.ECF: 0\nStream: https://www.twitch.tv/vanfantv
 DTEND:20260214T163246Z
 DTSTART:20260214T142111Z
 SUMMARY:Upper bracket round 2 match 1: ALL vs ECF
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1358885@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: largadosypelados: 0 | Imperial: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260218T000404Z
+DTSTART:20260217T220642Z
+SUMMARY:Upper bracket round 1 match 8: LDP vs IMP
+UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363897@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: The QUBE Esports: 0 | Legion: 2\nStream: https://www.twitch.tv/misterhenrybatt
@@ -975,6 +975,13 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363915@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260223T180000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359261@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260220T220000Z
@@ -987,13 +994,6 @@ DURATION:PT2H
 DTSTART:20260219T140000Z
 SUMMARY:Lower bracket round 2 match 4: LEGION vs JS
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363648@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260223T180000Z
-SUMMARY:Lower bracket final: TBD vs TBD
-UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Morningstar: 2 | Legion: 0\nStream: No official stream linked
