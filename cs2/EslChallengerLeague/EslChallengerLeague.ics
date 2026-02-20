@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260221T220000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: SHIN vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260221T220000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: GLS vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363914@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -569,8 +569,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: ShindeN: 0 | Galorys: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260220T233942Z
 DTSTART:20260220T220550Z
 SUMMARY:Upper bracket semifinal 2: SHIN vs GLS
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363913@tournamentics
