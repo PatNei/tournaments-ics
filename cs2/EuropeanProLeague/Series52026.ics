@@ -151,6 +151,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
+DTSTART:20260221T113000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-european-pro-league-series-5-2026-1355832@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
 DTSTART:20260302T113000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1355877@tournamentics
@@ -238,5 +245,12 @@ DURATION:PT2H
 DTSTART:20260225T113000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1355834@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260221T090000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-european-pro-league-series-5-2026-1355831@tournamentics
 END:VEVENT
 END:VCALENDAR
