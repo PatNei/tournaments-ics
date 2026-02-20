@@ -2329,7 +2329,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260220T133000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FNC vs SAW
 UID:cs-go-roman-imperium-cup-5-2026-1360772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5140,8 +5140,8 @@ SUMMARY:Round 2: ex-RUBY vs BBP
 UID:cs-go-cct-europe-series-16-3-2026-1351288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: SAW: 2 | Oramond: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260220T132258Z
 DTSTART:20260220T113313Z
 SUMMARY:Elimination match: SAW vs ORM
 UID:cs-go-roman-imperium-cup-5-2026-1360771@tournamentics
@@ -5924,8 +5924,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-5-2026-1356229@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nResult: WATERMELON: 1 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/exort_en2
+DTEND:20260220T131451Z
 DTSTART:20260220T104159Z
 SUMMARY:Round 1 match 4: WTRML0N vs CYBERSHOKE Prospects
 UID:cs-go-exort-series-22-2026-1368636@tournamentics
@@ -8094,8 +8094,8 @@ SUMMARY:Round of 16 match 3: JS vs YNG
 UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362061@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | fnatic: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260220T131808Z
 DTSTART:20260220T113320Z
 SUMMARY:Winners match: BB vs FNC
 UID:cs-go-roman-imperium-cup-5-2026-1360770@tournamentics

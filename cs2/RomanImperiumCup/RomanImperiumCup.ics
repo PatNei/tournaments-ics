@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260220T133000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: FNC vs SAW
 UID:cs-go-roman-imperium-cup-5-2026-1360772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:BST vs MNTE
 UID:cs-go-roman-imperium-cup-5-2026-1360774@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: SAW: 2 | Oramond: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260220T132258Z
 DTSTART:20260220T113313Z
 SUMMARY:Elimination match: SAW vs ORM
 UID:cs-go-roman-imperium-cup-5-2026-1360771@tournamentics
@@ -163,8 +163,8 @@ SUMMARY:FNC vs ORM
 UID:cs-go-roman-imperium-cup-5-2026-1360769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | fnatic: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260220T131808Z
 DTSTART:20260220T113320Z
 SUMMARY:Winners match: BB vs FNC
 UID:cs-go-roman-imperium-cup-5-2026-1360770@tournamentics
