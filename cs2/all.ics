@@ -1797,7 +1797,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260224T113000Z
-SUMMARY:Elimination match: Imperial.A vs TBD
+SUMMARY:Elimination match: Imperial.A vs PRE
 UID:cs-go-united21-45-2026-1365960@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2326,9 +2326,9 @@ SUMMARY:Upper bracket round 1 match 1: MIBR vs 4M
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363840@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/trottah
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/trottah
 DURATION:PT2H
-DTSTART:20260220T134500Z
+DTSTART:20260220T134546Z
 SUMMARY:Decider match: FNC vs SAW
 UID:cs-go-roman-imperium-cup-5-2026-1360772@tournamentics
 END:VEVENT
@@ -7376,7 +7376,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260224T090000Z
-SUMMARY:Winners match: LPH vs TBD
+SUMMARY:Winners match: LPH vs MEGO
 UID:cs-go-united21-45-2026-1365959@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10054,8 +10054,8 @@ SUMMARY:Winners' match: ex-RUBY vs NEM
 UID:cs-go-gluck-starpearl-1-2026-1358134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: megoshort: 2 | Prestige: 0\nStream: https://kick.com/united21_en
+DTEND:20260220T134530Z
 DTSTART:20260220T122512Z
 SUMMARY:MEGO vs PRE
 UID:cs-go-united21-45-2026-1365958@tournamentics
