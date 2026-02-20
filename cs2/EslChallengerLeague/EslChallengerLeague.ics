@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T180000Z
-SUMMARY:Lower bracket quarterfinal 2: ILWL vs TBD
+SUMMARY:Lower bracket quarterfinal 2: ILWL vs G1
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359258@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -761,7 +761,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T180000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: TDK vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -786,8 +786,8 @@ SUMMARY:Lower bracket round 2 match 1: FLY.R vs MONEY CREW
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364040@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: GenOne: 0 | TDK: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260220T203603Z
 DTSTART:20260220T180636Z
 SUMMARY:Upper bracket semifinal 1: G1 vs TDK
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359253@tournamentics

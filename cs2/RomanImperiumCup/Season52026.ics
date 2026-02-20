@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260220T203000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: 100T vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360777@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -142,8 +142,8 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360780@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | BESTIA: 0\nStream: https://www.twitch.tv/rmncs
+DTEND:20260220T202845Z
 DTSTART:20260220T183857Z
 SUMMARY:Elimination match: 100T vs BST
 UID:cs-go-roman-imperium-cup-5-2026-1360776@tournamentics
