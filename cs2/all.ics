@@ -2700,7 +2700,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T100000Z
-SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs TBD
+SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6837,7 +6837,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T100000Z
-SUMMARY:Lower bracket quarterfinal 2: UG vs TBD
+SUMMARY:Lower bracket quarterfinal 2: UG vs MF
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363331@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8500,8 +8500,8 @@ SUMMARY:Round 1: NAVI vs AST
 UID:cs-go-pgl-cluj-napoca-2026-1349960@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Mindfreak: 1 | Ground Zero: 2\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260220T130240Z
 DTSTART:20260220T100610Z
 SUMMARY:Upper bracket semifinal 1: MF vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363324@tournamentics
