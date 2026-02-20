@@ -1402,8 +1402,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-16-3-2026-1351306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vilacattv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nResult: Vexa: 0 | silence clan: 2\nStream: https://www.twitch.tv/vilacattv
+DTEND:20260220T212919Z
 DTSTART:20260220T192141Z
 SUMMARY:Elimination match: VEXA vs silence clan
 UID:cs-go-gamers-club-liga-serie-a-february-2026-1366136@tournamentics
@@ -7205,7 +7205,7 @@ SUMMARY:Lower bracket round 2 match 4: ex-RUBY vs NXS
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lorranbs_
 DURATION:PT2H
 DTSTART:20260220T220000Z
 SUMMARY:Lower bracket round 3 match 2: LDP vs RED
@@ -9354,9 +9354,9 @@ SUMMARY:Quarterfinal 2: YNG vs EF
 UID:cs-go-pgl-bucharest-european-open-qualifier-1-2026-1362068@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
-DTSTART:20260220T213000Z
+DTSTART:20260220T213858Z
 SUMMARY:Decider match: 100T vs NIP
 UID:cs-go-roman-imperium-cup-5-2026-1360777@tournamentics
 END:VEVENT
