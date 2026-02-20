@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260221T180000Z
-SUMMARY:Semifinal 2: VIT vs TBD
+SUMMARY:Semifinal 2: VIT vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -268,8 +268,8 @@ SUMMARY:3rd place decider: TBD vs TBD
 UID:cs-go-pgl-cluj-napoca-2026-1349999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: FURIA: 1 | TheMongolz: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260220T213930Z
 DTSTART:20260220T185302Z
 SUMMARY:Quarterfinal 4: FURIA vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349996@tournamentics
