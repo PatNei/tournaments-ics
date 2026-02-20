@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260221T150000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: PRV vs TBD
 UID:cs-go-pgl-cluj-napoca-2026-1349997@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -485,8 +485,8 @@ SUMMARY:Quarterfinal 4: FURIA vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349996@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Team Falcons: 1 | PARIVISION: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260220T111807Z
 DTSTART:20260220T080907Z
 SUMMARY:Quarterfinal 1: FAL vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349993@tournamentics

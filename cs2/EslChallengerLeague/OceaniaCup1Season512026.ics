@@ -5,14 +5,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T100000Z
-SUMMARY:Lower bracket quarterfinal 1: RSTR vs TBD
+SUMMARY:Lower bracket quarterfinal 1: RSTR vs Skele
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363330@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T100000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Skele: 0 | THUNDER dOWNUNDER: 2\nStream: No official stream linked
+DTEND:20260220T111231Z
 DTSTART:20260220T100624Z
 SUMMARY:Upper bracket semifinal 2: Skele vs THUNDER dOWNUNDER
 UID:cs-go-esl-challenger-league-oceania-cup-1-51-2026-1363325@tournamentics
