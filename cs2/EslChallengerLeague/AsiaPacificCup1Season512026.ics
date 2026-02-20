@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T140000Z
-SUMMARY:Lower bracket quarterfinal 1: CW vs TBD
+SUMMARY:Lower bracket quarterfinal 1: CW vs QUBE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363631@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Upper bracket round 1 match 1: QUBE vs LEGION
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: The QUBE Esports: 2 | Team Arise: 0\nStream: No official stream linked
+DTEND:20260220T170241Z
 DTSTART:20260220T143710Z
 SUMMARY:Lower bracket round 3 match 1: QUBE vs ARISE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363633@tournamentics
