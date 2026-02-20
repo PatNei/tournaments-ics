@@ -65,7 +65,7 @@ SUMMARY:Round 2: LAG vs WC
 UID:cs-go-dust2-us-eagle-masters-6-2026-1348523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kevindoruk
 DURATION:PT2H
 DTSTART:20260221T020000Z
 SUMMARY:Lower bracket round 3 match 2: ZOMB vs InC
@@ -625,6 +625,13 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359258@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260226T160000Z
+SUMMARY:Round 4: TRI vs struggletony
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368663@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: ENCE: 0 | illwill: 1\nStream: https://www.twitch.tv/lentbb
 DTEND:20260213T102239Z
 DTSTART:20260213T093907Z
@@ -912,9 +919,9 @@ SUMMARY:Round 2: PCY vs LDP
 UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343478@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260220T080000Z
+DTSTART:20260220T080907Z
 SUMMARY:Quarterfinal 1: FAL vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349993@tournamentics
 END:VEVENT
@@ -1122,7 +1129,7 @@ SUMMARY:MUERTA TEAM vs AUR.YB
 UID:cs-go-esea-advanced-europe-56-2026-1367383@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/onipotence
 DURATION:PT2H
 DTSTART:20260220T100000Z
 SUMMARY:Lower bracket round 2 match 2: UG vs Time Waves
@@ -2431,6 +2438,13 @@ SUMMARY:Elimination match: RBLS vs BBP
 UID:cs-go-european-pro-league-series-5-play-in-2026-1353982@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260302T190000Z
+SUMMARY:Round 4: WAZ vs CUT
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368666@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: illwill: 2 | ENCE: 0\nStream: https://www.twitch.tv/dust2tv
 DTEND:20260213T155810Z
 DTSTART:20260213T140559Z
@@ -2634,7 +2648,7 @@ SUMMARY:Upper bracket quarterfinal 4: NM vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
 DURATION:PT2H
 DTSTART:20260221T020000Z
 SUMMARY:Lower bracket round 3 match 1: O49 vs FLY.R
@@ -3325,6 +3339,13 @@ DURATION:PT2H
 DTSTART:20260221T180000Z
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359257@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260223T190000Z
+SUMMARY:Round 4: SASHI vs PRE
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368662@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: Monte: 1 | Tricked: 0\nStream: https://www.twitch.tv/ar3nagg
@@ -5105,7 +5126,7 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-gamers-club-liga-serie-a-february-2026-1360806@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JTMythic
 DURATION:PT2H
 DTSTART:20260221T020000Z
 SUMMARY:Upper bracket semifinal 2: VOCA vs MARS
@@ -5201,6 +5222,13 @@ DTEND:20260128T165012Z
 DTSTART:20260128T161710Z
 SUMMARY:BMB vs BW
 UID:cs-go-esea-advanced-europe-56-2026-1332991@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260302T160000Z
+SUMMARY:Round 4: SERA vs ST
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368665@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: Tricked: 0 | ENCE: 2\nStream: https://www.twitch.tv/titaanitv
@@ -5331,7 +5359,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Oceania - Series #4 season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/betboom_cs_ru6
 DURATION:PT2H
-DTSTART:20260220T080000Z
+DTSTART:20260220T081000Z
 SUMMARY:Elimination match: BBBMBCBS vs Shanghai Sharks ESC
 UID:cs-go-cct-oceania-series-4-3-2026-1364203@tournamentics
 END:VEVENT
@@ -6209,6 +6237,13 @@ DURATION:PT2H
 DTSTART:20260220T180000Z
 SUMMARY:Lower bracket round 6 match 2: SPARTA vs ILWL
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359256@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260223T160000Z
+SUMMARY:Round 4: MSC vs FOR
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368661@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: MASONIC: 0 | ECSTATIC: 2\nStream: https://www.twitch.tv/narodcast4
@@ -8071,6 +8106,13 @@ DURATION:PT2H
 DTSTART:20260222T180000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359259@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260226T190000Z
+SUMMARY:Round 4: sketch vs XI
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Copenhagen Gaming Week - Showdown 2026\nMatch Type: Best Of\nResult: Monte: 2 | illwill: 0\nStream: https://www.twitch.tv/lentbb
