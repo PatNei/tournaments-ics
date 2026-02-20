@@ -1465,13 +1465,6 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-roman-imperium-cup-5-2026-1360776@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 5 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260220T090000Z
-SUMMARY:ENCE.A vs home
-UID:cs-go-european-pro-league-series-5-play-in-2026-1354052@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: ECSTATIC: 2 | WAZABI: 0\nStream: https://www.twitch.tv/dust2tv
 DTEND:20260202T173832Z
 DTSTART:20260202T161724Z
@@ -1864,7 +1857,7 @@ SUMMARY:BW vs MUERTA TEAM
 UID:cs-go-esea-advanced-europe-56-2026-1355270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fabbelit0cs
 DURATION:PT2H
 DTSTART:20260220T090000Z
 SUMMARY:Fingers vs ACE
@@ -2412,7 +2405,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260220T090000Z
+DTSTART:20260220T091000Z
 SUMMARY:LPH vs Imperial.A
 UID:cs-go-united21-45-2026-1365957@tournamentics
 END:VEVENT
@@ -6281,9 +6274,9 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363281@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260220T090000Z
+DTSTART:20260220T090453Z
 SUMMARY:Round 3: ECF vs TDK
 UID:cs-go-cct-europe-series-16-3-2026-1351294@tournamentics
 END:VEVENT
@@ -9270,7 +9263,7 @@ SUMMARY:ME vs MEGO
 UID:cs-go-esea-advanced-europe-56-2026-1355271@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/wikdahl
 DURATION:PT2H
 DTSTART:20260220T090000Z
 SUMMARY:GV vs Insidious
