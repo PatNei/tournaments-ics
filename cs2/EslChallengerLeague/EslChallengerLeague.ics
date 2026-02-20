@@ -502,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T140000Z
-SUMMARY:Lower bracket quarterfinal 2: BP vs TBD
+SUMMARY:Lower bracket quarterfinal 2: BP vs CTG
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363632@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -814,8 +814,8 @@ SUMMARY:Lower bracket round 2 match 2: ARISE vs ERUPT
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Change The Game: 2 | Legion: 0\nStream: No official stream linked
+DTEND:20260220T155616Z
 DTSTART:20260220T141344Z
 SUMMARY:Lower bracket round 3 match 2: CTG vs LEGION
 UID:cs-go-esl-challenger-league-asia-pacific-cup-1-51-2026-1363634@tournamentics
