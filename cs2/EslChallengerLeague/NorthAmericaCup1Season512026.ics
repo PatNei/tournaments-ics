@@ -75,15 +75,8 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260221T020000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: ZOMB vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364045@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bonamant
-DURATION:PT2H
-DTSTART:20260220T021252Z
-SUMMARY:Lower bracket round 2 match 3: BOSS vs ZOMB
-UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364042@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | Sakura Esports: 0\nStream: https://www.twitch.tv/bonamant
