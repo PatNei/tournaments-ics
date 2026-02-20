@@ -3572,9 +3572,9 @@ SUMMARY:Winners match: RED.A vs MIBR.A
 UID:cs-go-gamers-club-liga-serie-a-february-2026-1367378@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
+DESCRIPTION:🔴 LIVE NOW\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
 DURATION:PT2H
-DTSTART:20260220T120000Z
+DTSTART:20260220T121001Z
 SUMMARY:Round 3: Omega vs FUZOS
 UID:cs-go-jb-pro-league-season-2-2026-1364525@tournamentics
 END:VEVENT
@@ -4692,8 +4692,8 @@ SUMMARY:Quarterfinal 2: GLS vs PCY
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-1-2026-1362099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/landingzone_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | INFURITY Gaming: 0\nStream: https://www.twitch.tv/landingzone_
+DTEND:20260220T120831Z
 DTSTART:20260220T110642Z
 SUMMARY:LILMIX vs INF
 UID:cs-go-de_airport-masters-2026-1367334@tournamentics
@@ -5779,7 +5779,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
 DURATION:PT2H
-DTSTART:20260220T120000Z
+DTSTART:20260220T122000Z
 SUMMARY:Round 1: QWE vs ex-FUT Academy
 UID:cs-go-exort-meteor-2-2026-1367433@tournamentics
 END:VEVENT
@@ -7037,9 +7037,9 @@ SUMMARY:Round 4: InC vs Reign Above
 UID:cs-go-dust2-us-eagle-masters-6-2026-1358131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260220T120000Z
+DTSTART:20260220T120410Z
 SUMMARY:Round 1: AM vs BMB
 UID:cs-go-nodwin-clutch-series-5-2026-1356201@tournamentics
 END:VEVENT
@@ -10063,7 +10063,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260220T120000Z
+DTSTART:20260220T122000Z
 SUMMARY:MEGO vs PRE
 UID:cs-go-united21-45-2026-1365958@tournamentics
 END:VEVENT
