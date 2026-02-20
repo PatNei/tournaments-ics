@@ -2326,9 +2326,9 @@ SUMMARY:Upper bracket round 1 match 1: MIBR vs 4M
 UID:cs-go-esl-challenger-league-south-america-cup-1-51-2026-1363840@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/trottah
 DURATION:PT2H
-DTSTART:20260220T133000Z
+DTSTART:20260220T134500Z
 SUMMARY:Decider match: FNC vs SAW
 UID:cs-go-roman-imperium-cup-5-2026-1360772@tournamentics
 END:VEVENT
@@ -2998,9 +2998,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-european-pro-league-series-5-2026-1356038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://www.kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 22 2026\nMatch Type: Best Of\nStream: https://www.kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260220T133000Z
+DTSTART:20260220T133619Z
 SUMMARY:Round 1 match 1: G2.A vs LPH
 UID:cs-go-exort-series-22-2026-1368637@tournamentics
 END:VEVENT
@@ -5667,7 +5667,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260220T140000Z
+DTSTART:20260220T143000Z
 SUMMARY:Quarterfinal 3: VIT vs AUR
 UID:cs-go-pgl-cluj-napoca-2026-1349995@tournamentics
 END:VEVENT
@@ -7030,8 +7030,8 @@ SUMMARY:Round 4: InC vs Reign Above
 UID:cs-go-dust2-us-eagle-masters-6-2026-1358131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: AM Gaming: 2 | BASEMENT BOYS: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260220T133616Z
 DTSTART:20260220T120410Z
 SUMMARY:Round 1: AM vs BMB
 UID:cs-go-nodwin-clutch-series-5-2026-1356201@tournamentics
