@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/byalli
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nResult: Young Ninjas: 2 | Phantom: 1\nStream: https://www.twitch.tv/byalli
+DTEND:20260221T202859Z
 DTSTART:20260221T170717Z
 SUMMARY:3rd place decider: YN vs PHA
 UID:cs-go-de_airport-masters-2026-1367372@tournamentics
@@ -128,8 +128,8 @@ SUMMARY:LILMIX vs INF
 UID:cs-go-de_airport-masters-2026-1367334@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/landingzone_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: De_Airport Masters - 2026\nMatch Type: Best Of\nResult: Metizport: 1 | Acend: 2\nStream: https://www.twitch.tv/landingzone_
+DTEND:20260221T203656Z
 DTSTART:20260221T170347Z
 SUMMARY:Grand final: MZP vs ACE
 UID:cs-go-de_airport-masters-2026-1367373@tournamentics
