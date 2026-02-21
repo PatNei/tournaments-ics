@@ -387,8 +387,8 @@ SUMMARY:Round 2: AUR vs paiN
 UID:cs-go-pgl-cluj-napoca-2026-1349973@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/meta_esports_kz2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: META Cup - Season 4 2026\nMatch Type: Best Of\nResult: Omega: 1 | Miracle Gaming: 0\nStream: https://www.twitch.tv/meta_esports_kz2
+DTEND:20260221T195435Z
 DTSTART:20260221T192055Z
 SUMMARY:Omega vs MG
 UID:cs-go-meta-cup-4-2026-1364640@tournamentics
@@ -2795,7 +2795,7 @@ SUMMARY:Round 1: MOUZ vs PRV
 UID:cs-go-pgl-cluj-napoca-2026-1349962@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
 DTSTART:20260222T100000Z
 SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs GZ
@@ -3036,7 +3036,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260222T160000Z
-SUMMARY:Grand final: PRV vs TBD
+SUMMARY:Grand final: PRV vs VIT
 UID:cs-go-pgl-cluj-napoca-2026-1350000@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4818,7 +4818,7 @@ SUMMARY:Round 1: FAL vs 3DMAX
 UID:cs-go-pgl-cluj-napoca-2026-1349965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
 DTSTART:20260222T100000Z
 SUMMARY:Lower bracket semifinal: Skele vs MF
@@ -4919,7 +4919,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260222T120000Z
-SUMMARY:3rd place decider: MOUZ vs TBD
+SUMMARY:3rd place decider: MOUZ vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7940,8 +7940,8 @@ SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-draculan-5-2026-1363311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Vitality: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260221T195358Z
 DTSTART:20260221T180553Z
 SUMMARY:Semifinal 2: VIT vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349998@tournamentics
@@ -10488,7 +10488,7 @@ SUMMARY:Round 4: LC vs WB
 UID:cs-go-cct-europe-series-15-3-2026-1343415@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
 DURATION:PT2H
 DTSTART:20260222T110000Z
 SUMMARY:Semifinal 1: M8 vs BB

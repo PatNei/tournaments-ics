@@ -474,7 +474,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260222T120000Z
-SUMMARY:3rd place decider: MOUZ vs TBD
+SUMMARY:3rd place decider: MOUZ vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -628,7 +628,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260222T160000Z
-SUMMARY:Grand final: PRV vs TBD
+SUMMARY:Grand final: PRV vs VIT
 UID:cs-go-pgl-cluj-napoca-2026-1350000@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -786,8 +786,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-pgl-bucharest-east-asian-closed-qualifier-2026-1368698@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: Vitality: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260221T195358Z
 DTSTART:20260221T180553Z
 SUMMARY:Semifinal 2: VIT vs MGLZ
 UID:cs-go-pgl-cluj-napoca-2026-1349998@tournamentics
