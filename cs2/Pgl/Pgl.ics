@@ -226,13 +226,6 @@ SUMMARY:Quarterinal 3: Keyd vs MW
 UID:cs-go-pgl-bucharest-south-american-open-qualifier-2-2026-1364692@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: G2: 2 | Heroic: 0\nStream: https://www.youtube.com/watch?v=oEyXe_Zjq4o
-DTEND:20260217T162019Z
-DTSTART:20260217T143032Z
-SUMMARY:Round 4: G2 vs HERO
-UID:cs-go-pgl-cluj-napoca-2026-1349989@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | mix52: 0\nStream: No official stream linked
 DTEND:20260217T205437Z
 DTSTART:20260217T192432Z
@@ -462,6 +455,13 @@ DURATION:PT2H
 DTSTART:20260301T030000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368686@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260226T180000Z
+SUMMARY:Upper bracket quarterfinal 2: IMP vs GLS
+UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1367401@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: East Asian Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -905,10 +905,10 @@ SUMMARY:Upper bracket quarterfinal 3: FLY.R vs LAG
 UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1367424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260226T180000Z
-SUMMARY:Upper bracket quarterfinal 2: IMP vs GLS
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1367401@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Cluj-Napoca 2026\nMatch Type: Best Of\nResult: G2: 2 | Heroic: 0\nStream: https://www.youtube.com/watch?v=oEyXe_Zjq4o
+DTEND:20260217T162019Z
+DTSTART:20260217T143032Z
+SUMMARY:Round 4: G2 vs HERO
+UID:cs-go-pgl-cluj-napoca-2026-1349989@tournamentics
 END:VEVENT
 END:VCALENDAR
