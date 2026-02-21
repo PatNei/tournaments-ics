@@ -243,7 +243,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T180000Z
-SUMMARY:Lower bracket semifinal: ALL vs TBD
+SUMMARY:Lower bracket semifinal: ALL vs ILWL
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -436,8 +436,8 @@ SUMMARY:Lower bracket round 3 match 1: FLY.R vs O49
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364044@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/leo_team_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | illwill: 2\nStream: https://www.twitch.tv/leo_team_cs2
+DTEND:20260221T211355Z
 DTSTART:20260221T181233Z
 SUMMARY:Lower bracket quarterfinal 1: Leo vs ILWL
 UID:cs-go-esl-challenger-league-europe-cup-1-50-2026-1359257@tournamentics

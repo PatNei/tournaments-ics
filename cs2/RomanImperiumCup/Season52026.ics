@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T140000Z
-SUMMARY:Semifinal 2: HOTU vs TBD
+SUMMARY:Semifinal 2: HOTU vs FNC
 UID:cs-go-roman-imperium-cup-5-2026-1360784@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Decider match: 100T vs NIP
 UID:cs-go-roman-imperium-cup-5-2026-1360777@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 5 2026\nMatch Type: Best Of\nResult: Monte: 0 | fnatic: 2\nStream: https://www.twitch.tv/rmncs
+DTEND:20260221T211631Z
 DTSTART:20260221T185740Z
 SUMMARY:Quarterfinal 4: MNTE vs FNC
 UID:cs-go-roman-imperium-cup-5-2026-1360781@tournamentics
