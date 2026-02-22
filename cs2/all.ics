@@ -2686,7 +2686,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260222T190000Z
-SUMMARY:BMB vs PEEP
+SUMMARY:BMB vs BrAt
 UID:cs-go-esea-advanced-europe-56-2026-1356658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7289,6 +7289,13 @@ SUMMARY:Semifinal 1: TBD vs Omega
 UID:cs-go-meta-cup-4-2026-1364645@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - February 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260223T190000Z
+SUMMARY:Decider Match: RED.A vs MW
+UID:cs-go-gamers-club-liga-serie-a-february-2026-1371102@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #16 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260223T120000Z
@@ -7567,13 +7574,6 @@ DTEND:20260214T134959Z
 DTSTART:20260214T122434Z
 SUMMARY:Lower bracket round 1 match 1: 33 vs DRGN TEAM
 UID:cs-go-gluck-starpearl-1-2026-1359583@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260222T180000Z
-SUMMARY:Round 2: Leo vs DUNDU
-UID:cs-go-nodwin-clutch-series-5-2026-1356211@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -8600,7 +8600,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260222T170000Z
+DTSTART:20260224T180000Z
 SUMMARY:hindsight vs FS
 UID:cs-go-esea-advanced-europe-56-2026-1366030@tournamentics
 END:VEVENT
