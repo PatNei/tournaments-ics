@@ -2000,7 +2000,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260223T020000Z
-SUMMARY:Lower bracket semifinal: SR vs TBD
+SUMMARY:Lower bracket semifinal: SR vs MARS
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364048@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4881,8 +4881,8 @@ SUMMARY:Round 2: O49 vs F5
 UID:cs-go-dust2-us-eagle-masters-6-2026-1348525@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup 1 season 51 2026\nMatch Type: Best Of\nResult: Marsborne: 2 | Zomblers: 0\nStream: https://www.twitch.tv/eslcs
+DTEND:20260222T035437Z
 DTSTART:20260222T020428Z
 SUMMARY:Lower bracket quarterfinal 2: MARS vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-1-51-2026-1364047@tournamentics
