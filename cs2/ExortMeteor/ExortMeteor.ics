@@ -2,25 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 0 | G2 Ares: 2\nStream: https://kick.com/exort_en
-DTEND:20260220T195720Z
-DTSTART:20260220T181300Z
-SUMMARY:Round 1: OXUJI vs G2.A
-UID:cs-go-exort-meteor-2-2026-1367435@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | ex-FUT Academy: 0\nStream: https://kick.com/exort_en
-DTEND:20260222T133924Z
-DTSTART:20260222T120929Z
-SUMMARY:Round 2: MANA vs ex-FUT Academy
-UID:cs-go-exort-meteor-2-2026-1371193@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | aimclub: 1\nStream: https://kick.com/exort_en
-DTEND:20260220T121842Z
-DTSTART:20260220T091307Z
-SUMMARY:Round 1: UNiTY vs aimclub
-UID:cs-go-exort-meteor-2-2026-1367432@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 |  CSDIILIT: 1\nStream: https://kick.com/exort_en
+DTEND:20260226T143625Z
+DTSTART:20260226T120701Z
+SUMMARY:Round 4: G2.A vs  CSDIILIT
+UID:cs-go-exort-meteor-2-2026-1376354@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | UNiTY esports: 0\nStream: https://kick.com/exort_en
@@ -30,9 +16,170 @@ SUMMARY:Round 2: G2.A vs UNiTY
 UID:cs-go-exort-meteor-2-2026-1371103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
-DURATION:PT2H
-DTSTART:20260223T180000Z
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | QWENTRY: 1\nStream: https://kick.com/exort_en
+DTEND:20260225T114958Z
+DTSTART:20260225T090638Z
+SUMMARY:Round 3:  CSDIILIT vs QWE
+UID:cs-go-exort-meteor-2-2026-1374939@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: ex-FUT Academy: 2 | EC BANGA: 0\nStream: https://kick.com/exort_en
+DTEND:20260225T132234Z
+DTSTART:20260225T120655Z
+SUMMARY:Round 3: ex-FUT Academy vs EC BANGA
+UID:cs-go-exort-meteor-2-2026-1374940@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: 33: 2 | G2 Ares: 0\nStream: https://kick.com/exort_en
+DTEND:20260304T165209Z
+DTSTART:20260304T150759Z
+SUMMARY:Semifinal 1: 33 vs G2.A
+UID:cs-go-exort-meteor-2-2026-1378857@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | ex-Zero Tenacity: 1\nStream: https://kick.com/exort_en
+DTEND:20260303T174907Z
+DTSTART:20260303T152145Z
+SUMMARY:Quarterfinal 3: QWE vs ex-Zero Tenacity
+UID:cs-go-exort-meteor-2-2026-1378854@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | Falcons Force: 0\nStream: https://kick.com/exort_en
+DTEND:20260302T113128Z
+DTSTART:20260302T090856Z
+SUMMARY:Round of 16 match 8: JJH vs Falcons Force
+UID:cs-go-exort-meteor-2-2026-1378851@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Acend: 0 | G2 Ares: 2\nStream: https://kick.com/exort_en
+DTEND:20260301T204255Z
+DTSTART:20260301T185947Z
+SUMMARY:Round of 16 match 4: ACE vs G2.A
+UID:cs-go-exort-meteor-2-2026-1378847@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Ursa: 2 |  CSDIILIT: 0\nStream: https://kick.com/exort_en
+DTEND:20260222T193325Z
+DTSTART:20260222T180842Z
+SUMMARY:Round 2: URSA vs  CSDIILIT
+UID:cs-go-exort-meteor-2-2026-1371194@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: ex-Fingers Crossed Female : 0 | UNiTY esports: 2\nStream: https://kick.com/exort_en
+DTEND:20260227T192042Z
+DTSTART:20260227T180457Z
+SUMMARY:Round 4: ex-Fingers Crossed Female  vs UNiTY
+UID:cs-go-exort-meteor-2-2026-1377573@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: 33: 2 | UNiTY esports: 0\nStream: https://kick.com/exort_en
+DTEND:20260302T210202Z
+DTSTART:20260302T191155Z
+SUMMARY:Round of 16 match 1: 33 vs UNiTY
+UID:cs-go-exort-meteor-2-2026-1378844@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: MANA eSports: 1 | WW Team: 2\nStream: https://kick.com/exort_en
+DTEND:20260227T174143Z
+DTSTART:20260227T151717Z
+SUMMARY:Round 4: MANA vs WW
+UID:cs-go-exort-meteor-2-2026-1377570@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: STATE: 2 | EC BANGA: 0\nStream: https://kick.com/exort_en
+DTEND:20260221T162950Z
+DTSTART:20260221T150926Z
+SUMMARY:Round 1: STA vs EC BANGA
+UID:cs-go-exort-meteor-2-2026-1367438@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | Oxuji Esports: 1\nStream: https://kick.com/exort_en
+DTEND:20260223T143722Z
+DTSTART:20260223T121241Z
+SUMMARY:Round 2: QWE vs OXUJI
+UID:cs-go-exort-meteor-2-2026-1372400@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | QWENTRY: 2\nStream: https://kick.com/exort_en
+DTEND:20260228T165601Z
+DTSTART:20260228T152038Z
+SUMMARY:Round 5: MANA vs QWE
+UID:cs-go-exort-meteor-2-2026-1378746@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 0 | G2 Ares: 2\nStream: https://kick.com/exort_en
+DTEND:20260220T195720Z
+DTSTART:20260220T181300Z
+SUMMARY:Round 1: OXUJI vs G2.A
+UID:cs-go-exort-meteor-2-2026-1367435@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | aimclub: 1\nStream: https://kick.com/exort_en
+DTEND:20260220T121842Z
+DTSTART:20260220T091307Z
+SUMMARY:Round 1: UNiTY vs aimclub
+UID:cs-go-exort-meteor-2-2026-1367432@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Falcons Force: 2 | ex-FUT Academy: 0\nStream: https://kick.com/exort_en
+DTEND:20260226T165109Z
+DTSTART:20260226T150737Z
+SUMMARY:Round 4: Falcons Force vs ex-FUT Academy
+UID:cs-go-exort-meteor-2-2026-1376759@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | 33: 0\nStream: https://kick.com/exort_en
+DTEND:20260304T212927Z
+DTSTART:20260304T190558Z
+SUMMARY:Grand final: JJH vs 33
+UID:cs-go-exort-meteor-2-2026-1378859@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | WW Team: 1\nStream: https://kick.com/exort_en
+DTEND:20260303T203225Z
+DTSTART:20260303T181300Z
+SUMMARY:Quarterfinal 2: G2.A vs WW
+UID:cs-go-exort-meteor-2-2026-1378853@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 2 | STATE: 1\nStream: https://kick.com/exort_en
+DTEND:20260301T184214Z
+DTSTART:20260301T152020Z
+SUMMARY:Round of 16 match 6: ex-Zero Tenacity vs STA
+UID:cs-go-exort-meteor-2-2026-1378849@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Metizport: 2 | aimclub: 0\nStream: https://kick.com/exort_en
+DTEND:20260301T105422Z
+DTSTART:20260301T090631Z
+SUMMARY:Round of 16 match 7: MZP vs aimclub
+UID:cs-go-exort-meteor-2-2026-1378850@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: SPARTA: 1 | WW Team: 2\nStream: https://kick.com/exort_en
+DTEND:20260302T185112Z
+DTSTART:20260302T160153Z
+SUMMARY:Round of 16 match 3: SPARTA vs WW
+UID:cs-go-exort-meteor-2-2026-1378846@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | ex-FUT Academy: 0\nStream: https://kick.com/exort_en
+DTEND:20260222T133924Z
+DTSTART:20260222T120929Z
+SUMMARY:Round 2: MANA vs ex-FUT Academy
+UID:cs-go-exort-meteor-2-2026-1371193@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: EC BANGA: 0 | QWENTRY: 2\nStream: https://kick.com/exort_en
+DTEND:20260227T134701Z
+DTSTART:20260227T121244Z
+SUMMARY:Round 4: EC BANGA vs QWE
+UID:cs-go-exort-meteor-2-2026-1377572@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: EC BANGA: 2 |  Fingers Crossed Female: 0\nStream: https://kick.com/exort_en
+DTEND:20260223T192915Z
+DTSTART:20260223T180619Z
 SUMMARY:Round 2: EC BANGA vs  Fingers Crossed Female
 UID:cs-go-exort-meteor-2-2026-1372402@tournamentics
 END:VEVENT
@@ -44,11 +191,67 @@ SUMMARY:Round 1: WW vs Falcons Force
 UID:cs-go-exort-meteor-2-2026-1367437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: ex-FUT Academy: 0 | UNiTY esports: 2\nStream: https://kick.com/exort_en
+DTEND:20260228T200223Z
+DTSTART:20260228T182823Z
+SUMMARY:Round 5: ex-FUT Academy vs UNiTY
+UID:cs-go-exort-meteor-2-2026-1378745@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: STATE: 2 | G2 Ares: 1\nStream: https://kick.com/exort_en
+DTEND:20260224T144210Z
+DTSTART:20260224T121004Z
+SUMMARY:Round 3: STA vs G2.A
+UID:cs-go-exort-meteor-2-2026-1373777@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Ursa: 2 |  Fingers Crossed Female: 0\nStream: https://kick.com/exort_en
 DTEND:20260220T162605Z
 DTSTART:20260220T151243Z
 SUMMARY:Round 1: URSA vs  Fingers Crossed Female
 UID:cs-go-exort-meteor-2-2026-1367434@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | Falcons Force: 2\nStream: https://kick.com/exort_en
+DTEND:20260225T174738Z
+DTSTART:20260225T150716Z
+SUMMARY:Round 3: UNiTY vs Falcons Force
+UID:cs-go-exort-meteor-2-2026-1374941@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | QWENTRY: 0\nStream: https://kick.com/exort_en
+DTEND:20260304T133614Z
+DTSTART:20260304T120402Z
+SUMMARY:Semifinal 2: JJH vs QWE
+UID:cs-go-exort-meteor-2-2026-1378858@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Metizport: 1 | JiJieHao: 2\nStream: https://kick.com/exort_en
+DTEND:20260303T114053Z
+DTSTART:20260303T090513Z
+SUMMARY:Quarterfinal 4: MZP vs JJH
+UID:cs-go-exort-meteor-2-2026-1378855@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: 33: 2 | FORZE Reload: 0\nStream: https://kick.com/exort_en
+DTEND:20260303T143506Z
+DTSTART:20260303T121257Z
+SUMMARY:Quarterfinal 1: 33 vs FORZE.R
+UID:cs-go-exort-meteor-2-2026-1378852@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | QWENTRY: 2\nStream: https://kick.com/exort_en
+DTEND:20260301T132555Z
+DTSTART:20260301T121521Z
+SUMMARY:Round of 16 match 5: BIG.E vs QWE
+UID:cs-go-exort-meteor-2-2026-1378848@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | Ursa: 1\nStream: https://kick.com/exort_en
+DTEND:20260302T151643Z
+DTSTART:20260302T121405Z
+SUMMARY:Round of 16 match 2: FORZE.R vs URSA
+UID:cs-go-exort-meteor-2-2026-1378845@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | SINQU: 0\nStream: https://kick.com/exort_en
@@ -58,11 +261,18 @@ SUMMARY:Round 1:  CSDIILIT vs SINQU
 UID:cs-go-exort-meteor-2-2026-1367439@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
-DURATION:PT2H
-DTSTART:20260223T150000Z
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: SINQU: 0 | Falcons Force: 2\nStream: https://kick.com/exort_en
+DTEND:20260223T164051Z
+DTSTART:20260223T150647Z
 SUMMARY:Round 2: SINQU vs Falcons Force
 UID:cs-go-exort-meteor-2-2026-1372401@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Ursa: 2 | MANA eSports: 0\nStream: https://kick.com/exort_en
+DURATION:PT2H
+DTSTART:20260224T090000Z
+SUMMARY:Round 3: URSA vs MANA
+UID:cs-go-exort-meteor-2-2026-1373779@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 0 | MANA eSports: 2\nStream: https://kick.com/exort_en
@@ -72,31 +282,10 @@ SUMMARY:Round 1: BMB vs MANA
 UID:cs-go-exort-meteor-2-2026-1367436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: Ursa: 2 |  CSDIILIT: 0\nStream: https://kick.com/exort_en
-DTEND:20260222T193325Z
-DTSTART:20260222T180842Z
-SUMMARY:Round 2: URSA vs  CSDIILIT
-UID:cs-go-exort-meteor-2-2026-1371194@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
-DURATION:PT2H
-DTSTART:20260223T090000Z
-SUMMARY:Round 2: aimclub vs BMB
-UID:cs-go-exort-meteor-2-2026-1372403@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult: STATE: 2 | EC BANGA: 0\nStream: https://kick.com/exort_en
-DTEND:20260221T162950Z
-DTSTART:20260221T150926Z
-SUMMARY:Round 1: STA vs EC BANGA
-UID:cs-go-exort-meteor-2-2026-1367438@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
-DURATION:PT2H
-DTSTART:20260223T120000Z
-SUMMARY:Round 2: QWE vs OXUJI
-UID:cs-go-exort-meteor-2-2026-1372400@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Meteor - Season 2 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | aimclub: 2\nStream: https://kick.com/exort_en
+DTEND:20260228T133110Z
+DTSTART:20260228T120515Z
+SUMMARY:Round 5:  CSDIILIT vs aimclub
+UID:cs-go-exort-meteor-2-2026-1378744@tournamentics
 END:VEVENT
 END:VCALENDAR

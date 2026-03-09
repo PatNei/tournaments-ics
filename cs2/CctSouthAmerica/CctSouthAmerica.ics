@@ -2,109 +2,179 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: FURIA fe: 0 | Bad Luck: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260207T175358Z
-DTSTART:20260207T160253Z
-SUMMARY:Round 3: FURIA.F vs Bad Luck
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343560@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Players: 1 | METANOIA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260225T011828Z
+DTSTART:20260224T221124Z
+SUMMARY:Round 2: PLS vs METANOIAGG
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369801@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Players: 2 | Crashers: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260205T184916Z
-DTSTART:20260205T160425Z
-SUMMARY:Round 2: PLS vs CRASH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343462@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Isurus: 0 | Keyd: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260305T231629Z
+DTSTART:20260305T214240Z
+SUMMARY:Grand final: ISG vs Keyd
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369833@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Sharks: 2 | 9z: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260215T005729Z
-DTSTART:20260214T220821Z
-SUMMARY:Quarterfinal 3: SHK vs 9z
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343448@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260304T190000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Keyd: 2 | ex-KRÜ Esports: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260305T014252Z
+DTSTART:20260304T224111Z
+SUMMARY:Quarterfinal 3: Keyd vs ex-KRÜ Esports
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369829@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ODDIK: 0 | Fake do Biru: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260213T192012Z
-DTSTART:20260213T163817Z
-SUMMARY:Round of 16 match 8: ODK vs FDB
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343445@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | largadosypelados: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260304T155618Z
+DTSTART:20260304T130542Z
+SUMMARY:Quarterfinal 4: BHE vs LDP
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260303T220000Z
-SUMMARY:Round 16 match 8: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 1 | Isurus: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260304T001649Z
+DTSTART:20260303T220501Z
+SUMMARY:Round 16 match 8: FDB vs ISG
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369826@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Sharks: 2 | ex-KRÜ Esports: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260212T234035Z
-DTSTART:20260212T220525Z
-SUMMARY:Round of 16 match 5: SHK vs ex-KRÜ Esports
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343442@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260303T130000Z
-SUMMARY:Round 16 match 5: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: ex-KRÜ Esports: 2 | Game Hunters: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260303T154125Z
+DTSTART:20260303T131415Z
+SUMMARY:Round 16 match 5: ex-KRÜ Esports vs GH
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260302T160000Z
-SUMMARY:Round 16 match 2: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Keyd: 2 | Vasco Esports: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260302T173428Z
+DTSTART:20260302T160523Z
+SUMMARY:Round 16 match 1: Keyd vs VSC
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369819@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Crashers: 2 | ELITES: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260223T142233Z
+DTSTART:20260223T130751Z
+SUMMARY:Round 2: CRASH vs ELI
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369794@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 0 | Vasco Esports: 2\nStream: https://www.twitch.tv/betboom_cs_ru5
+DTEND:20260301T164524Z
+DTSTART:20260301T150610Z
+SUMMARY:Round 5: Bad Luck vs VSC
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369816@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: MIBR fe: 0 | R2 Esports Club: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260302T143131Z
+DTSTART:20260302T130607Z
+SUMMARY:Round 16 match 2: MIBR.F vs R2
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369820@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260226T220000Z
-SUMMARY:Round 3: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | paiN Academy: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260222T175943Z
+DTSTART:20260222T162220Z
+SUMMARY:Round 1: GH vs paiN.A
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369791@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 2 | ELITES: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260221T174312Z
+DTSTART:20260221T164102Z
+SUMMARY:Round 1: Bad Luck vs ELI
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369787@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: R2 Esports Club: 1 | paiN Academy: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260228T172458Z
+DTSTART:20260228T151147Z
+SUMMARY:Round 4: R2 vs paiN.A
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369813@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | R2 Esports Club: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260227T004056Z
+DTSTART:20260226T220548Z
+SUMMARY:Round 3: GH vs R2
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369809@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260226T130000Z
-SUMMARY:Round 3: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 2 | Alzon: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260227T164603Z
+DTSTART:20260227T151443Z
+SUMMARY:Round 4: Bad Luck vs Alzon
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369810@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Crashers: 1 | Vasco Esports: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260226T154155Z
+DTSTART:20260226T131135Z
+SUMMARY:Round 3: CRASH vs VSC
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369806@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260225T160000Z
-SUMMARY:Round 3: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: UNO MILLE: 2 | ELITES: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260225T174832Z
+DTSTART:20260225T161334Z
+SUMMARY:Round 3: UNO vs ELI
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369803@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260224T190000Z
-SUMMARY:Round 2: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 2 | Isurus: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260224T213838Z
+DTSTART:20260224T190801Z
+SUMMARY:Round 2: FA vs ISG
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369800@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260224T160000Z
-SUMMARY:Round 2: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Isurus: 2 | FURIA fe: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260304T184626Z
+DTSTART:20260304T161508Z
+SUMMARY:Quarterfinal 2: ISG vs FURIA.F
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369828@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Keyd: 2 | Bounty Hunters Esports: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260305T205258Z
+DTSTART:20260305T181039Z
+SUMMARY:Semifinal 2: Keyd vs BHE
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369832@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 1 | R2 Esports Club: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260224T184445Z
+DTSTART:20260224T160820Z
+SUMMARY:Round 2: Bad Luck vs R2
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369799@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260223T190000Z
-SUMMARY:Round 2: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Crashers: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260303T205537Z
+DTSTART:20260303T190410Z
+SUMMARY:Round 16 match 7: BHE vs CRASH
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369825@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: UNO MILLE: 1 | paiN Academy: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260223T222533Z
+DTSTART:20260223T190724Z
+SUMMARY:Round 2: UNO vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369796@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 1 | FOLHA AMARELA: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260303T005053Z
+DTSTART:20260302T220719Z
+SUMMARY:Round 16 match 4: PCY vs FA
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369822@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Players: 1 | R2 Esports Club: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260301T234458Z
+DTSTART:20260301T211242Z
+SUMMARY:Round 5: PLS vs R2
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369818@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Players: 2 | Alzon: 0\nStream: https://kick.com/cct_cs3
@@ -121,305 +191,11 @@ SUMMARY:Round 1: CRASH vs R2
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369790@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 0 | Game Hunters: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260211T200947Z
-DTSTART:20260211T181101Z
-SUMMARY:Round 5: Bad Luck vs GH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343574@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Bad Luck: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260210T213823Z
-DTSTART:20260210T184853Z
-SUMMARY:Round 4: FDB vs Bad Luck
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343571@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 1 | Vasco Esports: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260206T184837Z
-DTSTART:20260206T160344Z
-SUMMARY:Round 2: FA vs VSC
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343479@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | BESTIA Academy: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260205T202800Z
-DTSTART:20260205T190906Z
-SUMMARY:Round 2: SHIN vs BST.A
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343470@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 2 | Game Hunters: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260204T212858Z
-DTSTART:20260204T191147Z
-SUMMARY:Round 1: FA vs GH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343459@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | BESTIA Academy: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260204T001237Z
-DTSTART:20260203T223733Z
-SUMMARY:Round 1: FDB vs BST.A
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343456@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ShindeN: 1 | 9z: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260203T192509Z
-DTSTART:20260203T161904Z
-SUMMARY:Round 1: SHIN vs 9z
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343453@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: largadosypelados: 0 | RED Canids: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260215T164116Z
-DTSTART:20260215T150417Z
-SUMMARY:Semifinal 1: LDP vs RED
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343450@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260305T150000Z
-SUMMARY:Semifinal 1: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369831@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Galorys: 0 | largadosypelados: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260213T213934Z
-DTSTART:20260213T194643Z
-SUMMARY:Round of 16 match 2: GLS vs LDP
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343439@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260301T180000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369817@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260228T180000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369814@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ex-KRÜ Esports: 2 | Bad Luck: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260206T210604Z
-DTSTART:20260206T190602Z
-SUMMARY:Round 2: ex-KRÜ Esports vs Bad Luck
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343514@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260227T180000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369811@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 2 | ELITES: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260221T174312Z
-DTSTART:20260221T164102Z
-SUMMARY:Round 1: Bad Luck vs ELI
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369787@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: FURIA fe: 0 | Crashers: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260209T200559Z
-DTSTART:20260209T180159Z
-SUMMARY:Round 4: FURIA.F vs CRASH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343568@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | Vasco Esports: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260208T204930Z
-DTSTART:20260208T190821Z
-SUMMARY:Round 3: LDP vs VSC
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343565@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 0 | RED Canids: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260214T174418Z
-DTSTART:20260214T160726Z
-SUMMARY:Quarterfinal 2: FA vs RED
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343447@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260304T160000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369828@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 0 | 9z: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260207T000544Z
-DTSTART:20260206T220721Z
-SUMMARY:Round 2: FDB vs 9z
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343528@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:❌ CANCELED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260212T130000Z
-SUMMARY:Round of 16 match 7: MIBR vs SHIN
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343444@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260303T190000Z
-SUMMARY:Round 16 match 7: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369825@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Keyd: 0 | FOLHA AMARELA: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260212T175510Z
-DTSTART:20260212T160649Z
-SUMMARY:Round of 16 match 4: Keyd vs FA
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343441@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260302T220000Z
-SUMMARY:Round 16 match 4: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369822@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260226T190000Z
-SUMMARY:TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369808@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260225T220000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369805@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260225T130000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369802@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260224T130000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369798@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260223T160000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369795@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Vasco Esports: 2 | UNO MILLE: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260222T204407Z
-DTSTART:20260222T190915Z
-SUMMARY:Round 1: VSC vs UNO
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369792@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ex-KRÜ Esports: 2 | BESTIA Academy: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260211T165954Z
-DTSTART:20260211T150540Z
-SUMMARY:Round 5: ex-KRÜ Esports vs BST.A
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343573@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ex-KRÜ Esports: 1 | FOLHA AMARELA: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260210T182738Z
-DTSTART:20260210T150701Z
-SUMMARY:Round 4: ex-KRÜ Esports vs FA
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343570@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | largadosypelados: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260206T143836Z
-DTSTART:20260206T130656Z
-SUMMARY:Round 2: PCY vs LDP
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343478@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Curralzinho: 0 | BESTIA Academy: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260207T144841Z
-DTSTART:20260207T132215Z
-SUMMARY:Round 3: Curralzinho vs BST.A
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343559@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: FURIA fe: 0 | Vasco Esports: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260203T214838Z
-DTSTART:20260203T194228Z
-SUMMARY:Round 1: FURIA.F vs VSC
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343455@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: RED Canids: 0 | Sharks: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260215T232045Z
-DTSTART:20260215T210540Z
-SUMMARY:Grand final: RED vs SHK
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343452@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260305T210000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369833@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260304T220000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369830@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Fluxo: 1 | Game Hunters: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260213T161731Z
-DTSTART:20260213T131431Z
-SUMMARY:Round of 16 match 1: FX vs GH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343438@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260302T130000Z
-SUMMARY:Round 16 match 1: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369819@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260301T150000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369816@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260228T150000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369813@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260227T150000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369810@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Vasco Esports: 0 | Isurus: 2\nStream: https://www.twitch.tv/betboom_cs_ru5
+DTEND:20260228T221625Z
+DTSTART:20260228T210722Z
+SUMMARY:Round 4: VSC vs ISG
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369815@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | Isurus: 2\nStream: https://kick.com/cct_cs3
@@ -429,179 +205,81 @@ SUMMARY:Round 1: LDP vs ISG
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369786@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Players: 0 | Game Hunters: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260209T170019Z
-DTSTART:20260209T150052Z
-SUMMARY:Round 4: PLS vs GH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343567@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Crashers: 2 | UNO MILLE: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260227T225420Z
+DTSTART:20260227T210953Z
+SUMMARY:Round 4: CRASH vs UNO
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369812@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Players: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260208T181229Z
-DTSTART:20260208T160856Z
-SUMMARY:Round 3: FDB vs PLS
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343564@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 2 | METANOIA: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260226T202921Z
+DTSTART:20260226T190657Z
+SUMMARY:Round 3: FA vs METANOIA
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369808@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | Game Hunters: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260207T203454Z
-DTSTART:20260207T191210Z
-SUMMARY:Round 3: SHIN vs GH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343561@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Players: 1 | Isurus: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260226T004931Z
+DTSTART:20260225T221849Z
+SUMMARY:Round 3: PLS vs ISG
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369805@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Players: 1 | Bad Luck: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260205T005945Z
-DTSTART:20260204T220625Z
-SUMMARY:Round 1: PLS vs Bad Luck
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343460@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: R2 Esports Club: 0 | Isurus: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260305T162837Z
+DTSTART:20260305T150718Z
+SUMMARY:Semifinal 1: R2 vs ISG
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | Fake do Biru: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260214T152118Z
-DTSTART:20260214T131156Z
-SUMMARY:Quarterfinal 4: SHIN vs FDB
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343449@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 0 | largadosypelados: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260214T205823Z
-DTSTART:20260214T190448Z
-SUMMARY:Quarterfinal 1: GH vs LDP
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343446@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260304T130000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: R2 Esports Club: 2 | FOLHA AMARELA: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260304T222523Z
+DTSTART:20260304T190851Z
+SUMMARY:Quarterfinal 1: R2 vs FA
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369827@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 0 | 9z: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260214T000157Z
-DTSTART:20260213T221141Z
-SUMMARY:Round of 16 match 6: BHE vs 9z
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343443@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | Vasco Esports: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260224T150110Z
+DTSTART:20260224T131021Z
+SUMMARY:Round 2: GH vs VSC
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369798@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260303T160000Z
-SUMMARY:Round 16 match 6: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Yawara Esports: 0 | largadosypelados: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260303T175313Z
+DTSTART:20260303T160531Z
+SUMMARY:Round 16 match 6: YAW vs LDP
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260302T190000Z
-SUMMARY:Round 16 match 3: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | Alzon: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260223T172614Z
+DTSTART:20260223T160839Z
+SUMMARY:Round 2: LDP vs Alzon
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369795@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: FURIA fe: 2 | paiN Academy: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260302T213322Z
+DTSTART:20260302T190701Z
+SUMMARY:Round 16 match 3: FURIA.F vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260226T160000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369807@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Crashers: 2 | METANOIA: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260301T200426Z
+DTSTART:20260301T181257Z
+SUMMARY:Round 5: CRASH vs METANOIA
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369817@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260225T190000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369804@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260224T220000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369801@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260223T220000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369797@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260223T130000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369794@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | paiN Academy: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260222T175943Z
-DTSTART:20260222T162220Z
-SUMMARY:Round 1: GH vs paiN.A
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369791@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | Crashers: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260211T221913Z
-DTSTART:20260211T210138Z
-SUMMARY:Round 5: SHIN vs CRASH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343575@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ShindeN: 0 | Vasco Esports: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260210T234827Z
-DTSTART:20260210T220241Z
-SUMMARY:Round 4: SHIN vs VSC
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343572@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Curralzinho: 0 | Game Hunters: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260205T232922Z
-DTSTART:20260205T220412Z
-SUMMARY:Round 2: Curralzinho vs GH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343471@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 2 | Crashers: 1\nStream: https://kick.com/cct_cs3
-DTEND:20260204T154123Z
-DTSTART:20260204T130357Z
-SUMMARY:Round 1: PCY vs CRASH
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343457@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Sharks: 2 | ShindeN: 0\nStream: https://kick.com/cct_cs3
-DTEND:20260215T194821Z
-DTSTART:20260215T181021Z
-SUMMARY:Semifinal 2: SHK vs SHIN
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343451@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260305T180000Z
-SUMMARY:Semifinal 2: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369832@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260301T210000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369818@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260228T210000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369815@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260227T210000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369812@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Vasco Esports: 2 | UNO MILLE: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260222T204407Z
+DTSTART:20260222T190915Z
+SUMMARY:Round 1: VSC vs UNO
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369792@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: FOLHA AMARELA: 2 | Damajuana: 0\nStream: https://kick.com/cct_cs3
@@ -611,24 +289,24 @@ SUMMARY:Round 1: FA vs Damajuana
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369788@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 1 | BESTIA Academy: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260210T000414Z
-DTSTART:20260209T211034Z
-SUMMARY:Round 4: PCY vs BST.A
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343569@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Players: 2 | Damajuana: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260227T202204Z
+DTSTART:20260227T180904Z
+SUMMARY:Round 4: PLS vs Damajuana
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369811@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: ex-KRÜ Esports: 0 | 9z: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260208T233800Z
-DTSTART:20260208T220710Z
-SUMMARY:Round 3: ex-KRÜ Esports vs 9z
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343566@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: Bad Luck: 0 | paiN Academy: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260226T175617Z
+DTSTART:20260226T160822Z
+SUMMARY:Round 3: Bad Luck vs paiN.A
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369807@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #8 season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | FOLHA AMARELA: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260208T144917Z
-DTSTART:20260208T130807Z
-SUMMARY:Round 3: PCY vs FA
-UID:cs-go-champion-of-champions-tour-series-8-3-2026-1343563@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #9 season 3 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | Damajuana: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260225T203216Z
+DTSTART:20260225T190651Z
+SUMMARY:Round 3: LDP vs Damajuana
+UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369804@tournamentics
 END:VEVENT
 END:VCALENDAR

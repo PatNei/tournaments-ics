@@ -2,41 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | Let Her Cook: 1\nStream: https://kick.com/jbproleague
-DTEND:20260215T192719Z
-DTSTART:20260215T170423Z
-SUMMARY:Grand final: PGE vs LHC
-UID:cs-go-jb-pro-league-female-1-2026-1354017@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Let Her Cook: 2 |  Fingers Crossed Female: 0\nStream: https://kick.com/jbproleague
-DTEND:20260214T131423Z
-DTSTART:20260214T113911Z
-SUMMARY:Lower bracket semifinal: LHC vs  Fingers Crossed Female
-UID:cs-go-jb-pro-league-female-1-2026-1354014@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260224T150000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-jb-pro-league-season-2-2026-1364599@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Let Her Cook: 2 | hindsight: 1\nStream: https://www.twitch.tv/affinity_mp4
-DTEND:20260212T233326Z
-DTSTART:20260212T202721Z
-SUMMARY:Decider match: LHC vs hindsight
-UID:cs-go-jb-pro-league-female-1-2026-1354011@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 2 | confidence: 0\nStream: https://www.twitch.tv/jbproleague
-DTEND:20260210T192249Z
-DTSTART:20260210T170703Z
-SUMMARY:BIG.E vs CONF
-UID:cs-go-jb-pro-league-female-1-2026-1354007@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | kONO.ECF: 1\nStream: https://www.twitch.tv/jbproleague
 DTEND:20260221T180735Z
 DTSTART:20260221T150826Z
@@ -44,17 +9,10 @@ SUMMARY:Round 3: ARC vs ECF
 UID:cs-go-jb-pro-league-season-2-2026-1364537@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | Peekaboo: 0\nStream: https://kick.com/jbproleague
-DTEND:20260211T182413Z
-DTSTART:20260211T170530Z
-SUMMARY:Winners match: PGE vs Peekaboo
-UID:cs-go-jb-pro-league-female-1-2026-1354004@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260301T180000Z
-SUMMARY:Grand final: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | Lazer Cats: 0\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260301T195839Z
+DTSTART:20260301T180658Z
+SUMMARY:Grand final: KOL vs LC
 UID:cs-go-jb-pro-league-season-2-2026-1364615@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,17 +23,17 @@ SUMMARY:Round 3: OlyBet SB vs ex-Zero Tenacity
 UID:cs-go-jb-pro-league-season-2-2026-1364527@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260228T180000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: ex-Fingers Crossed: 1 | los kogutos: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260228T182237Z
+DTSTART:20260228T154417Z
+SUMMARY:Quarterfinal 4: ex-Fingers Crossed vs LK
 UID:cs-go-jb-pro-league-season-2-2026-1364612@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260227T180000Z
-SUMMARY:Round of 16 match 8: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: Leo Team: 0 | WW Team: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260227T205817Z
+DTSTART:20260227T182321Z
+SUMMARY:Round of 16 match 6: Leo vs WW
 UID:cs-go-jb-pro-league-season-2-2026-1364608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,16 +44,16 @@ SUMMARY:Round 3: WW vs  CSDIILIT
 UID:cs-go-jb-pro-league-season-2-2026-1364524@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260227T090000Z
-SUMMARY:Round of 16 match 5: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | VP.Prodigy: 0\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260227T104044Z
+DTSTART:20260227T090445Z
+SUMMARY:Round of 16 match 1: SASHI vs VP.P
 UID:cs-go-jb-pro-league-season-2-2026-1364605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260223T150000Z
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: Lazer Cats: 2 |  CSDIILIT: 1\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260223T180200Z
+DTSTART:20260223T153256Z
 SUMMARY:Round 4: LC vs  CSDIILIT
 UID:cs-go-jb-pro-league-season-2-2026-1364576@tournamentics
 END:VEVENT
@@ -107,10 +65,10 @@ SUMMARY:Round 2: Omega vs VP.P
 UID:cs-go-jb-pro-league-season-2-2026-1364521@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260226T120000Z
-SUMMARY:Round of 16 match 2: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | FUZOS: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260226T134152Z
+DTSTART:20260226T122319Z
+SUMMARY:Round of 16 match 4: BIG.E vs FUZOS
 UID:cs-go-jb-pro-league-season-2-2026-1364602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -142,53 +100,18 @@ SUMMARY:Round 1: ARC vs PRIME
 UID:cs-go-jb-pro-league-season-2-2026-1363236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260223T120000Z
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: FUZOS: 2 | ex-Zero Tenacity: 1\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260223T152355Z
+DTSTART:20260223T120911Z
 SUMMARY:Round 4: FUZOS vs ex-Zero Tenacity
 UID:cs-go-jb-pro-league-season-2-2026-1364563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 1 | Let Her Cook: 2\nStream: https://kick.com/jbproleague
-DTEND:20260214T212555Z
-DTSTART:20260214T184109Z
-SUMMARY:Lower bracket final: BIG.E vs LHC
-UID:cs-go-jb-pro-league-female-1-2026-1354016@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 2 |  Fingers Crossed Female: 1\nStream: https://kick.com/jbproleague
-DTEND:20260213T225029Z
-DTSTART:20260213T202222Z
-SUMMARY:Upper bracket semifinal 2: BIG.E vs  Fingers Crossed Female
-UID:cs-go-jb-pro-league-female-1-2026-1354013@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 2 | Let Her Cook: 0\nStream: https://kick.com/jbproleague
-DTEND:20260211T220507Z
-DTSTART:20260211T202148Z
-SUMMARY:Winners match: BIG.E vs LHC
-UID:cs-go-jb-pro-league-female-1-2026-1354009@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260223T180000Z
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: los kogutos: 1 | ENCE Academy: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260223T204812Z
+DTSTART:20260223T184257Z
 SUMMARY:Round 4: LK vs ENCE.A
 UID:cs-go-jb-pro-league-season-2-2026-1364598@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: confidence: 1 | hindsight: 2\nStream: No official stream linked
-DTEND:20260212T193023Z
-DTSTART:20260212T171510Z
-SUMMARY:Elimination match: CONF vs hindsight
-UID:cs-go-jb-pro-league-female-1-2026-1354010@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Peekaboo: 1 |  Fingers Crossed Female: 2\nStream: https://kick.com/jbproleague
-DTEND:20260212T223030Z
-DTSTART:20260212T202245Z
-SUMMARY:Decider match: Peekaboo vs  Fingers Crossed Female
-UID:cs-go-jb-pro-league-female-1-2026-1354006@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | VP.Prodigy: 1\nStream: https://www.twitch.tv/jbproleague
@@ -198,31 +121,24 @@ SUMMARY:Round 3: LK vs VP.P
 UID:cs-go-jb-pro-league-season-2-2026-1364536@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Peekaboo: 2 |  Fingers Crossed Female: 0\nStream: https://kick.com/jbproleague
-DTEND:20260209T221601Z
-DTSTART:20260209T204205Z
-SUMMARY:Peekaboo vs  Fingers Crossed Female
-UID:cs-go-jb-pro-league-female-1-2026-1354003@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260301T143000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | los kogutos: 0\nStream: https://www.twitch.tv/luffastream
+DTEND:20260301T130502Z
+DTSTART:20260301T111557Z
+SUMMARY:Semifinal 2: KOL vs LK
 UID:cs-go-jb-pro-league-season-2-2026-1364614@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260228T150000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | WW Team: 1\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260228T152744Z
+DTSTART:20260228T120934Z
+SUMMARY:Quarterfinal 3: KOL vs WW
 UID:cs-go-jb-pro-league-season-2-2026-1364611@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260227T150000Z
-SUMMARY:Round of 16 match 7: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: ex-Fingers Crossed: 2 | ENCE Academy: 1\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260227T180306Z
+DTSTART:20260227T150836Z
+SUMMARY:Round of 16 match 8: ex-Fingers Crossed vs ENCE.A
 UID:cs-go-jb-pro-league-season-2-2026-1364607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -233,10 +149,10 @@ SUMMARY:Round 2: WW vs home
 UID:cs-go-jb-pro-league-season-2-2026-1364523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260226T180000Z
-SUMMARY:Round of 16 match 4: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | los kogutos: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260226T211852Z
+DTSTART:20260226T185627Z
+SUMMARY:Round of 16 match 7: MOUZ.N vs LK
 UID:cs-go-jb-pro-league-season-2-2026-1364604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -254,10 +170,10 @@ SUMMARY:Round 2: ECF vs LK
 UID:cs-go-jb-pro-league-season-2-2026-1364516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260226T090000Z
-SUMMARY:Round of 16 match 1: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: Phantom: 1 | Lazer Cats: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260226T121009Z
+DTSTART:20260226T090700Z
+SUMMARY:Round of 16 match 3: PHA vs LC
 UID:cs-go-jb-pro-league-season-2-2026-1364601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -282,52 +198,17 @@ SUMMARY:Round 4: BW vs VP.P
 UID:cs-go-jb-pro-league-season-2-2026-1364555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | BIG EQUIPA: 0\nStream: https://kick.com/jbproleague
-DTEND:20260214T164508Z
-DTSTART:20260214T150912Z
-SUMMARY:Upper bracket final: PGE vs BIG.E
-UID:cs-go-jb-pro-league-female-1-2026-1354015@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | Let Her Cook: 0\nStream: https://kick.com/jbproleague
-DTEND:20260213T183858Z
-DTSTART:20260213T171724Z
-SUMMARY:Upper bracket semifinal 1: PGE vs LHC
-UID:cs-go-jb-pro-league-female-1-2026-1354012@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Let Her Cook: 2 | hindsight: 1\nStream: https://kick.com/jbproleague
-DTEND:20260210T231255Z
-DTSTART:20260210T202802Z
-SUMMARY:LHC vs hindsight
-UID:cs-go-jb-pro-league-female-1-2026-1354008@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: imodium: 1 |  Fingers Crossed Female: 2\nStream: https://www.twitch.tv/corvex666
-DTEND:20260212T192201Z
-DTSTART:20260212T171731Z
-SUMMARY:Elimination match: imodium vs  Fingers Crossed Female
-UID:cs-go-jb-pro-league-female-1-2026-1354005@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Female season 1 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | imodium: 0\nStream: https://kick.com/jbproleague
-DTEND:20260209T182339Z
-DTSTART:20260209T171543Z
-SUMMARY:PGE vs imodium
-UID:cs-go-jb-pro-league-female-1-2026-1354002@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260301T110000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: Sashi Esport: 0 | Lazer Cats: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260301T162857Z
+DTSTART:20260301T144403Z
+SUMMARY:Semifinal 1: SASHI vs LC
 UID:cs-go-jb-pro-league-season-2-2026-1364613@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260228T090000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: Omega: 1 | Sashi Esport: 2\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260228T215110Z
+DTSTART:20260228T184017Z
+SUMMARY:Quarterfinal 1: OMG vs SASHI
 UID:cs-go-jb-pro-league-season-2-2026-1364609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -338,24 +219,17 @@ SUMMARY:Round 3: Omega vs FUZOS
 UID:cs-go-jb-pro-league-season-2-2026-1364525@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260228T120000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-jb-pro-league-season-2-2026-1364610@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260227T120000Z
-SUMMARY:Round of 16 match 6: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: KOLESIE: 2 | ARCRED: 0\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260227T132818Z
+DTSTART:20260227T121830Z
+SUMMARY:Round of 16 match 5: KOL vs ARC
 UID:cs-go-jb-pro-league-season-2-2026-1364606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260224T180000Z
-SUMMARY:Round 5: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: los kogutos: 2 |  CSDIILIT: 0\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260224T203417Z
+DTSTART:20260224T180904Z
+SUMMARY:Round 5: LK vs  CSDIILIT
 UID:cs-go-jb-pro-league-season-2-2026-1364577@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -373,17 +247,10 @@ SUMMARY:Round 2: ex-Zero Tenacity vs BW
 UID:cs-go-jb-pro-league-season-2-2026-1364518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260226T150000Z
-SUMMARY:Round of 16 match 3: TBD vs TBD
-UID:cs-go-jb-pro-league-season-2-2026-1364603@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jbproleague
-DURATION:PT2H
-DTSTART:20260224T180000Z
-SUMMARY:Round 5: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | ex-Zero Tenacity: 0\nStream: https://www.twitch.tv/jbproleague
+DTEND:20260224T141011Z
+DTSTART:20260224T120729Z
+SUMMARY:Round 5: ARC vs ex-Zero Tenacity
 UID:cs-go-jb-pro-league-season-2-2026-1364600@tournamentics
 END:VEVENT
 BEGIN:VEVENT

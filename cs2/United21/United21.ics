@@ -2,24 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260223T090000Z
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | NAVI Junior: 2\nStream: https://kick.com/united21_en
+DTEND:20260305T154629Z
+DTSTART:20260305T140005Z
+SUMMARY:Upper bracket final: Imperial.A vs NAVI.J
+UID:cs-go-united21-45-2026-1378771@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | LPH Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260304T132359Z
+DTSTART:20260304T091045Z
+SUMMARY:Lower bracket quarterfinal 1: MISA vs LPH
+UID:cs-go-united21-45-2026-1378767@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | Inner Circle Academy: 0\nStream: https://kick.com/united21_en
+DTEND:20260223T110114Z
+DTSTART:20260223T090829Z
 SUMMARY:Winners match: MISA vs Inner Circle Academy
 UID:cs-go-united21-45-2026-1365964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | VP.Prodigy: 2\nStream: https://kick.com/united21_en
-DTEND:20260205T105444Z
-DTSTART:20260205T091411Z
-SUMMARY:Winners match: Imperial.A vs VP.P
-UID:cs-go-united21-44-2026-1339676@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260227T090000Z
-SUMMARY:Decider match: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: megoshort: 1 | Imperial Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260227T115601Z
+DTSTART:20260227T091242Z
+SUMMARY:Decider match: MEGO vs Imperial.A
 UID:cs-go-united21-45-2026-1365961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -30,18 +37,25 @@ SUMMARY:LPH vs Imperial.A
 UID:cs-go-united21-45-2026-1365957@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260225T090000Z
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | Sangal ALTERS: 1\nStream: https://kick.com/united21_en
+DTEND:20260225T130049Z
+DTSTART:20260225T090803Z
 SUMMARY:Winners match: NAVI.J vs SNG
 UID:cs-go-united21-45-2026-1365954@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260226T090000Z
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: ex-FUT Academy: 0 | STATE: 2\nStream: https://kick.com/united21_en
+DTEND:20260226T103154Z
+DTSTART:20260226T091256Z
 SUMMARY:Decider match: ex-FUT Academy vs STA
 UID:cs-go-united21-45-2026-1365951@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260317T090000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392365@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: STATE: 1 | ex-FUT Academy: 2\nStream: https://kick.com/united21_en
@@ -51,88 +65,74 @@ SUMMARY:STA vs ex-FUT Academy
 UID:cs-go-united21-45-2026-1365947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: LAGUNA: 2 | HEROIC Academy: 1\nStream: https://www.kick.com/united21_en
-DTEND:20260206T172016Z
-DTSTART:20260206T141827Z
-SUMMARY:Decider match: LAG vs HERO.A
-UID:cs-go-united21-44-2026-1339484@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: LAGUNA: 2 | ex-FUT Academy: 1\nStream: https://kick.com/united21_en
-DTEND:20260213T141622Z
-DTSTART:20260213T114321Z
-SUMMARY:Lower bracket semifinal: LAG vs ex-FUT Academy
-UID:cs-go-united21-44-2026-1352365@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | ex-FUT Academy: 2\nStream: https://kick.com/united21_en
-DTEND:20260212T155139Z
-DTSTART:20260212T141420Z
-SUMMARY:Lower bracket quarterfinal 1: MISA vs ex-FUT Academy
-UID:cs-go-united21-44-2026-1352362@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: 8Sins: 0 | Misa Esports: 2\nStream: https://kick.com/united21_en
-DTEND:20260210T105418Z
-DTSTART:20260210T090528Z
-SUMMARY:Lower bracket round 1 match 1: 8S vs MISA
-UID:cs-go-united21-44-2026-1352358@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Midnight: 2 | Sangal ALTERS: 0\nStream: https://kick.com/united21_en
-DTEND:20260204T103642Z
-DTSTART:20260204T091046Z
-SUMMARY:Winners match: MID vs SNG
-UID:cs-go-united21-44-2026-1339562@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: ALGO Esports: 1 | Truck Drivers: 2\nStream: https://kick.com/united21_en
-DTEND:20260203T150054Z
-DTSTART:20260203T113955Z
-SUMMARY:Elimination match: ALGO vs TD
-UID:cs-go-united21-44-2026-1339558@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Alliance: 2 | Misa Esports: 0\nStream: https://kick.com/united21_en
-DTEND:20260208T130909Z
-DTSTART:20260208T113239Z
-SUMMARY:Upper bracket quarterfinal 2: ALL vs MISA
-UID:cs-go-united21-44-2026-1352355@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: megoshort: 1 | HEROIC Academy: 2\nStream: https://www.kick.com/united21_en
-DTEND:20260129T144503Z
-DTSTART:20260129T120510Z
-SUMMARY:megoshort vs HERO.A
-UID:cs-go-united21-44-2026-1339481@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Alliance: 2 | ALGO Esports: 1\nStream: https://www.kick.com/united21_en
-DTEND:20260130T120638Z
-DTSTART:20260130T091233Z
-SUMMARY:ALL vs ALGO
-UID:cs-go-united21-44-2026-1339555@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260226T113000Z
+DTSTART:20260319T090000Z
 SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392362@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260312T090000Z
+SUMMARY:SNG vs Imperial.A
+UID:cs-go-united21-46-2026-1392358@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260315T090000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392355@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260318T090000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392352@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260310T090000Z
+SUMMARY:NAVI.J vs STA
+UID:cs-go-united21-46-2026-1392348@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: FOKUS REALITY: 0 | Misa Esports: 2\nStream: https://kick.com/united21_en
+DTEND:20260302T105742Z
+DTSTART:20260302T090347Z
+SUMMARY:Lower bracket round 1 match 1: FOKUS REALITY vs MISA
+UID:cs-go-united21-45-2026-1378773@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | HEROIC Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260305T131740Z
+DTSTART:20260305T113441Z
+SUMMARY:Lower bracket semifinal: LPH vs HERO.A
+UID:cs-go-united21-45-2026-1378769@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | HEROIC Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260226T141728Z
+DTSTART:20260226T113759Z
+SUMMARY:Decider match: Inner Circle Academy vs HERO.A
 UID:cs-go-united21-45-2026-1365966@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Alliance: 1 | VP.Prodigy: 2\nStream: https://kick.com/united21_en
-DTEND:20260215T114852Z
-DTSTART:20260215T090226Z
-SUMMARY:Grand final: ALL vs VP.P
-UID:cs-go-united21-44-2026-1352423@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | Imperial Academy: 0\nStream: https://kick.com/united21_en
+DTEND:20260306T122159Z
+DTSTART:20260306T104013Z
+SUMMARY:Lower bracket final: HERO.A vs Imperial.A
+UID:cs-go-united21-45-2026-1378770@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | 8Sins: 2\nStream: https://kick.com/united21_en
-DTEND:20260207T140047Z
-DTSTART:20260207T113950Z
-SUMMARY:Decider match: Imperial.A vs 8S
-UID:cs-go-united21-44-2026-1339678@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | NAVI Junior: 2\nStream: https://kick.com/united21_en
+DTEND:20260303T141228Z
+DTSTART:20260303T123451Z
+SUMMARY:Upper bracket semifinal 2: LPH vs NAVI.J
+UID:cs-go-united21-45-2026-1378766@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: XI Esport: 0 | Inner Circle Academy: 2\nStream: https://kick.com/united21_en
@@ -142,31 +142,24 @@ SUMMARY:XI vs Inner Circle Academy
 UID:cs-go-united21-45-2026-1365963@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260224T090000Z
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | megoshort: 1\nStream: https://kick.com/united21_en
+DTEND:20260224T112739Z
+DTSTART:20260224T090545Z
 SUMMARY:Winners match: LPH vs MEGO
 UID:cs-go-united21-45-2026-1365959@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 2 | NAVI Junior: 0\nStream: https://kick.com/united21_en
-DTEND:20260201T131227Z
-DTSTART:20260201T113404Z
-SUMMARY:VP.P vs NAVI.J
-UID:cs-go-united21-44-2026-1339675@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260224T113000Z
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | Prestige: 1\nStream: https://kick.com/united21_en
+DTEND:20260224T144832Z
+DTSTART:20260224T114828Z
 SUMMARY:Elimination match: Imperial.A vs PRE
 UID:cs-go-united21-45-2026-1365960@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260227T113000Z
-SUMMARY:Decider match: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 1 | ReThink: 2\nStream: https://kick.com/united21_en
+DTEND:20260227T150150Z
+DTSTART:20260227T121456Z
+SUMMARY:Decider match: SNG vs RT
 UID:cs-go-united21-45-2026-1365956@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,6 +170,13 @@ SUMMARY:Winners match: ex-FUT Academy vs FOKUS REALITY
 UID:cs-go-united21-45-2026-1365949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260319T113000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392367@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: STATE: 2 | against All authority: 1\nStream: https://kick.com/united21_en
 DTEND:20260222T150859Z
 DTSTART:20260222T120908Z
@@ -184,74 +184,81 @@ SUMMARY:Elimination match: STA vs aAa
 UID:cs-go-united21-45-2026-1365950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: LAGUNA: 2 | megoshort: 0\nStream: https://www.kick.com/united21_en
-DTEND:20260202T133450Z
-DTSTART:20260202T114227Z
-SUMMARY:Elimination match: LAG vs MEGO
-UID:cs-go-united21-44-2026-1339483@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Misa Esports: 2\nStream: https://kick.com/united21_en
-DTEND:20260207T103951Z
-DTSTART:20260207T090853Z
-SUMMARY:Decider match: SNG vs MISA
-UID:cs-go-united21-44-2026-1339564@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: ex-FUT Academy: 0 | VP.Prodigy: 2\nStream: https://kick.com/united21_en
-DTEND:20260211T132311Z
-DTSTART:20260211T114254Z
-SUMMARY:Upper bracket semifinal 2: ex-FUT Academy vs VP.P
-UID:cs-go-united21-44-2026-1352361@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 2 | LAGUNA: 1\nStream: https://kick.com/united21_en
-DTEND:20260209T140019Z
-DTSTART:20260209T124211Z
-SUMMARY:Upper bracket quarterfinal 4: VP.P vs LAG
-UID:cs-go-united21-44-2026-1352357@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: BULGARIAPEEK: 1 | Sangal ALTERS: 2\nStream: https://kick.com/united21_en
-DTEND:20260131T142028Z
-DTSTART:20260131T120945Z
-SUMMARY:BGPEEK vs SNG
-UID:cs-go-united21-44-2026-1339561@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Alliance: 2 | ex-FUT Academy: 0\nStream: https://www.kick.com/united21_en
-DTEND:20260203T102337Z
-DTSTART:20260203T090716Z
-SUMMARY:Winners match: ALL vs ex-FUT Academy
-UID:cs-go-united21-44-2026-1339557@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | 8Sins: 0\nStream: https://kick.com/united21_en
-DTEND:20260208T104242Z
-DTSTART:20260208T091713Z
-SUMMARY:Upper bracket quarterfinal 1: AAB vs 8S
-UID:cs-go-united21-44-2026-1352354@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: LAGUNA: 1 | AaB Esport: 2\nStream: https://kick.com/united21_en
-DTEND:20260129T114935Z
-DTSTART:20260129T090713Z
-SUMMARY:LAG vs AAB
-UID:cs-go-united21-44-2026-1339480@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260223T113000Z
+DTSTART:20260313T113000Z
+SUMMARY:B8 Academy vs KSM
+UID:cs-go-united21-46-2026-1392364@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260316T113000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392361@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260318T113000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392357@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | STATE: 1\nStream: https://kick.com/united21_en
+DTEND:20260301T140318Z
+DTSTART:20260301T113755Z
+SUMMARY:Upper bracket quarterfinals match 4: NAVI.J vs STA
+UID:cs-go-united21-45-2026-1378743@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260311T113000Z
+SUMMARY:MISA vs NP
+UID:cs-go-united21-46-2026-1392354@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: FOKUS REALITY: 0 | ReThink: 2\nStream: https://kick.com/united21_en
+DTEND:20260228T104601Z
+DTSTART:20260228T090533Z
+SUMMARY:Upper bracket quarterfinals match 1: FOKUS REALITY vs RT
+UID:cs-go-united21-45-2026-1378740@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260314T113000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392351@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | HEROIC Academy: 1\nStream: https://kick.com/united21_en
+DTEND:20260307T115129Z
+DTSTART:20260307T091236Z
+SUMMARY:Grand final: NAVI.J vs HERO.A
+UID:cs-go-united21-45-2026-1378772@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: ReThink: 0 | HEROIC Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260304T151347Z
+DTSTART:20260304T133850Z
+SUMMARY:Lower bracket quarterfinal 2: RT vs HERO.A
+UID:cs-go-united21-45-2026-1378768@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | XI Esport: 0\nStream: https://kick.com/united21_en
+DTEND:20260223T125154Z
+DTSTART:20260223T113751Z
 SUMMARY:Elimination match: HERO.A vs XI
 UID:cs-go-united21-45-2026-1365965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: 8Sins: 2 | NAVI Junior: 0\nStream: https://kick.com/united21_en
-DTEND:20260205T163220Z
-DTSTART:20260205T143718Z
-SUMMARY:Elimination match: 8S vs NAVI.J
-UID:cs-go-united21-44-2026-1339677@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: ReThink: 1 | Imperial Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260303T121916Z
+DTSTART:20260303T090517Z
+SUMMARY:Upper bracket semifinal 1: RT vs Imperial.A
+UID:cs-go-united21-45-2026-1378765@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | HEROIC Academy: 0\nStream: https://kick.com/united21_en
@@ -268,16 +275,9 @@ SUMMARY:MEGO vs PRE
 UID:cs-go-united21-45-2026-1365958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | 8Sins: 0\nStream: https://kick.com/united21_en
-DTEND:20260201T104634Z
-DTSTART:20260201T090745Z
-SUMMARY:Imperial.A vs 8S
-UID:cs-go-united21-44-2026-1339674@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260225T113000Z
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | ReThink: 2\nStream: https://kick.com/united21_en
+DTEND:20260225T144849Z
+DTSTART:20260225T132119Z
 SUMMARY:Elimination match: KSM vs RT
 UID:cs-go-united21-45-2026-1365955@tournamentics
 END:VEVENT
@@ -296,59 +296,73 @@ SUMMARY:FOKUS REALITY vs aAa
 UID:cs-go-united21-45-2026-1365948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: LAGUNA: 0 | VP.Prodigy: 2\nStream: https://kick.com/united21_en
-DTEND:20260214T111045Z
-DTSTART:20260214T091217Z
-SUMMARY:Lower bracket final: LAG vs VP.P
-UID:cs-go-united21-44-2026-1352366@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260317T113000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392366@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | HEROIC Academy: 1\nStream: https://www.kick.com/united21_en
-DTEND:20260202T161711Z
-DTSTART:20260202T135426Z
-SUMMARY:Winners match: AAB vs HERO.A
-UID:cs-go-united21-44-2026-1339482@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260313T090000Z
+SUMMARY:BIG.A vs FOKUS REALITY
+UID:cs-go-united21-46-2026-1392363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Midnight: 0 | LAGUNA: 2\nStream: https://kick.com/united21_en
-DTEND:20260210T130350Z
-DTSTART:20260210T114232Z
-SUMMARY:Lower bracket round 1 match 2: MID vs LAG
-UID:cs-go-united21-44-2026-1352359@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260312T113000Z
+SUMMARY:LPH vs UNiTY
+UID:cs-go-united21-46-2026-1392359@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | BULGARIAPEEK: 1\nStream: https://kick.com/united21_en
-DTEND:20260204T143955Z
-DTSTART:20260204T113943Z
-SUMMARY:Elimination match: MISA vs BGPEEK
-UID:cs-go-united21-44-2026-1339563@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260316T090000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392360@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: ex-FUT Academy: 2 | Truck Drivers: 0\nStream: https://kick.com/united21_en
-DTEND:20260206T140147Z
-DTSTART:20260206T114108Z
-SUMMARY:Decider match: ex-FUT Academy vs TD
-UID:cs-go-united21-44-2026-1339559@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260315T113000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392356@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Midnight: 0 | ex-FUT Academy: 2\nStream: https://kick.com/united21_en
-DTEND:20260209T104456Z
-DTSTART:20260209T091414Z
-SUMMARY:Upper bracket quarterfinal 3: MID vs ex-FUT Academy
-UID:cs-go-united21-44-2026-1352356@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | HEROIC Academy: 0\nStream: https://kick.com/united21_en
+DTEND:20260301T110321Z
+DTSTART:20260301T090243Z
+SUMMARY:Upper bracket quarterfinals match 3: LPH vs HERO.A
+UID:cs-go-united21-45-2026-1378742@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: Midnight: 2 | Misa Esports: 0\nStream: https://kick.com/united21_en
-DTEND:20260131T113327Z
-DTSTART:20260131T093450Z
-SUMMARY:MID vs MISA
-UID:cs-go-united21-44-2026-1339560@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260311T090000Z
+SUMMARY:G2.A vs Inner Circle Academy
+UID:cs-go-united21-46-2026-1392353@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 44 2026\nMatch Type: Best Of\nResult: FUT Academy: 2 | Truck Drivers: 0\nStream: https://kick.com/united21_en
-DTEND:20260130T133959Z
-DTSTART:20260130T122555Z
-SUMMARY:FUT.A vs TD
-UID:cs-go-united21-44-2026-1339556@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260310T113000Z
+SUMMARY:aAa vs INF
+UID:cs-go-united21-46-2026-1392349@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260314T090000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392350@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: STATE: 0 | HEROIC Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260302T132631Z
+DTSTART:20260302T113152Z
+SUMMARY:Lower bracket round 1 match 2: STA vs HERO.A
+UID:cs-go-united21-45-2026-1378774@tournamentics
 END:VEVENT
 END:VCALENDAR

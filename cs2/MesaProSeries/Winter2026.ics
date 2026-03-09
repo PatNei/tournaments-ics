@@ -1,0 +1,46 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MESA Pro Series - Winter 2026\nMatch Type: Best Of\nResult: BMZ: 0 | The Huns Esports: 2\nStream: https://www.youtube.com/watch?v=19420KmVoyM
+DTEND:20260227T141729Z
+DTSTART:20260227T123153Z
+SUMMARY:Upper bracket final: BMZ vs THE
+UID:cs-go-mesa-pro-series-winter-2026-1376318@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MESA Pro Series - Winter 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | BMZ: 0\nStream: https://www.youtube.com/watch?v=UAuc2PAG8nk
+DTEND:20260228T061744Z
+DTSTART:20260228T045139Z
+SUMMARY:Lower bracket final: CW vs BMZ
+UID:cs-go-mesa-pro-series-winter-2026-1376321@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MESA Pro Series - Winter 2026\nMatch Type: Best Of\nResult: NEXVOID: 0 | BMZ: 2\nStream: https://www.youtube.com/watch?v=79K3BQL5XDM
+DTEND:20260226T101241Z
+DTSTART:20260226T083919Z
+SUMMARY:Upper bracket semifinal 2: NEXVOID vs BMZ
+UID:cs-go-mesa-pro-series-winter-2026-1376317@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MESA Pro Series - Winter 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | Chinggis Warriors: 1\nStream: https://www.youtube.com/watch?v=WfIMcrMuPEA
+DTEND:20260226T165707Z
+DTSTART:20260226T131129Z
+SUMMARY:Upper bracket semifinal 1: THE vs CW
+UID:cs-go-mesa-pro-series-winter-2026-1376314@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MESA Pro Series - Winter 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | Chinggis Warriors: 0\nStream: https://www.youtube.com/watch?v=lNdDVlD8f8I
+DTEND:20260228T091731Z
+DTSTART:20260228T075031Z
+SUMMARY:Grand final: THE vs CW
+UID:cs-go-mesa-pro-series-winter-2026-1376319@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MESA Pro Series - Winter 2026\nMatch Type: Best Of\nResult: NEXVOID: 0 | Chinggis Warriors: 2\nStream: https://www.youtube.com/watch?v=3n-uXV8dous
+DTEND:20260227T074648Z
+DTSTART:20260227T061910Z
+SUMMARY:Lower bracket semifinal: NEXVOID vs CW
+UID:cs-go-mesa-pro-series-winter-2026-1376320@tournamentics
+END:VEVENT
+END:VCALENDAR

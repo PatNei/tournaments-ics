@@ -37,13 +37,6 @@ SUMMARY:Round 2: TRI vs MSC
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1338603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
-DTSTART:20260226T190000Z
-SUMMARY:Round 4: sketch vs XI
-UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368664@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | struggletony: 1\nStream: https://www.twitch.tv/havtorn
 DTEND:20260209T204404Z
 DTSTART:20260209T180331Z
@@ -51,11 +44,53 @@ SUMMARY:Round 2: AAB vs struggletony
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1338600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
-DTSTART:20260223T160000Z
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: MASONIC: 2 | Fortress: 0\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260302T202813Z
+DTSTART:20260302T183946Z
 SUMMARY:Round 4: MSC vs FOR
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368661@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260315T140000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387936@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260315T103000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387933@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T100000Z
+SUMMARY:TRI vs struggletony
+UID:cs-go-dust2-dk-31-2026-1387929@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T113000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387930@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T113000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387926@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T100000Z
+SUMMARY:ECS vs PRE
+UID:cs-go-dust2-dk-31-2026-1387923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: Prestige: 2 | SERA: 1\nStream: https://www.twitch.tv/dust2tv
@@ -63,6 +98,13 @@ DTEND:20260219T184158Z
 DTSTART:20260219T161355Z
 SUMMARY:Round 3: PRE vs SERA
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356455@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: SERA: 1 | Fortress: 2\nStream: No official stream linked
+DTEND:20260303T212953Z
+DTSTART:20260303T181054Z
+SUMMARY:Round 5: SERA vs FOR
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1382764@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: struggletony: 2 | Cuties: 0\nStream: https://www.twitch.tv/dust2tv
@@ -93,9 +135,9 @@ SUMMARY:Round 2: SERA vs XI
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1338605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
-DTSTART:20260302T190000Z
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: WAZABI: 2 | Cuties: 0\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260226T205252Z
+DTSTART:20260226T185913Z
 SUMMARY:Round 4: WAZ vs CUT
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368666@tournamentics
 END:VEVENT
@@ -107,11 +149,18 @@ SUMMARY:Round 2: SASHI vs sketch
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1338602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
-DTSTART:20260226T160000Z
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: Tricked: 2 | struggletony: 0\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260226T175603Z
+DTSTART:20260226T160441Z
 SUMMARY:Round 4: TRI vs struggletony
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368663@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260315T140000Z
+SUMMARY:3rd place decider: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387935@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: Tricked: 2 | STREAM-TEAM: 0\nStream: https://www.twitch.tv/fessorcs
@@ -121,11 +170,39 @@ SUMMARY:Round 3: TRI vs ST
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T150000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387932@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T100000Z
+SUMMARY:AAB vs FOR
+UID:cs-go-dust2-dk-31-2026-1387928@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T113000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387925@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: XI Esport: 2 | Vendetta Gaming: 1\nStream: https://www.twitch.tv/dust2tv
 DTEND:20260219T215107Z
 DTSTART:20260219T190505Z
 SUMMARY:Round 3: XI vs Vendetta Gaming
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356457@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: Prestige: 2 | WAZABI: 1\nStream: https://www.twitch.tv/prestigeesportscs
+DTEND:20260305T220030Z
+DTSTART:20260305T183327Z
+SUMMARY:Round 5: PRE vs WAZ
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1382763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | Invicta: 0\nStream: https://www.twitch.tv/havtorn
@@ -156,9 +233,9 @@ SUMMARY:Round 2: Invicta vs FOR
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1338607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
-DTSTART:20260302T160000Z
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: SERA: 2 | STREAM-TEAM: 0\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260302T175754Z
+DTSTART:20260302T161838Z
 SUMMARY:Round 4: SERA vs ST
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368665@tournamentics
 END:VEVENT
@@ -177,9 +254,9 @@ SUMMARY:Round 2: ECS vs WAZ
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1338601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
-DTSTART:20260223T190000Z
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | Prestige: 1\nStream: https://www.twitch.tv/d0kt0r3n
+DTEND:20260225T192651Z
+DTSTART:20260225T171841Z
 SUMMARY:Round 4: SASHI vs PRE
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368662@tournamentics
 END:VEVENT
@@ -191,6 +268,13 @@ SUMMARY:Round 3: ECS vs MSC
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260315T103000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387934@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: Sashi Esport: 0 | AaB Esport: 2\nStream: https://www.twitch.tv/dust2tv
 DTEND:20260216T201907Z
 DTSTART:20260216T181649Z
@@ -198,10 +282,38 @@ SUMMARY:Round 3: SASHI vs AAB
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T113000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387931@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T150000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-dust2-dk-31-2026-1387927@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260314T100000Z
+SUMMARY:MSC vs SASHI
+UID:cs-go-dust2-dk-31-2026-1387924@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: Invicta: 0 | Cuties: 2\nStream: No official stream linked
 DTEND:20260219T193322Z
 DTSTART:20260219T181855Z
 SUMMARY:Round 3: Invicta vs CUT
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356456@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: struggletony: 2 | XI Esport: 0\nStream: https://www.twitch.tv/zuttecs
+DTEND:20260305T174012Z
+DTSTART:20260305T161028Z
+SUMMARY:Round 5: struggletony vs XI
+UID:cs-go-dust2-dk-closed-qualifier-31-2026-1382762@tournamentics
 END:VEVENT
 END:VCALENDAR

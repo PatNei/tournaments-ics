@@ -2,10 +2,10 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260308T170000Z
-SUMMARY:Grand final: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Acend: 0 | Nemiga: 2\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260308T164858Z
+DTSTART:20260308T150614Z
+SUMMARY:Grand final: ACE vs NEMI
 UID:cs-go-a1-gaming-league-11-2026-1313603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -16,10 +16,10 @@ SUMMARY:Round 3: AAB vs BRUTE
 UID:cs-go-a1-gaming-league-11-2026-1313574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260301T163000Z
-SUMMARY:Quarterfinal 4: HS vs 33
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | 33: 2\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260301T194816Z
+DTSTART:20260301T180038Z
+SUMMARY:Quarterfinal 4: AAB vs 33
 UID:cs-go-a1-gaming-league-11-2026-1313600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -44,10 +44,10 @@ SUMMARY:Round 1: PHA vs HS
 UID:cs-go-a1-gaming-league-11-2026-1312624@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260301T140000Z
-SUMMARY:Quarterfinal 3: ECS vs KOL
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: KOLESIE: 1 | Nemiga: 2\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260301T172655Z
+DTSTART:20260301T140439Z
+SUMMARY:Quarterfinal 3: KOL vs NEMI
 UID:cs-go-a1-gaming-league-11-2026-1313599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,10 +100,10 @@ SUMMARY:Round 4: AAB vs WSG
 UID:cs-go-a1-gaming-league-11-2026-1313580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260307T163000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: ECSTATIC: 0 | Nemiga: 2\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260307T184052Z
+DTSTART:20260307T170741Z
+SUMMARY:Semifinal 2: ECS vs NEMI
 UID:cs-go-a1-gaming-league-11-2026-1313602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,10 +135,10 @@ SUMMARY:Round 1:  CSDIILIT vs G1
 UID:cs-go-a1-gaming-league-11-2026-1312623@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260228T163000Z
-SUMMARY:Quarterfinal 2: NEMI vs AAB
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: Acend: 2 | Oramond: 1\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260228T190528Z
+DTSTART:20260228T164325Z
+SUMMARY:Quarterfinal 2: ACE vs ORM
 UID:cs-go-a1-gaming-league-11-2026-1313598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,10 +170,10 @@ SUMMARY:Round 3: HS vs EF
 UID:cs-go-a1-gaming-league-11-2026-1313578@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260307T140000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: 33: 1 | Acend: 2\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260307T164403Z
+DTSTART:20260307T141532Z
+SUMMARY:Semifinal 1: 33 vs ACE
 UID:cs-go-a1-gaming-league-11-2026-1313601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -205,10 +205,10 @@ SUMMARY:Round 1: EF vs STA
 UID:cs-go-a1-gaming-league-11-2026-1312622@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/a1gamingleague
-DURATION:PT2H
-DTSTART:20260228T140000Z
-SUMMARY:Quarterfinal 1: ACE vs ORM
+DESCRIPTION:✅ FINISHED\nTournament: A1 Gaming League - Season 11 2026\nMatch Type: Best Of\nResult: ECSTATIC: 2 | HyperSpirit: 0\nStream: https://www.twitch.tv/a1gamingleague
+DTEND:20260228T154122Z
+DTSTART:20260228T140444Z
+SUMMARY:Quarterfinal 1: ECS vs HS
 UID:cs-go-a1-gaming-league-11-2026-1313597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
