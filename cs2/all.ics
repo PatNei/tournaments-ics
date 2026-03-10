@@ -761,7 +761,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260313T153000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: MGLZ vs NAVI
 UID:cs-go-esl-pro-league-23-2026-1378935@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3439,13 +3439,6 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-roman-imperium-cup-6-2026-1389759@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260311T193000Z
-SUMMARY:Round 4: SNG vs RE
-UID:cs-go-exort-series-23-2026-1392397@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | LAG Gaming: 0\nStream: https://kick.com/bonamant
 DTEND:20260301T215729Z
 DTSTART:20260301T200927Z
@@ -3820,7 +3813,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260313T121500Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: LGC vs AUR
 UID:cs-go-esl-pro-league-23-2026-1378934@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6610,9 +6603,9 @@ SUMMARY:Round 3: URSA vs LK
 UID:cs-go-bc-game-masters-1-2026-1381431@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
+DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
-DTSTART:20260310T220000Z
+DTSTART:20260310T220325Z
 SUMMARY:ISG vs LYN
 UID:cs-go-aorus-latam-2026-1392427@tournamentics
 END:VEVENT
@@ -6956,7 +6949,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260313T090000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: AST vs TS
 UID:cs-go-esl-pro-league-23-2026-1378933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9049,7 +9042,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260313T184500Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: MOUZ vs FUT
 UID:cs-go-esl-pro-league-23-2026-1378936@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -11216,7 +11209,7 @@ SUMMARY:BBP vs  CSDIILIT
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/metanoiagg
 DURATION:PT2H
 DTSTART:20260310T210902Z
 SUMMARY:ODK vs MW
