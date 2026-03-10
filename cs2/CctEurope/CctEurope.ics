@@ -51,13 +51,6 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-cct-europe-contenders-2-2026-1392415@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: 8Sins: 0 | Ursa: 2\nStream: https://kick.com/cct_cs
-DTEND:20260226T194952Z
-DTSTART:20260226T180710Z
-SUMMARY:Winners match: 8S vs URSA
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372379@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260313T191500Z
@@ -79,13 +72,6 @@ SUMMARY:Winners match: zajezdzacze vs BBP
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380850@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: Pigeons: 0 | 8Sins: 2\nStream: https://kick.com/cct_cs
-DTEND:20260225T162333Z
-DTSTART:20260225T150722Z
-SUMMARY:PGE vs 8S
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372376@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Lazer Cats: 2 | los kogutos: 0\nStream: https://kick.com/cct_cs
 DTEND:20260304T195037Z
 DTSTART:20260304T180228Z
@@ -93,25 +79,11 @@ SUMMARY:Round 2: LC vs LK
 UID:cs-go-cct-europe-series-17-3-2026-1373726@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 |  CSDIILIT: 0\nStream: https://kick.com/cct_cs
-DTEND:20260226T105113Z
-DTSTART:20260226T090654Z
-SUMMARY:Elimination match: ENCE.A vs  CSDIILIT
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372373@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 2 | ex-Zero Tenacity: 0\nStream: https://kick.com/cct_cs
 DTEND:20260304T103652Z
 DTSTART:20260304T090218Z
 SUMMARY:Round 2: FAV vs ex-Zero Tenacity
 UID:cs-go-cct-europe-series-17-3-2026-1373723@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: FUZOS: 0 | HAVU: 2\nStream: https://kick.com/cct_cs
-DTEND:20260227T134317Z
-DTSTART:20260227T120927Z
-SUMMARY:Decider match: FUZOS vs HAVU
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | HAVU: 0\nStream: https://kick.com/cct_cs
@@ -226,13 +198,6 @@ SUMMARY:Decider match: BMB vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | 8Sins: 0\nStream: https://www.twitch.tv/betboom_cs_ru4
-DTEND:20260228T193734Z
-DTSTART:20260228T181041Z
-SUMMARY:OXUJI vs 8S
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372384@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 0 | ex-RUBY: 2\nStream: https://kick.com/cct_cs
 DTEND:20260306T201750Z
 DTSTART:20260306T181104Z
@@ -247,18 +212,18 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-cct-europe-contenders-2-2026-1392409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | MASONIC: 0\nStream: https://kick.com/cct_cs
-DTEND:20260228T101803Z
-DTSTART:20260228T090618Z
-SUMMARY:QWE vs MSC
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372381@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Lazer Cats: 0 | QWENTRY: 2\nStream: https://kick.com/cct_cs
 DTEND:20260306T111550Z
 DTSTART:20260306T091005Z
 SUMMARY:Round 3: LC vs QWE
 UID:cs-go-cct-europe-series-17-3-2026-1373731@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260312T150000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-cct-europe-series-18-3-2026-1381147@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
@@ -270,9 +235,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260312T150000Z
+DTSTART:20260312T120000Z
 SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-cct-europe-series-18-3-2026-1381147@tournamentics
+UID:cs-go-cct-europe-series-18-3-2026-1381144@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #1 2026\nMatch Type: Best Of\nResult: Atreides: 2 | mixmix: 0\nStream: https://www.kick.com/cct-cs5
@@ -291,20 +256,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260312T120000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-cct-europe-series-18-3-2026-1381144@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: FUZOS: 0 | QWENTRY: 2\nStream: https://kick.com/cct_cs
-DTEND:20260223T203433Z
-DTSTART:20260223T181601Z
-SUMMARY:FUZOS vs QWE
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372367@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
 DTSTART:20260311T150000Z
 SUMMARY:Round 2: OMG vs URSA
 UID:cs-go-cct-europe-series-18-3-2026-1381141@tournamentics
@@ -315,13 +266,6 @@ DTEND:20260302T181123Z
 DTSTART:20260302T150433Z
 SUMMARY:Round 1: FAV vs HAVU
 UID:cs-go-cct-europe-series-17-3-2026-1373717@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: brazylijski luz: 0 | Oxuji Esports: 2\nStream: https://kick.com/cct_cs
-DTEND:20260224T170028Z
-DTSTART:20260224T152323Z
-SUMMARY:Winners match: BL vs OXUJI
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | Oxuji Esports: 0\nStream: https://kick.com/cct_cs
@@ -343,13 +287,6 @@ DTEND:20260301T113423Z
 DTSTART:20260301T090702Z
 SUMMARY:Round 1: ex-RUBY vs OMG
 UID:cs-go-cct-europe-series-17-3-2026-1373711@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: los kogutos: 0 | brazylijski luz: 2\nStream: https://kick.com/cct_cs
-DTEND:20260223T105530Z
-DTSTART:20260223T091632Z
-SUMMARY:LK vs BL
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372361@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #1 2026\nMatch Type: Best Of\nResult: brazylijski luz: 2 | yngods: 0\nStream: https://kick.com/cct-cs5
@@ -457,9 +394,9 @@ SUMMARY:Round of 16 match 2: NTR vs MOUZ.N
 UID:cs-go-cct-europe-series-17-3-2026-1373745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
-DTSTART:20260310T191500Z
+DTSTART:20260310T193152Z
 SUMMARY:Upper bracket quarterfinal 1: DNT vs DAL
 UID:cs-go-cct-europe-contenders-2-2026-1391718@tournamentics
 END:VEVENT
@@ -534,11 +471,11 @@ SUMMARY:Round 2: NVQ vs OMG
 UID:cs-go-cct-europe-series-17-3-2026-1373722@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | MASONIC: 2\nStream: https://kick.com/cct_cs
-DTEND:20260225T141015Z
-DTSTART:20260225T121508Z
-SUMMARY: CSDIILIT vs MSC
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372372@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260316T180000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-cct-europe-series-18-3-2026-1381216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #18 season 3 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | Eternal Fire: 0\nStream: https://kick.com/cct_cs2
@@ -553,13 +490,6 @@ DTEND:20260226T182330Z
 DTSTART:20260226T163508Z
 SUMMARY:Lower bracket round 3 match 2: DRAMA vs bankaPEPSI
 UID:cs-go-cct-europe-contenders-1-2026-1376290@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260316T180000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-cct-europe-series-18-3-2026-1381216@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | Duggedup: 0\nStream: https://kick.com/cct-cs6
@@ -660,13 +590,6 @@ SUMMARY:Round 4: ASTRAL vs OMG
 UID:cs-go-cct-europe-series-17-3-2026-1373736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 1 | HAVU: 2\nStream: https://kick.com/cct_cs
-DTEND:20260228T175347Z
-DTSTART:20260228T150348Z
-SUMMARY:AUR.YB vs HAVU
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372383@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #1 2026\nMatch Type: Best Of\nResult: Project H: 0 | Drama eSports: 2\nStream: https://kick.com/cct-cs6
 DTEND:20260225T180000Z
 DTSTART:20260225T163655Z
@@ -681,11 +604,11 @@ SUMMARY:Round 3: FAV vs MZP
 UID:cs-go-cct-europe-series-17-3-2026-1373733@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: Pigeons: 1 | 8Sins: 2\nStream: https://kick.com/cct_cs
-DTEND:20260227T202826Z
-DTSTART:20260227T180343Z
-SUMMARY:Decider match: PGE vs 8S
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372380@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
+DURATION:PT2H
+DTSTART:20260312T163000Z
+SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+UID:cs-go-cct-europe-contenders-2-2026-1392408@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #1 2026\nMatch Type: Best Of\nResult: Drama eSports: 0 | yngods: 2\nStream: https://www.kick.com/cct-cs5
@@ -704,16 +627,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
-DTSTART:20260312T163000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
-UID:cs-go-cct-europe-contenders-2-2026-1392408@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
 DTSTART:20260311T191500Z
 SUMMARY:Lower bracket round 2 match 3: TBD vs TS.A
 UID:cs-go-cct-europe-contenders-2-2026-1392405@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260312T090000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-cct-europe-series-18-3-2026-1381143@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #1 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | japczany: 0\nStream: https://www.kick.com/cct-cs5
@@ -730,18 +653,11 @@ SUMMARY:Round 2: OXUJI vs PHA
 UID:cs-go-cct-europe-series-17-3-2026-1373719@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: HAVU: 1 | QWENTRY: 2\nStream: https://kick.com/cct_cs
-DTEND:20260224T203936Z
-DTSTART:20260224T180922Z
-SUMMARY:Winners match: HAVU vs QWE
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372369@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: HAVU: 2 | EC BANGA: 0\nStream: https://www.twitch.tv/betboom_cs_ru4
-DTEND:20260223T164038Z
-DTSTART:20260223T150745Z
-SUMMARY:HAVU vs EC BANGA
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372366@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260311T120000Z
+SUMMARY:Round 2: FAV vs EF
+UID:cs-go-cct-europe-series-18-3-2026-1381140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Metizport: 2 | los kogutos: 0\nStream: https://kick.com/cct_cs
@@ -749,20 +665,6 @@ DTEND:20260302T135443Z
 DTSTART:20260302T120414Z
 SUMMARY:Round 1: MZP vs LK
 UID:cs-go-cct-europe-series-17-3-2026-1373716@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260312T090000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-cct-europe-series-18-3-2026-1381143@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260311T120000Z
-SUMMARY:Round 2: FAV vs EF
-UID:cs-go-cct-europe-series-18-3-2026-1381140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Phantom: 0 | QWENTRY: 2\nStream: https://kick.com/cct_cs
@@ -926,11 +828,11 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-cct-europe-contenders-2-2026-1392413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 0 | Ursa: 2\nStream: https://kick.com/cct_cs
-DTEND:20260225T201410Z
-DTSTART:20260225T180655Z
-SUMMARY:RBLS vs URSA
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372377@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260312T180000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-cct-europe-series-18-3-2026-1381151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Team Novaq: 2 | Oxuji Esports: 1\nStream: https://kick.com/cct_cs
@@ -947,32 +849,11 @@ SUMMARY:Upper bracket semifinal 2: YN vs EJ
 UID:cs-go-cct-europe-contenders-2-2026-1392410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 2 | MASONIC: 0\nStream: https://kick.com/cct_cs
-DTEND:20260226T164551Z
-DTSTART:20260226T150430Z
-SUMMARY:Winners match: AUR.YB vs MSC
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372374@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260312T180000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-cct-europe-series-18-3-2026-1381151@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #1 2026\nMatch Type: Best Of\nResult: bankaPEPSI: 2 | jeleznienoji: 1\nStream: https://kick.com/cct-cs5
 DTEND:20260225T221834Z
 DTSTART:20260225T192621Z
 SUMMARY:Lower bracket round 2 match 4: bankaPEPSI vs jelezni
 UID:cs-go-cct-europe-contenders-1-2026-1376103@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: ENCE Academy: 1 | Aurora Young Blood: 2\nStream: https://kick.com/cct_cs
-DTEND:20260225T115837Z
-DTSTART:20260225T090641Z
-SUMMARY:ENCE.A vs AUR.YB
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372371@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Leo Team: 0\nStream: https://kick.com/cct_cs
@@ -1073,13 +954,6 @@ SUMMARY:Round 4: LC vs NVQ
 UID:cs-go-cct-europe-series-17-3-2026-1373735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: Ursa: 0 | los kogutos: 2\nStream: https://kick.com/cct_cs
-DTEND:20260228T135957Z
-DTSTART:20260228T121040Z
-SUMMARY:URSA vs LK
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372382@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Acend: 2 | Omega: 1\nStream: https://kick.com/cct_cs
 DTEND:20260306T151021Z
 DTSTART:20260306T120726Z
@@ -1129,20 +1003,6 @@ SUMMARY:Upper bracket semifinal 2: BL vs YNG
 UID:cs-go-cct-europe-contenders-1-2026-1374980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: EC BANGA: 1 | FUZOS: 2\nStream: https://kick.com/cct_cs
-DTEND:20260224T145559Z
-DTSTART:20260224T120556Z
-SUMMARY:Elimination match: EC BANGA vs FUZOS
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372368@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Leo Team: 2 | Lazer Cats: 0\nStream: https://kick.com/cct_cs
-DTEND:20260302T204550Z
-DTSTART:20260302T183229Z
-SUMMARY:Round 1: Leo vs LC
-UID:cs-go-cct-europe-series-17-3-2026-1373718@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260311T180000Z
@@ -1150,11 +1010,11 @@ SUMMARY:Round 2: STA vs ACE
 UID:cs-go-cct-europe-series-18-3-2026-1381142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #17 season 3 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | brazylijski luz: 0\nStream: https://kick.com/cct_cs
-DTEND:20260227T102939Z
-DTSTART:20260227T090830Z
-SUMMARY:Decider match: LK vs BL
-UID:cs-go-cct-europe-closed-qualifier-series-17-3-2026-1372365@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Leo Team: 2 | Lazer Cats: 0\nStream: https://kick.com/cct_cs
+DTEND:20260302T204550Z
+DTSTART:20260302T183229Z
+SUMMARY:Round 1: Leo vs LC
+UID:cs-go-cct-europe-series-17-3-2026-1373718@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Acend: 2 | Team Novaq: 0\nStream: https://kick.com/cct_cs
@@ -1178,11 +1038,11 @@ SUMMARY:Elimination match: LILMIX vs PGE
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380828@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: ASTRAL: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/cct_cs
-DTEND:20260301T135406Z
-DTSTART:20260301T120305Z
-SUMMARY:Round 1: ASTRAL vs ex-Zero Tenacity
-UID:cs-go-cct-europe-series-17-3-2026-1373712@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DURATION:PT2H
+DTSTART:20260311T090000Z
+SUMMARY:Round 2: ex-RUBY vs zajezdzacze
+UID:cs-go-cct-europe-series-18-3-2026-1381128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #1 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 0 | yngods: 2\nStream: https://www.kick.com/cct-cs5
@@ -1192,11 +1052,11 @@ SUMMARY:Lower bracket semifinal: AUR.YB vs YNG
 UID:cs-go-cct-europe-contenders-1-2026-1376286@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260311T090000Z
-SUMMARY:Round 2: ex-RUBY vs zajezdzacze
-UID:cs-go-cct-europe-series-18-3-2026-1381128@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: ASTRAL: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/cct_cs
+DTEND:20260301T135406Z
+DTSTART:20260301T120305Z
+SUMMARY:Round 1: ASTRAL vs ex-Zero Tenacity
+UID:cs-go-cct-europe-series-17-3-2026-1373712@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #18 season 3 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | zajezdzacze: 2\nStream: https://kick.com/cct_cs2
