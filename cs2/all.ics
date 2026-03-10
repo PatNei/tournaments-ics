@@ -3540,7 +3540,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260311T090000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: AIMC vs TBD
 UID:cs-go-nodwin-clutch-series-6-2026-1389683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5028,9 +5028,9 @@ SUMMARY:Round 3: HERO vs MNTE
 UID:cs-go-esl-pro-league-23-2026-1376206@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260310T113000Z
+DTSTART:20260310T114102Z
 SUMMARY:aAa vs INF
 UID:cs-go-united21-46-2026-1392349@tournamentics
 END:VEVENT
@@ -6785,8 +6785,8 @@ SUMMARY:Round of 16 match 2: ICE vs FC
 UID:cs-go-stake-ranked-episode-1-closed-qualifier-2026-1382789@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | aimclub: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260310T113822Z
 DTSTART:20260310T090631Z
 SUMMARY:Winners match: HS vs AIMC
 UID:cs-go-nodwin-clutch-series-6-2026-1389682@tournamentics
