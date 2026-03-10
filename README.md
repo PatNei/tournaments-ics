@@ -271,6 +271,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/A1GamingLeague/Seas
 </details>
 
 <details>
+<summary>Aorus League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/AorusLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/AorusLeague.ics
+```
+
+---
+
+### LATAM 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/Latam2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/Latam2026.ics
+```
+
+</details>
+
+<details>
 <summary>Asia Championships</summary>
 
 ### Full Schedule
