@@ -2126,7 +2126,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260310T180000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: NEMI vs TBD
 UID:cs-go-cis-lan-championship-3-2026-1387155@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5234,7 +5234,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260310T180000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: SPARTA vs TBD
 UID:cs-go-cis-lan-championship-3-2026-1387154@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -11706,8 +11706,8 @@ SUMMARY:ODK vs MW
 UID:cs-go-aorus-brazil-open-qualifier-2026-1392431@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | SPARTA: 0\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260310T172552Z
 DTSTART:20260310T153921Z
 SUMMARY:NEMI vs SPARTA
 UID:cs-go-cis-lan-championship-3-2026-1387152@tournamentics
