@@ -1279,7 +1279,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260311T090000Z
-SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 1: Morningstar vs TBD
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391064@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2277,8 +2277,8 @@ SUMMARY:Grand final: VOCA vs WC
 UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368687@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Morningstar: 2 | Change The Game: 0\nStream: No official stream linked
+DTEND:20260310T101257Z
 DTSTART:20260310T085716Z
 SUMMARY:Lower bracket round 2 match 1: Morningstar vs CTG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391060@tournamentics
