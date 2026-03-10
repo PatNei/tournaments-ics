@@ -82,12 +82,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260311T030000Z
-SUMMARY:Lower bracket round 2 match 4: FLY vs TBD
+SUMMARY:Lower bracket round 2 match 4: FLY vs FDG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nResult: 100RA: 0 | FengDa Gaming: 2\nStream: No official stream linked
+DTEND:20260310T080651Z
 DTSTART:20260310T062035Z
 SUMMARY:Lower bracket round 1 match 4: 100RA vs FDG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391059@tournamentics
