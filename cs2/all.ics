@@ -2938,7 +2938,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260312T150000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: K27 vs TBD
 UID:cs-go-cct-europe-series-17-3-2026-1373754@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4566,8 +4566,8 @@ SUMMARY:ECF vs LC
 UID:cs-go-esea-advanced-europe-56-2026-1337968@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: K27: 2 | Metizport: 1\nStream: https://kick.com/cct_cs
+DTEND:20260310T212324Z
 DTSTART:20260310T183851Z
 SUMMARY:Round of 16 match 4: K27 vs MZP
 UID:cs-go-cct-europe-series-17-3-2026-1373747@tournamentics
@@ -10243,9 +10243,9 @@ SUMMARY:GLS vs RED.A
 UID:cs-go-aorus-brazil-open-qualifier-2026-1392435@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
+DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
-DTSTART:20260310T210500Z
+DTSTART:20260310T211539Z
 SUMMARY:Decider match: NEMI vs 5Actors
 UID:cs-go-cis-lan-championship-3-2026-1387156@tournamentics
 END:VEVENT
