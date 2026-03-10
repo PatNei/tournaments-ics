@@ -19,14 +19,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jay_tb
 DURATION:PT2H
 DTSTART:20260310T090000Z
-SUMMARY:Elimination match: QUA vs TBD
+SUMMARY:Elimination match: QUA vs RUST
 UID:cs-go-cis-lan-championship-3-2026-1387149@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260310T090000Z
-SUMMARY:Winners match: 33 vs TBD
+SUMMARY:Winners match: 33 vs NEM
 UID:cs-go-cis-lan-championship-3-2026-1387150@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cis-lan-championship-3-2026-1387151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | RUSTEC: 1\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260310T084838Z
 DTSTART:20260310T060641Z
 SUMMARY:NEM vs RUST
 UID:cs-go-cis-lan-championship-3-2026-1387147@tournamentics
