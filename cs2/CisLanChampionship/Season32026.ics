@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260310T205500Z
-SUMMARY:Decider match: NEMI vs TBD
+SUMMARY:Decider match: NEMI vs 5Actors
 UID:cs-go-cis-lan-championship-3-2026-1387156@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-cis-lan-championship-3-2026-1387187@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jerry256cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: SPARTA: 1 | 5Actors: 2\nStream: https://www.twitch.tv/jerry256cs2
+DTEND:20260310T204134Z
 DTSTART:20260310T181109Z
 SUMMARY:Elimination match: SPARTA vs 5Actors
 UID:cs-go-cis-lan-championship-3-2026-1387154@tournamentics
