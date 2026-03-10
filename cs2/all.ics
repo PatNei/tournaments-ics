@@ -1279,7 +1279,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260311T090000Z
-SUMMARY:Lower bracket round 3 match 1: Morningstar vs TBD
+SUMMARY:Lower bracket round 3 match 1: Morningstar vs LVG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391064@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10866,8 +10866,8 @@ SUMMARY:Round 4: paiN vs G2
 UID:cs-go-esl-pro-league-23-2026-1376218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 0 | Lynn Vision: 2\nStream: No official stream linked
+DTEND:20260310T105921Z
 DTSTART:20260310T092741Z
 SUMMARY:Lower bracket round 2 match 2: NEXVOID vs LVG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391061@tournamentics
