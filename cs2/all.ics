@@ -1332,13 +1332,6 @@ SUMMARY:NIP vs VOCA
 UID:cs-go-roman-imperium-cup-6-2026-1389756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260310T194142Z
-SUMMARY:Round 4: EC BANGA vs ex-GANK Esports
-UID:cs-go-exort-series-23-2026-1392394@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nResult: PARIVISION: 0 | Heroic: 2\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260305T141820Z
 DTSTART:20260305T122622Z
@@ -2361,8 +2354,8 @@ SUMMARY:Round 2: ISG vs FA
 UID:cs-go-betboom-storm-1-2026-1380476@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nResult: ShindeN: 1 | SUPERMATCH: 0\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20260310T215019Z
 DTSTART:20260310T210930Z
 SUMMARY:SHIN vs SUPER
 UID:cs-go-aorus-latam-2026-1392421@tournamentics
@@ -4401,7 +4394,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
 DTSTART:20260311T190000Z
-SUMMARY:Elimination match: R2 vs TBD
+SUMMARY:Elimination match: R2 vs SUPER
 UID:cs-go-aorus-latam-2026-1392424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7628,7 +7621,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
 DTSTART:20260310T230000Z
-SUMMARY:Winners match: c0ki vs TBD
+SUMMARY:Winners match: c0ki vs SHIN
 UID:cs-go-aorus-latam-2026-1392423@tournamentics
 END:VEVENT
 BEGIN:VEVENT

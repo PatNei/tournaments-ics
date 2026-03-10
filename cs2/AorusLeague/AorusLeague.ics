@@ -82,12 +82,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
 DTSTART:20260311T190000Z
-SUMMARY:Elimination match: R2 vs TBD
+SUMMARY:Elimination match: R2 vs SUPER
 UID:cs-go-aorus-latam-2026-1392424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nResult: ShindeN: 1 | SUPERMATCH: 0\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20260310T215019Z
 DTSTART:20260310T210930Z
 SUMMARY:SHIN vs SUPER
 UID:cs-go-aorus-latam-2026-1392421@tournamentics
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
 DTSTART:20260310T230000Z
-SUMMARY:Winners match: c0ki vs TBD
+SUMMARY:Winners match: c0ki vs SHIN
 UID:cs-go-aorus-latam-2026-1392423@tournamentics
 END:VEVENT
 BEGIN:VEVENT
