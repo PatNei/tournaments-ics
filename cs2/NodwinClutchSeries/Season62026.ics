@@ -320,7 +320,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260311T090000Z
-SUMMARY:Decider match: AIMC vs TBD
+SUMMARY:Decider match: AIMC vs NVQ
 UID:cs-go-nodwin-clutch-series-6-2026-1389683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -331,8 +331,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-nodwin-clutch-series-6-2026-1389702@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Hashiras: 0 | Team Novaq: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260310T165629Z
 DTSTART:20260310T151149Z
 SUMMARY:Elimination match: Hashiras vs NVQ
 UID:cs-go-nodwin-clutch-series-6-2026-1389663@tournamentics
