@@ -2245,7 +2245,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260310T090000Z
-SUMMARY:Lower bracket round 2 match 1: Morningstar vs TBD
+SUMMARY:Lower bracket round 2 match 1: Morningstar vs CTG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391060@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3117,8 +3117,8 @@ SUMMARY:Semifinal 1: 33 vs G2.A
 UID:cs-go-exort-meteor-2-2026-1378857@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Lynn Vision: 2 | Ground Zero: 0\nStream: No official stream linked
+DTEND:20260310T050545Z
 DTSTART:20260310T031732Z
 SUMMARY:Lower bracket round 1 match 2: LVG vs GZ
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391057@tournamentics
@@ -6239,8 +6239,8 @@ SUMMARY:Upper bracket semifinal 2: DNT vs OLDBOYS-
 UID:cs-go-esea-advanced-europe-56-2026-1382732@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Chaos Gaming: 0 | Change The Game: 2\nStream: No official stream linked
+DTEND:20260310T050542Z
 DTSTART:20260310T031501Z
 SUMMARY:Lower bracket round 1 match 1: Chaos Gaming vs CTG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391056@tournamentics
@@ -10764,7 +10764,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260310T090000Z
-SUMMARY:Lower bracket round 2 match 2: NEXVOID vs TBD
+SUMMARY:Lower bracket round 2 match 2: NEXVOID vs LVG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391061@tournamentics
 END:VEVENT
 BEGIN:VEVENT
