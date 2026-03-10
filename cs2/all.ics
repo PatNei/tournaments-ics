@@ -2585,9 +2585,9 @@ SUMMARY:RUST vs OLDBOYS-
 UID:cs-go-esea-advanced-europe-56-2026-1374978@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260310T120000Z
+DTSTART:20260310T120720Z
 SUMMARY:Winners match: QWE vs HERO.A
 UID:cs-go-nodwin-clutch-series-6-2026-1389687@tournamentics
 END:VEVENT
@@ -3106,7 +3106,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260310T130000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: NEM vs TBD
 UID:cs-go-cis-lan-championship-3-2026-1387151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6288,8 +6288,8 @@ SUMMARY:B8 Academy vs DRGN TEAM
 UID:cs-go-esea-advanced-europe-56-2026-1326103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: 33: 2 | Team Nemesis: 0\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260310T121232Z
 DTSTART:20260310T092616Z
 SUMMARY:Winners match: 33 vs NEM
 UID:cs-go-cis-lan-championship-3-2026-1387150@tournamentics
@@ -11230,9 +11230,9 @@ SUMMARY:EPG Family vs BW
 UID:cs-go-esea-advanced-europe-56-2026-1337966@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260310T120000Z
+DTSTART:20260310T120941Z
 SUMMARY:Round of 16 match 2: NTR vs MOUZ.N
 UID:cs-go-cct-europe-series-17-3-2026-1373745@tournamentics
 END:VEVENT
