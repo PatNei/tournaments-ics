@@ -282,6 +282,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/AorusLe
 
 ---
 
+### Brazil Open Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilOpenQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilOpenQualifier2026.ics
+```
+
 ### LATAM 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/Latam2026.ics)
 
@@ -693,27 +700,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MasterLeaguePortuga
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MasterLeaguePortugal/Season182026.ics
-```
-
-</details>
-
-<details>
-<summary>MESA Pro Series</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MesaProSeries/MesaProSeries.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MesaProSeries/MesaProSeries.ics
-```
-
----
-
-### Winter 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MesaProSeries/Winter2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MesaProSeries/Winter2026.ics
 ```
 
 </details>
