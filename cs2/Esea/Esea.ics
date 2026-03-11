@@ -901,7 +901,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260313T183000Z
-SUMMARY:Lower bracket round 4 match 1: YNG vs TBD
+SUMMARY:Lower bracket round 4 match 1: YNG vs MEGO
 UID:cs-go-esea-advanced-europe-56-2026-1382753@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1906,8 +1906,8 @@ SUMMARY:TNC vs BMB
 UID:cs-go-esea-advanced-europe-56-2026-1372407@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/z3r0xgg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | megoshort: 2\nStream: https://www.twitch.tv/z3r0xgg
+DTEND:20260311T224626Z
 DTSTART:20260311T184153Z
 SUMMARY:Lower bracket round 3 match 1: ex-GANK Esports vs MEGO
 UID:cs-go-esea-advanced-europe-56-2026-1382749@tournamentics
