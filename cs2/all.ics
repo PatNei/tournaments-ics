@@ -3509,8 +3509,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | Isurus: 1\nStream: https://www.twitch.tv/aoruslatam
+DTEND:20260311T004055Z
 DTSTART:20260311T000256Z
 SUMMARY:Winners match: PCY vs ISG
 UID:cs-go-aorus-latam-2026-1392428@tournamentics
@@ -5745,7 +5745,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
 DTSTART:20260312T213000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: PCY vs TBD
 UID:cs-go-aorus-latam-2026-1392430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
