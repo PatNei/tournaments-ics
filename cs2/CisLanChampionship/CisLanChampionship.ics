@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260312T120000Z
-SUMMARY:Semifinal 2: WW vs TBD
+SUMMARY:Semifinal 2: WW vs NEMI
 UID:cs-go-cis-lan-championship-3-2026-1387192@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:Quarterfinal 3: NTR vs WW
 UID:cs-go-cis-lan-championship-3-2026-1387189@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: 33: 1 | Nemiga: 2\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260311T211342Z
 DTSTART:20260311T180559Z
 SUMMARY:Quarterfinal 4: 33 vs NEMI
 UID:cs-go-cis-lan-championship-3-2026-1387190@tournamentics

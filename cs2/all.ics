@@ -1195,7 +1195,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260312T120000Z
-SUMMARY:Semifinal 2: WW vs TBD
+SUMMARY:Semifinal 2: WW vs NEMI
 UID:cs-go-cis-lan-championship-3-2026-1387192@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6533,9 +6533,9 @@ SUMMARY:Round 4: BHE vs CRASH
 UID:cs-go-betboom-storm-1-2026-1380562@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260311T210000Z
+DTSTART:20260311T211500Z
 SUMMARY:Lower bracket round 3 match 4: EP vs LFO
 UID:cs-go-esea-advanced-europe-56-2026-1382752@tournamentics
 END:VEVENT
@@ -7156,8 +7156,8 @@ SUMMARY:Round 1: EC BANGA vs LPH
 UID:cs-go-exort-series-23-2026-1385809@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: 33: 1 | Nemiga: 2\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260311T211342Z
 DTSTART:20260311T180559Z
 SUMMARY:Quarterfinal 4: 33 vs NEMI
 UID:cs-go-cis-lan-championship-3-2026-1387190@tournamentics
