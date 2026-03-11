@@ -310,13 +310,6 @@ SUMMARY:WB vs MSC
 UID:cs-go-nodwin-clutch-series-5-2026-1355220@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Master League Portugal - Season 18 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | FUZOS: 2\nStream: https://www.twitch.tv/rtparenacs
-DTEND:20260228T133146Z
-DTSTART:20260228T113913Z
-SUMMARY:Semifinal 1: FCF vs FUZOS
-UID:cs-go-master-league-portugal-18-2026-1371195@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260422T180000Z
@@ -1230,7 +1223,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260312T120000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: WW vs TBD
 UID:cs-go-cis-lan-championship-3-2026-1387192@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2053,8 +2046,8 @@ SUMMARY:Lower bracket round 1 match 5: Imperial.A vs RT
 UID:cs-go-esea-advanced-europe-56-2026-1382737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/strogo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 0 | WW Team: 2\nStream: https://www.twitch.tv/strogo
+DTEND:20260311T164221Z
 DTSTART:20260311T150254Z
 SUMMARY:Quarterfinal 3: NTR vs WW
 UID:cs-go-cis-lan-championship-3-2026-1387189@tournamentics
@@ -3915,11 +3908,11 @@ SUMMARY:Upper bracket final: RED vs SHK
 UID:cs-go-betboom-rush-b-summit-2-2026-1360793@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 1 | Spirit Academy: 0\nStream: https://www.twitch.tv/dranzart1
-DTEND:20260120T165655Z
-DTSTART:20260120T161352Z
-SUMMARY:WTRML0N vs TS.A
-UID:cs-go-esea-advanced-europe-56-2026-1327444@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | HEROIC Academy: 1\nStream: https://kick.com/united21_en
+DTEND:20260307T115129Z
+DTSTART:20260307T091236Z
+SUMMARY:Grand final: NAVI.J vs HERO.A
+UID:cs-go-united21-45-2026-1378772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: MASONIC: 1 | Stinky Rats: 0\nStream: No official stream linked
@@ -3929,11 +3922,11 @@ SUMMARY:MSC vs Stinky Rats
 UID:cs-go-esea-advanced-europe-56-2026-1347241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | HEROIC Academy: 1\nStream: https://kick.com/united21_en
-DTEND:20260307T115129Z
-DTSTART:20260307T091236Z
-SUMMARY:Grand final: NAVI.J vs HERO.A
-UID:cs-go-united21-45-2026-1378772@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: WATERMELON: 1 | Spirit Academy: 0\nStream: https://www.twitch.tv/dranzart1
+DTEND:20260120T165655Z
+DTSTART:20260120T161352Z
+SUMMARY:WTRML0N vs TS.A
+UID:cs-go-esea-advanced-europe-56-2026-1327444@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Team Novaq: 2 | Oxuji Esports: 1\nStream: https://kick.com/cct_cs
@@ -4951,18 +4944,18 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-cct-europe-series-17-3-2026-1373757@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: OlyBet SB: 0 | Ursa: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260308T163921Z
-DTSTART:20260308T150700Z
-SUMMARY:Round 1: OlyBet SB vs URSA
-UID:cs-go-cct-europe-series-18-3-2026-1381089@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IZI WEX - Season 1 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 2 | Oxuji Esports: 0\nStream: https://www.twitch.tv/izi_wex_cs_b
 DTEND:20260304T113115Z
 DTSTART:20260304T100526Z
 SUMMARY:VP.P vs OXUJI
 UID:cs-go-izi-wex-1-2026-1381486@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: OlyBet SB: 0 | Ursa: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260308T163921Z
+DTSTART:20260308T150700Z
+SUMMARY:Round 1: OlyBet SB vs URSA
+UID:cs-go-cct-europe-series-18-3-2026-1381089@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: JB Pro League - Season 2 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 0 | VP.Prodigy: 2\nStream: https://www.twitch.tv/jbproleague
@@ -5474,13 +5467,6 @@ DTEND:20260219T193019Z
 DTSTART:20260219T184701Z
 SUMMARY:SVEN vs MEGO
 UID:cs-go-esea-advanced-europe-56-2026-1367389@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Master League Portugal - Season 18 2026\nMatch Type: Best Of\nResult: FUZOS: 0 | Rebels Gaming: 3\nStream: https://www.twitch.tv/rtparenacs
-DTEND:20260301T164551Z
-DTSTART:20260301T140139Z
-SUMMARY:Grand final: FUZOS vs RBLS
-UID:cs-go-master-league-portugal-18-2026-1371197@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -6967,11 +6953,11 @@ SUMMARY:eLITenergy vs WTRML0N
 UID:cs-go-esea-advanced-europe-56-2026-1356653@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 2 2026\nMatch Type: Best Of\nResult: Team Bratishkin: 2 | Team Lixxx: 0\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260302T130258Z
-DTSTART:20260302T111614Z
-SUMMARY:Team Bratishkin vs Team Lixxx
-UID:cs-go-winline-star-series-2-2026-1374231@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IZI WEX - Season 1 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | WW Team: 1\nStream: https://kick.com/exort_ru3
+DTEND:20260306T233300Z
+DTSTART:20260306T213552Z
+SUMMARY:Grand final: ARC vs WW
+UID:cs-go-izi-wex-1-2026-1381502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 2 2026\nMatch Type: Best Of\nResult: Team Bratishkin: 3 | Team SNAILKICK: 1\nStream: https://www.twitch.tv/kartash0v
@@ -6981,11 +6967,11 @@ SUMMARY:Grand final: Team Bratishkin vs Team SNAILKICK
 UID:cs-go-winline-star-series-2-2026-1385711@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IZI WEX - Season 1 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | WW Team: 1\nStream: https://kick.com/exort_ru3
-DTEND:20260306T233300Z
-DTSTART:20260306T213552Z
-SUMMARY:Grand final: ARC vs WW
-UID:cs-go-izi-wex-1-2026-1381502@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 2 2026\nMatch Type: Best Of\nResult: Team Bratishkin: 2 | Team Lixxx: 0\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260302T130258Z
+DTSTART:20260302T111614Z
+SUMMARY:Team Bratishkin vs Team Lixxx
+UID:cs-go-winline-star-series-2-2026-1374231@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ENRAGE: 0 | Haspers: 1\nStream: No official stream linked
@@ -7044,6 +7030,13 @@ SUMMARY:Upper bracket semifinal 2: 9z vs SHK
 UID:cs-go-betboom-rush-b-summit-2-2026-1360792@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | NAVI Junior: 2\nStream: https://kick.com/united21_en
+DTEND:20260305T154629Z
+DTSTART:20260305T140005Z
+SUMMARY:Upper bracket final: Imperial.A vs NAVI.J
+UID:cs-go-united21-45-2026-1378771@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | MINLATE: 1\nStream: https://www.twitch.tv/arthurrrtv
 DTEND:20260204T195126Z
 DTSTART:20260204T191929Z
@@ -7056,13 +7049,6 @@ DTEND:20260120T155545Z
 DTSTART:20260120T151439Z
 SUMMARY:HAVU vs RUST
 UID:cs-go-esea-advanced-europe-56-2026-1327443@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | NAVI Junior: 2\nStream: https://kick.com/united21_en
-DTEND:20260305T154629Z
-DTSTART:20260305T140005Z
-SUMMARY:Upper bracket final: Imperial.A vs NAVI.J
-UID:cs-go-united21-45-2026-1378771@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 2 2026\nMatch Type: Best Of\nResult: KOLESIE: 1 | AM Gaming: 0\nStream: https://kick.com/challengerchampionship_b
@@ -7933,18 +7919,18 @@ SUMMARY:TLR vs SIU
 UID:cs-go-esea-advanced-europe-56-2026-1364671@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: kONO.ECF: 0 | UNiTY esports: 1\nStream: https://www.twitch.tv/joshua_official
-DTEND:20260204T185525Z
-DTSTART:20260204T182301Z
-SUMMARY:ECF vs UNiTY
-UID:cs-go-esea-advanced-europe-56-2026-1347237@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: ReThink: 0 | HEROIC Academy: 2\nStream: https://kick.com/united21_en
 DTEND:20260304T151347Z
 DTSTART:20260304T133850Z
 SUMMARY:Lower bracket quarterfinal 2: RT vs HERO.A
 UID:cs-go-united21-45-2026-1378768@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: kONO.ECF: 0 | UNiTY esports: 1\nStream: https://www.twitch.tv/joshua_official
+DTEND:20260204T185525Z
+DTSTART:20260204T182301Z
+SUMMARY:ECF vs UNiTY
+UID:cs-go-esea-advanced-europe-56-2026-1347237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -8589,13 +8575,6 @@ DTEND:20260219T184315Z
 DTSTART:20260219T181247Z
 SUMMARY:QWE vs BRUTE
 UID:cs-go-esea-advanced-europe-56-2026-1367388@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Master League Portugal - Season 18 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 2 | SAW: 1\nStream: https://www.twitch.tv/rtparenacs
-DTEND:20260228T184324Z
-DTSTART:20260228T160225Z
-SUMMARY:Semifinal 2: RBLS vs SAW
-UID:cs-go-master-league-portugal-18-2026-1371196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -9998,11 +9977,11 @@ SUMMARY:Round 2: HAVU vs ex-Zero Tenacity
 UID:cs-go-cct-europe-series-18-3-2026-1381104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 2 2026\nMatch Type: Best Of\nResult: Team CS2NEWS: 0 | Team Lixxx: 2\nStream: https://www.twitch.tv/kartash0v
-DTEND:20260303T222338Z
-DTSTART:20260303T205547Z
-SUMMARY:CS2NEWS vs Team Lixxx
-UID:cs-go-winline-star-series-2-2026-1374230@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IZI WEX - Season 1 2026\nMatch Type: Best Of\nResult: WW Team: 2 | WHITEBIRD: 0\nStream: https://kick.com/exort_ru3
+DTEND:20260306T205927Z
+DTSTART:20260306T190940Z
+SUMMARY:Lower bracket final: WW vs WB
+UID:cs-go-izi-wex-1-2026-1381501@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 2 2026\nMatch Type: Best Of\nResult: Team SNAILKICK: 2 | Team Morphilina: 1\nStream: https://www.twitch.tv/kartash0v
@@ -10012,11 +9991,11 @@ SUMMARY:Lower bracket final: Team SNAILKICK vs Team Morphilina
 UID:cs-go-winline-star-series-2-2026-1385710@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IZI WEX - Season 1 2026\nMatch Type: Best Of\nResult: WW Team: 2 | WHITEBIRD: 0\nStream: https://kick.com/exort_ru3
-DTEND:20260306T205927Z
-DTSTART:20260306T190940Z
-SUMMARY:Lower bracket final: WW vs WB
-UID:cs-go-izi-wex-1-2026-1381501@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 2 2026\nMatch Type: Best Of\nResult: Team CS2NEWS: 0 | Team Lixxx: 2\nStream: https://www.twitch.tv/kartash0v
+DTEND:20260303T222338Z
+DTSTART:20260303T205547Z
+SUMMARY:CS2NEWS vs Team Lixxx
+UID:cs-go-winline-star-series-2-2026-1374230@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Imperial Academy: 1 | HAVU: 0\nStream: https://www.twitch.tv/havugaming

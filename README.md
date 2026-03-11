@@ -656,27 +656,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/JbProLeague/Season2
 </details>
 
 <details>
-<summary>Master League Portugal</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MasterLeaguePortugal/MasterLeaguePortugal.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MasterLeaguePortugal/MasterLeaguePortugal.ics
-```
-
----
-
-### Season 18 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MasterLeaguePortugal/Season182026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MasterLeaguePortugal/Season182026.ics
-```
-
-</details>
-
-<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
