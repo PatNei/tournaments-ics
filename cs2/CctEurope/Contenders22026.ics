@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260312T163000Z
-SUMMARY:Lower bracket round 3 match 1: Inner Circle Academy vs TBD
+SUMMARY:Lower bracket round 3 match 1: Inner Circle Academy vs DUG
 UID:cs-go-cct-europe-contenders-2-2026-1392407@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -121,8 +121,8 @@ SUMMARY:Upper bracket round 1 match 2: Y.TigeRES vs DAL
 UID:cs-go-cct-europe-contenders-2-2026-1388376@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Partizan Esport: 0 | Duggedup: 2\nStream: https://kick.com/cct-cs5
+DTEND:20260311T204230Z
 DTSTART:20260311T191957Z
 SUMMARY:Lower bracket round 2 match 2: PAR vs DUG
 UID:cs-go-cct-europe-contenders-2-2026-1392404@tournamentics
