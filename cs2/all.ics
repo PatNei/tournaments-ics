@@ -422,7 +422,7 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/locomass22
+DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
 DTSTART:20260311T213000Z
 SUMMARY:Elimination match: Hacha Esports vs LYN
@@ -602,13 +602,6 @@ DURATION:PT2H
 DTSTART:20260313T183000Z
 SUMMARY:Lower bracket round 4 match 2: TLR vs TBD
 UID:cs-go-esea-advanced-europe-56-2026-1382754@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 0 | Inner Circle Esports: 2\nStream: https://www.twitch.tv/watchfulTVc
-DTEND:20260301T124120Z
-DTSTART:20260301T111331Z
-SUMMARY:Lower bracket final: EYE vs ICE
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368681@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 2 | RoundsGG: 1\nStream: https://www.twitch.tv/elisaviihdesport
@@ -1402,13 +1395,6 @@ SUMMARY:HUSK vs LEI
 UID:cs-go-dach-cs-masters-5-2026-1385715@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 0 | BetBoom Team: 2\nStream: https://www.twitch.tv/watchfulTV
-DTEND:20260228T111710Z
-DTSTART:20260228T090524Z
-SUMMARY:Lower bracket quarterfinal 2: 9INE vs BB
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368678@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: Sinners: 0 | AM Gaming: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260302T200008Z
 DTSTART:20260302T182103Z
@@ -1500,9 +1486,9 @@ SUMMARY:Round 4: PLS vs Damajuana
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369811@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/untalentedkid785
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/brute_gg
 DURATION:PT2H
-DTSTART:20260311T183000Z
+DTSTART:20260311T184155Z
 SUMMARY:Lower bracket round 3 match 2: QWE vs BRUTE
 UID:cs-go-esea-advanced-europe-56-2026-1382750@tournamentics
 END:VEVENT
@@ -2340,13 +2326,6 @@ SUMMARY:SHIN vs SUPER
 UID:cs-go-aorus-latam-2026-1392421@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: fnatic: 1 | BetBoom Team: 2\nStream: https://www.twitch.tv/watchfulTV
-DTEND:20260227T181344Z
-DTSTART:20260227T151943Z
-SUMMARY:Lower bracket round 1 match 2: FNC vs BB
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368674@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Millennium Esports: 0 | aimclub: 1\nStream: No official stream linked
 DTEND:20260202T201003Z
 DTSTART:20260202T191202Z
@@ -2415,13 +2394,6 @@ DTEND:20260301T121939Z
 DTSTART:20260301T090900Z
 SUMMARY:Decider match: ENCE.A vs WW
 UID:cs-go-european-pro-league-series-5-2026-1355908@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: fnatic: 1 | Inner Circle Esports: 2\nStream: https://www.twitch.tv/krl_stream
-DTEND:20260226T181358Z
-DTSTART:20260226T151131Z
-SUMMARY:Upper bracket quarterfinal 3: FNC vs ICE
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1367398@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -4377,13 +4349,6 @@ SUMMARY:FROX vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | Tricked: 0\nStream: https://www.twitch.tv/watchfulTV
-DTEND:20260228T135947Z
-DTSTART:20260228T121433Z
-SUMMARY:Lower bracket quarterfinal 1: ICE vs TRI
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368677@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 0 | MANA eSports: 1\nStream: No official stream linked
 DTEND:20260210T175718Z
 DTSTART:20260210T172836Z
@@ -5385,13 +5350,6 @@ SUMMARY:Lower bracket round 2 match 6: eLITenergy vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1382746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: Tricked: 2 | MOUZ NXT: 0\nStream: https://www.twitch.tv/watchfulTV
-DTEND:20260227T105358Z
-DTSTART:20260227T090150Z
-SUMMARY:Lower bracket round 1 match 1: TRI vs MOUZ.N
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368673@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: LFO: 0 | DRGN TEAM: 1\nStream: No official stream linked
 DTEND:20260202T195619Z
 DTSTART:20260202T190840Z
@@ -5453,13 +5411,6 @@ DURATION:PT2H
 DTSTART:20260315T033000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387210@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 2 | MOUZ NXT: 0\nStream: https://www.twitch.tv/watchfulTV
-DTEND:20260226T140344Z
-DTSTART:20260226T121507Z
-SUMMARY:Upper bracket quarterfinal 2: EYE vs MOUZ.N
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1367397@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: SVENSKA: 0 | megoshort: 1\nStream: No official stream linked
@@ -5733,13 +5684,6 @@ DURATION:PT2H
 DTSTART:20260313T183000Z
 SUMMARY:Lower bracket round 4 match 4:  CSDIILIT vs TBD
 UID:cs-go-esea-advanced-europe-56-2026-1382756@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: FOKUS: 3 | Inner Circle Esports: 1\nStream: https://www.twitch.tv/endiezcasts
-DTEND:20260301T184233Z
-DTSTART:20260301T141651Z
-SUMMARY:Grand final: FOKUS vs ICE
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | BoyBand: 1\nStream: https://www.twitch.tv/elisaviihdesport
@@ -7590,18 +7534,11 @@ SUMMARY:OVS vs REV
 UID:cs-go-dach-cs-masters-5-2026-1385713@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260311T183000Z
+DTSTART:20260311T184153Z
 SUMMARY:Lower bracket round 3 match 1: ex-GANK Esports vs MEGO
 UID:cs-go-esea-advanced-europe-56-2026-1382749@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 1 | FOKUS: 2\nStream: https://www.twitch.tv/watchfulTV
-DTEND:20260227T212155Z
-DTSTART:20260227T182605Z
-SUMMARY:Upper bracket semifinal 2: ICE vs FOKUS
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368676@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: OldBoys: 0 | XI Esport: 1\nStream: No official stream linked
@@ -8563,13 +8500,6 @@ SUMMARY:Round 1: 3DMAX vs paiN
 UID:cs-go-esl-pro-league-23-2026-1376110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 2 | Tricked: 0\nStream: https://www.twitch.tv/aferatv
-DTEND:20260226T110550Z
-DTSTART:20260226T091549Z
-SUMMARY:Upper bracket quarterfinal 1: 9INE vs TRI
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1367396@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: QWENTRY: 0 | Brute: 1\nStream: https://www.twitch.tv/brute_gg
 DTEND:20260219T184315Z
 DTSTART:20260219T181247Z
@@ -8862,13 +8792,6 @@ DURATION:PT2H
 DTSTART:20260313T183000Z
 SUMMARY:Lower bracket round 4 match 3: AUR.YB vs TBD
 UID:cs-go-esea-advanced-europe-56-2026-1382755@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 1 | FOKUS: 2\nStream: https://www.twitch.tv/CS2_maincast
-DTEND:20260228T175740Z
-DTSTART:20260228T151344Z
-SUMMARY:Upper bracket final: EYE vs FOKUS
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368682@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 0 |  CSDIILIT: 2\nStream: https://www.twitch.tv/elisaviihdesport
@@ -9641,13 +9564,6 @@ SUMMARY:BERG vs REV
 UID:cs-go-dach-cs-masters-5-2026-1385716@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | Inner Circle Esports: 2\nStream: https://www.twitch.tv/watchfulTV
-DTEND:20260228T205910Z
-DTSTART:20260228T182845Z
-SUMMARY:Lower bracket semifinal: BB vs ICE
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368679@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 5 2026\nMatch Type: Best Of\nResult: HOTU: 0 | magic: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260304T170003Z
 DTSTART:20260304T150325Z
@@ -9762,7 +9678,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/havugaming
 DURATION:PT2H
-DTSTART:20260311T183000Z
+DTSTART:20260311T184500Z
 SUMMARY:Lower bracket round 3 match 3: HAVU vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1382751@tournamentics
 END:VEVENT
@@ -10551,13 +10467,6 @@ SUMMARY:Lower bracket round 2 match 8: OldBoys vs LFO
 UID:cs-go-esea-advanced-europe-56-2026-1382748@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 1 | EYEBALLERS: 2\nStream: https://www.twitch.tv/esportstudion
-DTEND:20260227T180848Z
-DTSTART:20260227T151108Z
-SUMMARY:Upper bracket semifinal 1: 9INE vs EYE
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1368675@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: eLITenergy: 0 | OLDBOYS-: 1\nStream: No official stream linked
 DTEND:20260202T195155Z
 DTSTART:20260202T191238Z
@@ -10605,13 +10514,6 @@ DTEND:20260220T110247Z
 DTSTART:20260220T090725Z
 SUMMARY:Round 1: ex-RUBY vs WB
 UID:cs-go-nodwin-clutch-series-5-2026-1356200@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | FOKUS: 2\nStream: https://www.twitch.tv/watchfulTV
-DTEND:20260226T210701Z
-DTSTART:20260226T184229Z
-SUMMARY:Upper bracket quarterfinal 4: BB vs FOKUS
-UID:cs-go-pgl-bucharest-european-closed-qualifier-2026-1367399@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
