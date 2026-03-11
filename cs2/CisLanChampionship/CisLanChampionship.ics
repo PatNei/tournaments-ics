@@ -124,12 +124,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
 DTSTART:20260312T090000Z
-SUMMARY:Semifinal 1: NEM vs TBD
+SUMMARY:Semifinal 1: NEM vs K27
 UID:cs-go-cis-lan-championship-3-2026-1387191@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 0 | K27: 2\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260311T164926Z
 DTSTART:20260311T150324Z
 SUMMARY:Quarterfinal 1: VP.P vs K27
 UID:cs-go-cis-lan-championship-3-2026-1387187@tournamentics
