@@ -3351,7 +3351,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260312T030000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: AE vs TBD
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391067@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3908,8 +3908,8 @@ SUMMARY:Quarterfinal 2: G2.A vs WW
 UID:cs-go-exort-meteor-2-2026-1378853@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.huya.com/825802
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | Alter Ego: 0\nStream: https://www.huya.com/825802
+DTEND:20260311T074606Z
 DTSTART:20260311T055958Z
 SUMMARY:Upper bracket semifinal 1: CW vs AE
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391053@tournamentics
@@ -9147,7 +9147,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260312T060000Z
-SUMMARY:Upper bracket fianl: TBD vs TBD
+SUMMARY:Upper bracket fianl: CW vs TBD
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391055@tournamentics
 END:VEVENT
 BEGIN:VEVENT
