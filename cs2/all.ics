@@ -1570,8 +1570,8 @@ SUMMARY:ME vs HS
 UID:cs-go-esea-advanced-europe-56-2026-1337969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 2 | Phantom: 0\nStream: https://kick.com/cct_cs
+DTEND:20260311T120726Z
 DTSTART:20260311T090957Z
 SUMMARY:Round of 16 match 5: CS vs PHA
 UID:cs-go-cct-europe-series-17-3-2026-1373748@tournamentics
@@ -5077,9 +5077,9 @@ SUMMARY:QWE vs SUNFALL
 UID:cs-go-esea-advanced-europe-56-2026-1369884@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
+DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
-DTSTART:20260311T120000Z
+DTSTART:20260311T120030Z
 SUMMARY:Quarterfinal 2: NEM vs ARC
 UID:cs-go-cis-lan-championship-3-2026-1387188@tournamentics
 END:VEVENT
@@ -10663,11 +10663,11 @@ SUMMARY:Round 1: FA vs R2
 UID:cs-go-betboom-storm-1-2026-1380039@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260311T120000Z
-SUMMARY:Decider match: HERO.A vs EC BANGA
-UID:cs-go-nodwin-clutch-series-6-2026-1389688@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Square Sausages: 1 | 777: 0\nStream: No official stream linked
+DTEND:20260203T194415Z
+DTSTART:20260203T191404Z
+SUMMARY:SS vs 777
+UID:cs-go-esea-advanced-europe-56-2026-1345988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | Omega: 1\nStream: https://kick.com/cct_cs
@@ -10675,13 +10675,6 @@ DTEND:20260301T113423Z
 DTSTART:20260301T090702Z
 SUMMARY:Round 1: ex-RUBY vs OMG
 UID:cs-go-cct-europe-series-17-3-2026-1373711@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Square Sausages: 1 | 777: 0\nStream: No official stream linked
-DTEND:20260203T194415Z
-DTSTART:20260203T191404Z
-SUMMARY:SS vs 777
-UID:cs-go-esea-advanced-europe-56-2026-1345988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -11135,7 +11128,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260312T180000Z
-SUMMARY:Quarterfinal 4: MOUZ.N vs TBD
+SUMMARY:Quarterfinal 4: MOUZ.N vs CS
 UID:cs-go-cct-europe-series-17-3-2026-1373755@tournamentics
 END:VEVENT
 BEGIN:VEVENT
