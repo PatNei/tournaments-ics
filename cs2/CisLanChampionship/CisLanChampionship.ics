@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | 5Actors: 1\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260311T002947Z
 DTSTART:20260310T211539Z
 SUMMARY:Decider match: NEMI vs 5Actors
 UID:cs-go-cis-lan-championship-3-2026-1387156@tournamentics
