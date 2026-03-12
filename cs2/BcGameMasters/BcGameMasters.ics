@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260314T090000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: EF vs TBD
 UID:cs-go-bc-game-masters-1-2026-1381454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -84,13 +84,6 @@ DURATION:PT2H
 DTSTART:20260313T120000Z
 SUMMARY:Round of 16 match 6: KOL vs HERO.A
 UID:cs-go-bc-game-masters-1-2026-1381451@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
-DTSTART:20260312T132500Z
-SUMMARY:Round of 16 match 2: ex-RUBY vs EF
-UID:cs-go-bc-game-masters-1-2026-1381447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: ex-Fingers Crossed: 0 | Rune Eaters: 2\nStream: https://www.twitch.tv/bcgamemasters

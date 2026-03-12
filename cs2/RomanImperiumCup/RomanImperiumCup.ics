@@ -81,13 +81,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
 DURATION:PT2H
-DTSTART:20260312T134500Z
+DTSTART:20260312T140000Z
 SUMMARY:M80 vs JJH
 UID:cs-go-roman-imperium-cup-6-2026-1389725@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nResult: 9INE: 1 | Nebula In Chaox: 0\nStream: https://www.twitch.tv/dred_
+DTEND:20260312T133134Z
 DTSTART:20260312T125710Z
 SUMMARY:9INE vs NIC
 UID:cs-go-roman-imperium-cup-6-2026-1389722@tournamentics
@@ -186,7 +186,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
 DURATION:PT2H
-DTSTART:20260312T134500Z
+DTSTART:20260312T140000Z
 SUMMARY:RBLS vs 9INE
 UID:cs-go-roman-imperium-cup-6-2026-1389724@tournamentics
 END:VEVENT

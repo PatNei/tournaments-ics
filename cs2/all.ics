@@ -1206,8 +1206,8 @@ SUMMARY:Semifinal 2: WW vs NEMI
 UID:cs-go-cis-lan-championship-3-2026-1387192@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nResult: 9INE: 1 | Nebula In Chaox: 0\nStream: https://www.twitch.tv/dred_
+DTEND:20260312T133134Z
 DTSTART:20260312T125710Z
 SUMMARY:9INE vs NIC
 UID:cs-go-roman-imperium-cup-6-2026-1389722@tournamentics
@@ -1815,9 +1815,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-18-3-2026-1381194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260312T133000Z
+DTSTART:20260312T133348Z
 SUMMARY:Round 5: PAR vs INF
 UID:cs-go-exort-series-23-2026-1394829@tournamentics
 END:VEVENT
@@ -3287,7 +3287,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dred_
 DURATION:PT2H
-DTSTART:20260312T134500Z
+DTSTART:20260312T140000Z
 SUMMARY:M80 vs JJH
 UID:cs-go-roman-imperium-cup-6-2026-1389725@tournamentics
 END:VEVENT
@@ -6283,7 +6283,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roman
 DURATION:PT2H
-DTSTART:20260312T134500Z
+DTSTART:20260312T140000Z
 SUMMARY:RBLS vs 9INE
 UID:cs-go-roman-imperium-cup-6-2026-1389724@tournamentics
 END:VEVENT
@@ -8332,7 +8332,7 @@ SUMMARY:Lower bracket round 2 match 5: HAVU vs Imperial.A
 UID:cs-go-esea-advanced-europe-56-2026-1382745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xristcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260312T122945Z
 SUMMARY:Lower bracket final: CW vs LVG
@@ -9140,7 +9140,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260314T090000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: EF vs TBD
 UID:cs-go-bc-game-masters-1-2026-1381454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10843,13 +10843,6 @@ DTEND:20260214T135622Z
 DTSTART:20260214T120530Z
 SUMMARY:Decider match: PGE vs BMB
 UID:cs-go-nodwin-clutch-series-5-2026-1356106@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
-DTSTART:20260312T132500Z
-SUMMARY:Round of 16 match 2: ex-RUBY vs EF
-UID:cs-go-bc-game-masters-1-2026-1381447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Haspers: 1 | TNC: 0\nStream: https://www.twitch.tv/tncesport
