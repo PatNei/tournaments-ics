@@ -65,10 +65,10 @@ SUMMARY:Upper bracket round 1 match 1: FLY vs Chaos Gaming
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391041@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xristcs
 DURATION:PT2H
 DTSTART:20260312T113000Z
-SUMMARY:Lower bracket final: CW vs TBD
+SUMMARY:Lower bracket final: CW vs LVG
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391069@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -142,8 +142,8 @@ SUMMARY:Upper bracket round 1 match 3: RA vs GZ
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xristcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Lynn Vision: 2 | Alter Ego: 1\nStream: https://www.twitch.tv/xristcs
+DTEND:20260312T111800Z
 DTSTART:20260312T081342Z
 SUMMARY:Lower bracket semifinal: LVG vs AE
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391068@tournamentics
