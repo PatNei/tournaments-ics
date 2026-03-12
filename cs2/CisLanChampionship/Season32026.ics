@@ -116,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
-DTSTART:20260312T180000Z
+DTSTART:20260312T183000Z
 SUMMARY:Grand final: K27 vs WW
 UID:cs-go-cis-lan-championship-3-2026-1387194@tournamentics
 END:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:NTR vs VP.P
 UID:cs-go-cis-lan-championship-3-2026-1387137@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | Nemiga: 0\nStream: https://www.twitch.tv/MPKBK
+DTEND:20260312T175725Z
 DTSTART:20260312T161921Z
 SUMMARY:3rd place decider: NEM vs NEMI
 UID:cs-go-cis-lan-championship-3-2026-1387193@tournamentics
