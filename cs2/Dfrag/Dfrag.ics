@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260312T053000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: THUNDER dOWNUNDER vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | Time Waves: 0\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260312T042726Z
 DTSTART:20260312T020025Z
 SUMMARY:THUNDER dOWNUNDER vs Time Waves
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387195@tournamentics
@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260312T053000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Time Waves vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387197@tournamentics
 END:VEVENT
 END:VCALENDAR
