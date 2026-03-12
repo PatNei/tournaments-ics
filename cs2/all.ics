@@ -3169,7 +3169,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260314T150000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: NVQ vs TBD
 UID:cs-go-bc-game-masters-1-2026-1381456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4860,8 +4860,8 @@ SUMMARY:Recrent vs Team Morphilina
 UID:cs-go-winline-star-series-2-2026-1374296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: HAVU: 1 | Team Novaq: 2\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260312T210521Z
 DTSTART:20260312T182938Z
 SUMMARY:Round of 16 match 4: HAVU vs NVQ
 UID:cs-go-bc-game-masters-1-2026-1381449@tournamentics
