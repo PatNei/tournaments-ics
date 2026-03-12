@@ -1201,7 +1201,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/MPKBK
 DURATION:PT2H
-DTSTART:20260312T120000Z
+DTSTART:20260312T121500Z
 SUMMARY:Semifinal 2: WW vs NEMI
 UID:cs-go-cis-lan-championship-3-2026-1387192@tournamentics
 END:VEVENT
@@ -5007,8 +5007,8 @@ SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-6-2026-1389804@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nResult: 9INE: 1 | JiJieHao: 0\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260312T105219Z
 DTSTART:20260312T100900Z
 SUMMARY:9INE vs JJH
 UID:cs-go-roman-imperium-cup-6-2026-1389718@tournamentics
@@ -7327,7 +7327,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260316T113000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: SNG vs TBD
 UID:cs-go-united21-46-2026-1392361@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8157,8 +8157,8 @@ SUMMARY:Round 4: PRV vs MNTE
 UID:cs-go-esl-pro-league-23-2026-1376215@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Imperial Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260312T105946Z
 DTSTART:20260312T090914Z
 SUMMARY:SNG vs Imperial.A
 UID:cs-go-united21-46-2026-1392358@tournamentics
@@ -8334,7 +8334,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260312T110000Z
+DTSTART:20260312T113000Z
 SUMMARY:Lower bracket final: CW vs TBD
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391069@tournamentics
 END:VEVENT
@@ -10169,7 +10169,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260316T090000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Imperial.A vs TBD
 UID:cs-go-united21-46-2026-1392360@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10488,8 +10488,8 @@ SUMMARY:K27 vs OXUJI
 UID:cs-go-cis-lan-championship-3-2026-1387142@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Rooster: 0 | Ground Zero: 2\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260312T105304Z
 DTSTART:20260312T085910Z
 SUMMARY:Decider match: RSTR vs GZ
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387199@tournamentics
