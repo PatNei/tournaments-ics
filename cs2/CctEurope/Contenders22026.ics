@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260313T191500Z
-SUMMARY:Lower bracket quarterfinal 2: ENJOY vs TBD
+SUMMARY:Lower bracket quarterfinal 2: ENJOY vs MISA
 UID:cs-go-cct-europe-contenders-2-2026-1392412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -152,12 +152,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260314T163000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: DNT vs TBD
 UID:cs-go-cct-europe-contenders-2-2026-1392413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | Misa Esports: 0\nStream: https://kick.com/cct-cs6
+DTEND:20260312T205016Z
 DTSTART:20260312T192059Z
 SUMMARY:Upper bracket semifinal 1: DNT vs MISA
 UID:cs-go-cct-europe-contenders-2-2026-1392409@tournamentics
