@@ -2,11 +2,46 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Imperial: 3\nStream: https://www.twitch.tv/watchfulTVb
-DTEND:20260302T014421Z
-DTSTART:20260301T200224Z
-SUMMARY:Grand final: MIBR vs IMP
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373639@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BOSS: 2 | Team Aether: 0\nStream: No official stream linked
+DTEND:20260227T014518Z
+DTSTART:20260227T001810Z
+SUMMARY:Upper bracket quarterfinal 2: BOSS vs TA
+UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1367423@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | LAG Gaming: 0\nStream: https://kick.com/bonamant
+DTEND:20260301T215729Z
+DTSTART:20260301T200927Z
+SUMMARY:Lower bracket final: WC vs LAG
+UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368693@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: FlyQuest RED: 0 | Fisher College: 2\nStream: https://kick.com/bonamant
+DTEND:20260228T013928Z
+DTSTART:20260228T000753Z
+SUMMARY:Lower bracket round 1 match 2: FLY.R vs FC
+UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368689@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Wildcard: 0 | Voca: 2\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260301T044454Z
+DTSTART:20260301T030945Z
+SUMMARY:Upper bracket final: WC vs VOCA
+UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368686@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Voca: 2 | Fisher College: 0\nStream: No official stream linked
+DTEND:20260227T043829Z
+DTSTART:20260227T031638Z
+SUMMARY:Upper bracket quarterfinal 4: VOCA vs FC
+UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1367425@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Sakura Esports: 0 | Wildcard: 2\nStream: No official stream linked
+DTEND:20260227T014024Z
+DTSTART:20260227T001347Z
+SUMMARY:Upper bracket quarterfinal 1: SE vs WC
+UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1367422@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | BOSS: 0\nStream: https://www.twitch.tv/endiezcasts
@@ -23,13 +58,6 @@ SUMMARY:Lower bracket round 1 match 1: SE vs TA
 UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: ShindeN: 0 | Galorys: 2\nStream: https://www.twitch.tv/shemakaka
-DTEND:20260226T173251Z
-DTSTART:20260226T154452Z
-SUMMARY:Upper Bracket Quarterfinal 1: SHIN vs GLS
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373640@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: LAG Gaming: 0 | Voca: 2\nStream: https://www.twitch.tv/bonamant
 DTEND:20260228T043954Z
 DTSTART:20260228T031303Z
@@ -37,39 +65,11 @@ SUMMARY:Upper bracket semifinal 2: LAG vs VOCA
 UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Imperial: 2\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260228T202657Z
-DTSTART:20260228T180642Z
-SUMMARY:Lower bracket quarterfinal 1: BHE vs IMP
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373633@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Galorys: 2 | Keyd: 0\nStream: https://www.twitch.tv/watchfultvb
-DTEND:20260227T232543Z
-DTSTART:20260227T210728Z
-SUMMARY:Upper Bracket Semifinals 1: GLS vs Keyd
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373630@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BOSS: 2 | Team Aether: 0\nStream: No official stream linked
-DTEND:20260227T014518Z
-DTSTART:20260227T001810Z
-SUMMARY:Upper bracket quarterfinal 2: BOSS vs TA
-UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1367423@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Yawara Esports: 1 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/vilacattv
-DTEND:20260227T003729Z
-DTSTART:20260226T211346Z
-SUMMARY:Upper Bracket Quarterfinal 3: YAW vs BHE
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373642@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Galorys: 0 | Imperial: 2\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260301T183729Z
-DTSTART:20260301T170425Z
-SUMMARY:Lower bracket final: GLS vs IMP
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373638@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: FlyQuest RED: 0 | LAG Gaming: 2\nStream: No official stream linked
+DTEND:20260227T042609Z
+DTSTART:20260227T031537Z
+SUMMARY:Upper bracket quarterfinal 3: FLY.R vs LAG
+UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1367424@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Fisher College: 1 | BOSS: 2\nStream: https://www.twitch.tv/trottah
@@ -91,82 +91,5 @@ DTEND:20260228T041333Z
 DTSTART:20260228T030524Z
 SUMMARY:Upper bracket semifinal 1: WC vs BOSS
 UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368684@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Keyd: 1 | Yawara Esports: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260228T174654Z
-DTSTART:20260228T151054Z
-SUMMARY:Lower bracket quarterfinal 2: Keyd vs YAW
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373632@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Voca: 2 | Fisher College: 0\nStream: No official stream linked
-DTEND:20260227T043829Z
-DTSTART:20260227T031638Z
-SUMMARY:Upper bracket quarterfinal 4: VOCA vs FC
-UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1367425@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Sakura Esports: 0 | Wildcard: 2\nStream: No official stream linked
-DTEND:20260227T014024Z
-DTSTART:20260227T001347Z
-SUMMARY:Upper bracket quarterfinal 1: SE vs WC
-UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1367422@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | LAG Gaming: 0\nStream: https://kick.com/bonamant
-DTEND:20260301T215729Z
-DTSTART:20260301T200927Z
-SUMMARY:Lower bracket final: WC vs LAG
-UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368693@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: FlyQuest RED: 0 | Fisher College: 2\nStream: https://kick.com/bonamant
-DTEND:20260228T013928Z
-DTSTART:20260228T000753Z
-SUMMARY:Lower bracket round 1 match 2: FLY.R vs FC
-UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368689@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Imperial: 1 | Keyd: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260226T204936Z
-DTSTART:20260226T180442Z
-SUMMARY:Upper Bracket Quarterfinal 2: IMP vs Keyd
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373641@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Yawara Esports: 0\nStream: https://www.twitch.tv/gaules
-DTEND:20260301T013514Z
-DTSTART:20260301T000732Z
-SUMMARY:Lower bracket semifinal : IMP vs YAW
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373637@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Wildcard: 0 | Voca: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260301T044454Z
-DTSTART:20260301T030945Z
-SUMMARY:Upper bracket final: WC vs VOCA
-UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1368686@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Galorys: 0\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260228T223258Z
-DTSTART:20260228T210452Z
-SUMMARY:Upper bracket final: MIBR vs GLS
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373634@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Bounty Hunters Esports: 0\nStream: https://www.twitch.tv/watchfultvb
-DTEND:20260228T033328Z
-DTSTART:20260228T001318Z
-SUMMARY:Upper Bracket Semifinals 2: MIBR vs BHE
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373631@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: FlyQuest RED: 0 | LAG Gaming: 2\nStream: No official stream linked
-DTEND:20260227T042609Z
-DTSTART:20260227T031537Z
-SUMMARY:Upper bracket quarterfinal 3: FLY.R vs LAG
-UID:cs-go-pgl-bucharest-north-american-closed-qualifier-2026-1367424@tournamentics
 END:VEVENT
 END:VCALENDAR

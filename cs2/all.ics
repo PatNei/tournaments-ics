@@ -457,13 +457,6 @@ SUMMARY:Round 3: FUT vs 3DMAX
 UID:cs-go-esl-pro-league-23-2026-1378878@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Imperial: 3\nStream: https://www.twitch.tv/watchfulTVb
-DTEND:20260302T014421Z
-DTSTART:20260301T200224Z
-SUMMARY:Grand final: MIBR vs IMP
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373639@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 2 2026\nMatch Type: Best Of\nResult: Team Recrent: 2 | Team Lixxx: 1\nStream: https://www.twitch.tv/kartash0v
 DTEND:20260305T163441Z
 DTSTART:20260305T140331Z
@@ -1899,18 +1892,18 @@ SUMMARY:zajezdzacze vs QUA
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: Keyd: 2 | MAGICOS: 0\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260310T222845Z
-DTSTART:20260310T210900Z
-SUMMARY:Keyd vs MAG
-UID:cs-go-aorus-brazil-open-qualifier-2026-1392434@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | ARCRED: 2\nStream: https://www.twitch.tv/MPKBK
 DTEND:20260310T192359Z
 DTSTART:20260310T181048Z
 SUMMARY:Winners match: NEMI vs ARC
 UID:cs-go-cis-lan-championship-3-2026-1387155@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: Keyd: 2 | MAGICOS: 0\nStream: https://www.twitch.tv/tris_mara
+DTEND:20260310T222845Z
+DTSTART:20260310T210900Z
+SUMMARY:Keyd vs MAG
+UID:cs-go-aorus-brazil-open-qualifier-2026-1392434@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: Ursa: 1 | MANA eSports: 0\nStream: No official stream linked
@@ -2242,13 +2235,6 @@ SUMMARY:Round 2: NAVI vs G2
 UID:cs-go-esl-pro-league-23-2026-1378870@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Bounty Hunters Esports: 0\nStream: https://www.twitch.tv/watchfultvb
-DTEND:20260228T033328Z
-DTSTART:20260228T001318Z
-SUMMARY:Upper Bracket Semifinals 2: MIBR vs BHE
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373631@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Closed Qualifier season 31 2026\nMatch Type: Best Of\nResult: ECSTATIC: 2 | MASONIC: 0\nStream: https://www.twitch.tv/dust2tv
 DTEND:20260216T173128Z
 DTSTART:20260216T160633Z
@@ -2256,18 +2242,18 @@ SUMMARY:Round 3: ECS vs MSC
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1356385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260313T100000Z
-SUMMARY:BST vs FCF
-UID:cs-go-roman-imperium-cup-6-2026-1389729@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 0 | Donstu Esports: 2\nStream: https://kick.com/CCT-CS5
 DTEND:20260307T181147Z
 DTSTART:20260307T163452Z
 SUMMARY:Upper bracket round 1 match 1: Inner Circle Academy vs DNT
 UID:cs-go-cct-europe-contenders-2-2026-1388375@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260313T100000Z
+SUMMARY:BST vs FCF
+UID:cs-go-roman-imperium-cup-6-2026-1389729@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nResult: Heroic: 2 | NRG: 0\nStream: https://www.twitch.tv/ESLCS
@@ -2625,13 +2611,6 @@ DTEND:20260308T171024Z
 DTSTART:20260308T153036Z
 SUMMARY:Round 3: LGC vs AST
 UID:cs-go-esl-pro-league-23-2026-1378880@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Imperial: 1 | Keyd: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260226T204936Z
-DTSTART:20260226T180442Z
-SUMMARY:Upper Bracket Quarterfinal 2: IMP vs Keyd
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -3367,13 +3346,6 @@ DTEND:20260308T133923Z
 DTSTART:20260308T103923Z
 SUMMARY:Round 3: FaZe vs MNTE
 UID:cs-go-esl-pro-league-23-2026-1378877@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Galorys: 0 | Imperial: 2\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260301T183729Z
-DTSTART:20260301T170425Z
-SUMMARY:Lower bracket final: GLS vs IMP
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 2 2026\nMatch Type: Best Of\nResult: Team CYBERSHOKE: 2 | Team PCH3LK1N: 0\nStream: https://www.twitch.tv/kartash0v
@@ -4193,13 +4165,6 @@ DTEND:20260307T190331Z
 DTSTART:20260307T161840Z
 SUMMARY:Round 2: MOUZ vs AST
 UID:cs-go-esl-pro-league-23-2026-1378873@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: MIBR: 2 | Galorys: 0\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260228T223258Z
-DTSTART:20260228T210452Z
-SUMMARY:Upper bracket final: MIBR vs GLS
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Misa Esports: 2 | Duggedup: 0\nStream: https://kick.com/cct-cs6
@@ -5126,13 +5091,6 @@ SUMMARY:FXW7 vs SHIN
 UID:cs-go-circuit-x-pantanal-cuiaba-2026-1378268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Galorys: 2 | Keyd: 0\nStream: https://www.twitch.tv/watchfultvb
-DTEND:20260227T232543Z
-DTSTART:20260227T210728Z
-SUMMARY:Upper Bracket Semifinals 1: GLS vs Keyd
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373630@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260402T140000Z
@@ -5467,13 +5425,6 @@ DTEND:20260223T213854Z
 DTSTART:20260223T195152Z
 SUMMARY:Round 1: Strife vs JUMBO
 UID:cs-go-exort-series-23-2026-1373555@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: ShindeN: 0 | Galorys: 2\nStream: https://www.twitch.tv/shemakaka
-DTEND:20260226T173251Z
-DTSTART:20260226T154452Z
-SUMMARY:Upper Bracket Quarterfinal 1: SHIN vs GLS
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -6279,13 +6230,6 @@ DTEND:20260308T124027Z
 DTSTART:20260308T103440Z
 SUMMARY:Round 3: paiN vs AUR
 UID:cs-go-esl-pro-league-23-2026-1378876@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Yawara Esports: 0\nStream: https://www.twitch.tv/gaules
-DTEND:20260301T013514Z
-DTSTART:20260301T000732Z
-SUMMARY:Lower bracket semifinal : IMP vs YAW
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Winline Star Series - Season 2 2026\nMatch Type: Best Of\nResult: Team OverDrive: 1 | Team Morphilina: 2\nStream: https://www.twitch.tv/kartash0v
@@ -7247,13 +7191,6 @@ SUMMARY:Round 2: FUT vs HERO
 UID:cs-go-esl-pro-league-23-2026-1378872@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 1 | Imperial: 2\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260228T202657Z
-DTSTART:20260228T180642Z
-SUMMARY:Lower bracket quarterfinal 1: BHE vs IMP
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373633@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Partizan Esport: 2 | ENRAGE: 0\nStream: https://kick.com/CCT-CS5
 DTEND:20260307T211141Z
 DTSTART:20260307T192050Z
@@ -7765,18 +7702,18 @@ SUMMARY:QWE vs EF
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | UNO MILLE: 1\nStream: No official stream linked
-DTEND:20260310T194618Z
-DTSTART:20260310T165644Z
-SUMMARY:BST.A vs UNO
-UID:cs-go-aorus-brazil-open-qualifier-2026-1392432@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: ARCRED: 2 | 5Actors: 1\nStream: https://www.twitch.tv/jay_tb
 DTEND:20260310T173938Z
 DTSTART:20260310T152609Z
 SUMMARY:ARC vs 5Actors
 UID:cs-go-cis-lan-championship-3-2026-1387153@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | UNO MILLE: 1\nStream: No official stream linked
+DTEND:20260310T194618Z
+DTSTART:20260310T165644Z
+SUMMARY:BST.A vs UNO
+UID:cs-go-aorus-brazil-open-qualifier-2026-1392432@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 1 | CYBERSHOKE Prospects: 0\nStream: https://www.twitch.tv/pedrotavares12
@@ -9641,18 +9578,18 @@ SUMMARY:Decider match: MEGO vs Imperial.A
 UID:cs-go-united21-45-2026-1365961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: Galorys: 2 | RED Canids Academy: 0\nStream: No official stream linked
-DTEND:20260310T230421Z
-DTSTART:20260310T210859Z
-SUMMARY:GLS vs RED.A
-UID:cs-go-aorus-brazil-open-qualifier-2026-1392435@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | 5Actors: 1\nStream: https://www.twitch.tv/MPKBK
 DTEND:20260311T002947Z
 DTSTART:20260310T211539Z
 SUMMARY:Decider match: NEMI vs 5Actors
 UID:cs-go-cis-lan-championship-3-2026-1387156@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: Galorys: 2 | RED Canids Academy: 0\nStream: No official stream linked
+DTEND:20260310T230421Z
+DTSTART:20260310T210859Z
+SUMMARY:GLS vs RED.A
+UID:cs-go-aorus-brazil-open-qualifier-2026-1392435@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: MASONIC: 0 |  CSDIILIT: 1\nStream: https://www.twitch.tv/csdiilit_com
@@ -10019,13 +9956,6 @@ SUMMARY:Round 2: MNTE vs LGC
 UID:cs-go-esl-pro-league-23-2026-1378871@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Keyd: 1 | Yawara Esports: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260228T174654Z
-DTSTART:20260228T151054Z
-SUMMARY:Lower bracket quarterfinal 2: Keyd vs YAW
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373632@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260315T180000Z
@@ -10383,13 +10313,6 @@ SUMMARY:Round 3: MOUZ vs MGLZ
 UID:cs-go-esl-pro-league-23-2026-1378881@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Yawara Esports: 1 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/vilacattv
-DTEND:20260227T003729Z
-DTSTART:20260226T211346Z
-SUMMARY:Upper Bracket Quarterfinal 3: YAW vs BHE
-UID:cs-go-pgl-bucharest-south-american-closed-qualifier-2026-1373642@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: Young TigeRES: 2 | ex-PeeP: 1\nStream: https://kick.com/exort_en2
 DTEND:20260224T162304Z
 DTSTART:20260224T134941Z
@@ -10572,18 +10495,18 @@ SUMMARY:BBP vs  CSDIILIT
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | METANOIA WOLVES: 0\nStream: https://www.twitch.tv/metanoiagg
-DTEND:20260310T230424Z
-DTSTART:20260310T210902Z
-SUMMARY:ODK vs MW
-UID:cs-go-aorus-brazil-open-qualifier-2026-1392431@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 3 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | SPARTA: 0\nStream: https://www.twitch.tv/MPKBK
 DTEND:20260310T172552Z
 DTSTART:20260310T153921Z
 SUMMARY:NEMI vs SPARTA
 UID:cs-go-cis-lan-championship-3-2026-1387152@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Open Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | METANOIA WOLVES: 0\nStream: https://www.twitch.tv/metanoiagg
+DTEND:20260310T230424Z
+DTSTART:20260310T210902Z
+SUMMARY:ODK vs MW
+UID:cs-go-aorus-brazil-open-qualifier-2026-1392431@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 45 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | STATE: 1\nStream: https://kick.com/united21_en
