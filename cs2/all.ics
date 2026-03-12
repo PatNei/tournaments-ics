@@ -7950,7 +7950,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260312T110000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: CW vs TBD
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391069@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8486,8 +8486,8 @@ SUMMARY:Quarterfinal 4: MZP vs JJH
 UID:cs-go-exort-meteor-2-2026-1378855@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Mikotohero
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | TYLOO: 2\nStream: https://www.twitch.tv/Mikotohero
+DTEND:20260312T074920Z
 DTSTART:20260312T062120Z
 SUMMARY:Upper bracket fianl: CW vs TYLOO
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391055@tournamentics
@@ -10021,7 +10021,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
-DTSTART:20260312T080000Z
+DTSTART:20260312T083000Z
 SUMMARY:Decider match: RSTR vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387199@tournamentics
 END:VEVENT

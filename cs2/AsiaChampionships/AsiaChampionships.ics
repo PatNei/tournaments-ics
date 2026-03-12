@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260312T110000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: CW vs TBD
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391069@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Lower bracket round 1 match 3: Blazing Beavers vs DEPO
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Mikotohero
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asia Championships - Closed Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | TYLOO: 2\nStream: https://www.twitch.tv/Mikotohero
+DTEND:20260312T074920Z
 DTSTART:20260312T062120Z
 SUMMARY:Upper bracket fianl: CW vs TYLOO
 UID:cs-go-cs-go-asia-championships-2019-closed-qualifier-2026-1391055@tournamentics
