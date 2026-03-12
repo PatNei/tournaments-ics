@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260312T083000Z
-SUMMARY:Decider match: RSTR vs TBD
+SUMMARY:Decider match: RSTR vs GZ
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | Ground Zero: 1\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260312T080726Z
 DTSTART:20260312T054624Z
 SUMMARY:Winners match: THUNDER dOWNUNDER vs GZ
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387198@tournamentics
