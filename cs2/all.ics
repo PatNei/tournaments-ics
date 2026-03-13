@@ -4058,7 +4058,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260313T060000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Arcade Esports vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9984,8 +9984,8 @@ SUMMARY:Round of 16 match 5: ILWL vs URSA
 UID:cs-go-bc-game-masters-1-2026-1381450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Skele: 0 | Arcade Esports: 2\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260313T055023Z
 DTSTART:20260313T040835Z
 SUMMARY:Elimination match: Skele vs Arcade Esports
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387202@tournamentics
