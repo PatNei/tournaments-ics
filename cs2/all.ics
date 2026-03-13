@@ -4867,13 +4867,6 @@ SUMMARY:Decider match: YAW vs ODK
 UID:cs-go-circuit-x-pantanal-cuiaba-2026-1378281@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260313T193000Z
-SUMMARY:OG vs GRG
-UID:cs-go-roman-imperium-cup-6-2026-1389741@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: EPG Family: 1 | Aurora Young Blood: 0\nStream: https://www.twitch.tv/theeb1ye
 DTEND:20260115T140533Z
 DTSTART:20260115T133016Z
@@ -7996,9 +7989,9 @@ SUMMARY:Elimination match: MIBR.A vs YAW
 UID:cs-go-circuit-x-pantanal-cuiaba-2026-1378280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/masterpipe83
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/masterpipe83
 DURATION:PT2H
-DTSTART:20260313T193000Z
+DTSTART:20260313T193605Z
 SUMMARY:BCG vs ALL
 UID:cs-go-roman-imperium-cup-6-2026-1389740@tournamentics
 END:VEVENT
@@ -8866,7 +8859,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
-DTSTART:20260313T200000Z
+DTSTART:20260313T202000Z
 SUMMARY:Quarterfinal 1: AST vs TS
 UID:cs-go-esl-pro-league-23-2026-1378936@tournamentics
 END:VEVENT
