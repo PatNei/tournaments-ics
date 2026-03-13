@@ -4055,10 +4055,10 @@ SUMMARY:Round of 16 match 7: NEM vs WW
 UID:cs-go-bc-game-masters-1-2026-1381452@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
-DTSTART:20260313T060000Z
-SUMMARY:Decider match: Arcade Esports vs TBD
+DTSTART:20260313T063000Z
+SUMMARY:Decider match: Arcade Esports vs MF
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7128,8 +7128,8 @@ SUMMARY:Round of 16 match 6: KOL vs HERO.A
 UID:cs-go-bc-game-masters-1-2026-1381451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 2 | Mindfreak: 0\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260313T055551Z
 DTSTART:20260313T041635Z
 SUMMARY:Winners match: SFE vs MF
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387203@tournamentics
