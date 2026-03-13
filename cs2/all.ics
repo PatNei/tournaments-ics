@@ -3197,7 +3197,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260314T150000Z
-SUMMARY:Quarterfinal 3: NVQ vs TBD
+SUMMARY:Quarterfinal 3: NVQ vs ILWL
 UID:cs-go-bc-game-masters-1-2026-1381456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4888,9 +4888,9 @@ SUMMARY:Elimination match: ALGO vs OMG
 UID:cs-go-european-pro-league-series-5-2026-1355920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260313T110000Z
+DTSTART:20260313T110652Z
 SUMMARY:Semifinal 2: ex-RUBY vs CS
 UID:cs-go-cct-europe-series-17-3-2026-1373757@tournamentics
 END:VEVENT
@@ -10068,8 +10068,8 @@ SUMMARY:Round 1: OMG vs LK
 UID:cs-go-cct-europe-series-18-3-2026-1381090@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: illwill: 2 | Ursa: 0\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260313T110457Z
 DTSTART:20260313T091003Z
 SUMMARY:Round of 16 match 5: ILWL vs URSA
 UID:cs-go-bc-game-masters-1-2026-1381450@tournamentics
