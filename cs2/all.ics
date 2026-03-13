@@ -1950,8 +1950,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260313T181000Z
-SUMMARY:Grand final: ex-RUBY vs TBD
+DTSTART:20260313T183000Z
+SUMMARY:Grand final: ex-RUBY vs HOTU
 UID:cs-go-cct-europe-series-17-3-2026-1373758@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8038,8 +8038,8 @@ SUMMARY:Round 5:  CSDIILIT vs aimclub
 UID:cs-go-exort-meteor-2-2026-1378744@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Leo Team: 1 | HOTU: 2\nStream: https://kick.com/cct_cs
+DTEND:20260313T180550Z
 DTSTART:20260313T141956Z
 SUMMARY:Semifinal 1: Leo vs HOTU
 UID:cs-go-cct-europe-series-17-3-2026-1373756@tournamentics
@@ -9704,9 +9704,9 @@ SUMMARY:Quarterfinal 3: BIG vs K27
 UID:cs-go-stake-ranked-episode-1-closed-qualifier-2026-1382798@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260313T180000Z
+DTSTART:20260313T180719Z
 SUMMARY:Elimination match: BBP vs ENCE.A
 UID:cs-go-nodwin-clutch-series-6-2026-1389691@tournamentics
 END:VEVENT
