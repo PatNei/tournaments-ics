@@ -23,7 +23,7 @@ SUMMARY:Decider match: RSTR vs GZ
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260313T010124Z
 SUMMARY:MF vs Arcade Esports
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260313T033000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: SFE vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Winners match: THUNDER dOWNUNDER vs GZ
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 2 | Skele: 0\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260313T020602Z
 DTSTART:20260313T003410Z
 SUMMARY:SFE vs Skele
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387200@tournamentics
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260313T033000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Skele vs TBD
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
