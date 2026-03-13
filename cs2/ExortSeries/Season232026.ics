@@ -299,7 +299,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260314T163000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: VP.F vs TBD
 UID:cs-go-exort-series-23-2026-1394878@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -450,8 +450,8 @@ SUMMARY:Round 2: KSM vs SNG
 UID:cs-go-exort-series-23-2026-1387087@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | VP.Future: 2\nStream: https://kick.com/exort_en2
+DTEND:20260313T180407Z
 DTSTART:20260313T163502Z
 SUMMARY:Round 1 match 3: ex-GANK Esports vs VP.F
 UID:cs-go-exort-series-23-2026-1394874@tournamentics
