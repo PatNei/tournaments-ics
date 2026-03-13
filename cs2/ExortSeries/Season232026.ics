@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260314T193000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: LPH vs TBD
 UID:cs-go-exort-series-23-2026-1394879@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -317,8 +317,8 @@ SUMMARY:Round 2: ADP vs SASHI.A
 UID:cs-go-exort-series-23-2026-1387088@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | Sashi Academy: 0\nStream: https://kick.com/exort_en2
+DTEND:20260313T205936Z
 DTSTART:20260313T194221Z
 SUMMARY:Round 1 match 4: LPH vs SASHI.A
 UID:cs-go-exort-series-23-2026-1394875@tournamentics
