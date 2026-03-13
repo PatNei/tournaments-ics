@@ -558,6 +558,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season2
 </details>
 
 <details>
+<summary>Gamers Club Liga Série A</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/GamersClubLigaSRieA.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/GamersClubLigaSRieA.ics
+```
+
+---
+
+### March 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/March2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/March2026.ics
+```
+
+</details>
+
+<details>
 <summary>IZI WEX</summary>
 
 ### Full Schedule
