@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260315T160000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: NAVI vs TBD
 UID:cs-go-esl-pro-league-23-2026-1378980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260315T123000Z
-SUMMARY:3rd Place match: TBD vs TBD
+SUMMARY:3rd Place match: FUT vs TBD
 UID:cs-go-esl-pro-league-23-2026-1378981@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -366,8 +366,8 @@ SUMMARY:Round 3: NAVI vs B8
 UID:cs-go-esl-pro-league-23-2026-1378879@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | FUT Esports: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260314T173246Z
 DTSTART:20260314T144601Z
 SUMMARY:Semifinal 2: NAVI vs FUT
 UID:cs-go-esl-pro-league-23-2026-1378964@tournamentics
