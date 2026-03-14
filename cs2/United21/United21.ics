@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260318T090000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: STA vs TBD
 UID:cs-go-united21-46-2026-1392352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -345,8 +345,8 @@ SUMMARY:aAa vs INF
 UID:cs-go-united21-46-2026-1392349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: STATE: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260314T111920Z
 DTSTART:20260314T092400Z
 SUMMARY:Winners match: STA vs INF
 UID:cs-go-united21-46-2026-1392350@tournamentics

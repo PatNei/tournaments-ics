@@ -4198,7 +4198,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260318T090000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: STA vs TBD
 UID:cs-go-united21-46-2026-1392352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5497,8 +5497,8 @@ SUMMARY:Quarterfinal 4: BHE vs LDP
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: ECSTATIC: 1 | Prestige: 0\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260314T111350Z
 DTSTART:20260314T103857Z
 SUMMARY:ECS vs PRE
 UID:cs-go-dust2-dk-31-2026-1387923@tournamentics
@@ -6771,9 +6771,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-pro-league-23-2026-1378980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mantuuu
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mantuuu
 DURATION:PT2H
-DTSTART:20260314T110000Z
+DTSTART:20260314T111526Z
 SUMMARY:Quarterfinal 1: EYE vs TL
 UID:cs-go-roman-imperium-cup-6-2026-1389758@tournamentics
 END:VEVENT
@@ -7754,7 +7754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
 DTSTART:20260314T113000Z
-SUMMARY:Winners match: MSC vs TBD
+SUMMARY:Winners match: MSC vs ECS
 UID:cs-go-dust2-dk-31-2026-1387926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10516,8 +10516,8 @@ SUMMARY:HASP vs BIG.E
 UID:cs-go-esea-advanced-europe-56-2026-1376345@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: STATE: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260314T111920Z
 DTSTART:20260314T092400Z
 SUMMARY:Winners match: STA vs INF
 UID:cs-go-united21-46-2026-1392350@tournamentics
@@ -10810,10 +10810,10 @@ SUMMARY:Semifinal 2: Keyd vs BHE
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369832@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
 DTSTART:20260314T113000Z
-SUMMARY:Elimination match: SASHI vs TBD
+SUMMARY:Elimination match: SASHI vs PRE
 UID:cs-go-dust2-dk-31-2026-1387925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
