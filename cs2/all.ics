@@ -2581,7 +2581,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260315T120000Z
-SUMMARY:TBD vs TBD
+SUMMARY:QWE vs BBP
 UID:cs-go-nodwin-clutch-series-6-2026-1389700@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4755,9 +4755,9 @@ SUMMARY:MEGO vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1367382@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/coachdp
 DURATION:PT2H
-DTSTART:20260314T150000Z
+DTSTART:20260314T160000Z
 SUMMARY:Decider match: MSC vs SASHI
 UID:cs-go-dust2-dk-31-2026-1387927@tournamentics
 END:VEVENT
@@ -8405,7 +8405,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260315T180000Z
-SUMMARY:TBD vs TBD
+SUMMARY:MANA vs NVQ
 UID:cs-go-nodwin-clutch-series-6-2026-1389702@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8972,7 +8972,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260315T090000Z
-SUMMARY:TBD vs TBD
+SUMMARY:HS vs  CSDIILIT
 UID:cs-go-nodwin-clutch-series-6-2026-1389699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10448,7 +10448,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
-DTSTART:20260314T150000Z
+DTSTART:20260314T151500Z
 SUMMARY:Quarterfinal 1: NEM vs EF
 UID:cs-go-bc-game-masters-1-2026-1381454@tournamentics
 END:VEVENT
@@ -11709,7 +11709,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260315T150000Z
-SUMMARY:TBD vs TBD
+SUMMARY:TLR vs HERO.A
 UID:cs-go-nodwin-clutch-series-6-2026-1389701@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -12252,8 +12252,8 @@ SUMMARY:Round 2: LPH vs Y.TigeRES
 UID:cs-go-exort-series-23-2026-1374948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: Sangal: 2 | los kogutos: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260314T145632Z
 DTSTART:20260314T121345Z
 SUMMARY:Round 4: SNG vs LK
 UID:cs-go-cct-europe-series-18-3-2026-1381191@tournamentics
