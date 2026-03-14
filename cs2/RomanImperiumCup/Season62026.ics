@@ -152,12 +152,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260315T140000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: NIP vs TBD
 UID:cs-go-roman-imperium-cup-6-2026-1389763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nResult: Gaimin Gladiators: 0 | NIP: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260314T162046Z
 DTSTART:20260314T143409Z
 SUMMARY:Quarterfinal 3: GG vs NIP
 UID:cs-go-roman-imperium-cup-6-2026-1389759@tournamentics
