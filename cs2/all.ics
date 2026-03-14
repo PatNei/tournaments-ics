@@ -3453,7 +3453,7 @@ SUMMARY:Elimination match: G2.A vs MISA
 UID:cs-go-united21-46-2026-1392356@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260321T120000Z
 SUMMARY:TBD vs TBD
@@ -4167,7 +4167,7 @@ SUMMARY:FUT.A vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1366029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260321T150000Z
 SUMMARY:TBD vs TBD
@@ -4471,7 +4471,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260318T090000Z
-SUMMARY:Decider match: STA vs TBD
+SUMMARY:Decider match: STA vs NAVI.J
 UID:cs-go-united21-46-2026-1392352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4758,7 +4758,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
 DTSTART:20260314T150000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: SASHI vs MSC
 UID:cs-go-dust2-dk-31-2026-1387927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6820,7 +6820,7 @@ SUMMARY:Winners match: Inner Circle Academy vs NP
 UID:cs-go-united21-46-2026-1392355@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260321T090000Z
 SUMMARY:TBD vs TBD
@@ -7954,8 +7954,8 @@ SUMMARY:Round 2: FOKUS REALITY vs VP.F
 UID:cs-go-exort-series-23-2026-1374952@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | against All authority: 1\nStream: https://kick.com/united21_en
+DTEND:20260314T142722Z
 DTSTART:20260314T115848Z
 SUMMARY:Elimination match: NAVI.J vs aAa
 UID:cs-go-united21-46-2026-1392351@tournamentics
@@ -8304,8 +8304,8 @@ SUMMARY:MISA vs AUR.YB
 UID:cs-go-esea-advanced-europe-56-2026-1367381@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: MASONIC: 1 | ECSTATIC: 2\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260314T142434Z
 DTSTART:20260314T120421Z
 SUMMARY:Winners match: MSC vs ECS
 UID:cs-go-dust2-dk-31-2026-1387926@tournamentics
@@ -10355,6 +10355,13 @@ SUMMARY:Round 2: OMG vs URSA
 UID:cs-go-cct-europe-series-18-3-2026-1381141@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260321T180000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398814@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | Lilmix: 1\nStream: https://www.twitch.tv/bcgamemasters
 DTEND:20260303T205622Z
 DTSTART:20260303T180832Z
@@ -11608,8 +11615,8 @@ SUMMARY:Semifinal 2: Keyd vs BHE
 UID:cs-go-champion-of-champions-tour-series-9-3-2026-1369832@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: Sashi Esport: 2 | Prestige: 0\nStream: https://www.twitch.tv/d0kt0r3n
+DTEND:20260314T142414Z
 DTSTART:20260314T121801Z
 SUMMARY:Elimination match: SASHI vs PRE
 UID:cs-go-dust2-dk-31-2026-1387925@tournamentics

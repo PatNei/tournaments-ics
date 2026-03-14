@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260318T090000Z
-SUMMARY:Decider match: STA vs TBD
+SUMMARY:Decider match: STA vs NAVI.J
 UID:cs-go-united21-46-2026-1392352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -219,8 +219,8 @@ SUMMARY:Upper bracket quarterfinals match 1: FOKUS REALITY vs RT
 UID:cs-go-united21-45-2026-1378740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | against All authority: 1\nStream: https://kick.com/united21_en
+DTEND:20260314T142722Z
 DTSTART:20260314T115848Z
 SUMMARY:Elimination match: NAVI.J vs aAa
 UID:cs-go-united21-46-2026-1392351@tournamentics
