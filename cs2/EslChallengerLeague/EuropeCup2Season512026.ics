@@ -4,6 +4,13 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260316T180000Z
+SUMMARY:Upper bracket round 1 match 10: Leo vs SINQU
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398013@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260316T140000Z
 SUMMARY:Upper bracket round 1 match 6: RE vs AHK
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398009@tournamentics
@@ -18,9 +25,23 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260316T180000Z
+SUMMARY:Upper bracket round 1 match 15: KHAN vs MINLATE
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398018@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:❌ CANCELED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260316T180000Z
+SUMMARY:Upper bracket round 1 match 12: EC BANGA vs AIRLYA
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398015@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260316T140000Z
-SUMMARY:Upper bracket round 1 match 5: AIMC vs HS
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398008@tournamentics
+SUMMARY:Upper bracket round 1 match 1:  CSDIILIT vs BW
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398004@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -33,8 +54,29 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260316T140000Z
+SUMMARY:Upper bracket round 1 match 5: AIMC vs HS
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398008@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260316T140000Z
 SUMMARY:Upper bracket round 1 match 2: QWE vs G2.A
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398005@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260316T180000Z
+SUMMARY:Upper bracket round 1 match 14: URSA vs BIG.A
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398017@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260316T180000Z
+SUMMARY:Upper bracket round 1 match 11: hindsight vs MANA
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398014@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -47,14 +89,21 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260316T140000Z
-SUMMARY:Upper bracket round 1 match 4: MSC vs home
+SUMMARY:Upper bracket round 1 match 4: MSC vs Supernova
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398007@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260316T140000Z
-SUMMARY:Upper bracket round 1 match 1:  CSDIILIT vs BW
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398004@tournamentics
+DTSTART:20260316T180000Z
+SUMMARY:Upper bracket round 1 match 16: LILMIX vs MSQ
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398019@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260316T180000Z
+SUMMARY:Upper bracket round 1 match 13: Dziuseppe vs ENCE.A
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398016@tournamentics
 END:VEVENT
 END:VCALENDAR

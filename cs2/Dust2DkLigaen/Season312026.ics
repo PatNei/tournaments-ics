@@ -19,14 +19,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
 DTSTART:20260314T113000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: SASHI vs TBD
 UID:cs-go-dust2-dk-31-2026-1387925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
 DTSTART:20260314T113000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MSC vs TBD
 UID:cs-go-dust2-dk-31-2026-1387926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-dust2-dk-31-2026-1387927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: MASONIC: 1 | Sashi Esport: 0\nStream: https://www.twitch.tv/d0kt0r3n
+DTEND:20260314T110801Z
 DTSTART:20260314T103233Z
 SUMMARY:MSC vs SASHI
 UID:cs-go-dust2-dk-31-2026-1387924@tournamentics
