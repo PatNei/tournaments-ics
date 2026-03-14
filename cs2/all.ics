@@ -527,8 +527,8 @@ SUMMARY:ex-Zero Tenacity vs YNG
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: struggletony: 0 | AaB Esport: 2\nStream: https://www.twitch.tv/aabesport
+DTEND:20260314T143640Z
 DTSTART:20260314T124307Z
 SUMMARY:Winners match: struggletony vs AAB
 UID:cs-go-dust2-dk-31-2026-1387931@tournamentics
@@ -3803,9 +3803,9 @@ SUMMARY:3rd Place match: TBD vs TBD
 UID:cs-go-esl-pro-league-23-2026-1378981@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgameesports
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgameesports
 DURATION:PT2H
-DTSTART:20260314T143000Z
+DTSTART:20260314T143409Z
 SUMMARY:Quarterfinal 3: GG vs NIP
 UID:cs-go-roman-imperium-cup-6-2026-1389759@tournamentics
 END:VEVENT
@@ -4146,8 +4146,8 @@ SUMMARY:33 vs QUA
 UID:cs-go-cis-lan-championship-3-2026-1387148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | Bebop: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260314T142916Z
 DTSTART:20260314T121011Z
 SUMMARY:Decider match: LILMIX vs BBP
 UID:cs-go-nodwin-clutch-series-6-2026-1389693@tournamentics
@@ -4755,7 +4755,7 @@ SUMMARY:MEGO vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1367382@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
 DTSTART:20260314T150000Z
 SUMMARY:Decider match: SASHI vs MSC
@@ -9713,8 +9713,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
-DTSTART:20260314T150000Z
-SUMMARY:Decider match: TRI vs TBD
+DTSTART:20260314T160000Z
+SUMMARY:Decider match: TRI vs struggletony
 UID:cs-go-dust2-dk-31-2026-1387932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
