@@ -156,9 +156,9 @@ SUMMARY:Lower bracket round 4 match 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398070@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
+DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - LATAM 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aoruslatam
 DURATION:PT2H
-DTSTART:20260314T180000Z
+DTSTART:20260314T175520Z
 SUMMARY:Semifinal 2: ISG vs R2
 UID:cs-go-aorus-latam-2026-1392419@tournamentics
 END:VEVENT
@@ -3124,7 +3124,7 @@ SUMMARY:FROX vs HUSK
 UID:cs-go-dach-cs-masters-5-2026-1385721@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
 DURATION:PT2H
 DTSTART:20260314T183000Z
 SUMMARY:Lower bracket quarterfinal 1: QWE vs YNG
@@ -4909,8 +4909,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-19-2026-1398994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: MASONIC: 0 | Sashi Esport: 2\nStream: https://www.twitch.tv/d0kt0r3n
+DTEND:20260314T175741Z
 DTSTART:20260314T160601Z
 SUMMARY:Decider match: MSC vs SASHI
 UID:cs-go-dust2-dk-31-2026-1387927@tournamentics
@@ -5539,9 +5539,9 @@ SUMMARY:aAa vs INF
 UID:cs-go-united21-46-2026-1392349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260314T180000Z
+DTSTART:20260314T180531Z
 SUMMARY:Round 4: FAV vs Hashiras
 UID:cs-go-cct-europe-series-18-3-2026-1381193@tournamentics
 END:VEVENT
@@ -12511,9 +12511,9 @@ SUMMARY:REV vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385722@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
-DTSTART:20260314T183000Z
+DTSTART:20260315T140000Z
 SUMMARY:Lower bracket quarterfinal 2: AUR.YB vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1382758@tournamentics
 END:VEVENT
