@@ -1110,7 +1110,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
 DURATION:PT2H
-DTSTART:20260314T001000Z
+DTSTART:20260314T002000Z
 SUMMARY:Upper bracket semifinal 1: THUNDER dOWNUNDER vs MF
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387205@tournamentics
 END:VEVENT
@@ -5549,7 +5549,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260314T183000Z
-SUMMARY:Quarterfinal 4: 9INE vs TBD
+SUMMARY:Quarterfinal 4: 9INE vs ALL
 UID:cs-go-roman-imperium-cup-6-2026-1389761@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8594,7 +8594,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 6 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rmncs
 DURATION:PT2H
 DTSTART:20260314T183000Z
-SUMMARY:Quarterfinal 3: JJH vs TBD
+SUMMARY:Quarterfinal 3: JJH vs OG
 UID:cs-go-roman-imperium-cup-6-2026-1389760@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9207,9 +9207,9 @@ SUMMARY:Quarterfinal 1: EF vs NEM
 UID:cs-go-bc-game-masters-1-2026-1381454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
-DTSTART:20260314T001000Z
+DTSTART:20260314T002106Z
 SUMMARY:Upper bracket semifinal 2: SFE vs GZ
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387206@tournamentics
 END:VEVENT
