@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260315T140000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: SASHI vs TBD
 UID:cs-go-dust2-dk-31-2026-1387936@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260315T140000Z
-SUMMARY:3rd place decider: TBD vs TBD
+SUMMARY:3rd place decider: AAB vs TBD
 UID:cs-go-dust2-dk-31-2026-1387935@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -261,8 +261,8 @@ SUMMARY:Round 4: SASHI vs PRE
 UID:cs-go-dust2-dk-closed-qualifier-31-2026-1368662@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | Sashi Esport: 2\nStream: https://www.twitch.tv/d0kt0r3n
+DTEND:20260315T125435Z
 DTSTART:20260315T110801Z
 SUMMARY:Semifinal 2: AAB vs SASHI
 UID:cs-go-dust2-dk-31-2026-1387934@tournamentics
