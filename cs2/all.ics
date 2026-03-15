@@ -8892,7 +8892,7 @@ SUMMARY:Round 4: OMG vs LK
 UID:cs-go-bc-game-masters-1-2026-1381438@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
 DTSTART:20260315T143000Z
 SUMMARY:Grand final: SASHI vs TRI
@@ -9676,8 +9676,8 @@ SUMMARY:Lower bracket round 1 match 1: NTR vs NEMI
 UID:cs-go-izi-wex-1-2026-1381495@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Eternal Fire: 1\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260315T140330Z
 DTSTART:20260315T110924Z
 SUMMARY:Semifinal 1: NEMI vs EF
 UID:cs-go-bc-game-masters-1-2026-1381458@tournamentics
@@ -12108,7 +12108,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260315T180000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: NEMI vs TBD
 UID:cs-go-bc-game-masters-1-2026-1381460@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -12485,7 +12485,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
 DURATION:PT2H
-DTSTART:20260315T140000Z
+DTSTART:20260315T141000Z
 SUMMARY:Lower bracket quarterfinal 2: AUR.YB vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1382758@tournamentics
 END:VEVENT
