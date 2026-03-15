@@ -2,69 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260317T090000Z
-SUMMARY:Winners match: BIG.A vs B8 Academy
-UID:cs-go-united21-46-2026-1392365@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260319T090000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-united21-46-2026-1392362@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Imperial Academy: 2\nStream: https://kick.com/united21_en
-DTEND:20260312T105946Z
-DTSTART:20260312T090914Z
-SUMMARY:SNG vs Imperial.A
-UID:cs-go-united21-46-2026-1392358@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260315T090000Z
-SUMMARY:Winners match: Inner Circle Academy vs NP
-UID:cs-go-united21-46-2026-1392355@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260318T090000Z
-SUMMARY:Decider match: STA vs NAVI.J
-UID:cs-go-united21-46-2026-1392352@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260319T113000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-united21-46-2026-1392367@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: B8 Academy: 2 | KUUSAMO.gg: 0\nStream: https://kick.com/united21_en
-DTEND:20260313T130302Z
-DTSTART:20260313T113443Z
-SUMMARY:B8 Academy vs KSM
-UID:cs-go-united21-46-2026-1392364@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260316T113000Z
-SUMMARY:Elimination match: SNG vs LPH
-UID:cs-go-united21-46-2026-1392361@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260318T113000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-united21-46-2026-1392357@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | New Project: 2\nStream: https://kick.com/united21_en
 DTEND:20260311T141811Z
 DTSTART:20260311T113540Z
@@ -72,18 +9,18 @@ SUMMARY:MISA vs NP
 UID:cs-go-united21-46-2026-1392354@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | against All authority: 1\nStream: https://kick.com/united21_en
-DTEND:20260314T142722Z
-DTSTART:20260314T115848Z
-SUMMARY:Elimination match: NAVI.J vs aAa
-UID:cs-go-united21-46-2026-1392351@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260317T113000Z
 SUMMARY:Elimination match: FOKUS REALITY vs KSM
 UID:cs-go-united21-46-2026-1392366@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | against All authority: 1\nStream: https://kick.com/united21_en
+DTEND:20260314T142722Z
+DTSTART:20260314T115848Z
+SUMMARY:Elimination match: NAVI.J vs aAa
+UID:cs-go-united21-46-2026-1392351@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | FOKUS REALITY: 0\nStream: https://kick.com/united21_en
@@ -121,6 +58,13 @@ SUMMARY:G2.A vs Inner Circle Academy
 UID:cs-go-united21-46-2026-1392353@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260317T090000Z
+SUMMARY:Winners match: BIG.A vs B8 Academy
+UID:cs-go-united21-46-2026-1392365@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: against All authority: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
 DTEND:20260310T135918Z
 DTSTART:20260310T114102Z
@@ -133,5 +77,54 @@ DTEND:20260314T111920Z
 DTSTART:20260314T092400Z
 SUMMARY:Winners match: STA vs INF
 UID:cs-go-united21-46-2026-1392350@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260319T090000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392362@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Imperial Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260312T105946Z
+DTSTART:20260312T090914Z
+SUMMARY:SNG vs Imperial.A
+UID:cs-go-united21-46-2026-1392358@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260319T113000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-united21-46-2026-1392367@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260318T090000Z
+SUMMARY:Decider match: STA vs NAVI.J
+UID:cs-go-united21-46-2026-1392352@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: B8 Academy: 2 | KUUSAMO.gg: 0\nStream: https://kick.com/united21_en
+DTEND:20260313T130302Z
+DTSTART:20260313T113443Z
+SUMMARY:B8 Academy vs KSM
+UID:cs-go-united21-46-2026-1392364@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260316T113000Z
+SUMMARY:Elimination match: SNG vs LPH
+UID:cs-go-united21-46-2026-1392361@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260318T113000Z
+SUMMARY:Decider match: Inner Circle Academy vs TBD
+UID:cs-go-united21-46-2026-1392357@tournamentics
 END:VEVENT
 END:VCALENDAR

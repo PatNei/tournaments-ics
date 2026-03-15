@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260318T113000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Inner Circle Academy vs TBD
 UID:cs-go-united21-46-2026-1392357@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6818,13 +6818,6 @@ DTEND:20260303T235036Z
 DTSTART:20260303T204043Z
 SUMMARY:Round 3: NIP vs NRG
 UID:cs-go-esl-pro-league-23-2026-1376212@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260315T090000Z
-SUMMARY:Winners match: Inner Circle Academy vs NP
-UID:cs-go-united21-46-2026-1392355@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
