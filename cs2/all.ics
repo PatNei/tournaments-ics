@@ -3071,7 +3071,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
 DTSTART:20260315T203000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: CYBERSHOKE Prospects vs TBD
 UID:cs-go-exort-series-23-2026-1394882@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10117,8 +10117,8 @@ SUMMARY:Round 5: FA vs CRASH
 UID:cs-go-betboom-storm-1-2026-1380565@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | Ex-Sparta: 1\nStream: https://kick.com/exort_en2
+DTEND:20260315T160536Z
 DTSTART:20260315T133413Z
 SUMMARY:Semifinal 1: CYBERSHOKE Prospects vs Ex-Sparta
 UID:cs-go-exort-series-23-2026-1394880@tournamentics
@@ -12287,8 +12287,8 @@ SUMMARY:Decider match: LILMIX vs zajezdzacze
 UID:cs-go-cct-europe-closed-qualifier-series-18-3-2026-1380852@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aabesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 31 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | ECSTATIC: 2\nStream: https://www.twitch.tv/aabesport
+DTEND:20260315T161441Z
 DTSTART:20260315T145048Z
 SUMMARY:3rd place decider: AAB vs ECS
 UID:cs-go-dust2-dk-31-2026-1387935@tournamentics
