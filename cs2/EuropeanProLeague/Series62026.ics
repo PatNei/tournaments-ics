@@ -2,14 +2,42 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260328T113000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260406T103000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400833@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260329T080000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400829@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260329T103000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400830@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260401T080000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400826@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260328T090000Z
 SUMMARY:TBD vs TBD
@@ -18,8 +46,64 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260330T103000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400835@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260403T080000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400859@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260402T080000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400832@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260405T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400860@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260403T103000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400844@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260406T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400828@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
+DURATION:PT2H
 DTSTART:20260401T103000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400825@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260330T080000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400834@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260402T103000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-european-pro-league-series-6-2026-1400831@tournamentics
 END:VEVENT
 END:VCALENDAR
