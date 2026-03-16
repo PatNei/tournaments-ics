@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260316T053000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Time Waves vs TBD
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396286@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -30,8 +30,8 @@ SUMMARY:Winners match: SFE vs MF
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396271@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 1 | Time Waves: 0\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260316T050446Z
 DTSTART:20260316T043144Z
 SUMMARY:THUNDER dOWNUNDER vs Time Waves
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396283@tournamentics
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ANZC Locals - Brisbane: Autumn 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260316T053000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: THUNDER dOWNUNDER vs TBD
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396284@tournamentics
 END:VEVENT
 BEGIN:VEVENT
