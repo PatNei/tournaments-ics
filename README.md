@@ -182,6 +182,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/E
 
 ---
 
+### Series 5 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series52026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series52026.ics
+```
+
 ### Series 6 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series62026.ics)
 
@@ -558,6 +565,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/Seas
 </details>
 
 <details>
+<summary>ESEA</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics
+```
+
+---
+
+### Advanced Europe season 56 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason562026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason562026.ics
+```
+
+</details>
+
+<details>
 <summary>ESL Challenger League</summary>
 
 ### Full Schedule
@@ -586,6 +614,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 </details>
 
 <details>
+<summary>European Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
+```
+
+---
+
+### Series 6 Play-In 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series6PlayIn2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series6PlayIn2026.ics
+```
+
+</details>
+
+<details>
 <summary>Exort Series</summary>
 
 ### Full Schedule
@@ -602,6 +651,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/ExortSe
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season232026.ics
+```
+
+### Season 24 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season242026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season242026.ics
 ```
 
 </details>
@@ -681,11 +737,39 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/United21.i
 
 ---
 
+### Season 45 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season452026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season452026.ics
+```
+
 ### Season 46 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season462026.ics)
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/United21/Season462026.ics
+```
+
+</details>
+
+<details>
+<summary>Urban Riga</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/UrbanRiga.ics
+```
+
+---
+
+### Open #3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open32026.ics
 ```
 
 </details>
