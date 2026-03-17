@@ -8433,7 +8433,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260319T180000Z
-SUMMARY:Upper bracket round 3 match 4: rottweilers vs TBD
+SUMMARY:Upper bracket round 3 match 4: rottweilers vs NEM
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398085@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10281,7 +10281,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260318T180000Z
-SUMMARY:Lower bracket round 1 match 9: TBD vs PGE
+SUMMARY:Lower bracket round 1 match 9: ex-Zero Tenacity vs PGE
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398044@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -11825,8 +11825,8 @@ SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-2-51-2026-1400130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | ex-Zero Tenacity: 1\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260317T173331Z
 DTSTART:20260317T140529Z
 SUMMARY:Upper bracket round 2 match 8: NEM vs ex-Zero Tenacity
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398027@tournamentics
