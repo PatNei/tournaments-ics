@@ -2067,9 +2067,9 @@ SUMMARY:Lower bracket round 3 match 4: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260317T193000Z
+DTSTART:20260317T193648Z
 SUMMARY:Round 1: EF.A vs TS.A
 UID:cs-go-exort-series-24-2026-1401802@tournamentics
 END:VEVENT
@@ -4251,8 +4251,8 @@ SUMMARY:Team Lixxx vs Team SNAILKICK
 UID:cs-go-winline-star-series-2-2026-1374232@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/piaskees
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | Dziuseppe: 0\nStream: https://www.twitch.tv/piaskees
+DTEND:20260317T193655Z
 DTSTART:20260317T180549Z
 SUMMARY:Upper bracket round 2 match 13: LK vs Dziuseppe
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398032@tournamentics
@@ -5479,7 +5479,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260318T140000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs Supernova
+SUMMARY:Lower bracket round 1 match 4: Dziuseppe vs Supernova
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398039@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10722,7 +10722,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260319T180000Z
-SUMMARY:Upper bracket round 3 match 7: TBD vs TBD
+SUMMARY:Upper bracket round 3 match 7: LK vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398088@tournamentics
 END:VEVENT
 BEGIN:VEVENT
