@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
 DURATION:PT2H
 DTSTART:20260317T230000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ODK vs TBD
 UID:cs-go-aorus-brazil-online-stage-2026-1400291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
 DURATION:PT2H
 DTSTART:20260318T190000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Alzon vs TBD
 UID:cs-go-aorus-brazil-online-stage-2026-1400313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Semifinal 1: SHIN vs PCY
 UID:cs-go-aorus-latam-2026-1392418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | Alzon: 0\nStream: https://www.twitch.tv/aorusbr
+DTEND:20260317T194443Z
 DTSTART:20260317T191352Z
 SUMMARY:ODK vs Alzon
 UID:cs-go-aorus-brazil-online-stage-2026-1400257@tournamentics
