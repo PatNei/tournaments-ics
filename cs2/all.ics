@@ -1045,8 +1045,8 @@ SUMMARY:Lower bracket round 3 match 8: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398067@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 1 | Elite Klan: 2\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260317T174853Z
 DTSTART:20260317T153100Z
 SUMMARY:Nordic Valor vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372441@tournamentics
@@ -4576,7 +4576,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260318T140000Z
-SUMMARY:Lower bracket round 1 match 7: TBD vs FORZE.R
+SUMMARY:Lower bracket round 1 match 7: Leo vs FORZE.R
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398042@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5017,7 +5017,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260319T180000Z
-SUMMARY:Upper bracket round 3 match 5: TBD vs TBD
+SUMMARY:Upper bracket round 3 match 5: HAVU vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398086@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5044,7 +5044,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260317T180000Z
+DTSTART:20260317T181500Z
 SUMMARY:Round 1: Leo vs RE
 UID:cs-go-nodwin-clutch-series-6-2026-1389770@tournamentics
 END:VEVENT
@@ -5110,13 +5110,6 @@ DTEND:20260303T144312Z
 DTSTART:20260303T114029Z
 SUMMARY:Round of 16 match 2: JS vs QWE
 UID:cs-go-european-pro-league-series-5-2026-1355944@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Mikotohero
-DURATION:PT2H
-DTSTART:20260317T180000Z
-SUMMARY:Upper bracket round 2 match 10: HAVU vs Leo
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult: ex-GANK Esports: 1 | The Last Resort: 0\nStream: No official stream linked
@@ -5308,8 +5301,8 @@ SUMMARY:Lower bracket round 3 match 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: AK BARS: 0 |  Phantom Academy: 2\nStream: https://kick.com/exort_en2
+DTEND:20260317T175306Z
 DTSTART:20260317T163432Z
 SUMMARY:Round 1: AK vs  Phantom Academy
 UID:cs-go-exort-series-24-2026-1401801@tournamentics
@@ -8257,7 +8250,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260317T180000Z
+DTSTART:20260317T181500Z
 SUMMARY:Round 16 match 8: FC vs ex-RUBY
 UID:cs-go-cct-europe-series-18-3-2026-1381263@tournamentics
 END:VEVENT
@@ -11587,8 +11580,8 @@ SUMMARY:Lower bracket semifinal: Arcade Esports vs GZ
 UID:cs-go-anzc-locals-brisbane-brisbane-autumn-2026-1396291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | Ursa: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260317T175604Z
 DTSTART:20260317T150000Z
 SUMMARY:Round 1: ASTRAL vs URSA
 UID:cs-go-nodwin-clutch-series-6-2026-1389769@tournamentics
