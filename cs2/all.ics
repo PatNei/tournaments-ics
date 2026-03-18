@@ -569,9 +569,9 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-6-2026-1389799@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260318T150000Z
+DTSTART:20260318T150513Z
 SUMMARY:ex-Zero Tenacity vs YNG
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398746@tournamentics
 END:VEVENT
@@ -7772,9 +7772,9 @@ SUMMARY:Winners match: TLR vs LILMIX
 UID:cs-go-nodwin-clutch-series-6-2026-1389692@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260318T150000Z
+DTSTART:20260318T150602Z
 SUMMARY:Round 1: AM vs QWE
 UID:cs-go-nodwin-clutch-series-6-2026-1389773@tournamentics
 END:VEVENT
@@ -8206,8 +8206,8 @@ SUMMARY:ex-GANK Esports vs TNT
 UID:cs-go-esea-advanced-europe-56-2026-1368658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | paiN Academy: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260318T145832Z
 DTSTART:20260318T130404Z
 SUMMARY:Round 3: MIBR.A vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394903@tournamentics
@@ -11134,7 +11134,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260318T150000Z
+DTSTART:20260318T151000Z
 SUMMARY:Round 16 match 7: ALL vs FAV
 UID:cs-go-cct-europe-series-18-3-2026-1381266@tournamentics
 END:VEVENT
