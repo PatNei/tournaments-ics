@@ -65,6 +65,13 @@ SUMMARY:aAa vs INF
 UID:cs-go-united21-46-2026-1392349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260320T090000Z
+SUMMARY:Upper bracket quarterfinal 1: INF vs TBD
+UID:cs-go-united21-46-2026-1404784@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: STATE: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
 DTEND:20260314T111920Z
 DTSTART:20260314T092400Z
@@ -114,8 +121,8 @@ SUMMARY:Elimination match: SNG vs LPH
 UID:cs-go-united21-46-2026-1392361@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | G2 Ares: 2\nStream: https://kick.com/united21_en
+DTEND:20260318T142401Z
 DTSTART:20260318T114045Z
 SUMMARY:Decider match: Inner Circle Academy vs G2.A
 UID:cs-go-united21-46-2026-1392357@tournamentics

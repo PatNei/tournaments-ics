@@ -79,8 +79,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-journey-spring-2026-1398100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 1 | G2 Ares: 2\nStream: https://kick.com/united21_en
+DTEND:20260318T142401Z
 DTSTART:20260318T114045Z
 SUMMARY:Decider match: Inner Circle Academy vs G2.A
 UID:cs-go-united21-46-2026-1392357@tournamentics
@@ -11340,6 +11340,13 @@ DURATION:PT2H
 DTSTART:20260412T080000Z
 SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400942@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260320T090000Z
+SUMMARY:Upper bracket quarterfinal 1: INF vs TBD
+UID:cs-go-united21-46-2026-1404784@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: RoundsGG: 0 | ENCE Academy: 2\nStream: https://www.twitch.tv/elisaviihdesport
