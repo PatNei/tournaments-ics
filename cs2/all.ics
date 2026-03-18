@@ -3778,7 +3778,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260319T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MSC vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7201,7 +7201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260319T180000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Supernova vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8192,9 +8192,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-19-3-2026-1399002@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260318T173000Z
+DTSTART:20260318T174023Z
 SUMMARY:Upper bracket quarterfinal 2: FaZe vs AUR
 UID:cs-go-blast-open-rotterdam-spring-2026-1371044@tournamentics
 END:VEVENT
@@ -10864,13 +10864,6 @@ DTEND:20260309T204631Z
 DTSTART:20260309T180539Z
 SUMMARY:Round 1: STA vs Hashiras
 UID:cs-go-cct-europe-series-18-3-2026-1381094@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260318T180000Z
-SUMMARY:MSC vs Supernova
-UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Season 1 2026\nMatch Type: Best Of\nResult: Team Nemesis: 0 | Eternal Fire: 2\nStream: https://www.twitch.tv/bcgamemasters
