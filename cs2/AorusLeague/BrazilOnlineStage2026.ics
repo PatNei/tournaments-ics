@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
 DURATION:PT2H
 DTSTART:20260319T190000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: CRASH vs TBD
 UID:cs-go-aorus-brazil-online-stage-2026-1400315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:GLS vs MIBR.A
 UID:cs-go-aorus-brazil-online-stage-2026-1400259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | Crashers: 0\nStream: https://www.twitch.tv/aorusbr
+DTEND:20260318T002558Z
 DTSTART:20260317T234003Z
 SUMMARY:Winners match: ODK vs CRASH
 UID:cs-go-aorus-brazil-online-stage-2026-1400291@tournamentics
