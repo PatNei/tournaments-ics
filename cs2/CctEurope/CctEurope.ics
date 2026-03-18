@@ -439,7 +439,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260319T120000Z
-SUMMARY:Quarterfinal 2: ICE vs TBD
+SUMMARY:Quarterfinal 2: ICE vs K27
 UID:cs-go-cct-europe-series-18-3-2026-1381270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -660,8 +660,8 @@ SUMMARY:FUZOS vs EC BANGA
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: K27: 2 | Eternal Fire: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260318T115354Z
 DTSTART:20260318T090055Z
 SUMMARY:Round 16 match 3: K27 vs EF
 UID:cs-go-cct-europe-series-18-3-2026-1381264@tournamentics

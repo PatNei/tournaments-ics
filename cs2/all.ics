@@ -1899,6 +1899,13 @@ SUMMARY:Winners match: WW vs K27
 UID:cs-go-cis-lan-championship-3-2026-1387145@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T230000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404169@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 1: Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 2 | fnatic: 0\nStream: https://kick.com/starladder
 DTEND:20260307T204903Z
 DTSTART:20260307T191108Z
@@ -2947,6 +2954,13 @@ DTEND:20260312T080726Z
 DTSTART:20260312T054624Z
 SUMMARY:Winners match: THUNDER dOWNUNDER vs GZ
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387198@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T230000Z
+SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404165@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 1: Closed Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | CYBERSHOKE Esports: 1\nStream: https://kick.com/starladder
@@ -4384,6 +4398,13 @@ SUMMARY:TAZ vs FROX
 UID:cs-go-dach-cs-masters-5-2026-1385728@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260402T020000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404171@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260325T150000Z
@@ -5056,8 +5077,8 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: K27: 2 | Eternal Fire: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260318T115354Z
 DTSTART:20260318T090055Z
 SUMMARY:Round 16 match 3: K27 vs EF
 UID:cs-go-cct-europe-series-18-3-2026-1381264@tournamentics
@@ -5236,6 +5257,13 @@ DTEND:20260302T232206Z
 DTSTART:20260302T210448Z
 SUMMARY:Round 1: ISG vs CRASH
 UID:cs-go-betboom-storm-1-2026-1380040@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T230000Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 1: Closed Qualifier 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | FriendlyCampers: 0\nStream: https://kick.com/starladder
@@ -6288,6 +6316,13 @@ SUMMARY:Elimination match: Time Waves vs RSTR
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387197@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T230000Z
+SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404164@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 1: Closed Qualifier 2026\nMatch Type: Best Of\nResult: BIG: 2 | Johnny Speeds: 0\nStream: https://kick.com/starladder
 DTEND:20260304T223706Z
 DTSTART:20260304T204628Z
@@ -6494,7 +6529,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260319T120000Z
-SUMMARY:Quarterfinal 2: ICE vs TBD
+SUMMARY:Quarterfinal 2: ICE vs K27
 UID:cs-go-cct-europe-series-18-3-2026-1381270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7800,6 +7835,13 @@ SUMMARY:BIG.A vs BERG
 UID:cs-go-dach-cs-masters-5-2026-1385727@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260402T020000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404170@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260324T220000Z
@@ -8743,6 +8785,13 @@ DTEND:20260309T164310Z
 DTSTART:20260309T153041Z
 SUMMARY:MUERTA TEAM vs WW
 UID:cs-go-cis-lan-championship-3-2026-1387143@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T020000Z
+SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404167@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 1: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Sinners: 2 | ECSTATIC: 0\nStream: https://kick.com/starladder
@@ -12166,6 +12215,13 @@ DTEND:20260312T105304Z
 DTSTART:20260312T085910Z
 SUMMARY:Decider match: RSTR vs GZ
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387199@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T020000Z
+SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 1: Closed Qualifier 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 1 | Team Nemesis: 2\nStream: https://kick.com/starladder
