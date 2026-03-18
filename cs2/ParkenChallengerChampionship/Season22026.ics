@@ -114,6 +114,13 @@ SUMMARY:EN vs JS
 UID:cs-go-parken-challenger-championship-2-2026-1384166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 2 2026\nMatch Type: Best Of\nResult: Evo Novo: 0 | 100 Thieves: 1\nStream: https://kick.com/challengerchampionship
+DTEND:20260308T114733Z
+DTSTART:20260308T111524Z
+SUMMARY:EN vs 100T
+UID:cs-go-parken-challenger-championship-2-2026-1384163@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 2 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | 100 Thieves: 1\nStream: https://kick.com/challengerchampionship
 DTEND:20260309T161638Z
 DTSTART:20260309T130412Z
@@ -294,5 +301,12 @@ DTEND:20260308T142843Z
 DTSTART:20260308T140509Z
 SUMMARY:AAB vs EN
 UID:cs-go-parken-challenger-championship-2-2026-1384167@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 2 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 0 | MASONIC: 1\nStream: https://www.twitch.tv/esportstudion
+DTEND:20260308T121819Z
+DTSTART:20260308T111316Z
+SUMMARY:JS vs MSC
+UID:cs-go-parken-challenger-championship-2-2026-1384164@tournamentics
 END:VEVENT
 END:VCALENDAR
