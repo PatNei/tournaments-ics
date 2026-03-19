@@ -4016,7 +4016,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260320T150000Z
-SUMMARY:Decider match: BIG.A vs TBD
+SUMMARY:Decider match: BIG.A vs LILMIX
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10880,8 +10880,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-6-2026-1389796@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: Lilmix: 1 |  CSDIILIT: 2\nStream: https://kick.com/cct_cs
+DTEND:20260319T173455Z
 DTSTART:20260319T150735Z
 SUMMARY:Winners match: LILMIX vs  CSDIILIT
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398743@tournamentics
@@ -11132,7 +11132,7 @@ SUMMARY:Semifinal 2: DS vs BHE
 UID:cs-go-betboom-storm-1-2026-1380595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tchomi_
 DURATION:PT2H
 DTSTART:20260319T180000Z
 SUMMARY:Upper bracket round 3 match 7: LK vs URSA
