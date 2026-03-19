@@ -1104,7 +1104,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260320T180000Z
-SUMMARY:Lower bracket round 3 match 8: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 8: STA vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398067@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6477,8 +6477,8 @@ SUMMARY:Decider match: PCY vs LYN
 UID:cs-go-aorus-latam-2026-1392430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: STATE: 2 | Bushido Wildcats: 1\nStream: https://www.twitch.tv/GoYareGo
+DTEND:20260319T165208Z
 DTSTART:20260319T140907Z
 SUMMARY:Lower bracket round 2 match 8: STA vs BW
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398059@tournamentics
@@ -6883,9 +6883,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260319T165000Z
+DTSTART:20260319T165101Z
 SUMMARY:Upper bracket quarterfinal 2: MOUZ vs MGLZ
 UID:cs-go-blast-open-rotterdam-spring-2026-1371048@tournamentics
 END:VEVENT
