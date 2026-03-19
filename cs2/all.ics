@@ -1643,7 +1643,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260321T110000Z
-SUMMARY:Lower bracket quarterfinal 2: NIP vs TBD
+SUMMARY:Lower bracket quarterfinal 2: NIP vs TL
 UID:cs-go-blast-open-rotterdam-spring-2026-1394945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2224,7 +2224,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260320T180000Z
-SUMMARY:Lower bracket round 3 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 4: TLR vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2693,7 +2693,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260321T160000Z
-SUMMARY:Upper bracket semifinal 2: PRV vs TBD
+SUMMARY:Upper bracket semifinal 2: PRV vs TS
 UID:cs-go-blast-open-rotterdam-spring-2026-1394941@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6885,7 +6885,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260319T160000Z
+DTSTART:20260319T170000Z
 SUMMARY:Upper bracket quarterfinal 2: MOUZ vs MGLZ
 UID:cs-go-blast-open-rotterdam-spring-2026-1371048@tournamentics
 END:VEVENT
@@ -7590,8 +7590,8 @@ SUMMARY:Lower bracket round 3 match 4: EP vs LFO
 UID:cs-go-esea-advanced-europe-56-2026-1382752@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/leo_team_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Leo Team: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/leo_team_cs2
+DTEND:20260319T154529Z
 DTSTART:20260319T141054Z
 SUMMARY:Lower bracket round 2 match 4: Leo vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398055@tournamentics
@@ -10425,8 +10425,8 @@ SUMMARY:MISA vs OLDBOYS-
 UID:cs-go-esea-advanced-europe-56-2026-1374962@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nResult: Spirit: 2 | Liquid: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260319T154946Z
 DTSTART:20260319T140142Z
 SUMMARY:Upper bracket quarterfinal 3: TS vs TL
 UID:cs-go-blast-open-rotterdam-spring-2026-1371047@tournamentics
