@@ -2,10 +2,115 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 0 | SemperFi Esports: 2\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260314T054342Z
+DTSTART:20260314T033549Z
+SUMMARY:Upper bracket final: THUNDER dOWNUNDER vs SFE
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387207@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Arcade Esports: 0 | Mindfreak: 2\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260313T073836Z
+DTSTART:20260313T063033Z
+SUMMARY:Decider match: Arcade Esports vs MF
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387204@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Rooster: 0 | Ground Zero: 2\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260312T105304Z
+DTSTART:20260312T085910Z
+SUMMARY:Decider match: RSTR vs GZ
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387199@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Mindfreak: 2 | Arcade Esports: 1\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260313T033620Z
+DTSTART:20260313T010124Z
+SUMMARY:MF vs Arcade Esports
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387201@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | Ground Zero: 1\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260315T045910Z
+DTSTART:20260315T001535Z
+SUMMARY:Lower bracket final: THUNDER dOWNUNDER vs GZ
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387209@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Rooster: 1\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260312T051108Z
+DTSTART:20260312T015509Z
+SUMMARY:GZ vs RSTR
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387196@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 2 | Ground Zero: 0\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260314T020234Z
+DTSTART:20260314T002106Z
+SUMMARY:Upper bracket semifinal 2: SFE vs GZ
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387206@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 1 | THUNDER dOWNUNDER: 2\nStream: https://www.twitch.tv/dfragtv
 DTEND:20260315T085921Z
 DTSTART:20260315T054759Z
 SUMMARY:Grand final: SFE vs THUNDER dOWNUNDER
 UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387210@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 2 | Mindfreak: 0\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260313T055551Z
+DTSTART:20260313T041635Z
+SUMMARY:Winners match: SFE vs MF
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387203@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | Ground Zero: 1\nStream: https://www.twitch.tv/dfragtv
+DTEND:20260312T080726Z
+DTSTART:20260312T054624Z
+SUMMARY:Winners match: THUNDER dOWNUNDER vs GZ
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387198@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 2 | Skele: 0\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260313T020602Z
+DTSTART:20260313T003410Z
+SUMMARY:SFE vs Skele
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387200@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Mindfreak: 0 | Ground Zero: 2\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260314T062433Z
+DTSTART:20260314T033551Z
+SUMMARY:Lower bracket semifinal: MF vs GZ
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387208@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | Time Waves: 0\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260312T042726Z
+DTSTART:20260312T020025Z
+SUMMARY:THUNDER dOWNUNDER vs Time Waves
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387195@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | Mindfreak: 0\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260314T020907Z
+DTSTART:20260314T003054Z
+SUMMARY:Upper bracket semifinal 1: THUNDER dOWNUNDER vs MF
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387205@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Skele: 0 | Arcade Esports: 2\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260313T055023Z
+DTSTART:20260313T040835Z
+SUMMARY:Elimination match: Skele vs Arcade Esports
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387202@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Wildcard LAN season 1 2026\nMatch Type: Best Of\nResult: Time Waves: 0 | Rooster: 2\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260312T073950Z
+DTSTART:20260312T060403Z
+SUMMARY:Elimination match: Time Waves vs RSTR
+UID:cs-go-dfrag-open-series-wildcard-lan-1-2026-1387197@tournamentics
 END:VEVENT
 END:VCALENDAR
