@@ -499,13 +499,6 @@ SUMMARY:Semifinal 1: K27 vs TBD
 UID:cs-go-cct-europe-series-18-3-2026-1381292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🕒 POSTPONED\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260319T113000Z
-SUMMARY:TLR vs Imperial.A
-UID:cs-go-european-pro-league-series-6-play-in-2026-1401551@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 56 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 0 | aimclub: 1\nStream: https://www.twitch.tv/gsancher
 DTEND:20260301T165308Z
 DTSTART:20260301T161524Z
@@ -6081,7 +6074,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260323T113000Z
-SUMMARY:Winners match: MANA vs TBD
+SUMMARY:Winners match: MANA vs Imperial.A
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401553@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9504,7 +9497,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260323T090000Z
-SUMMARY:Elimination match: OS vs TBD
+SUMMARY:Elimination match: OS vs TLR
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401552@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9837,9 +9830,9 @@ SUMMARY:ENCE.A vs LILMIX
 UID:cs-go-nodwin-clutch-series-6-2026-1389695@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260319T123000Z
+DTSTART:20260319T123645Z
 SUMMARY:Round 2: RBLS vs ALGO
 UID:cs-go-nodwin-clutch-series-6-2026-1389776@tournamentics
 END:VEVENT
