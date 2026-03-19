@@ -3600,8 +3600,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-19-3-2026-1398998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: MASONIC: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/cct_cs
+DTEND:20260319T133402Z
 DTSTART:20260319T120400Z
 SUMMARY:Elimination match: MSC vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398769@tournamentics
@@ -5402,7 +5402,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260320T180000Z
-SUMMARY:Lower bracket round 3 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 3: MANA vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8752,9 +8752,9 @@ SUMMARY:Ducks vs HUSK
 UID:cs-go-dach-cs-masters-5-2026-1385757@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260319T133000Z
+DTSTART:20260319T134023Z
 SUMMARY:Round 2: JUMBO vs NOVA
 UID:cs-go-exort-series-24-2026-1404301@tournamentics
 END:VEVENT
@@ -9392,7 +9392,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260320T180000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: ex-Zero Tenacity vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398770@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10717,13 +10717,6 @@ DTEND:20260311T213833Z
 DTSTART:20260311T184837Z
 SUMMARY:Lower bracket round 3 match 3: HAVU vs ENRAGE
 UID:cs-go-esea-advanced-europe-56-2026-1382751@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260319T140000Z
-SUMMARY:Lower bracket round 2 match 3: EC BANGA vs MANA
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398054@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders

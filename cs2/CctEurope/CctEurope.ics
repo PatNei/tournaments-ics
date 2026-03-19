@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260320T180000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: ex-Zero Tenacity vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398770@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -891,8 +891,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-19-3-2026-1398995@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: MASONIC: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/cct_cs
+DTEND:20260319T133402Z
 DTSTART:20260319T120400Z
 SUMMARY:Elimination match: MSC vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398769@tournamentics
