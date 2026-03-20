@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://www.kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260323T090000Z
-SUMMARY:Upper bracket semifinal 1: BIG.A vs NP
+SUMMARY:Upper bracket semifinal 1: BIG.A vs INF
 UID:cs-go-united21-46-2026-1404788@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -121,10 +121,10 @@ SUMMARY:MISA vs NP
 UID:cs-go-united21-46-2026-1392354@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | New Project: 2\nStream: https://kick.com/united21_en
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | Infinite: 2\nStream: https://kick.com/united21_en
 DTEND:20260320T131516Z
 DTSTART:20260320T114300Z
-SUMMARY:Upper bracket quarterfinal 2: LPH vs NP
+SUMMARY:Upper bracket quarterfinal 2: LPH vs INF
 UID:cs-go-united21-46-2026-1404785@tournamentics
 END:VEVENT
 BEGIN:VEVENT

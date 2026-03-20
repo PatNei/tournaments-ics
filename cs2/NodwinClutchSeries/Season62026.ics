@@ -121,6 +121,20 @@ SUMMARY:Round 1: MINLATE vs BIG.E
 UID:cs-go-nodwin-clutch-series-6-2026-1389768@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | HEROIC Academy: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260310T143839Z
+DTSTART:20260310T120720Z
+SUMMARY:Winners match: QWE vs HERO.A
+UID:cs-go-nodwin-clutch-series-6-2026-1389687@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: EC BANGA: 0 | HEROIC Academy: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260309T134011Z
+DTSTART:20260309T120715Z
+SUMMARY:EC BANGA vs HERO.A
+UID:cs-go-nodwin-clutch-series-6-2026-1389685@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | Bebop: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260315T142931Z
 DTSTART:20260315T120956Z
@@ -261,11 +275,32 @@ SUMMARY:Round 1: ALGO vs MEGO
 UID:cs-go-nodwin-clutch-series-6-2026-1389767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Bebop: 1 | The Last Resort: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260312T115428Z
+DTSTART:20260312T090849Z
+SUMMARY:BBP vs TLR
+UID:cs-go-nodwin-clutch-series-6-2026-1389689@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: aimclub: 0 | Team Novaq: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260311T104257Z
+DTSTART:20260311T090748Z
+SUMMARY:Decider match: AIMC vs NVQ
+UID:cs-go-nodwin-clutch-series-6-2026-1389683@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | Team Novaq: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260315T195840Z
 DTSTART:20260315T180506Z
 SUMMARY:MANA vs NVQ
 UID:cs-go-nodwin-clutch-series-6-2026-1389702@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Hashiras: 0 | Team Novaq: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260310T165629Z
+DTSTART:20260310T151149Z
+SUMMARY:Elimination match: Hashiras vs NVQ
+UID:cs-go-nodwin-clutch-series-6-2026-1389663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -406,5 +441,19 @@ DTEND:20260317T205446Z
 DTSTART:20260317T181436Z
 SUMMARY:Round 1: Leo vs RE
 UID:cs-go-nodwin-clutch-series-6-2026-1389770@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | aimclub: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260310T113822Z
+DTSTART:20260310T090631Z
+SUMMARY:Winners match: HS vs AIMC
+UID:cs-go-nodwin-clutch-series-6-2026-1389682@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: HyperSpirit: 2 | Hashiras: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260309T163105Z
+DTSTART:20260309T150807Z
+SUMMARY:HS vs Hashiras
+UID:cs-go-nodwin-clutch-series-6-2026-1389619@tournamentics
 END:VEVENT
 END:VCALENDAR
