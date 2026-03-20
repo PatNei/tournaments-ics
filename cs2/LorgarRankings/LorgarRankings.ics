@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260322T160000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: rottweilers vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -145,7 +145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260322T183000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Diamant Esports vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404826@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404875@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: rottweilers: 2 | Diamant Esports: 0\nStream: https://kick.com/starladder
+DTEND:20260320T172756Z
 DTSTART:20260320T160448Z
 SUMMARY:rottweilers vs Diamant Esports
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404820@tournamentics
