@@ -2300,7 +2300,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260320T203000Z
+DTSTART:20260320T204500Z
 SUMMARY:Upper bracket semifinal 1: FURIA vs AUR
 UID:cs-go-blast-open-rotterdam-spring-2026-1394931@tournamentics
 END:VEVENT
@@ -2718,8 +2718,8 @@ SUMMARY:WAVE vs OBSB
 UID:cs-go-urban-riga-open-3-2026-1402017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Isurus: 2 | MIBR Academy: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260320T201251Z
 DTSTART:20260320T180651Z
 SUMMARY:Round 4: ISG vs MIBR.A
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394911@tournamentics
