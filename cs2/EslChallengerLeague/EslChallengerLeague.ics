@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260321T220000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: VSC vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -77,13 +77,6 @@ DURATION:PT2H
 DTSTART:20260323T220000Z
 SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397660@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260320T220000Z
-SUMMARY:Upper bracket round 1 match 3: FA vs PLS
-UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -471,13 +464,6 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398081@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xjokerbr
-DURATION:PT2H
-DTSTART:20260320T220000Z
-SUMMARY:Upper bracket round 1 match 2: VSC vs GH
-UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397648@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: MINLATE: 0 | STATE: 2\nStream: https://www.twitch.tv/dutchboycasts
 DTEND:20260320T200140Z
 DTSTART:20260320T181741Z
@@ -656,7 +642,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260321T220000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 2: PLS vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397656@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -845,7 +831,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260321T220000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: FA vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1041,7 +1027,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260321T220000Z
-SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 1: GH vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397655@tournamentics
 END:VEVENT
 BEGIN:VEVENT
