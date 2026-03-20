@@ -2300,7 +2300,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260320T204500Z
+DTSTART:20260320T210000Z
 SUMMARY:Upper bracket semifinal 1: FURIA vs AUR
 UID:cs-go-blast-open-rotterdam-spring-2026-1394931@tournamentics
 END:VEVENT
@@ -11237,8 +11237,8 @@ SUMMARY:Lower bracket round 2 match 3: TS.A vs Qual4
 UID:cs-go-cct-europe-contenders-2-2026-1392405@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: megoshort: 1 | QWENTRY: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260320T203932Z
 DTSTART:20260320T181026Z
 SUMMARY:Round 2 : MEGO vs QWE
 UID:cs-go-nodwin-clutch-series-6-2026-1389782@tournamentics
