@@ -2,6 +2,69 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Coalesce: 2 | AK BARS: 0\nStream: https://kick.com/exort_en2
+DTEND:20260319T175644Z
+DTSTART:20260319T163653Z
+SUMMARY:Round 2: CLS vs AK
+UID:cs-go-exort-series-24-2026-1404302@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | Spirit Academy: 2\nStream: https://kick.com/exort_en2
+DTEND:20260318T215226Z
+DTSTART:20260318T193555Z
+SUMMARY:Round 2: EP vs TS.A
+UID:cs-go-exort-series-24-2026-1403716@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: ZennoX: 2 | EC BANGA: 0\nStream: https://kick.com/exort_en2
+DTEND:20260317T114952Z
+DTSTART:20260317T104437Z
+SUMMARY:Round 1: ZX vs EC BANGA
+UID:cs-go-exort-series-24-2026-1401739@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | ZennoX: 0\nStream: https://kick.com/exort_en2
+DTEND:20260318T120855Z
+DTSTART:20260318T105359Z
+SUMMARY:Round 2: INF vs ZX
+UID:cs-go-exort-series-24-2026-1403713@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: VP.Future: 2 | ex-PeeP: 1\nStream: https://kick.com/exort_en2
+DTEND:20260316T161909Z
+DTSTART:20260316T153106Z
+SUMMARY:Round 1: VP.F vs ex-PeeP
+UID:cs-go-exort-series-24-2026-1401736@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260321T163000Z
+SUMMARY:Round 3:  Phantom Academy vs ex-PeeP
+UID:cs-go-exort-series-24-2026-1407198@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260320T163000Z
+SUMMARY:Round 3: INF vs NP
+UID:cs-go-exort-series-24-2026-1407195@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: AK BARS: 0 |  Phantom Academy: 2\nStream: https://kick.com/exort_en2
+DTEND:20260317T175306Z
+DTSTART:20260317T163432Z
+SUMMARY:Round 1: AK vs  Phantom Academy
+UID:cs-go-exort-series-24-2026-1401801@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 1 | Nova Legion: 2\nStream: https://kick.com/exort_en2
+DTEND:20260319T160554Z
+DTSTART:20260319T134023Z
+SUMMARY:Round 2: JUMBO vs NOVA
+UID:cs-go-exort-series-24-2026-1404301@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: New Project: 2 |  Phantom Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260318T200416Z
 DTSTART:20260318T163425Z
@@ -16,20 +79,6 @@ SUMMARY:Round 1: 3DMAX.A vs EP
 UID:cs-go-exort-series-24-2026-1401738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Coalesce: 2 | AK BARS: 0\nStream: https://kick.com/exort_en2
-DTEND:20260319T175644Z
-DTSTART:20260319T163653Z
-SUMMARY:Round 2: CLS vs AK
-UID:cs-go-exort-series-24-2026-1404302@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | ZennoX: 0\nStream: https://kick.com/exort_en2
-DTEND:20260318T120855Z
-DTSTART:20260318T105359Z
-SUMMARY:Round 2: INF vs ZX
-UID:cs-go-exort-series-24-2026-1403713@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Coalesce: 1 | INFURITY Gaming: 2\nStream: https://kick.com/exort_en2
 DTEND:20260316T124000Z
 DTSTART:20260316T103000Z
@@ -37,11 +86,32 @@ SUMMARY:Round 1: CLS vs INF
 UID:cs-go-exort-series-24-2026-1401735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: AK BARS: 0 |  Phantom Academy: 2\nStream: https://kick.com/exort_en2
-DTEND:20260317T175306Z
-DTSTART:20260317T163432Z
-SUMMARY:Round 1: AK vs  Phantom Academy
-UID:cs-go-exort-series-24-2026-1401801@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260321T133000Z
+SUMMARY:Round 3: VP.F vs EP
+UID:cs-go-exort-series-24-2026-1407197@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260320T103000Z
+SUMMARY:Round 3: EC BANGA vs JUMBO
+UID:cs-go-exort-series-24-2026-1407194@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: New Project: 2 | Nova Legion: 0\nStream: https://kick.com/exort_en2
+DTEND:20260317T143955Z
+DTSTART:20260317T134220Z
+SUMMARY:Round 1: NP vs Nova Legion
+UID:cs-go-exort-series-24-2026-1401800@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Eternal Fire Academy: 2\nStream: https://kick.com/exort_en2
+DTEND:20260319T210222Z
+DTSTART:20260319T193610Z
+SUMMARY:Round 2: 3DMAX.A vs EF.A
+UID:cs-go-exort-series-24-2026-1404303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Hermine Esports Club: 2 | VP.Future: 0\nStream: https://kick.com/exort_en2
@@ -58,46 +128,25 @@ SUMMARY:Round 1: JUMBO vs HEC
 UID:cs-go-exort-series-24-2026-1401737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 1 | Nova Legion: 2\nStream: https://kick.com/exort_en2
-DTEND:20260319T160554Z
-DTSTART:20260319T134023Z
-SUMMARY:Round 2: JUMBO vs NOVA
-UID:cs-go-exort-series-24-2026-1404301@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260321T193000Z
+SUMMARY:Round 3: CLS vs EF.A
+UID:cs-go-exort-series-24-2026-1407199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: VP.Future: 2 | ex-PeeP: 1\nStream: https://kick.com/exort_en2
-DTEND:20260316T161909Z
-DTSTART:20260316T153106Z
-SUMMARY:Round 1: VP.F vs ex-PeeP
-UID:cs-go-exort-series-24-2026-1401736@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260320T193000Z
+SUMMARY:Round 3: AK vs 3DMAX.A
+UID:cs-go-exort-series-24-2026-1407196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | Spirit Academy: 2\nStream: https://kick.com/exort_en2
-DTEND:20260318T215226Z
-DTSTART:20260318T193555Z
-SUMMARY:Round 2: EP vs TS.A
-UID:cs-go-exort-series-24-2026-1403716@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: New Project: 2 | Nova Legion: 0\nStream: https://kick.com/exort_en2
-DTEND:20260317T143955Z
-DTSTART:20260317T134220Z
-SUMMARY:Round 1: NP vs Nova Legion
-UID:cs-go-exort-series-24-2026-1401800@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: ZennoX: 2 | EC BANGA: 0\nStream: https://kick.com/exort_en2
-DTEND:20260317T114952Z
-DTSTART:20260317T104437Z
-SUMMARY:Round 1: ZX vs EC BANGA
-UID:cs-go-exort-series-24-2026-1401739@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Eternal Fire Academy: 2\nStream: https://kick.com/exort_en2
-DTEND:20260319T210222Z
-DTSTART:20260319T193610Z
-SUMMARY:Round 2: 3DMAX.A vs EF.A
-UID:cs-go-exort-series-24-2026-1404303@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260320T133000Z
+SUMMARY:Round 3: HEC vs TS.A
+UID:cs-go-exort-series-24-2026-1407193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 0 | Spirit Academy: 2\nStream: https://kick.com/exort_en2

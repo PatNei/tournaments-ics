@@ -23,6 +23,13 @@ SUMMARY:BST.A vs ALKAa
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1396964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: ALKA: 2 | Players: 0\nStream: No official stream linked
+DTEND:20260319T230320Z
+DTSTART:20260319T210556Z
+SUMMARY:Winners match: ALKAa vs PLS
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1407192@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Alzon: 0 | METANOIA: 1\nStream: https://www.twitch.tv/metanoiagg
 DTEND:20260317T004139Z
 DTSTART:20260316T231516Z
@@ -53,9 +60,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260320T213000Z
-SUMMARY:Winners match: RED.A vs METANOIA
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1405082@tournamentics
+DTSTART:20260320T220000Z
+SUMMARY:Elimination match: Alzon vs Masqueic0Gang
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1407200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -79,10 +86,10 @@ SUMMARY:MIBR.A vs GE
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1396965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: ALKA: 2 | Players: 0\nStream: No official stream linked
-DTEND:20260319T230320Z
-DTSTART:20260319T210556Z
-SUMMARY:Winners match: ALKAa vs PLS
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1407192@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260320T213000Z
+SUMMARY:Winners match: RED.A vs METANOIA
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1405082@tournamentics
 END:VEVENT
 END:VCALENDAR

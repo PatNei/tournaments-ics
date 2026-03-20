@@ -93,11 +93,32 @@ SUMMARY:Round 1: JUMBO vs HEC
 UID:cs-go-exort-series-24-2026-1401737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260321T193000Z
+SUMMARY:Round 3: CLS vs EF.A
+UID:cs-go-exort-series-24-2026-1407199@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260320T193000Z
+SUMMARY:Round 3: AK vs 3DMAX.A
+UID:cs-go-exort-series-24-2026-1407196@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: BET-M 33: 2 | LPH Gaming: 0\nStream: https://kick.com/exort_en2
 DTEND:20260315T192329Z
 DTSTART:20260315T173934Z
 SUMMARY:Semifinal 2: 33 vs LPH
 UID:cs-go-exort-series-23-2026-1394881@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260320T133000Z
+SUMMARY:Round 3: HEC vs TS.A
+UID:cs-go-exort-series-24-2026-1407193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | KUUSAMO.gg: 1\nStream: https://kick.com/exort_en2
@@ -275,6 +296,20 @@ SUMMARY:Round 1: VP.F vs ex-PeeP
 UID:cs-go-exort-series-24-2026-1401736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260321T163000Z
+SUMMARY:Round 3:  Phantom Academy vs ex-PeeP
+UID:cs-go-exort-series-24-2026-1407198@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260320T163000Z
+SUMMARY:Round 3: INF vs NP
+UID:cs-go-exort-series-24-2026-1407195@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | Ex-Sparta: 1\nStream: https://kick.com/exort_en2
 DTEND:20260315T160536Z
 DTSTART:20260315T133413Z
@@ -408,18 +443,18 @@ SUMMARY:Round 1 match 3: ex-GANK Esports vs VP.F
 UID:cs-go-exort-series-23-2026-1394874@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 0 | Spirit Academy: 2\nStream: https://kick.com/exort_en2
-DTEND:20260317T205250Z
-DTSTART:20260317T193648Z
-SUMMARY:Round 1: EF.A vs TS.A
-UID:cs-go-exort-series-24-2026-1401802@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: VP.Future: 1 | Young TigeRES: 2\nStream: https://kick.com/exort_en2
 DTEND:20260306T193733Z
 DTSTART:20260306T172014Z
 SUMMARY:Round 2: VP.F vs Y.TigeRES
 UID:cs-go-exort-series-23-2026-1387084@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 0 | Spirit Academy: 2\nStream: https://kick.com/exort_en2
+DTEND:20260317T205250Z
+DTSTART:20260317T193648Z
+SUMMARY:Round 1: EF.A vs TS.A
+UID:cs-go-exort-series-24-2026-1401802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: JUMBO TEAM: 1 | Sangal ALTERS: 2\nStream: https://kick.com/exort_en2
@@ -506,11 +541,25 @@ SUMMARY:Round 1: CLS vs INF
 UID:cs-go-exort-series-24-2026-1401735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260321T133000Z
+SUMMARY:Round 3: VP.F vs EP
+UID:cs-go-exort-series-24-2026-1407197@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 1 | BET-M 33: 2\nStream: https://kick.com/exort_en2
 DTEND:20260315T225931Z
 DTSTART:20260315T203432Z
 SUMMARY:Grand final: CYBERSHOKE Prospects vs 33
 UID:cs-go-exort-series-23-2026-1394882@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260320T103000Z
+SUMMARY:Round 3: EC BANGA vs JUMBO
+UID:cs-go-exort-series-24-2026-1407194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 23 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | against All authority: 0\nStream: https://kick.com/exort_en2
