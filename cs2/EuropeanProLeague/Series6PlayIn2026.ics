@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260325T090000Z
-SUMMARY:Decider match: G2.A vs TBD
+SUMMARY:Decider match: G2.A vs XI
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401479@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nResult: Bebop: 2 | XI Esport: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260320T130156Z
 DTSTART:20260320T114517Z
 SUMMARY:Winners match: BBP vs XI
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401478@tournamentics
