@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260322T110000Z
-SUMMARY:Lower bracket semifinal 2: TBD vs TBD
+SUMMARY:Lower bracket semifinal 2: NRG vs TBD
 UID:cs-go-blast-open-rotterdam-spring-2026-1394938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Upper bracket quarterfinal 4: PRV vs NIP
 UID:cs-go-blast-open-rotterdam-spring-2026-1371046@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nResult: B8: 0 | NRG: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260320T124950Z
 DTSTART:20260320T110202Z
 SUMMARY:Lower bracket quarterfinal 2: B8 vs NRG
 UID:cs-go-blast-open-rotterdam-spring-2026-1394936@tournamentics
