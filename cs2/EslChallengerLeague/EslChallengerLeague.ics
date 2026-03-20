@@ -404,7 +404,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260321T140000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: TMA vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-2-51-2026-1400105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -905,13 +905,6 @@ SUMMARY:Upper bracket round 1 match 1: SHIN vs GE
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260320T140000Z
-SUMMARY:Upper bracket round 16 match 1: MSTAR vs TMA
-UID:cs-go-esl-challenger-league-asia-pacific-cup-2-51-2026-1400077@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kevindoruk
 DURATION:PT2H
 DTSTART:20260320T180000Z
@@ -1174,7 +1167,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260321T140000Z
-SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 1: MSTAR vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-2-51-2026-1400129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
