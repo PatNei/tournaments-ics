@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260322T140000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: HH vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-2-51-2026-1400154@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -772,11 +772,11 @@ SUMMARY:Lower bracket round 2 match 3: O49 vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397978@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 0 | ex-Zero Tenacity: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260316T163339Z
-DTSTART:20260316T140721Z
-SUMMARY:Upper bracket round 1 match 8: HERO.A vs ex-Zero Tenacity
-UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398011@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260322T020000Z
+SUMMARY:Lower bracket round 1 match 4: Reign Above vs NT
+UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397975@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: HAVU: 0 | Nemiga: 2\nStream: https://www.twitch.tv/titaanitv
@@ -784,13 +784,6 @@ DTEND:20260319T212234Z
 DTSTART:20260319T191326Z
 SUMMARY:Upper bracket round 3 match 5: HAVU vs NEMI
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398086@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260322T020000Z
-SUMMARY:Lower bracket round 1 match 4: Reign Above vs NT
-UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397975@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1122,11 +1115,11 @@ SUMMARY:Upper bracket round 1 match 11: hindsight vs MANA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398014@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup 2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260321T140000Z
-SUMMARY:Lower bracket round 1 match 2: CTG vs HH
-UID:cs-go-esl-challenger-league-asia-pacific-cup-2-51-2026-1400106@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 0 | ex-Zero Tenacity: 2\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260316T163339Z
+DTSTART:20260316T140721Z
+SUMMARY:Upper bracket round 1 match 8: HERO.A vs ex-Zero Tenacity
+UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398011@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 2 season 51 2026\nMatch Type: Best Of\nResult: Legion: 0 | Boring Players: 2\nStream: No official stream linked
