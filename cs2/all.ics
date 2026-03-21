@@ -4316,7 +4316,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260321T090000Z
+DTSTART:20260321T091000Z
 SUMMARY:Upper bracket quarterfinal 3: UNiTY vs G2.A
 UID:cs-go-united21-46-2026-1404786@tournamentics
 END:VEVENT
@@ -4401,7 +4401,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LOOP Cup - Season 1 2026\nMatch Type: Best Of\nStream: https://www.douyu.com/9441358
 DURATION:PT2H
 DTSTART:20260322T050000Z
-SUMMARY:Grand final: LVG vs TBD
+SUMMARY:Grand final: LVG vs RA
 UID:cs-go-loop-cup-1-2026-1400359@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6736,9 +6736,9 @@ SUMMARY:Round 2: INF vs ZX
 UID:cs-go-exort-series-24-2026-1403713@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260321T090000Z
+DTSTART:20260321T090626Z
 SUMMARY:Hashiras vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398791@tournamentics
 END:VEVENT
@@ -7856,9 +7856,9 @@ SUMMARY:Lower bracket round 2 match 4: M33 vs ENJOY
 UID:cs-go-cct-europe-contenders-2-2026-1392406@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260321T090000Z
+DTSTART:20260321T090528Z
 SUMMARY:Round 3: MANA vs TLR
 UID:cs-go-nodwin-clutch-series-6-2026-1389783@tournamentics
 END:VEVENT
@@ -11020,8 +11020,8 @@ SUMMARY:Round 4: OMG vs EF
 UID:cs-go-cct-europe-series-18-3-2026-1381195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LOOP Cup - Season 1 2026\nMatch Type: Best Of\nStream: https://live.douyin.com/65687475141
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LOOP Cup - Season 1 2026\nMatch Type: Best Of\nResult: Last Bullet: 0 | Rare Atom: 2\nStream: https://live.douyin.com/65687475141
+DTEND:20260321T090724Z
 DTSTART:20260321T071314Z
 SUMMARY:Semifinal 1: LB vs RA
 UID:cs-go-loop-cup-1-2026-1400357@tournamentics
