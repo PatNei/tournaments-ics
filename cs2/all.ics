@@ -796,7 +796,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260323T220000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: DS vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397660@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5654,7 +5654,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260322T220000Z
-SUMMARY:Lower bracket round 2 match 1: GE vs TBD
+SUMMARY:Lower bracket round 2 match 1: GE vs ATRIX
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397676@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5770,8 +5770,8 @@ SUMMARY:WTRML0N vs Stinky Rats
 UID:cs-go-esea-advanced-europe-56-2026-1353974@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nResult: TheMongolz: 0 | Vitality: 2\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260321T230415Z
 DTSTART:20260321T211442Z
 SUMMARY:Upper bracket semifinal 1: MGLZ vs VIT
 UID:cs-go-blast-open-rotterdam-spring-2026-1394940@tournamentics
@@ -7005,7 +7005,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260322T160000Z
-SUMMARY:Lower bracket semifinal 2: TL vs TBD
+SUMMARY:Lower bracket semifinal 2: TL vs MGLZ
 UID:cs-go-blast-open-rotterdam-spring-2026-1394947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8041,7 +8041,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260323T183000Z
-SUMMARY:Upper bracket final: PRV vs TBD
+SUMMARY:Upper bracket final: PRV vs VIT
 UID:cs-go-blast-open-rotterdam-spring-2026-1394943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10432,8 +10432,8 @@ SUMMARY:Round 3: JUMBO vs Y.TigeRES
 UID:cs-go-exort-series-23-2026-1377580@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lorranbs_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Atrix Esports: 0 | DashSkins: 2\nStream: https://www.twitch.tv/lorranbs_
+DTEND:20260321T230739Z
 DTSTART:20260321T220535Z
 SUMMARY:Upper bracket quarterfinal 4: ATRIX vs DS
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397658@tournamentics

@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260323T220000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: DS vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397660@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -544,7 +544,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260322T220000Z
-SUMMARY:Lower bracket round 2 match 1: GE vs TBD
+SUMMARY:Lower bracket round 2 match 1: GE vs ATRIX
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397676@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -926,8 +926,8 @@ SUMMARY:Upper bracket quarterfinal 2: TDK vs NEM
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398091@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lorranbs_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Atrix Esports: 0 | DashSkins: 2\nStream: https://www.twitch.tv/lorranbs_
+DTEND:20260321T230739Z
 DTSTART:20260321T220535Z
 SUMMARY:Upper bracket quarterfinal 4: ATRIX vs DS
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397658@tournamentics
