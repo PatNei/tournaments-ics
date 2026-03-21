@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260322T180000Z
-SUMMARY:Lower bracket round 5 match 4: ex-RUBY vs TBD
+SUMMARY:Lower bracket round 5 match 4: ex-RUBY vs LK
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398075@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -254,8 +254,8 @@ SUMMARY:Upper bracket round 1 match 12: EC BANGA vs AIRLYA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398015@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: los kogutos: 2 | STATE: 1\nStream: No official stream linked
+DTEND:20260321T212439Z
 DTSTART:20260321T181004Z
 SUMMARY:Lower bracket round 4 match 4: LK vs STA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398071@tournamentics
