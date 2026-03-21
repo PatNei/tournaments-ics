@@ -530,6 +530,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Seaso
 </details>
 
 <details>
+<summary>Elisa Open Suomi</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/ElisaOpenSuomi.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/ElisaOpenSuomi.ics
+```
+
+---
+
+### Season 12 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/Season122026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/Season122026.ics
+```
+
+</details>
+
+<details>
 <summary>ESEA</summary>
 
 ### Full Schedule
