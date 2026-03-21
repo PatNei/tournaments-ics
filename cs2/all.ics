@@ -1185,9 +1185,9 @@ SUMMARY:Lower bracket round 3 match 2: TS.A vs ENJOY
 UID:cs-go-cct-europe-contenders-2-2026-1392408@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260321T150000Z
+DTSTART:20260321T150354Z
 SUMMARY:Round 3: ex-RUBY vs URSA
 UID:cs-go-nodwin-clutch-series-6-2026-1389785@tournamentics
 END:VEVENT
@@ -7457,8 +7457,8 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: VP.Future: 0 | eternal premium: 2\nStream: https://kick.com/exort_en2
+DTEND:20260321T145615Z
 DTSTART:20260321T133735Z
 SUMMARY:Round 3: VP.F vs EP
 UID:cs-go-exort-series-24-2026-1407197@tournamentics
@@ -7842,7 +7842,7 @@ SUMMARY:Stinky Rats vs EP
 UID:cs-go-esea-advanced-europe-56-2026-1355272@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/aorusbr
+DESCRIPTION:⏳ UPCOMING\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vilacattv
 DURATION:PT2H
 DTSTART:20260321T150000Z
 SUMMARY:Semifinal 1: ODK vs GLS
