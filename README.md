@@ -551,27 +551,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/Seas
 </details>
 
 <details>
-<summary>ESEA</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics
-```
-
----
-
-### Advanced Europe season 56 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason562026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason562026.ics
-```
-
-</details>
-
-<details>
 <summary>ESL Challenger League</summary>
 
 ### Full Schedule
