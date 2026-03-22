@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: eLITenergy: 0 | Fire Flux Esports: 2\nStream: https://kick.com/cct-cs5
+DTEND:20260322T205837Z
 DTSTART:20260322T192201Z
 SUMMARY:Upper bracket round 1 match 8: eLITenergy vs FF
 UID:cs-go-cct-europe-contenders-3-2026-1406912@tournamentics
