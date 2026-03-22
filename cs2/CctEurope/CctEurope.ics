@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260322T150000Z
+DTSTART:20260322T153000Z
 SUMMARY:Round 1: OMG vs TNC
 UID:cs-go-cct-europe-series-19-3-2026-1398977@tournamentics
 END:VEVENT
@@ -646,8 +646,8 @@ SUMMARY:Round of 16 match 2: NTR vs MOUZ.N
 UID:cs-go-cct-europe-series-17-3-2026-1373745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: MINLATE: 2 | Bebop: 1\nStream: https://kick.com/cct_cs
+DTEND:20260322T145828Z
 DTSTART:20260322T122639Z
 SUMMARY:Round 1: MINLATE vs BBP
 UID:cs-go-cct-europe-series-19-3-2026-1398976@tournamentics
