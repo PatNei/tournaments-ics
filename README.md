@@ -57,6 +57,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslProLeague/Season
 ## B Tier
 
 <details>
+<summary>BC Game Masters Championship</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMastersChampionship/BcGameMastersChampionship.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMastersChampionship/BcGameMastersChampionship.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMastersChampionship/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BcGameMastersChampionship/Season12026.ics
+```
+
+</details>
+
+<details>
 <summary>CCT Europe</summary>
 
 ### Full Schedule
@@ -87,6 +108,34 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series18S
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series19Season32026.ics
+```
+
+### Series #20 season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series20Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series20Season32026.ics
+```
+
+</details>
+
+<details>
+<summary>DraculaN</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Draculan.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Draculan.ics
+```
+
+---
+
+### Season 6 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Season62026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Season62026.ics
 ```
 
 </details>
@@ -171,6 +220,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 </details>
 
 <details>
+<summary>European Pro League</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
+```
+
+---
+
+### Series 6 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series62026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series62026.ics
+```
+
+</details>
+
+<details>
 <summary>Journey</summary>
 
 ### Full Schedule
@@ -187,6 +257,41 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Journey/Journey.ics
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Journey/Spring2026.ics
+```
+
+</details>
+
+<details>
+<summary>PGL</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics
+```
+
+---
+
+### Astana: European Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEuropeanClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEuropeanClosedQualifier2026.ics
+```
+
+### Astana: North American Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanClosedQualifier2026.ics
+```
+
+### Astana: South American Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanClosedQualifier2026.ics
 ```
 
 </details>
@@ -509,6 +614,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season2
 </details>
 
 <details>
+<summary>FERJEE In House</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/FerjeeInHouse.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/FerjeeInHouse.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/FerjeeInHouse/2026.ics
+```
+
+</details>
+
+<details>
 <summary>Gamers Club Liga Série A</summary>
 
 ### Full Schedule
@@ -572,6 +698,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/Clos
 </details>
 
 <details>
+<summary>MaceMedia VOID Cup</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MacemediaVoidCup/MacemediaVoidCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MacemediaVoidCup/MacemediaVoidCup.ics
+```
+
+---
+
+### Spring 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MacemediaVoidCup/Spring2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MacemediaVoidCup/Spring2026.ics
+```
+
+</details>
+
+<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
@@ -588,6 +735,34 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season62026.ics
+```
+
+</details>
+
+<details>
+<summary>PGL</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics
+```
+
+---
+
+### Astana: European Open Qualifier #1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEuropeanOpenQualifier12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEuropeanOpenQualifier12026.ics
+```
+
+### Astana: North American Open Qualifier #1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanOpenQualifier12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanOpenQualifier12026.ics
 ```
 
 </details>

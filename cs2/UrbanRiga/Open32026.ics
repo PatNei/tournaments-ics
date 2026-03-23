@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kleverrgg
 DURATION:PT2H
-DTSTART:20260323T130000Z
+DTSTART:20260323T132000Z
 SUMMARY:PHA vs KSM
 UID:cs-go-urban-riga-open-3-2026-1402009@tournamentics
 END:VEVENT
@@ -72,9 +72,9 @@ SUMMARY:PHA vs EC BANGA
 UID:cs-go-urban-riga-open-3-2026-1402010@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kleverrgg
+DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kleverrgg
 DURATION:PT2H
-DTSTART:20260323T130000Z
+DTSTART:20260323T130658Z
 SUMMARY:PHA vs TNC
 UID:cs-go-urban-riga-open-3-2026-1402006@tournamentics
 END:VEVENT
@@ -137,7 +137,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
-DTSTART:20260323T130000Z
+DTSTART:20260323T132000Z
 SUMMARY:EC BANGA vs TNC
 UID:cs-go-urban-riga-open-3-2026-1402008@tournamentics
 END:VEVENT
@@ -198,8 +198,8 @@ SUMMARY:TNC vs KSM
 UID:cs-go-urban-riga-open-3-2026-1402011@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | EC BANGA: 0\nStream: https://kick.com/urbancontenders
+DTEND:20260323T130648Z
 DTSTART:20260323T123710Z
 SUMMARY:KSM vs EC BANGA
 UID:cs-go-urban-riga-open-3-2026-1402007@tournamentics
