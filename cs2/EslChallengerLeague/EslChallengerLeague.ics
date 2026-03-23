@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T220000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: MW vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Upper bracket round 3 match 1: K27 vs G2.A
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398082@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d10s_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 0 | DashSkins: 2\nStream: https://www.twitch.tv/d10s_
+DTEND:20260323T232739Z
 DTSTART:20260323T220347Z
 SUMMARY:Upper bracket semifinal 2: MW vs DS
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397660@tournamentics
@@ -740,7 +740,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T220000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: DS vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397661@tournamentics
 END:VEVENT
 BEGIN:VEVENT
