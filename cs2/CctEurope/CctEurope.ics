@@ -1675,11 +1675,11 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406954@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs6
-DURATION:PT2H
-DTSTART:20260323T160000Z
-SUMMARY:Lower bracket round 1 match 1: YNG vs DNT
-UID:cs-go-cct-europe-contenders-3-2026-1411807@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Acend: 2 | Omega: 1\nStream: https://kick.com/cct_cs
+DTEND:20260306T151021Z
+DTSTART:20260306T120726Z
+SUMMARY:Round 3: ACE vs OMG
+UID:cs-go-cct-europe-series-17-3-2026-1373732@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
@@ -1694,13 +1694,6 @@ DTEND:20260312T180909Z
 DTSTART:20260312T163407Z
 SUMMARY:Lower bracket round 3 match 1: Inner Circle Academy vs DUG
 UID:cs-go-cct-europe-contenders-2-2026-1392407@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #17 season 3 2026\nMatch Type: Best Of\nResult: Acend: 2 | Omega: 1\nStream: https://kick.com/cct_cs
-DTEND:20260306T151021Z
-DTSTART:20260306T120726Z
-SUMMARY:Round 3: ACE vs OMG
-UID:cs-go-cct-europe-series-17-3-2026-1373732@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #2 2026\nMatch Type: Best Of\nResult: Partizan Esport: 0 | Duggedup: 2\nStream: https://kick.com/cct-cs5
