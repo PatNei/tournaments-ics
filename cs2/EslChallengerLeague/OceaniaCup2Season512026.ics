@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T100000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: Arcade Esports vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1398001@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -21,13 +21,6 @@ DTEND:20260321T120643Z
 DTSTART:20260321T100658Z
 SUMMARY:Upper bracket quarterfinal 4: MF vs MnL
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1397991@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260323T100000Z
-SUMMARY:Lower bracket round 2 match 2: MuttCrew vs Arcade Esports
-UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1397999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nResult: BBBMBCBS: 0 | MARKnLARRY: 2\nStream: https://www.twitch.tv/dutchboycasts
@@ -44,9 +37,9 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1398003@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
-DTSTART:20260323T100000Z
+DTSTART:20260323T100711Z
 SUMMARY:Upper bracket semifinal 2: GZ vs MF
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1397993@tournamentics
 END:VEVENT
@@ -74,7 +67,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260323T100000Z
+DTSTART:20260323T101000Z
 SUMMARY:Lower bracket round 2 match 1: VE vs MnL
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1397998@tournamentics
 END:VEVENT
@@ -93,9 +86,9 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1398002@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bowser0
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bowser0
 DURATION:PT2H
-DTSTART:20260323T100000Z
+DTSTART:20260323T101329Z
 SUMMARY:Upper bracket semifinal 1: RSTR vs SFE
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1397992@tournamentics
 END:VEVENT
