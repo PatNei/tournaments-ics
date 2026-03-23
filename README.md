@@ -698,6 +698,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/Clos
 </details>
 
 <details>
+<summary>MaceMedia VOID Cup</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MacemediaVoidCup/MacemediaVoidCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MacemediaVoidCup/MacemediaVoidCup.ics
+```
+
+---
+
+### Spring 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MacemediaVoidCup/Spring2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/MacemediaVoidCup/Spring2026.ics
+```
+
+</details>
+
+<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
