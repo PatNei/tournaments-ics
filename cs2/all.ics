@@ -3691,6 +3691,13 @@ SUMMARY:Peekaboo vs RT
 UID:cs-go-esea-advanced-europe-56-2026-1348427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20260404T163000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-stake-ranked-episode-1-2026-1413398@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: Favbet: 2 | ESC Gaming: 1\nStream: https://kick.com/cct_cs2
 DTEND:20260319T181118Z
 DTSTART:20260319T151907Z
@@ -6424,7 +6431,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T030000Z
-SUMMARY:Semifinal 2: CCE vs TBD
+SUMMARY:Semifinal 2: CCE vs FC
 UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1413316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6708,8 +6715,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: ClayMakers Reborn: 0 | Fisher College: 2\nStream: No official stream linked
+DTEND:20260324T021938Z
 DTSTART:20260324T010426Z
 SUMMARY:Quarterfinal 3: ClayMakers Reborn vs FC
 UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412073@tournamentics
@@ -6832,6 +6839,13 @@ DTEND:20260311T181003Z
 DTSTART:20260311T163549Z
 SUMMARY:Round 4: ADP vs VP.F
 UID:cs-go-exort-series-23-2026-1392396@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20260404T130000Z
+SUMMARY:Consolidation final: TBD vs TBD
+UID:cs-go-stake-ranked-episode-1-2026-1413397@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Pro League - Season 23 2026\nMatch Type: Best Of\nResult: 3DMAX: 2 | Liquid: 0\nStream: https://www.twitch.tv/ESLCS
@@ -7716,9 +7730,9 @@ SUMMARY:AUR.YB vs BMB
 UID:cs-go-esea-advanced-europe-56-2026-1328925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260324T020000Z
+DTSTART:20260324T021829Z
 SUMMARY:Lower bracket round 3 match 2: O49 vs Reign Above
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397981@tournamentics
 END:VEVENT
@@ -10789,9 +10803,9 @@ SUMMARY:BW vs CYBERSHOKE Prospects
 UID:cs-go-esea-advanced-europe-56-2026-1328924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260324T020000Z
+DTSTART:20260324T021828Z
 SUMMARY:Lower bracket round 3 match 1: F5 vs WG
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397980@tournamentics
 END:VEVENT

@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260324T030000Z
-SUMMARY:Semifinal 2: CCE vs TBD
+SUMMARY:Semifinal 2: CCE vs FC
 UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1413316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -289,8 +289,8 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: ClayMakers Reborn: 0 | Fisher College: 2\nStream: No official stream linked
+DTEND:20260324T021938Z
 DTSTART:20260324T010426Z
 SUMMARY:Quarterfinal 3: ClayMakers Reborn vs FC
 UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412073@tournamentics

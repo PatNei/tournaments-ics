@@ -32,6 +32,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
+DTSTART:20260404T130000Z
+SUMMARY:Consolidation final: TBD vs TBD
+UID:cs-go-stake-ranked-episode-1-2026-1413397@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
 DTSTART:20260402T173000Z
 SUMMARY:Upper Bracket Semifinals 2: TBD vs TBD
 UID:cs-go-stake-ranked-episode-1-2026-1413394@tournamentics
@@ -84,5 +91,12 @@ DURATION:PT2H
 DTSTART:20260401T123000Z
 SUMMARY:Upper Bracket Quarterfinal 2: HERO vs BB
 UID:cs-go-stake-ranked-episode-1-2026-1413386@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20260404T163000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-stake-ranked-episode-1-2026-1413398@tournamentics
 END:VEVENT
 END:VCALENDAR
