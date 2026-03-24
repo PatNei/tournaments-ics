@@ -387,8 +387,8 @@ SUMMARY:Upper bracket round 1 match 6: BAKS vs Glitch
 UID:cs-go-cct-europe-contenders-3-2026-1406910@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult: MASONIC: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260324T163901Z
 DTSTART:20260324T150508Z
 SUMMARY:Winners match: MSC vs ex-Zero Tenacity
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411688@tournamentics
@@ -863,9 +863,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406955@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
-DTSTART:20260324T163000Z
+DTSTART:20260324T164329Z
 SUMMARY:Lower bracket round 1 match 2: banda chuya vs BL
 UID:cs-go-cct-europe-contenders-3-2026-1411808@tournamentics
 END:VEVENT
@@ -1136,9 +1136,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs6
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs6
 DURATION:PT2H
-DTSTART:20260324T163000Z
+DTSTART:20260324T163733Z
 SUMMARY:Lower bracket round 1 match 4: NAVI.J vs eLITenergy
 UID:cs-go-cct-europe-contenders-3-2026-1411810@tournamentics
 END:VEVENT
@@ -1454,7 +1454,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260327T090000Z
-SUMMARY:Decider match: rottweilers vs TBD
+SUMMARY:Decider match: rottweilers vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411689@tournamentics
 END:VEVENT
 BEGIN:VEVENT
