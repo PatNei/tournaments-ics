@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/locomass22
 DURATION:PT2H
-DTSTART:20260324T010000Z
+DTSTART:20260324T010346Z
 SUMMARY:Semifinal 2: RED.A vs ISG
 UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413282@tournamentics
 END:VEVENT
