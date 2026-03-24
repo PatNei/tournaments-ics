@@ -40,12 +40,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
 DTSTART:20260324T150000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: OBSB vs TBD
 UID:cs-go-urban-riga-open-3-2026-1403090@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: No Surrender: 0 | OlyBet SB: 2\nStream: No official stream linked
+DTEND:20260324T103359Z
 DTSTART:20260324T090333Z
 SUMMARY:Quarterfinal 1: NOSR vs OBSB
 UID:cs-go-urban-riga-open-3-2026-1403086@tournamentics
