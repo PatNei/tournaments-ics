@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
 DURATION:PT2H
 DTSTART:20260324T190000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: FOKUS vs TBD
 UID:cs-go-urban-riga-open-3-2026-1403092@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:WAVE vs OBSB
 UID:cs-go-urban-riga-open-3-2026-1402017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/titaanitv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: OlyBet SB: 0 | FOKUS: 2\nStream: https://www.twitch.tv/titaanitv
+DTEND:20260324T170534Z
 DTSTART:20260324T154029Z
 SUMMARY:Semifinal 2: OBSB vs FOKUS
 UID:cs-go-urban-riga-open-3-2026-1403091@tournamentics
