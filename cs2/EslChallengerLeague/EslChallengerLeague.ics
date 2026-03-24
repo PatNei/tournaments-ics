@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kronyii
 DURATION:PT2H
 DTSTART:20260324T220000Z
 SUMMARY:Lower bracket quarterfinal 2: MW vs BHE
@@ -184,7 +184,7 @@ SUMMARY:Upper bracket quarterfinal 1: ex-RUBY vs K27
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398090@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
 DTSTART:20260324T180000Z
 SUMMARY:Lower bracket quarterfinal 2: TDK vs URSA
@@ -352,7 +352,7 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
 DTSTART:20260324T220000Z
 SUMMARY:Lower bracket quarterfinal 1: Keyd vs UNO
@@ -576,7 +576,7 @@ SUMMARY:Upper bracket semifinal 1: Keyd vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cmarty
 DURATION:PT2H
 DTSTART:20260324T180000Z
 SUMMARY:Lower bracket quarterfinal 1: NEMI vs NEM
