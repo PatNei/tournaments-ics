@@ -4212,7 +4212,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T030000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: JS vs TBD
 UID:cs-go-macemedia-void-spring-2026-1411919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6431,7 +6431,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T050000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: MSTAR vs TBD
 UID:cs-go-macemedia-void-spring-2026-1411921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7305,7 +7305,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nStream: https://www.douyu.com/9441362?dyshid=0-7ed75f0182f1a690a62c186900031701
 DURATION:PT2H
-DTSTART:20260324T050000Z
+DTSTART:20260324T053000Z
 SUMMARY:Upper bracket semifinal 2: RA vs LB
 UID:cs-go-macemedia-void-spring-2026-1411918@tournamentics
 END:VEVENT
@@ -10439,8 +10439,8 @@ SUMMARY:Imperial.A vs HAVU
 UID:cs-go-esea-advanced-europe-56-2026-1356652@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nStream: https://www.douyu.com/9441362?dyshid=0-7ed75f0182f1a690a62c186900031701
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Morningstar: 2 | Just Swing: 0\nStream: https://www.douyu.com/9441362?dyshid=0-7ed75f0182f1a690a62c186900031701
+DTEND:20260324T051546Z
 DTSTART:20260324T033907Z
 SUMMARY:Upper bracket semifinal 1: MSTAR vs JS
 UID:cs-go-macemedia-void-spring-2026-1411917@tournamentics
