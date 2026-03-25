@@ -156,18 +156,18 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260327T090000Z
-SUMMARY:BIG.A vs TBD
-UID:cs-go-european-pro-league-series-6-play-in-2026-1401473@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260414T080000Z
 SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400946@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260327T090000Z
+SUMMARY:BIG.A vs TBD
+UID:cs-go-european-pro-league-series-6-play-in-2026-1401473@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -303,13 +303,6 @@ SUMMARY:Winners match: MANA vs Imperial.A
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401553@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260325T114000Z
-SUMMARY:Decider match: EC BANGA vs japczany
-UID:cs-go-european-pro-league-series-6-play-in-2026-1401549@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260412T080000Z
@@ -317,18 +310,18 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | Off Site: 0\nStream: https://kick.com/eplcs_en
-DTEND:20260319T110354Z
-DTSTART:20260319T093121Z
-SUMMARY:MANA vs OS
-UID:cs-go-european-pro-league-series-6-play-in-2026-1401550@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260410T080000Z
 SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400938@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | Off Site: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260319T110354Z
+DTSTART:20260319T093121Z
+SUMMARY:MANA vs OS
+UID:cs-go-european-pro-league-series-6-play-in-2026-1401550@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
