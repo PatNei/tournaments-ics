@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AKPO6ATbI: 2 | B8 Academy: 0\nStream: No official stream linked
+DTEND:20260325T175741Z
 DTSTART:20260325T163914Z
 SUMMARY:Quarterfinal 4: AKPO6ATbI vs B8.A
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415186@tournamentics
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T190000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: AKPO6ATbI vs TBD
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415188@tournamentics
 END:VEVENT
 BEGIN:VEVENT

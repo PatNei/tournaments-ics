@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260326T180000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BBP vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411719@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411720@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult: Bebop: 2 | 8Sins: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260325T175646Z
 DTSTART:20260325T153525Z
 SUMMARY:BBP vs 8S
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411716@tournamentics
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260326T120000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: 8S vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411718@tournamentics
 END:VEVENT
 BEGIN:VEVENT
