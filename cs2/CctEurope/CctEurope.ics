@@ -828,8 +828,8 @@ SUMMARY:Round 16 match 4: ICE vs RE
 UID:cs-go-cct-europe-series-18-3-2026-1381261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: MINLATE: 1 | Rebels Gaming: 2\nStream: https://kick.com/cct_cs
+DTEND:20260325T120620Z
 DTSTART:20260325T090731Z
 SUMMARY:Round 2: MINLATE vs RBLS
 UID:cs-go-cct-europe-series-19-3-2026-1398987@tournamentics
@@ -1229,7 +1229,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260325T120000Z
+DTSTART:20260325T121500Z
 SUMMARY: CSDIILIT vs MANA
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411695@tournamentics
 END:VEVENT
