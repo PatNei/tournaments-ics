@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260326T100000Z
-SUMMARY:Lower bracket final: GZ vs TBD
+SUMMARY:Lower bracket final: GZ vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1398003@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -359,8 +359,8 @@ SUMMARY:Lower bracket quarterfinal 1: Keyd vs UNO
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397682@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bowser0
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Mindfreak: 0 | Rooster: 2\nStream: https://www.twitch.tv/bowser0
+DTEND:20260325T125417Z
 DTSTART:20260325T100740Z
 SUMMARY:Lower bracket semifinal: MF vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1398002@tournamentics

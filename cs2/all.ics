@@ -1381,13 +1381,6 @@ SUMMARY:Lower bracket round 1 match 8: TLR vs HERO.A
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
-DURATION:PT2H
-DTSTART:20260325T140000Z
-SUMMARY:Elimination match: BCG vs HERO.A
-UID:cs-go-journey-spring-2026-1398107@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Phantom: 1 | EC BANGA: 0\nStream: https://kick.com/urbancontenders
 DTEND:20260323T154023Z
 DTSTART:20260323T151519Z
@@ -5451,7 +5444,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260326T100000Z
-SUMMARY:Lower bracket final: GZ vs TBD
+SUMMARY:Lower bracket final: GZ vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1398003@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8731,8 +8724,8 @@ SUMMARY:Round 2: JUMBO vs NOVA
 UID:cs-go-exort-series-24-2026-1404301@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bowser0
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Mindfreak: 0 | Rooster: 2\nStream: https://www.twitch.tv/bowser0
+DTEND:20260325T125417Z
 DTSTART:20260325T100740Z
 SUMMARY:Lower bracket semifinal: MF vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-2-51-2026-1398002@tournamentics
@@ -10351,7 +10344,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
 DURATION:PT2H
 DTSTART:20260325T170000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: HERO.A vs TBD
 UID:cs-go-journey-spring-2026-1398108@tournamentics
 END:VEVENT
 BEGIN:VEVENT
