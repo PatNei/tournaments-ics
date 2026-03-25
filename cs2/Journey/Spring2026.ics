@@ -12,12 +12,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
 DURATION:PT2H
 DTSTART:20260325T140000Z
-SUMMARY:Elimination match: BCG vs TBD
+SUMMARY:Elimination match: BCG vs HERO.A
 UID:cs-go-journey-spring-2026-1398107@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 2 | HEROIC Academy: 0\nStream: https://www.twitch.tv/journey_cs2
+DTEND:20260325T124051Z
 DTSTART:20260325T110308Z
 SUMMARY:BCA vs HERO.A
 UID:cs-go-journey-spring-2026-1398104@tournamentics
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
 DURATION:PT2H
 DTSTART:20260325T140000Z
-SUMMARY:Winners match: vsters vs TBD
+SUMMARY:Winners match: vsters vs BCA
 UID:cs-go-journey-spring-2026-1398106@tournamentics
 END:VEVENT
 BEGIN:VEVENT
