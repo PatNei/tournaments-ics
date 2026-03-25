@@ -23,18 +23,18 @@ SUMMARY:Quarterfinal 1: GH vs ALKAa
 UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T230000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404268@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260402T110000Z
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403901@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260402T230000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | Basement Bobs: 0\nStream: https://www.twitch.tv/fyflo
@@ -506,18 +506,18 @@ SUMMARY:Quarterfinal 4: BST.A vs RED.A
 UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260401T140000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
-UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404072@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260402T020000Z
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404170@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DURATION:PT2H
+DTSTART:20260401T140000Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
