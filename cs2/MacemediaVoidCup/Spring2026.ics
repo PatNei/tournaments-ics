@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260326T030000Z
-SUMMARY:Grand final: MSTAR vs TBD
+SUMMARY:Grand final: MSTAR vs RA
 UID:cs-go-macemedia-void-spring-2026-1411922@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -30,8 +30,8 @@ SUMMARY:Upper bracket semifinal 1: MSTAR vs JS
 UID:cs-go-macemedia-void-spring-2026-1411917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Last Bullet: 1\nStream: No official stream linked
+DTEND:20260325T104158Z
 DTSTART:20260325T081000Z
 SUMMARY:Lower bracket final: RA vs LB
 UID:cs-go-macemedia-void-spring-2026-1411920@tournamentics
