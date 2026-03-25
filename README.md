@@ -488,27 +488,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Seaso
 </details>
 
 <details>
-<summary>Dfrag</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/Dfrag.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/Dfrag.ics
-```
-
----
-
-### Wildcard LAN season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/WildcardLanSeason12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dfrag/WildcardLanSeason12026.ics
-```
-
-</details>
-
-<details>
 <summary>Dust2.dk Ligaen</summary>
 
 ### Full Schedule
