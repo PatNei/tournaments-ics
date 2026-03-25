@@ -109,20 +109,20 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260325T160000Z
+DTSTART:20260325T162500Z
 SUMMARY:Quarterfinal 4: AKPO6ATbI vs B8.A
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415186@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/strogo
 DURATION:PT2H
-DTSTART:20260325T162500Z
-SUMMARY:Quarterfinal 1: WW vs TBD
+DTSTART:20260325T162857Z
+SUMMARY:Quarterfinal 1: WW vs SPARTA
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: okura: 0 | mellren: 1\nStream: No official stream linked
+DTEND:20260325T162322Z
 DTSTART:20260325T151643Z
 SUMMARY:Round of 16 match 6: okura vs mellren
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415180@tournamentics
@@ -177,8 +177,8 @@ SUMMARY:Round of 16 match 6: OMG vs Inner Circle Academy
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1411902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Endless Journey: 1 | yngods: 0\nStream: No official stream linked
+DTEND:20260325T162309Z
 DTSTART:20260325T151528Z
 SUMMARY:Round of 16 match 3: EJ vs YNG
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415177@tournamentics
@@ -320,7 +320,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T162500Z
-SUMMARY:Quarterfinal 3: AM vs TBD
+SUMMARY:Quarterfinal 3: AM vs mellren
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415185@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -471,10 +471,10 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415187@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260325T160000Z
-SUMMARY:Quarterfinal 2: ZORKA F vs TBD
+DTSTART:20260325T162659Z
+SUMMARY:Quarterfinal 2: ZORKA F vs EJ
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -555,8 +555,8 @@ SUMMARY:Round of 16 match 4: FORZE.R vs ZORKA F
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415178@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: SPARTA: 1 | Prestige: 0\nStream: No official stream linked
+DTEND:20260325T162315Z
 DTSTART:20260325T152143Z
 SUMMARY:Round of 16 match 1: SPARTA vs PRE
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415175@tournamentics
