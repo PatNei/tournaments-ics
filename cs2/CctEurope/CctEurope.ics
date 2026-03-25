@@ -268,6 +268,13 @@ SUMMARY:Round 1: Leo vs ALGO
 UID:cs-go-cct-europe-series-19-3-2026-1398982@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
+DURATION:PT2H
+DTSTART:20260326T163000Z
+SUMMARY:Lower bracket round 3 match 1: Vexar vs BL
+UID:cs-go-cct-europe-contenders-3-2026-1416134@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: Sangal: 1 | zajezdzacze: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260308T143418Z
 DTSTART:20260308T120814Z
@@ -1407,6 +1414,13 @@ DTEND:20260316T165303Z
 DTSTART:20260316T152755Z
 SUMMARY:BBP vs 8S
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398598@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
+DURATION:PT2H
+DTSTART:20260326T163000Z
+SUMMARY:Lower bracket round 3 match 2: bankaPEPSI vs eLITenergy
+UID:cs-go-cct-europe-contenders-3-2026-1416135@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: Lavked: 2 | QWENTRY: 0\nStream: https://www.twitch.tv/betboom_cs_ru4
