@@ -1202,7 +1202,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260327T180000Z
-SUMMARY:Round 3: Lavked vs RBLS
+SUMMARY:Round 3: RBLS vs Lavked
 UID:cs-go-cct-europe-series-19-3-2026-1398998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1458,8 +1458,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-19-3-2026-1399006@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 0 | DashSkins: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260325T231341Z
 DTSTART:20260325T210849Z
 SUMMARY:Grand final: FDB vs DS
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394930@tournamentics
