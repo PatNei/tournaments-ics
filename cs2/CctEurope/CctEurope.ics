@@ -656,7 +656,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260326T090000Z
-SUMMARY:Elimination match: AHK vs TBD
+SUMMARY:Elimination match: AHK vs MANA
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411696@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1223,12 +1223,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260326T150000Z
-SUMMARY:Winners match: LILMIX vs TBD
+SUMMARY:Winners match: LILMIX vs  CSDIILIT
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411698@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | MANA eSports: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260325T151912Z
 DTSTART:20260325T122756Z
 SUMMARY: CSDIILIT vs MANA
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411695@tournamentics
@@ -1348,7 +1348,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260325T150000Z
+DTSTART:20260325T152500Z
 SUMMARY:BBP vs 8S
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411716@tournamentics
 END:VEVENT
@@ -1367,9 +1367,9 @@ SUMMARY:Round 16 match 8: FC vs ex-RUBY
 UID:cs-go-cct-europe-series-18-3-2026-1381263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260325T151000Z
+DTSTART:20260325T151219Z
 SUMMARY:Round 2: Leo vs URSA
 UID:cs-go-cct-europe-series-19-3-2026-1398989@tournamentics
 END:VEVENT
