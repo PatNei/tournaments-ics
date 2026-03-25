@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260327T180000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: 1WIN vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398097@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260326T180000Z
-SUMMARY:Lower bracket final: NEMI vs TBD
+SUMMARY:Lower bracket final: NEMI vs K27
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398081@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -303,8 +303,8 @@ SUMMARY:Lower bracket round 1 match 16: LILMIX vs BW
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398051@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVe
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: K27: 0 | 1WIN: 2\nStream: https://www.twitch.tv/watchfulTVe
+DTEND:20260325T200025Z
 DTSTART:20260325T180708Z
 SUMMARY:Upper bracket final: K27 vs 1WIN
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398096@tournamentics
