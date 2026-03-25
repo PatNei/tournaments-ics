@@ -590,9 +590,9 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-betboom-storm-2-2026-1413570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
 DURATION:PT2H
-DTSTART:20260325T180000Z
+DTSTART:20260325T180759Z
 SUMMARY:Lower bracket semifinal: NEMI vs URSA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398080@tournamentics
 END:VEVENT
@@ -1727,7 +1727,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T180000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: BIG vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4321,9 +4321,9 @@ SUMMARY:Round 3:  Phantom Academy vs ex-PeeP
 UID:cs-go-exort-series-24-2026-1407198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260325T180000Z
+DTSTART:20260325T180851Z
 SUMMARY:Semifinal 1: DS vs Back to Back 
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394928@tournamentics
 END:VEVENT
@@ -5042,9 +5042,9 @@ SUMMARY:Round 16 match 3: K27 vs EF
 UID:cs-go-cct-europe-series-18-3-2026-1381264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVd
 DURATION:PT2H
-DTSTART:20260325T180000Z
+DTSTART:20260325T183000Z
 SUMMARY:Quarterfinal 3: HOTU vs TRI
 UID:cs-go-bc-game-masters-championship-1-2026-1403643@tournamentics
 END:VEVENT
@@ -5539,9 +5539,9 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-roman-imperium-cup-7-2026-1413630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVe
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVe
 DURATION:PT2H
-DTSTART:20260325T180000Z
+DTSTART:20260325T180708Z
 SUMMARY:Upper bracket final: K27 vs 1WIN
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398096@tournamentics
 END:VEVENT
@@ -5658,9 +5658,9 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406981@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260325T180000Z
+DTSTART:20260325T180836Z
 SUMMARY:Round 2: Lavked vs Hashiras
 UID:cs-go-cct-europe-series-19-3-2026-1398990@tournamentics
 END:VEVENT
@@ -6444,7 +6444,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260325T180000Z
+DTSTART:20260325T181500Z
 SUMMARY:ENCE.A vs EC BANGA
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411717@tournamentics
 END:VEVENT
@@ -9186,8 +9186,8 @@ SUMMARY:Imperial.A vs ZOTIX
 UID:cs-go-esea-advanced-europe-56-2026-1319923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BIG: 2 | MOUZ NXT: 0\nStream: https://www.twitch.tv/bcgamemastersb
+DTEND:20260325T181533Z
 DTSTART:20260325T164242Z
 SUMMARY:Round of 16 match 7: BIG vs MOUZ.N
 UID:cs-go-bc-game-masters-championship-1-2026-1403639@tournamentics
