@@ -933,8 +933,8 @@ SUMMARY:Round 3: CLS vs EF.A
 UID:cs-go-exort-series-24-2026-1407199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Bounty Hunters Esports: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260325T164334Z
 DTSTART:20260325T150601Z
 SUMMARY:Semifinal 2: FDB vs BHE
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394929@tournamentics
@@ -5471,7 +5471,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
-DTSTART:20260325T164000Z
+DTSTART:20260325T165000Z
 SUMMARY:Lower bracket round 2 match 1: Vexar vs DNT
 UID:cs-go-cct-europe-contenders-3-2026-1414597@tournamentics
 END:VEVENT
@@ -6662,7 +6662,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260325T210000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: FDB vs TBD
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -10985,9 +10985,9 @@ SUMMARY:OG vs NXS
 UID:cs-go-roman-imperium-cup-6-2026-1389743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs6
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs6
 DURATION:PT2H
-DTSTART:20260325T164000Z
+DTSTART:20260325T165055Z
 SUMMARY:Lower bracket round 2 match 3: Glitch vs bankaPEPSI
 UID:cs-go-cct-europe-contenders-3-2026-1414599@tournamentics
 END:VEVENT
