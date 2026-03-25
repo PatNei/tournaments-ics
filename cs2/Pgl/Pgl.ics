@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T160000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
+SUMMARY:Quarterfinal 4: AKPO6ATbI vs TBD
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415186@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -306,12 +306,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T160000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: AM vs TBD
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415185@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AKPO6ATbI: 1 | Team Novaq: 0\nStream: No official stream linked
+DTEND:20260325T154527Z
 DTSTART:20260325T151130Z
 SUMMARY:Round of 16 match 8: AKPO6ATbI vs NVQ
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415182@tournamentics
@@ -352,8 +352,8 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404070@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AM Gaming: 1 | STATE: 0\nStream: No official stream linked
+DTEND:20260325T154043Z
 DTSTART:20260325T151116Z
 SUMMARY:Round of 16 match 5: AM vs STA
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415179@tournamentics
