@@ -32,15 +32,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260325T030000Z
-SUMMARY:Lower bracket semifinal: JS vs LB
-UID:cs-go-macemedia-void-spring-2026-1411919@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
 DTSTART:20260325T070000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: LB vs TBD
 UID:cs-go-macemedia-void-spring-2026-1411920@tournamentics
 END:VEVENT
 END:VCALENDAR
