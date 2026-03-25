@@ -33,12 +33,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260328T183000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Qual4 vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404874@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | Qual4: 0\nStream: https://kick.com/starladder
+DTEND:20260325T174940Z
 DTSTART:20260325T160556Z
 SUMMARY:UNiTY vs Qual4
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404871@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260328T160000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: UNiTY vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404873@tournamentics
 END:VEVENT
 BEGIN:VEVENT
