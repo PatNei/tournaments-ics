@@ -4359,7 +4359,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260325T150000Z
-SUMMARY:Semifinal 1: Back to Back  vs TBD
+SUMMARY:Semifinal 1: Back to Back  vs DS
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5364,8 +5364,8 @@ SUMMARY:Round 3: RGG vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 1 | DashSkins: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260325T003617Z
 DTSTART:20260324T220500Z
 SUMMARY:Quarterfinal 1: FXW7 vs DS
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394924@tournamentics
@@ -9683,8 +9683,8 @@ SUMMARY:Round 2: Nordic Valor vs  CSDIILIT
 UID:cs-go-elisa-open-suomi-12-2026-1372432@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | Phantom: 0\nStream: https://kick.com/urbancontenders
+DTEND:20260325T003617Z
 DTSTART:20260324T211525Z
 SUMMARY:Grand final: FOKUS vs PHA
 UID:cs-go-urban-riga-open-3-2026-1403092@tournamentics

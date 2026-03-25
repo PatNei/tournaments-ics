@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260325T150000Z
-SUMMARY:Semifinal 1: Back to Back  vs TBD
+SUMMARY:Semifinal 1: Back to Back  vs DS
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +205,8 @@ SUMMARY:Round 2: GH vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 1 | DashSkins: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260325T003617Z
 DTSTART:20260324T220500Z
 SUMMARY:Quarterfinal 1: FXW7 vs DS
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394924@tournamentics
