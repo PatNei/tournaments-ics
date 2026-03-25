@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T220000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: AKPO6ATbI vs TBD
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415189@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -303,8 +303,8 @@ SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403896@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AKPO6ATbI: 2 | AM Gaming: 0\nStream: https://www.twitch.tv/GoYareGo
+DTEND:20260325T210344Z
 DTSTART:20260325T191719Z
 SUMMARY:Semifinal 2: AKPO6ATbI vs AM
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415188@tournamentics

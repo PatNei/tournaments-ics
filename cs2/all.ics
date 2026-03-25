@@ -1703,7 +1703,7 @@ SUMMARY:Round 16 match 6: CS vs ACE
 UID:cs-go-cct-europe-series-18-3-2026-1381265@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/zonixxcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersb
 DURATION:PT2H
 DTSTART:20260325T194114Z
 SUMMARY:Quarterfinal 4: BIG vs M8
@@ -4667,7 +4667,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260325T220000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: AKPO6ATbI vs TBD
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415189@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4958,8 +4958,8 @@ SUMMARY:Round 16 match 3: K27 vs EF
 UID:cs-go-cct-europe-series-18-3-2026-1381264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Tricked: 0\nStream: https://www.twitch.tv/watchfulTVd
+DTEND:20260325T210541Z
 DTSTART:20260325T193303Z
 SUMMARY:Quarterfinal 3: HOTU vs TRI
 UID:cs-go-bc-game-masters-championship-1-2026-1403643@tournamentics
@@ -6526,9 +6526,9 @@ SUMMARY:BW vs Imperial.A
 UID:cs-go-esea-advanced-europe-56-2026-1374963@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260325T210000Z
+DTSTART:20260325T210849Z
 SUMMARY:Grand final: FDB vs DS
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394930@tournamentics
 END:VEVENT
@@ -7124,7 +7124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260326T120000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: HOTU vs TBD
 UID:cs-go-bc-game-masters-championship-1-2026-1403646@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7835,8 +7835,8 @@ SUMMARY:Round 4: M80 vs TL
 UID:cs-go-esl-pro-league-23-2026-1376219@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AKPO6ATbI: 2 | AM Gaming: 0\nStream: https://www.twitch.tv/GoYareGo
+DTEND:20260325T210344Z
 DTSTART:20260325T191719Z
 SUMMARY:Semifinal 2: AKPO6ATbI vs AM
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415188@tournamentics
@@ -11251,7 +11251,7 @@ SUMMARY:Round 16 match 1: HOTU vs BBP
 UID:cs-go-cct-europe-series-18-3-2026-1381262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
+DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260325T190822Z
 SUMMARY:Quarterfinal 1: G2 vs SIN
