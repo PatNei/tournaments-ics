@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260326T163000Z
-SUMMARY:Winners match: MIBR vs TBD
+SUMMARY:Winners match: MIBR vs GG
 UID:cs-go-ferjee-in-house-2026-1411771@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:MIBR vs Magna
 UID:cs-go-ferjee-in-house-2026-1411769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://kick.com/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: Gaimin Gladiators: 2 | ShindeN: 1\nStream: https://kick.com/forg1
+DTEND:20260326T160030Z
 DTSTART:20260326T132112Z
 SUMMARY:GG vs SHIN
 UID:cs-go-ferjee-in-house-2026-1411770@tournamentics
@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260328T130000Z
-SUMMARY:Elimination match: Magna vs TBD
+SUMMARY:Elimination match: Magna vs SHIN
 UID:cs-go-ferjee-in-house-2026-1411772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
