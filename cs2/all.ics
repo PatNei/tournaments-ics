@@ -6347,7 +6347,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260328T183000Z
-SUMMARY:Elimination match: Qual4 vs TBD
+SUMMARY:Elimination match: Qual4 vs BMB
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404874@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6970,7 +6970,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260328T160000Z
-SUMMARY:Winners match: UNiTY vs TBD
+SUMMARY:Winners match: UNiTY vs BND
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404873@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7618,8 +7618,8 @@ SUMMARY:Upper bracket quarterfinal 1: MSTAR vs BMZ
 UID:cs-go-esl-challenger-league-asia-pacific-cup-2-51-2026-1400129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: BASEMENT BOYS: 1 | bond1e: 2\nStream: https://kick.com/starladder
+DTEND:20260326T161845Z
 DTSTART:20260326T131316Z
 SUMMARY:BMB vs BND
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404872@tournamentics
