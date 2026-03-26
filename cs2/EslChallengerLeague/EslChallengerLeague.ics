@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260327T020000Z
-SUMMARY:Lower bracket final: CCE vs TBD
+SUMMARY:Lower bracket final: CCE vs TA
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397985@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -541,8 +541,8 @@ SUMMARY:Lower bracket round 2 match 1: GE vs ATRIX
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397676@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nResult: LAG Gaming: 1 | Team Aether: 2\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260326T034639Z
 DTSTART:20260326T020329Z
 SUMMARY:Lower bracket semifinal: LAG vs TA
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397984@tournamentics
