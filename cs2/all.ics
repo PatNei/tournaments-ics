@@ -991,7 +991,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gaules
 DURATION:PT2H
-DTSTART:20260326T164500Z
+DTSTART:20260326T165500Z
 SUMMARY:Winners match: MIBR vs GG
 UID:cs-go-ferjee-in-house-2026-1411771@tournamentics
 END:VEVENT
@@ -4482,8 +4482,8 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403817@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: TNC: 0 | QWENTRY: 2\nStream: https://kick.com/cct_cs
+DTEND:20260326T165023Z
 DTSTART:20260326T150627Z
 SUMMARY:Round 3: TNC vs QWE
 UID:cs-go-cct-europe-series-19-3-2026-1398993@tournamentics
@@ -6227,7 +6227,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Journey - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/journey_cs2
 DURATION:PT2H
-DTSTART:20260326T170000Z
+DTSTART:20260326T173000Z
 SUMMARY:Decider match: YN vs TBD
 UID:cs-go-journey-spring-2026-1398137@tournamentics
 END:VEVENT
