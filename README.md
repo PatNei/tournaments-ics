@@ -313,27 +313,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmer
 ## D Tier
 
 <details>
-<summary>ANZC Locals</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AnzcLocals/AnzcLocals.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AnzcLocals/AnzcLocals.ics
-```
-
----
-
-### Brisbane: Autumn 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AnzcLocals/BrisbaneAutumn2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AnzcLocals/BrisbaneAutumn2026.ics
-```
-
-</details>
-
-<details>
 <summary>Aorus League</summary>
 
 ### Full Schedule
