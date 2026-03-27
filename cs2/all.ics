@@ -2613,9 +2613,9 @@ SUMMARY:Round of 16 match 3: BB vs EF
 UID:cs-go-bc-game-masters-championship-1-2026-1403635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kabrafps
+DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kabrafps
 DURATION:PT2H
-DTSTART:20260327T130000Z
+DTSTART:20260327T130540Z
 SUMMARY:IMP vs GLS
 UID:cs-go-ferjee-in-house-2026-1411780@tournamentics
 END:VEVENT
@@ -3621,9 +3621,9 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-roman-imperium-cup-7-2026-1413634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/RNakano
+DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nahzinhaa
 DURATION:PT2H
-DTSTART:20260327T130000Z
+DTSTART:20260327T130543Z
 SUMMARY:LGC vs YAW
 UID:cs-go-ferjee-in-house-2026-1411779@tournamentics
 END:VEVENT
@@ -5238,8 +5238,8 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-6-2026-1389806@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Brute: 1 | INFURITY Gaming: 2\nStream: https://kick.com/exort_en2
+DTEND:20260327T130638Z
 DTSTART:20260327T103334Z
 SUMMARY:Round 2: BRUTE vs INF
 UID:cs-go-exort-series-24-2026-1418456@tournamentics
