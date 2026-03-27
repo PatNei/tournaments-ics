@@ -276,6 +276,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Journey/Spring2026.
 </details>
 
 <details>
+<summary>Parken Challenger Championship</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics
+```
+
+---
+
+### Season 3 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season32026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season32026.ics
+```
+
+</details>
+
+<details>
 <summary>PGL</summary>
 
 ### Full Schedule
