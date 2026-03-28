@@ -6547,13 +6547,6 @@ SUMMARY:Lower bracket round 1 match 2: G2.A vs B8.A
 UID:cs-go-united21-46-2026-1404793@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultvb
-DURATION:PT2H
-DTSTART:20260328T200000Z
-SUMMARY:CS vs ASC
-UID:cs-go-roman-imperium-cup-7-2026-1413608@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | MANA eSports: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260323T143652Z
 DTSTART:20260323T120653Z
@@ -6774,7 +6767,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
 DTSTART:20260329T103000Z
-SUMMARY:Grand final: VIT vs TBD
+SUMMARY:Grand final: VIT vs NAVI
 UID:cs-go-blast-open-rotterdam-spring-2026-1394953@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7513,8 +7506,8 @@ SUMMARY:HS vs Hashiras
 UID:cs-go-nodwin-clutch-series-6-2026-1389619@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | PARIVISION: 1\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260328T195329Z
 DTSTART:20260328T165224Z
 SUMMARY:Semifinal 2: NAVI vs PRV
 UID:cs-go-blast-open-rotterdam-spring-2026-1394952@tournamentics
