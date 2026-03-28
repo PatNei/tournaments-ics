@@ -5325,7 +5325,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260329T010000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: DS vs TBD
 UID:cs-go-ferjee-in-house-2026-1411788@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6666,8 +6666,8 @@ SUMMARY:Round 1 match 1: GH vs ALKAa
 UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416035@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: DashSkins: 0 | paiN: 2\nStream: https://www.twitch.tv/ferjeeoficial
+DTEND:20260328T014215Z
 DTSTART:20260327T232807Z
 SUMMARY:Winners match: DS vs paiN
 UID:cs-go-ferjee-in-house-2026-1411786@tournamentics
