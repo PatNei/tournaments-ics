@@ -709,8 +709,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403834@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: TNC: 2 | Hashiras: 1\nStream: https://kick.com/cct_cs
+DTEND:20260328T145453Z
 DTSTART:20260328T120753Z
 SUMMARY:Round 4: TNC vs Hashiras
 UID:cs-go-cct-europe-series-19-3-2026-1398999@tournamentics
@@ -3691,8 +3691,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BetBoom Team: 0 | Wildcard: 1\nStream: https://kick.com/watchfultv
+DTEND:20260328T145234Z
 DTSTART:20260328T140240Z
 SUMMARY:BB vs WC
 UID:cs-go-roman-imperium-cup-7-2026-1413600@tournamentics
@@ -6031,7 +6031,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260328T150000Z
+DTSTART:20260328T151000Z
 SUMMARY:Round 4: MEGO vs  CSDIILIT
 UID:cs-go-cct-europe-series-19-3-2026-1399000@tournamentics
 END:VEVENT
