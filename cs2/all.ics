@@ -1010,11 +1010,11 @@ SUMMARY:Upper bracket round 2 match  5: TDK vs HS
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398024@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260328T193000Z
-SUMMARY:Round 2: EP vs FOKUS REALITY
-UID:cs-go-exort-series-24-2026-1418462@tournamentics
+DTSTART:20260402T140000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404106@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -1043,13 +1043,6 @@ DTEND:20260326T193903Z
 DTSTART:20260326T163724Z
 SUMMARY:Round 1: Y.TigeRES vs TS.A
 UID:cs-go-exort-series-24-2026-1414593@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
-DTSTART:20260402T140000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
-UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404106@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5828,7 +5821,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/cosiq
 DURATION:PT2H
-DTSTART:20260328T193000Z
+DTSTART:20260328T200000Z
 SUMMARY:FXW7 vs SAW
 UID:cs-go-roman-imperium-cup-7-2026-1413609@tournamentics
 END:VEVENT
@@ -6554,9 +6547,9 @@ SUMMARY:Lower bracket round 1 match 2: G2.A vs B8.A
 UID:cs-go-united21-46-2026-1404793@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultvb
 DURATION:PT2H
-DTSTART:20260328T193000Z
+DTSTART:20260328T200000Z
 SUMMARY:CS vs ASC
 UID:cs-go-roman-imperium-cup-7-2026-1413608@tournamentics
 END:VEVENT
@@ -7793,9 +7786,9 @@ SUMMARY:Upper bracket round 1 match 1: ALL vs TBD
 UID:cs-go-draculan-6-2026-1403836@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
-DTSTART:20260328T191500Z
+DTSTART:20260328T193926Z
 SUMMARY:Lower bracket semifinal: bankaPEPSI vs CYBERSHOKE Prospects
 UID:cs-go-cct-europe-contenders-3-2026-1418453@tournamentics
 END:VEVENT
