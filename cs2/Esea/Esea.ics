@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260328T184000Z
+DTSTART:20260328T184547Z
 SUMMARY:Semifinal 2: MISA vs TNT
 UID:cs-go-esea-european-finals-56-2026-1418469@tournamentics
 END:VEVENT
@@ -23,9 +23,9 @@ SUMMARY:Quarterfinal 3: MISA vs RGG
 UID:cs-go-esea-european-finals-56-2026-1418466@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/byalli
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - European Finals season 56 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/byalli
 DURATION:PT2H
-DTSTART:20260328T184000Z
+DTSTART:20260328T184549Z
 SUMMARY:Semifinal 1: OLDBOYS- vs QWE
 UID:cs-go-esea-european-finals-56-2026-1418468@tournamentics
 END:VEVENT
