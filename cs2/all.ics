@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial_b
 DURATION:PT2H
 DTSTART:20260328T170000Z
-SUMMARY:Decider match: GLS vs TBD
+SUMMARY:Decider match: GLS vs IMP
 UID:cs-go-ferjee-in-house-2026-1411783@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1402,8 +1402,8 @@ SUMMARY:Round of 16 match 5: HERO vs TRI
 UID:cs-go-bc-game-masters-championship-1-2026-1403637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Yawara Esports: 1\nStream: https://www.twitch.tv/ferjeeoficial
+DTEND:20260328T152342Z
 DTSTART:20260328T130450Z
 SUMMARY:Elimination match: IMP vs YAW
 UID:cs-go-ferjee-in-house-2026-1411782@tournamentics
@@ -2242,9 +2242,9 @@ SUMMARY:Decider match: PLS vs BST.A
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1415191@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
 DURATION:PT2H
-DTSTART:20260328T151500Z
+DTSTART:20260328T151935Z
 SUMMARY:BB vs SNG
 UID:cs-go-roman-imperium-cup-7-2026-1413602@tournamentics
 END:VEVENT

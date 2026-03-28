@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial_b
 DURATION:PT2H
 DTSTART:20260328T170000Z
-SUMMARY:Decider match: GLS vs TBD
+SUMMARY:Decider match: GLS vs IMP
 UID:cs-go-ferjee-in-house-2026-1411783@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:RED vs DS
 UID:cs-go-ferjee-in-house-2026-1411785@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Yawara Esports: 1\nStream: https://www.twitch.tv/ferjeeoficial
+DTEND:20260328T152342Z
 DTSTART:20260328T130450Z
 SUMMARY:Elimination match: IMP vs YAW
 UID:cs-go-ferjee-in-house-2026-1411782@tournamentics
