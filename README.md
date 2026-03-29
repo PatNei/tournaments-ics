@@ -362,6 +362,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/AorusLeague/BrazilO
 </details>
 
 <details>
+<summary>Betboom Circuit X Mayhem</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayhem/BetboomCircuitXMayhem.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayhem/BetboomCircuitXMayhem.ics
+```
+
+---
+
+### São Paulo 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayhem/SOPaulo2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayhem/SOPaulo2026.ics
+```
+
+</details>
+
+<details>
 <summary>BetBoom Storm</summary>
 
 ### Full Schedule
