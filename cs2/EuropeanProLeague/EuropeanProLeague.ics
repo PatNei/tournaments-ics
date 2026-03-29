@@ -117,15 +117,8 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260401T080000Z
-SUMMARY:Elimination match: WW vs TBD
+SUMMARY:Elimination match: WW vs BBP
 UID:cs-go-european-pro-league-series-6-2026-1400826@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260329T134500Z
-SUMMARY:URSA vs BBP
-UID:cs-go-european-pro-league-series-6-2026-1400823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 Play-In 2026\nMatch Type: Best Of\nResult: XI Esport: 0 | G2 Ares: 2\nStream: https://kick.com/eplcs_en
@@ -250,7 +243,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260401T103000Z
-SUMMARY:Winners match: MEGO vs TBD
+SUMMARY:Winners match: MEGO vs URSA
 UID:cs-go-european-pro-league-series-6-2026-1400825@tournamentics
 END:VEVENT
 BEGIN:VEVENT

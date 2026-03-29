@@ -128,13 +128,6 @@ SUMMARY:Quarterfinal 1: WW vs SPARTA
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260329T130000Z
-SUMMARY:Upper bracket round 1 match 1: FC vs rottweilers
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419986@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
 DTSTART:20260330T200000Z
@@ -2319,13 +2312,6 @@ SUMMARY:Round 4: RE vs zajezdzacze
 UID:cs-go-cct-europe-series-18-3-2026-1381204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260329T134500Z
-SUMMARY:URSA vs BBP
-UID:cs-go-european-pro-league-series-6-2026-1400823@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
 DURATION:PT2H
 DTSTART:20260331T100000Z
@@ -3105,7 +3091,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260329T140000Z
+DTSTART:20260329T143000Z
 SUMMARY:Round 1: RE vs TNC
 UID:cs-go-cct-europe-series-20-3-2026-1406931@tournamentics
 END:VEVENT
@@ -4051,7 +4037,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260401T080000Z
-SUMMARY:Elimination match: WW vs TBD
+SUMMARY:Elimination match: WW vs BBP
 UID:cs-go-european-pro-league-series-6-2026-1400826@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4835,7 +4821,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260330T130000Z
-SUMMARY:Upper bracket round 2 match 1: JS vs TBD
+SUMMARY:Upper bracket round 2 match 1: JS vs rottweilers
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6008,7 +5994,7 @@ SUMMARY:Quarterfinal 4: BHE vs ISG
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260329T140000Z
 SUMMARY:Semifinal 1: VOCA vs BOSS
@@ -6599,7 +6585,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260401T103000Z
-SUMMARY:Winners match: MEGO vs TBD
+SUMMARY:Winners match: MEGO vs URSA
 UID:cs-go-european-pro-league-series-6-2026-1400825@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6722,8 +6708,8 @@ SUMMARY:Upper bracket round 2 match 8: Lavked vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420005@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Open - Rotterdam Spring 2026\nMatch Type: Best Of\nResult: Vitality: 3 | Natus Vincere: 0\nStream: https://www.twitch.tv/BLASTPremier
+DTEND:20260329T135206Z
 DTSTART:20260329T103613Z
 SUMMARY:Grand final: VIT vs NAVI
 UID:cs-go-blast-open-rotterdam-spring-2026-1394953@tournamentics
