@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260329T163000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: PAR vs TBD
 UID:cs-go-draculan-6-2026-1403824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -331,8 +331,8 @@ SUMMARY:Winners match: SASHI vs HAVU
 UID:cs-go-draculan-6-2026-1403828@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsc
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Partizan Esport: 0 | BASEMENT BOYS: 1\nStream: https://kick.com/draculancsc
+DTEND:20260329T131525Z
 DTSTART:20260329T123954Z
 SUMMARY:Winners match: PAR vs BMB
 UID:cs-go-draculan-6-2026-1403822@tournamentics
