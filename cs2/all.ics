@@ -4149,7 +4149,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260329T140000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: VOCA vs TBD
 UID:cs-go-fragadelphia-york-2026-1421027@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6351,8 +6351,8 @@ SUMMARY:Quarterfinal 1: FXW7 vs DS
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nResult: Voca: 2 | F5 Esports: 0\nStream: https://kick.com/frag3
+DTEND:20260329T012103Z
 DTSTART:20260329T000256Z
 SUMMARY:Quarterfinal 1: VOCA vs F5
 UID:cs-go-fragadelphia-york-2026-1421024@tournamentics
