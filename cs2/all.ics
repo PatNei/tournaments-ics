@@ -3386,7 +3386,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260329T170000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: FC vs TBD
 UID:cs-go-fragadelphia-york-2026-1421028@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4825,7 +4825,7 @@ SUMMARY:WC vs Exilium
 UID:cs-go-urban-riga-open-3-2026-1402020@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag2
 DURATION:PT2H
 DTSTART:20260329T000000Z
 SUMMARY:Quarterfinal 3: LAG vs NT
@@ -5609,7 +5609,7 @@ SUMMARY:Quarterfinal 2: Back to Back  vs Keyd
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260329T000000Z
 SUMMARY:Quarterfinal 2: BOSS vs WG
@@ -6351,7 +6351,7 @@ SUMMARY:Quarterfinal 1: FXW7 vs DS
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag3
 DURATION:PT2H
 DTSTART:20260329T000000Z
 SUMMARY:Quarterfinal 1: VOCA vs F5
@@ -7072,8 +7072,8 @@ SUMMARY:Round of 16 match 3: YAW vs Back to Back
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | Memeories: 0\nStream: https://kick.com/frag3
+DTEND:20260329T000051Z
 DTSTART:20260328T221750Z
 SUMMARY:Quarterfinal 4: FC vs Memeories
 UID:cs-go-fragadelphia-york-2026-1421023@tournamentics

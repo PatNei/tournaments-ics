@@ -16,15 +16,15 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-fragadelphia-york-2026-1421030@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag2
 DURATION:PT2H
 DTSTART:20260329T000000Z
 SUMMARY:Quarterfinal 3: LAG vs NT
 UID:cs-go-fragadelphia-york-2026-1421026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | Memeories: 0\nStream: https://kick.com/frag3
+DTEND:20260329T000051Z
 DTSTART:20260328T221750Z
 SUMMARY:Quarterfinal 4: FC vs Memeories
 UID:cs-go-fragadelphia-york-2026-1421023@tournamentics
@@ -33,11 +33,11 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260329T170000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: FC vs TBD
 UID:cs-go-fragadelphia-york-2026-1421028@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260329T000000Z
 SUMMARY:Quarterfinal 2: BOSS vs WG
@@ -51,7 +51,7 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-fragadelphia-york-2026-1421027@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag3
 DURATION:PT2H
 DTSTART:20260329T000000Z
 SUMMARY:Quarterfinal 1: VOCA vs F5
