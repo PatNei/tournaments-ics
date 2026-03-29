@@ -5,14 +5,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260329T200000Z
-SUMMARY:3rd place decider: BOSS vs TBD
+SUMMARY:3rd place decider: BOSS vs LAG
 UID:cs-go-fragadelphia-york-2026-1421029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260329T230000Z
-SUMMARY:Grand final: VOCA vs TBD
+SUMMARY:Grand final: VOCA vs FC
 UID:cs-go-fragadelphia-york-2026-1421030@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -30,8 +30,8 @@ SUMMARY:Quarterfinal 4: FC vs Memeories
 UID:cs-go-fragadelphia-york-2026-1421023@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | LAG Gaming: 0\nStream: https://kick.com/frag
+DTEND:20260329T185028Z
 DTSTART:20260329T170232Z
 SUMMARY:Semifinal 2: FC vs LAG
 UID:cs-go-fragadelphia-york-2026-1421028@tournamentics

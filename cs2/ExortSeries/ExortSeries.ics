@@ -72,13 +72,6 @@ SUMMARY:Round 3: HEC vs PHTM.Ac
 UID:cs-go-exort-series-24-2026-1421530@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort-en2
-DURATION:PT2H
-DTSTART:20260329T183000Z
-SUMMARY:Round 3: INF vs Imperial.A
-UID:cs-go-exort-series-24-2026-1421526@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | eternal premium: 1\nStream: https://kick.com/exort_en2
 DTEND:20260325T163240Z
 DTSTART:20260325T133707Z
@@ -86,18 +79,18 @@ SUMMARY:Round 1: Imperial.A vs EP
 UID:cs-go-exort-series-24-2026-1414588@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 1 | LPH Gaming: 2\nStream: https://kick.com/exort_en2
-DTEND:20260329T120227Z
-DTSTART:20260329T094009Z
-SUMMARY:Round 3: INF vs LPH
-UID:cs-go-exort-series-24-2026-1421523@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | ex-PeeP: 0\nStream: https://kick.com/exort_en2
 DTEND:20260321T173853Z
 DTSTART:20260321T164305Z
 SUMMARY:Round 3:  Phantom Academy vs ex-PeeP
 UID:cs-go-exort-series-24-2026-1407198@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 1 | LPH Gaming: 2\nStream: https://kick.com/exort_en2
+DTEND:20260329T120227Z
+DTSTART:20260329T094009Z
+SUMMARY:Round 3: INF vs LPH
+UID:cs-go-exort-series-24-2026-1421523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 0 | New Project: 2\nStream: https://kick.com/exort_en2

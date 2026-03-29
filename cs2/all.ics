@@ -37,13 +37,6 @@ SUMMARY:Winners match: ODK vs CRASH
 UID:cs-go-aorus-brazil-online-stage-2026-1400291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort-en2
-DURATION:PT2H
-DTSTART:20260329T183000Z
-SUMMARY:Round 3: INF vs Imperial.A
-UID:cs-go-exort-series-24-2026-1421526@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | ROUNDS: 0\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260324T172355Z
 DTSTART:20260324T154135Z
@@ -789,7 +782,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260329T200000Z
-SUMMARY:3rd place decider: BOSS vs TBD
+SUMMARY:3rd place decider: BOSS vs LAG
 UID:cs-go-fragadelphia-york-2026-1421029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3481,8 +3474,8 @@ SUMMARY:Semifinal 1: DS vs Back to Back
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | LAG Gaming: 0\nStream: https://kick.com/frag
+DTEND:20260329T185028Z
 DTSTART:20260329T170232Z
 SUMMARY:Semifinal 2: FC vs LAG
 UID:cs-go-fragadelphia-york-2026-1421028@tournamentics
@@ -4219,7 +4212,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
 DURATION:PT2H
 DTSTART:20260329T190000Z
-SUMMARY:Grand final: Benched gods vs TBD
+SUMMARY:Grand final: Benched gods vs bankaPEPSI
 UID:cs-go-cct-europe-contenders-3-2026-1418455@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4993,9 +4986,9 @@ SUMMARY:Decider match: GLS vs IMP
 UID:cs-go-ferjee-in-house-2026-1411783@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/niku
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/niku
 DURATION:PT2H
-DTSTART:20260329T183000Z
+DTSTART:20260329T184812Z
 SUMMARY:ESC vs ACE
 UID:cs-go-roman-imperium-cup-7-2026-1413627@tournamentics
 END:VEVENT
@@ -5248,7 +5241,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260329T230000Z
-SUMMARY:Grand final: VOCA vs TBD
+SUMMARY:Grand final: VOCA vs FC
 UID:cs-go-fragadelphia-york-2026-1421030@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6764,8 +6757,8 @@ SUMMARY:GG vs YAW
 UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421565@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | bankaPEPSI: 2\nStream: https://kick.com/cct-cs5
+DTEND:20260329T184728Z
 DTSTART:20260329T153931Z
 SUMMARY:Lower bracket final: FF vs bankaPEPSI
 UID:cs-go-cct-europe-contenders-3-2026-1418454@tournamentics
@@ -7562,9 +7555,9 @@ SUMMARY:Elimination match: IMP vs YAW
 UID:cs-go-ferjee-in-house-2026-1411782@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
+DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/roman
 DURATION:PT2H
-DTSTART:20260329T183000Z
+DTSTART:20260329T184722Z
 SUMMARY:G2 vs cswalkers
 UID:cs-go-roman-imperium-cup-7-2026-1413626@tournamentics
 END:VEVENT
@@ -9550,9 +9543,9 @@ SUMMARY:Winners match: BBP vs ENCE.A
 UID:cs-go-cct-europe-closed-qualifier-series-20-3-2026-1411719@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260329T180000Z
+DTSTART:20260329T185031Z
 SUMMARY:Decider match: PAR vs ICE
 UID:cs-go-draculan-6-2026-1403824@tournamentics
 END:VEVENT
