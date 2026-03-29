@@ -2636,7 +2636,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260329T140000Z
+DTSTART:20260329T143000Z
 SUMMARY:Elimination match: ICE vs NXS
 UID:cs-go-draculan-6-2026-1403823@tournamentics
 END:VEVENT
@@ -2956,8 +2956,8 @@ SUMMARY:Round 4: MW vs GE
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394908@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Infinite: 0 | Eternal Fire: 1\nStream: https://kick.com/draculancs
+DTEND:20260329T142026Z
 DTSTART:20260329T133353Z
 SUMMARY:Winners match: INF vs EF
 UID:cs-go-draculan-6-2026-1403833@tournamentics
@@ -3593,9 +3593,9 @@ SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260329T140000Z
+DTSTART:20260329T141941Z
 SUMMARY:Round 4: STA vs QWE
 UID:cs-go-cct-europe-series-19-3-2026-1399003@tournamentics
 END:VEVENT
@@ -7201,7 +7201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260329T163000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: INF vs TBD
 UID:cs-go-draculan-6-2026-1403835@tournamentics
 END:VEVENT
 BEGIN:VEVENT
