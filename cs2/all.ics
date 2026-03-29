@@ -2623,7 +2623,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260329T133000Z
-SUMMARY:Elimination match: ICE vs TBD
+SUMMARY:Elimination match: ICE vs NXS
 UID:cs-go-draculan-6-2026-1403823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3033,8 +3033,8 @@ SUMMARY:GG vs SHIN
 UID:cs-go-ferjee-in-house-2026-1411770@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/albi1985
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BIG: 0 | JiJieHao: 1\nStream: https://kick.com/albi1985
+DTEND:20260329T095744Z
 DTSTART:20260329T092030Z
 SUMMARY:BIG vs JJH
 UID:cs-go-roman-imperium-cup-7-2026-1413614@tournamentics
@@ -5031,7 +5031,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260329T120000Z
-SUMMARY:Winners match: PAR vs TBD
+SUMMARY:Winners match: PAR vs BMB
 UID:cs-go-draculan-6-2026-1403822@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7569,8 +7569,8 @@ SUMMARY:BST vs SASHI.A
 UID:cs-go-parken-challenger-championship-3-2026-1418636@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Nexus: 0 | BASEMENT BOYS: 1\nStream: https://kick.com/draculancs
+DTEND:20260329T100024Z
 DTSTART:20260329T090654Z
 SUMMARY:NXS vs BMB
 UID:cs-go-draculan-6-2026-1403821@tournamentics
