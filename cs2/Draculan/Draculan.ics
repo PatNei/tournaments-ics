@@ -68,12 +68,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260329T133000Z
-SUMMARY:Elimination match: HS vs TBD
+SUMMARY:Elimination match: HS vs DRAMA
 UID:cs-go-draculan-6-2026-1403834@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Eternal Fire: 1 | Drama eSports: 0\nStream: https://kick.com/draculancs
+DTEND:20260329T122853Z
 DTSTART:20260329T112449Z
 SUMMARY:EF vs DRAMA
 UID:cs-go-draculan-6-2026-1403831@tournamentics
@@ -193,8 +193,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260329T123000Z
-SUMMARY:Winners match: INF vs TBD
+DTSTART:20260329T130000Z
+SUMMARY:Winners match: INF vs EF
 UID:cs-go-draculan-6-2026-1403833@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -324,9 +324,9 @@ SUMMARY:HS vs INF
 UID:cs-go-draculan-6-2026-1403832@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
 DURATION:PT2H
-DTSTART:20260329T123000Z
+DTSTART:20260329T123225Z
 SUMMARY:Winners match: SASHI vs HAVU
 UID:cs-go-draculan-6-2026-1403828@tournamentics
 END:VEVENT

@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260329T133000Z
-SUMMARY:Elimination match: HS vs TBD
+SUMMARY:Elimination match: HS vs DRAMA
 UID:cs-go-draculan-6-2026-1403834@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -553,6 +553,13 @@ DTEND:20260326T174803Z
 DTSTART:20260326T161114Z
 SUMMARY:3rd Place match: BB vs HOTU
 UID:cs-go-bc-game-masters-championship-1-2026-1403648@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T000000Z
+SUMMARY:Round 1: ZOMB vs CW
+UID:cs-go-dust2-us-eagle-masters-7-2026-1422173@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 1 | RED Canids Academy: 2\nStream: https://www.twitch.tv/bestia_corp
@@ -2473,6 +2480,13 @@ SUMMARY:Semifinal 1: VIT vs AUR
 UID:cs-go-blast-open-rotterdam-spring-2026-1394951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T000000Z
+SUMMARY:Round 1: BOSS vs AKIMBO
+UID:cs-go-dust2-us-eagle-masters-7-2026-1422176@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: FROX: 2 | Huskies eSport: 1\nStream: https://www.twitch.tv/dachcs
 DTEND:20260325T215829Z
 DTSTART:20260325T191407Z
@@ -2965,8 +2979,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260329T123000Z
-SUMMARY:Winners match: INF vs TBD
+DTSTART:20260329T130000Z
+SUMMARY:Winners match: INF vs EF
 UID:cs-go-draculan-6-2026-1403833@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3628,7 +3642,7 @@ SUMMARY:Upper bracket round 1 match 6: RE vs AHK
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398009@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
+DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://kick.com/forg1
 DURATION:PT2H
 DTSTART:20260329T130000Z
 SUMMARY:Quarterfinal 2: 9z vs IMP
@@ -4165,6 +4179,13 @@ DTEND:20260322T044120Z
 DTSTART:20260322T021613Z
 SUMMARY:Upper bracket quarterfinal 3: CCE vs OverKnight
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397716@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T000000Z
+SUMMARY:Round 1: REGAIN vs GK
+UID:cs-go-dust2-us-eagle-masters-7-2026-1422179@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: bankaPEPSI: 2 | eLITenergy: 0\nStream: https://kick.com/cct-cs6
@@ -4935,6 +4956,13 @@ DTEND:20260327T185702Z
 DTSTART:20260327T164634Z
 SUMMARY:Quarterfinal 2: FAL vs PRV
 UID:cs-go-blast-open-rotterdam-spring-2026-1394950@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T000000Z
+SUMMARY:Round 1: LAG vs EMP
+UID:cs-go-dust2-us-eagle-masters-7-2026-1422175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 2 | Isurus: 1\nStream: https://www.twitch.tv/locomass22
@@ -6708,6 +6736,13 @@ SUMMARY:Grand final: VIT vs NAVI
 UID:cs-go-blast-open-rotterdam-spring-2026-1394953@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T000000Z
+SUMMARY:Round 1: ex-SportsBetExpert vs Reign Above
+UID:cs-go-dust2-us-eagle-masters-7-2026-1422178@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: Vexar: 0 | brazylijski luz: 2\nStream: https://kick.com/cct-cs5
 DTEND:20260326T174818Z
 DTSTART:20260326T164530Z
@@ -7016,13 +7051,6 @@ SUMMARY:Quarterfinal 1: OLDBOYS- vs ENJOY
 UID:cs-go-esea-european-finals-56-2026-1418464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: Galorys: 0 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/aorusbr
-DTEND:20260318T013459Z
-DTSTART:20260318T003852Z
-SUMMARY:Winners match: GLS vs BHE
-UID:cs-go-aorus-brazil-online-stage-2026-1400292@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Heroic: 1 | CYBERSHOKE Esports: 0\nStream: https://kick.com/roman
 DTEND:20260328T193405Z
 DTSTART:20260328T184032Z
@@ -7042,6 +7070,13 @@ DURATION:PT2H
 DTSTART:20260413T160000Z
 SUMMARY:LEI vs REV
 UID:cs-go-dach-cs-masters-5-2026-1385733@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: Galorys: 0 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/aorusbr
+DTEND:20260318T013459Z
+DTSTART:20260318T003852Z
+SUMMARY:Winners match: GLS vs BHE
+UID:cs-go-aorus-brazil-online-stage-2026-1400292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
@@ -7511,6 +7546,13 @@ DTEND:20260323T135417Z
 DTSTART:20260323T110403Z
 SUMMARY:MZP vs UNiTY
 UID:cs-go-journey-spring-2026-1398098@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T010000Z
+SUMMARY:Round 1: FV vs mouse
+UID:cs-go-dust2-us-eagle-masters-7-2026-1422174@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup 2 season 51 2026\nMatch Type: Best Of\nResult: Alter Ego: 2 | Just Swing: 0\nStream: https://www.twitch.tv/dutchboycasts
@@ -7989,8 +8031,8 @@ SUMMARY:Round 3: DS vs CRASH
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394906@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Eternal Fire: 1 | Drama eSports: 0\nStream: https://kick.com/draculancs
+DTEND:20260329T122853Z
 DTSTART:20260329T112449Z
 SUMMARY:EF vs DRAMA
 UID:cs-go-draculan-6-2026-1403831@tournamentics
@@ -8647,7 +8689,7 @@ SUMMARY:Round of 16 match 3: EJ vs YNG
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415177@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
+DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kabrafps
 DURATION:PT2H
 DTSTART:20260329T130000Z
 SUMMARY:Quarterfinal 1: paiN vs SHIN
@@ -8659,6 +8701,13 @@ DTEND:20260321T090724Z
 DTSTART:20260321T071314Z
 SUMMARY:Semifinal 1: LB vs RA
 UID:cs-go-loop-cup-1-2026-1400357@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T020000Z
+SUMMARY:Round 1: InC vs TA
+UID:cs-go-dust2-us-eagle-masters-7-2026-1422180@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: Benched gods: 2 | Vexar: 0\nStream: https://kick.com/cct-cs6
@@ -8731,9 +8780,9 @@ SUMMARY:Winners match: STA vs INF
 UID:cs-go-united21-46-2026-1392350@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
 DURATION:PT2H
-DTSTART:20260329T123000Z
+DTSTART:20260329T123225Z
 SUMMARY:Winners match: SASHI vs HAVU
 UID:cs-go-draculan-6-2026-1403828@tournamentics
 END:VEVENT
@@ -9352,6 +9401,13 @@ DTEND:20260322T032337Z
 DTSTART:20260322T020228Z
 SUMMARY:Upper bracket quarterfinal 1: LAG vs SE
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397714@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T000000Z
+SUMMARY:Round 1: O49 vs CHICANERY
+UID:cs-go-dust2-us-eagle-masters-7-2026-1422177@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: banda chuya: 0 | brazylijski luz: 2\nStream: https://kick.com/cct-cs5
