@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260330T170000Z
-SUMMARY:Upper bracket round 2 match 11: BIG.E vs TBD
+SUMMARY:Upper bracket round 2 match 11: BIG.E vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420008@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -352,8 +352,8 @@ SUMMARY:Upper bracket round 3 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420015@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 2 | ReThink: 1\nStream: https://www.twitch.tv/eslcs
+DTEND:20260329T195318Z
 DTSTART:20260329T170458Z
 SUMMARY:Upper bracket round 1 match 11: ex-Zero Tenacity vs RT
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419996@tournamentics
@@ -366,8 +366,8 @@ SUMMARY:Upper bracket round 2 match 15: HERO.A vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420012@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Donstu Esports: 1 | The Last Resort: 2\nStream: https://www.twitch.tv/GoYareGo
+DTEND:20260329T195108Z
 DTSTART:20260329T170454Z
 SUMMARY:Upper bracket round 1 match 8: DNT vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419993@tournamentics
@@ -558,7 +558,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260330T170000Z
-SUMMARY:Upper bracket round 2 match 14: URSA vs TBD
+SUMMARY:Upper bracket round 2 match 14: URSA vs ex-Zero Tenacity
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420011@tournamentics
 END:VEVENT
 BEGIN:VEVENT

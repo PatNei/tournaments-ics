@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260329T230000Z
+DTSTART:20260330T000000Z
 SUMMARY:Round 2: Keyd vs ALKAa
 UID:cs-go-betboom-storm-2-2026-1413568@tournamentics
 END:VEVENT
@@ -130,7 +130,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260329T200000Z
+DTSTART:20260329T210000Z
 SUMMARY:Round 2 : VSC vs HWGA
 UID:cs-go-betboom-storm-2-2026-1413567@tournamentics
 END:VEVENT
@@ -219,8 +219,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-betboom-storm-2-2026-1413570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Charrados FC: 0\nStream: https://www.twitch.tv/dust2br
+DTEND:20260329T194912Z
 DTSTART:20260329T181145Z
 SUMMARY:Round 2: FDB vs Charrados
 UID:cs-go-betboom-storm-2-2026-1413566@tournamentics
