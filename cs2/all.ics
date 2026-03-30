@@ -51,6 +51,13 @@ SUMMARY:Lower bracket round 3 match 6: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420048@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T150000Z
+SUMMARY:TDK vs EP
+UID:cs-go-cis-lan-championship-4-2026-1423150@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260331T080000Z
@@ -352,6 +359,13 @@ SUMMARY:Upper bracket round 1 match 4: UNO vs Keyd
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397650@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T150000Z
+SUMMARY:ARC vs YL
+UID:cs-go-cis-lan-championship-4-2026-1423160@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260402T140000Z
@@ -471,18 +485,18 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400935@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
-DTSTART:20260330T170000Z
-SUMMARY:Round 3: MW vs ATRIX
-UID:cs-go-betboom-storm-2-2026-1413570@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260403T160000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404162@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
+DURATION:PT2H
+DTSTART:20260330T170000Z
+SUMMARY:Round 3: MW vs ATRIX
+UID:cs-go-betboom-storm-2-2026-1413570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Ursa: 0\nStream: https://www.twitch.tv/GoYareGo
@@ -639,6 +653,13 @@ SUMMARY:Upper bracket semifinal 2: MW vs DS
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397660@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260405T150000Z
+SUMMARY:3rd place match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423170@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Rune Eaters: 1 | The Last Resort: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260319T120806Z
 DTSTART:20260319T090554Z
@@ -765,6 +786,13 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-urban-riga-open-4-2026-1421692@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T090000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423147@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Bounty Hunters Esports: 0\nStream: https://kick.com/cct_cs3
 DTEND:20260325T164334Z
 DTSTART:20260325T150601Z
@@ -772,18 +800,18 @@ SUMMARY:Semifinal 2: FDB vs BHE
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260403T100000Z
-SUMMARY:Upper bracket quarterfinal 3: RSTR vs Skele
-UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421640@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Fragadelphia - York 2026\nMatch Type: Best Of\nResult: BOSS: 2 | LAG Gaming: 1\nStream: https://kick.com/frag
 DTEND:20260329T223531Z
 DTSTART:20260329T200452Z
 SUMMARY:3rd place decider: BOSS vs LAG
 UID:cs-go-fragadelphia-york-2026-1421029@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260403T100000Z
+SUMMARY:Upper bracket quarterfinal 3: RSTR vs Skele
+UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -1064,6 +1092,13 @@ DTEND:20260320T233104Z
 DTSTART:20260320T220223Z
 SUMMARY:Upper bracket round 1 match 1: SHIN vs GE
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397647@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T090000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423157@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1400,6 +1435,13 @@ DTEND:20260322T012449Z
 DTSTART:20260321T221809Z
 SUMMARY:Upper bracket quarterfinal 3: PCY vs MW
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397657@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260404T180000Z
+SUMMARY:Quarterfinal 4: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423167@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #20 season 3 2026\nMatch Type: Best Of\nResult: MASONIC: 0 | ex-Zero Tenacity: 2\nStream: https://kick.com/cct_cs2
@@ -1871,18 +1913,18 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421620@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T190000Z
-SUMMARY:SASHI.A vs Atputies
-UID:cs-go-parken-challenger-championship-3-2026-1418641@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260407T080000Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421647@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
+DURATION:PT2H
+DTSTART:20260331T190000Z
+SUMMARY:SASHI.A vs Atputies
+UID:cs-go-parken-challenger-championship-3-2026-1418641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nResult: SemperFi Esports: 2 | Rooster: 0\nStream: https://www.twitch.tv/eslcs
@@ -1988,6 +2030,13 @@ DURATION:PT2H
 DTSTART:20260330T170000Z
 SUMMARY:Round 6:  CSDIILIT vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372448@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T205500Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423153@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: FUZOS: 0 | 8Sins: 2\nStream: https://kick.com/cct_cs
@@ -2268,6 +2317,13 @@ DURATION:PT2H
 DTSTART:20260330T140000Z
 SUMMARY:Round 1: MINLATE vs ALGO
 UID:cs-go-cct-europe-series-20-3-2026-1406935@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T205500Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423163@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | HEROIC Academy: 1\nStream: https://kick.com/nodwin_cs2
@@ -3460,6 +3516,13 @@ SUMMARY:TRI vs WC
 UID:cs-go-urban-riga-open-4-2026-1421691@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T090000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423146@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: DashSkins: 2 | Back to Back : 0\nStream: https://kick.com/cct_cs3
 DTEND:20260325T201600Z
 DTSTART:20260325T180851Z
@@ -3724,6 +3787,13 @@ DTEND:20260329T141636Z
 DTSTART:20260329T110443Z
 SUMMARY:Round 1: MEGO vs OBSB
 UID:cs-go-cct-europe-series-20-3-2026-1406928@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T090000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423156@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -3997,6 +4067,13 @@ DURATION:PT2H
 DTSTART:20260331T110000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406938@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260404T150000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #3 2026\nMatch Type: Best Of\nResult: eLITenergy: 0 | Fire Flux Esports: 2\nStream: https://kick.com/cct-cs5
@@ -4482,6 +4559,13 @@ SUMMARY:Round 6: KSM vs BOJONG
 UID:cs-go-elisa-open-suomi-12-2026-1372447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T180000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423152@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260405T180000Z
@@ -4739,6 +4823,13 @@ DTEND:20260320T234218Z
 DTSTART:20260320T220948Z
 SUMMARY:Upper bracket round 1 match 6: FURIA.F vs PCY
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397652@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T180000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423162@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: ALGO Esports: 2 | megoshort: 1\nStream: https://kick.com/nodwin_cs2
@@ -5105,6 +5196,13 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-urban-riga-open-4-2026-1421694@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T150000Z
+SUMMARY:SPARTA vs CYBERSHOKE Prospects
+UID:cs-go-cis-lan-championship-4-2026-1423149@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260405T080000Z
@@ -5427,6 +5525,13 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403901@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T150000Z
+SUMMARY:HOTU vs WW
+UID:cs-go-cis-lan-championship-4-2026-1423159@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260404T210000Z
@@ -5714,6 +5819,13 @@ SUMMARY:Upper bracket semifinal 1: Keyd vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397659@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260405T120000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423169@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | Lilmix: 0\nStream: https://www.kick.com/eplcs_en
 DTEND:20260329T094433Z
 DTSTART:20260329T082034Z
@@ -5826,18 +5938,18 @@ SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T130000Z
-SUMMARY:Atputies vs 3DMAX
-UID:cs-go-parken-challenger-championship-3-2026-1418633@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260403T100000Z
 SUMMARY:Upper bracket quarterfinal 2: Arcade Esports vs Abyssal
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421639@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
+DURATION:PT2H
+DTSTART:20260331T130000Z
+SUMMARY:Atputies vs 3DMAX
+UID:cs-go-parken-challenger-championship-3-2026-1418633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5943,6 +6055,13 @@ DURATION:PT2H
 DTSTART:20260403T093000Z
 SUMMARY:BST vs BIG.A
 UID:cs-go-urban-riga-open-4-2026-1421690@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T060000Z
+SUMMARY:1WIN vs JUMBO
+UID:cs-go-cis-lan-championship-4-2026-1423145@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #10 season 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Isurus: 1\nStream: https://kick.com/cct_cs3
@@ -6246,6 +6365,13 @@ SUMMARY:Round 1: MZP vs RUST
 UID:cs-go-cct-europe-series-20-3-2026-1406927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T060000Z
+SUMMARY:33 vs VS
+UID:cs-go-cis-lan-championship-4-2026-1423155@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260401T130000Z
@@ -6510,6 +6636,13 @@ DTEND:20260321T233612Z
 DTSTART:20260321T220349Z
 SUMMARY:Upper bracket quarterfinal 1: SHIN vs GH
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397655@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260404T120000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423165@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Bebop: 1 | The Last Resort: 2\nStream: https://kick.com/nodwin_cs2
@@ -7037,6 +7170,13 @@ SUMMARY:Lower bracket round 3 match 7: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420049@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T180000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423151@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260331T110000Z
@@ -7301,6 +7441,13 @@ DTEND:20260321T002832Z
 DTSTART:20260320T220244Z
 SUMMARY:Upper bracket round 1 match 5: BHE vs MW
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397651@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T180000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423161@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -7569,6 +7716,13 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260405T180000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423171@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: ENCE Academy: 1 | Lilmix: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260312T203903Z
 DTSTART:20260312T180857Z
@@ -7679,6 +7833,13 @@ DURATION:PT2H
 DTSTART:20260403T130000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-urban-riga-open-4-2026-1421693@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T120000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423148@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #19 season 3 2026\nMatch Type: Best Of\nResult: 8Sins: 2 | EC BANGA: 0\nStream: https://kick.com/cct_cs
@@ -8010,6 +8171,13 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403900@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T120000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423158@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260404T210000Z
@@ -8318,6 +8486,13 @@ SUMMARY:Upper bracket quarterfinal 4: ATRIX vs DS
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397658@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260405T090000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423168@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #18 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 1 | zajezdzacze: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260311T122020Z
 DTSTART:20260311T090829Z
@@ -8533,6 +8708,13 @@ DTEND:20260316T170650Z
 DTSTART:20260316T153123Z
 SUMMARY:Round 4: RGG vs ENCE.A
 UID:cs-go-elisa-open-suomi-12-2026-1372439@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260402T060000Z
+SUMMARY:K27 vs NVQ
+UID:cs-go-cis-lan-championship-4-2026-1423144@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -8759,18 +8941,18 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T200000Z
-SUMMARY:BST vs Atputies
-UID:cs-go-parken-challenger-championship-3-2026-1418642@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260406T080000Z
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421648@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
+DURATION:PT2H
+DTSTART:20260331T200000Z
+SUMMARY:BST vs Atputies
+UID:cs-go-parken-challenger-championship-3-2026-1418642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #2 season 51 2026\nMatch Type: Best Of\nResult: BBBMBCBS: 0 | MARKnLARRY: 2\nStream: https://www.twitch.tv/dutchboycasts
@@ -8883,6 +9065,13 @@ DURATION:PT2H
 DTSTART:20260331T143000Z
 SUMMARY:Round 6: ENCE.A vs BoyBand
 UID:cs-go-elisa-open-suomi-12-2026-1372449@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260403T060000Z
+SUMMARY:NEMI vs 5Actors
+UID:cs-go-cis-lan-championship-4-2026-1423154@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -9135,6 +9324,13 @@ DTEND:20260320T234747Z
 DTSTART:20260320T220555Z
 SUMMARY:Upper bracket round 1 match 8: VEXA vs DS
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397654@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
+DURATION:PT2H
+DTSTART:20260404T090000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-cis-lan-championship-4-2026-1423164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | Ursa: 1\nStream: https://kick.com/nodwin_cs2
