@@ -317,6 +317,13 @@ SUMMARY:MARS vs GLS
 UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421550@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T030000Z
+SUMMARY:Upper bracket quarterfinal 2: RA vs CW
+UID:cs-go-gangkui-cup-2-2026-1423193@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: MIBR: 1 | Gaimin Gladiators: 2\nStream: https://www.twitch.tv/gaules
 DTEND:20260326T195643Z
 DTSTART:20260326T165836Z
@@ -667,13 +674,6 @@ SUMMARY:Upper bracket semifinal 2: MW vs DS
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397660@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260404T030000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423201@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260405T150000Z
@@ -954,6 +954,13 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260405T030000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423203@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 1 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260401T100000Z
@@ -1134,13 +1141,6 @@ DURATION:PT2H
 DTSTART:20260405T080000Z
 SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421650@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T030000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -2095,13 +2095,6 @@ SUMMARY:Decider match: FUZOS vs 8S
 UID:cs-go-cct-europe-closed-qualifier-series-19-3-2026-1398624@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T060000Z
-SUMMARY:Upper bracket quarterfinal 3: TYLOO vs SFE
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423194@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T160000Z
@@ -2331,6 +2324,13 @@ DTEND:20260317T134004Z
 DTSTART:20260317T120300Z
 SUMMARY:Round 16 match 4: ICE vs RE
 UID:cs-go-cct-europe-series-18-3-2026-1381261@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260402T030000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | HyperSpirit: 1\nStream: https://www.twitch.tv/bcgamemastersd
@@ -2653,13 +2653,6 @@ DURATION:PT2H
 DTSTART:20260402T080000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406945@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260404T060000Z
-SUMMARY:Upper bracket final: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423204@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 |  CSDIILIT: 0\nStream: https://kick.com/nodwin_cs2
@@ -3152,6 +3145,13 @@ SUMMARY:Quarterfinal 4: CCE vs SportsBetExpert
 UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412074@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T030000Z
+SUMMARY:Upper bracket quarterfinal 1: FLY vs UR
+UID:cs-go-gangkui-cup-2-2026-1423192@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nResult: Gaimin Gladiators: 2 | ShindeN: 1\nStream: https://kick.com/forg1
 DTEND:20260326T160030Z
 DTSTART:20260326T132112Z
@@ -3453,13 +3453,6 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406941@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260404T030000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423200@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | Bebop: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260314T142916Z
 DTSTART:20260314T121011Z
@@ -3733,6 +3726,13 @@ SUMMARY:Upper bracket quarterfinal 1: FURIA vs TYLOO
 UID:cs-go-blast-open-rotterdam-spring-2026-1371045@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260404T060000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423202@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: STATE: 2 | NAVI Junior: 0\nStream: https://kick.com/united21_en
 DTEND:20260318T110041Z
 DTSTART:20260318T090832Z
@@ -3885,13 +3885,6 @@ DURATION:PT2H
 DTSTART:20260403T090000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-cis-lan-championship-4-2026-1423156@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T060000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423197@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -4130,6 +4123,13 @@ DTEND:20260318T115354Z
 DTSTART:20260318T090055Z
 SUMMARY:Round 16 match 3: K27 vs EF
 UID:cs-go-cct-europe-series-18-3-2026-1381264@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260402T060000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: HOTU: 2 | Tricked: 0\nStream: https://www.twitch.tv/watchfulTVd
@@ -4678,13 +4678,6 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-cis-lan-championship-4-2026-1423152@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T030000Z
-SUMMARY:Upper bracket quarterfinal 2: RA vs CW
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423193@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260405T180000Z
@@ -4888,6 +4881,13 @@ SUMMARY:Round 16 match 2: ECS vs URSA
 UID:cs-go-cct-europe-series-18-3-2026-1381260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T060000Z
+SUMMARY:Upper bracket quarterfinal 4: THE vs XDM
+UID:cs-go-gangkui-cup-2-2026-1423195@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: rottweilers: 2 | Diamant Esports: 0\nStream: https://www.twitch.tv/starladder_cs_en
 DTEND:20260324T204044Z
 DTSTART:20260324T185326Z
@@ -4993,7 +4993,7 @@ SUMMARY:BB vs Vexar
 UID:cs-go-european-pro-league-series-6-play-in-2026-1401472@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
 DURATION:PT2H
 DTSTART:20260330T130000Z
 SUMMARY:Upper bracket round 2 match 1: JS vs rottweilers
@@ -5215,13 +5215,6 @@ DTEND:20260327T234154Z
 DTSTART:20260327T220612Z
 SUMMARY:Grand final: SHIN vs UNO
 UID:cs-go-esl-challenger-league-south-america-cup-2-51-2026-1397662@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260405T030000Z
-SUMMARY:Lower bracket final: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: FUZOS: 0 | Mousquetaires: 2\nStream: https://kick.com/nodwin_cs2
@@ -5474,6 +5467,13 @@ DURATION:PT2H
 DTSTART:20260404T150000Z
 SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421572@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260405T060000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
@@ -6316,6 +6316,13 @@ SUMMARY:Upper bracket quarterfinal 2: FaZe vs AUR
 UID:cs-go-blast-open-rotterdam-spring-2026-1371044@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260404T030000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423201@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: NAVI Junior: 2 | against All authority: 1\nStream: https://kick.com/united21_en
 DTEND:20260314T142722Z
 DTSTART:20260314T115848Z
@@ -6517,13 +6524,6 @@ DURATION:PT2H
 DTSTART:20260401T130000Z
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403862@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T030000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #2 season 51 2026\nMatch Type: Best Of\nResult: AKA HERO KAJO: 0 | MANA eSports: 2\nStream: https://kick.com/albi1985
@@ -6741,6 +6741,13 @@ DTEND:20260317T212428Z
 DTSTART:20260317T185515Z
 SUMMARY:Round 16 match 8: FC vs ex-RUBY
 UID:cs-go-cct-europe-series-18-3-2026-1381263@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260402T030000Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Monte: 0\nStream: https://www.twitch.tv/watchfulTV
@@ -7345,13 +7352,6 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-cct-europe-series-19-3-2026-1399009@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T030000Z
-SUMMARY:Upper bracket quarterfinal 1: FLY vs UR
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423192@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260405T150000Z
@@ -7553,6 +7553,13 @@ DURATION:PT2H
 DTSTART:20260401T150000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421551@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T060000Z
+SUMMARY:Upper bracket quarterfinal 3: TYLOO vs SFE
+UID:cs-go-gangkui-cup-2-2026-1423194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: Diamant Esports: 2 | FIGHTERS: 1\nStream: https://kick.com/starladder
@@ -7891,13 +7898,6 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260404T060000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423202@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/mpkbk
 DURATION:PT2H
 DTSTART:20260405T180000Z
@@ -8157,6 +8157,13 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260404T060000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423204@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260331T100000Z
@@ -8379,13 +8386,6 @@ DURATION:PT2H
 DTSTART:20260405T080000Z
 SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421651@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T060000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423199@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
@@ -9088,6 +9088,13 @@ SUMMARY:Lower bracket round 2 match 3: Glitch vs bankaPEPSI
 UID:cs-go-cct-europe-contenders-3-2026-1414599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260404T030000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423200@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 46 2026\nMatch Type: Best Of\nResult: STATE: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
 DTEND:20260314T111920Z
 DTSTART:20260314T092400Z
@@ -9291,13 +9298,6 @@ SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
 UID:cs-go-draculan-6-2026-1403861@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T060000Z
-SUMMARY:Upper bracket quarterfinal 4: THE vs XDM
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423195@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260331T143000Z
@@ -9499,6 +9499,13 @@ DTEND:20260317T183925Z
 DTSTART:20260317T150908Z
 SUMMARY:Round 16 match 1: HOTU vs BBP
 UID:cs-go-cct-europe-series-18-3-2026-1381262@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: GangKui Cup - Season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260402T060000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-gangkui-cup-2-2026-1423197@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters Championship - Season 1 2026\nMatch Type: Best Of\nResult: G2: 1 | Sinners: 2\nStream: https://www.twitch.tv/bcgamemasters
@@ -9856,13 +9863,6 @@ DURATION:PT2H
 DTSTART:20260402T110000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406946@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XSE Pro League - GangKui Cup season 2 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260405T060000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-xse-pro-league-gangkui-cup-2-2026-1423205@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | Mousquetaires: 1\nStream: https://kick.com/nodwin_cs2

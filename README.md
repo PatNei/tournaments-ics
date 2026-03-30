@@ -684,6 +684,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 </details>
 
 <details>
+<summary>GangKui Cup</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GangkuiCup/GangkuiCup.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GangkuiCup/GangkuiCup.ics
+```
+
+---
+
+### Season 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GangkuiCup/Season22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GangkuiCup/Season22026.ics
+```
+
+</details>
+
+<details>
 <summary>LOOP Cup</summary>
 
 ### Full Schedule
@@ -868,27 +889,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open32026
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open42026.ics
-```
-
-</details>
-
-<details>
-<summary>XSE Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/XseProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/XseProLeague.ics
-```
-
----
-
-### GangKui Cup season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/GangkuiCupSeason22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/XseProLeague/GangkuiCupSeason22026.ics
 ```
 
 </details>
