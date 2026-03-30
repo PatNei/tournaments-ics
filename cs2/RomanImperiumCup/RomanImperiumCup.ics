@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultvb
 DURATION:PT2H
 DTSTART:20260330T170000Z
-SUMMARY:Semifinal 2: BST vs TBD
+SUMMARY:Semifinal 2: BST vs ACE
 UID:cs-go-roman-imperium-cup-7-2026-1413635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Heroic: 1 | Acend: 2\nStream: https://kick.com/trottah
+DTEND:20260330T162534Z
 DTSTART:20260330T125727Z
 SUMMARY:Quarterfinal 4: HERO vs ACE
 UID:cs-go-roman-imperium-cup-7-2026-1413632@tournamentics
