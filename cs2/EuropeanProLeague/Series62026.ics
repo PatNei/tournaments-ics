@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260403T080000Z
-SUMMARY:Elimination match: OBSB vs TBD
+SUMMARY:Elimination match: OBSB vs zajezdzacze
 UID:cs-go-european-pro-league-series-6-2026-1400859@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,13 +149,6 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
-DTSTART:20260330T104000Z
-SUMMARY:ex-Zero Tenacity vs zajezdzacze
-UID:cs-go-european-pro-league-series-6-2026-1400835@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://www.kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260402T080000Z
@@ -229,7 +222,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260403T103000Z
-SUMMARY:Winners match: STA vs TBD
+SUMMARY:Winners match: STA vs ex-Zero Tenacity
 UID:cs-go-european-pro-league-series-6-2026-1400844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
