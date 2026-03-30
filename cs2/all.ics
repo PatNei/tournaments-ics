@@ -128,9 +128,9 @@ SUMMARY:Quarterfinal 1: WW vs SPARTA
 UID:cs-go-pgl-astana-european-open-qualifier-2-2026-1415183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
+DESCRIPTION:🔴 LIVE NOW\nTournament: FERJEE In House - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ferjeeoficial
 DURATION:PT2H
-DTSTART:20260330T200000Z
+DTSTART:20260330T202642Z
 SUMMARY:Grand final: 9z vs LGC
 UID:cs-go-ferjee-in-house-2026-1411795@tournamentics
 END:VEVENT
@@ -341,7 +341,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T130000Z
-SUMMARY:Lower bracket round 2 match 8: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 8: PGE vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1195,7 +1195,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T130000Z
-SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 4:  CSDIILIT vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420054@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3621,8 +3621,8 @@ SUMMARY:Quarterfinal 2: 9z vs IMP
 UID:cs-go-ferjee-in-house-2026-1411790@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | G2: 1\nStream: https://kick.com/trottah
+DTEND:20260330T202953Z
 DTSTART:20260330T171911Z
 SUMMARY:Semifinal 1: BB vs G2
 UID:cs-go-roman-imperium-cup-7-2026-1413634@tournamentics
@@ -4100,7 +4100,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T130000Z
-SUMMARY:Lower bracket round 1 match 5: playersclub vs m1x
+SUMMARY:Lower bracket round 1 match 5: OMG vs m1x
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5346,7 +5346,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260330T210000Z
-SUMMARY:Grand final: BST vs TBD
+SUMMARY:Grand final: BST vs BB
 UID:cs-go-roman-imperium-cup-7-2026-1413637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6918,8 +6918,8 @@ SUMMARY:Upper bracket semifinal 2: Lombard vs FF
 UID:cs-go-cct-europe-contenders-3-2026-1414596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: UNO MILLE: 2 | paiN Academy: 0\nStream: No official stream linked
+DTEND:20260330T202634Z
 DTSTART:20260330T183213Z
 SUMMARY:Decider match: UNO vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1424067@tournamentics
@@ -7957,7 +7957,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260330T210000Z
-SUMMARY:3rd Place match: ACE vs TBD
+SUMMARY:3rd Place match: ACE vs G2
 UID:cs-go-roman-imperium-cup-7-2026-1413636@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8202,7 +8202,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T130000Z
-SUMMARY:Lower bracket round 2 match 5: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 5: TBD vs playersclub
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420055@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9200,8 +9200,8 @@ SUMMARY:BERG vs FROX
 UID:cs-go-dach-cs-masters-5-2026-1385746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: STATE: 2 | Bebop: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260330T202634Z
 DTSTART:20260330T170433Z
 SUMMARY:Round 1: STA vs BBP
 UID:cs-go-cct-europe-series-20-3-2026-1406936@tournamentics
