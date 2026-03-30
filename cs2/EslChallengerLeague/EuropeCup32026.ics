@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T130000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs EXSAD Gaming
+SUMMARY:Lower bracket round 1 match 4: BIG.E vs EXSAD Gaming
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -65,8 +65,8 @@ SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260330T181447Z
 DTSTART:20260330T170941Z
 SUMMARY:Upper bracket round 2 match 11: BIG.E vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420008@tournamentics
@@ -159,7 +159,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T170000Z
-SUMMARY:Upper bracket round 3 match 6: TBD vs TBD
+SUMMARY:Upper bracket round 3 match 6: TLR vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420019@tournamentics
 END:VEVENT
 BEGIN:VEVENT

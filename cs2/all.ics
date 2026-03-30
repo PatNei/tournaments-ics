@@ -828,9 +828,9 @@ SUMMARY:Upper bracket quarterfinal 3: RSTR vs Skele
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsd
 DURATION:PT2H
-DTSTART:20260330T181500Z
+DTSTART:20260330T181911Z
 SUMMARY:Lower bracket round 1 match 3: LC vs HAVU
 UID:cs-go-draculan-6-2026-1403854@tournamentics
 END:VEVENT
@@ -6190,9 +6190,9 @@ SUMMARY:Upper bracket semifinal 2: RA vs LB
 UID:cs-go-macemedia-void-spring-2026-1411918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
+DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
-DTSTART:20260330T181500Z
+DTSTART:20260330T181502Z
 SUMMARY:Lower bracket round 1 match 1: INF vs FNC
 UID:cs-go-draculan-6-2026-1403852@tournamentics
 END:VEVENT
@@ -6389,7 +6389,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T170000Z
-SUMMARY:Upper bracket round 3 match 6: TBD vs TBD
+SUMMARY:Upper bracket round 3 match 6: TLR vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420019@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6879,7 +6879,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T130000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs EXSAD Gaming
+SUMMARY:Lower bracket round 1 match 4: BIG.E vs EXSAD Gaming
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8801,8 +8801,8 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260330T181447Z
 DTSTART:20260330T170941Z
 SUMMARY:Upper bracket round 2 match 11: BIG.E vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420008@tournamentics
