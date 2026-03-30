@@ -156,11 +156,25 @@ SUMMARY:Semifinal 2: RED.A vs ISG
 UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413282@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T110000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424105@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260331T230000Z
 SUMMARY:Upper bracket quarterfinal 4: 9z vs RED.A
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404071@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T110000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Omega: 0 | Inner Circle Academy: 1\nStream: No official stream linked
@@ -359,11 +373,25 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T080000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424104@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260331T200000Z
 SUMMARY:Upper bracket quarterfinal 3: FDB vs GH
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404070@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T080000Z
+SUMMARY:Upper bracket semifinal 2: THE vs VTM
+UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424101@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #2 2026\nMatch Type: Best Of\nResult: AM Gaming: 1 | STATE: 0\nStream: No official stream linked
@@ -520,6 +548,13 @@ SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404072@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T110000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424103@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260402T020000Z
@@ -532,6 +567,13 @@ DURATION:PT2H
 DTSTART:20260402T200000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404153@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T080000Z
+SUMMARY:Upper bracket semifinal 2: CW vs NEXVOID
+UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 1 | rhadamanthys: 0\nStream: No official stream linked
