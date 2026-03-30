@@ -5,13 +5,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260330T140000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: BST vs TBD
 UID:cs-go-roman-imperium-cup-7-2026-1413635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/watchfultvb
 DURATION:PT2H
-DTSTART:20260330T110000Z
+DTSTART:20260330T113000Z
 SUMMARY:Quarterfinal 4: HERO vs ACE
 UID:cs-go-roman-imperium-cup-7-2026-1413632@tournamentics
 END:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:cswalkers vs CarritoSpain
 UID:cs-go-roman-imperium-cup-7-2026-1413629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: OG: 0 | BESTIA: 2\nStream: https://kick.com/forg1
+DTEND:20260330T101612Z
 DTSTART:20260330T081651Z
 SUMMARY:Quarterfinal 3: OG vs BST
 UID:cs-go-roman-imperium-cup-7-2026-1413630@tournamentics

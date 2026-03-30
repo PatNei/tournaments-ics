@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260403T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: OBSB vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400859@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -334,12 +334,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260403T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: STA vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: STATE: 2 | OlyBet SB: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260330T093129Z
 DTSTART:20260330T080651Z
 SUMMARY:STA vs OBSB
 UID:cs-go-european-pro-league-series-6-2026-1400834@tournamentics
