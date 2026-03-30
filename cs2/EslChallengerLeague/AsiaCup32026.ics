@@ -4,44 +4,16 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260403T130000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421661@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T130000Z
-SUMMARY:Upper bracket round 1 match 5: ARISE vs LEGION
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421657@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T130000Z
-SUMMARY:Upper bracket round 1 match 2: FDG vs JS
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421654@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260403T130000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421679@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260403T130000Z
-SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421680@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
 DTSTART:20260404T130000Z
 SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421676@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260409T130000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421667@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -67,51 +39,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260407T130000Z
-SUMMARY:Upper bracket final: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421666@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260403T130000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421663@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T130000Z
-SUMMARY:Upper bracket round 1 match 7: Team GATERON vs NEXVOID
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421659@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260403T130000Z
-SUMMARY:Upper bracket quarterfinal 1: TYLOO vs TBD
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421660@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T130000Z
-SUMMARY:Upper bracket round 1 match 4: CW vs 5S
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421656@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T130000Z
-SUMMARY:Upper bracket round 1 match 1: BP vs BMZ
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421653@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
 DTSTART:20260403T130000Z
 SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421678@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260407T130000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421666@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -144,30 +81,16 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260403T130000Z
-SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421662@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T130000Z
-SUMMARY:Upper bracket round 1 match 6: LB vs QUBE
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421658@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260402T130000Z
-SUMMARY:Upper bracket round 1 match 3: 100RA vs CTG
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421655@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
 DTSTART:20260404T130000Z
 SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421677@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260405T130000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -186,15 +109,15 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260409T130000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421667@tournamentics
+DTSTART:20260403T130000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421679@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260405T130000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
-UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421664@tournamentics
+DTSTART:20260403T130000Z
+SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
+UID:cs-go-esl-challenger-league-asia-cup-3-2026-1421680@tournamentics
 END:VEVENT
 END:VCALENDAR
