@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | MIBR Academy: 2\nStream: https://www.twitch.tv/bestia_corp
+DTEND:20260325T220120Z
+DTSTART:20260325T202012Z
+SUMMARY:Round 1 match 4: BST.A vs MIBR.A
+UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416038@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | ALKA: 1\nStream: No official stream linked
+DTEND:20260326T003646Z
+DTSTART:20260325T220253Z
+SUMMARY:Round 1 match 1: GH vs ALKAa
+UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416035@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Isurus: 2 | paiN Academy: 0\nStream: No official stream linked
+DTEND:20260325T015000Z
+DTSTART:20260325T001500Z
+SUMMARY:Round 1 match 3: ISG vs paiN.A
+UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416037@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Isurus: 0 | MIBR Academy: 2\nStream: No official stream linked
+DTEND:20260326T010013Z
+DTSTART:20260325T235357Z
+SUMMARY:Semifinal 2: ISG vs MIBR.A
+UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416139@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #2 2026\nMatch Type: Best Of\nResult: Alzon: 0 | Back to Back : 2\nStream: No official stream linked
+DTEND:20260325T014000Z
+DTSTART:20260325T001000Z
+SUMMARY:Round 1 match 2: Alzon vs Back to Back 
+UID:cs-go-pgl-astana-south-american-open-qualifier-2-2026-1416036@tournamentics
+END:VEVENT
+END:VCALENDAR
