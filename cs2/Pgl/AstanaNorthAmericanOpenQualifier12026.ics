@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Chicken Coop Esports: 2 | SportsBetExpert: 1\nStream: https://www.twitch.tv/bonamant
+DTEND:20260324T004120Z
+DTSTART:20260323T223125Z
+SUMMARY:Quarterfinal 4: CCE vs SportsBetExpert
+UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412074@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: BOSS: 2 | Foxtrot Esports: 0\nStream: No official stream linked
+DTEND:20260324T025850Z
+DTSTART:20260324T010422Z
+SUMMARY:Quarterfinal 1: BOSS vs FXT
+UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412071@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: ClayMakers Reborn: 0 | Fisher College: 2\nStream: No official stream linked
+DTEND:20260324T021938Z
+DTSTART:20260324T010426Z
+SUMMARY:Quarterfinal 3: ClayMakers Reborn vs FC
+UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412073@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: CHICANERY: 0 | BOSS: 2\nStream: https://www.twitch.tv/bonamant
+DTEND:20260324T042324Z
+DTSTART:20260324T025928Z
+SUMMARY:Semifinal 1: CHICANERY vs BOSS
+UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1413315@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: CHICANERY: 2 | Sleepless_Gaming: 0\nStream: No official stream linked
+DTEND:20260324T023315Z
+DTSTART:20260324T010424Z
+SUMMARY:Quarterfinal 2: CHICANERY vs Sleepless_Gaming
+UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412072@tournamentics
+END:VEVENT
+END:VCALENDAR

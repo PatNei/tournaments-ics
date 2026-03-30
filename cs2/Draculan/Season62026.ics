@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T130000Z
-SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 4: EF vs TBD
 UID:cs-go-draculan-6-2026-1403859@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260331T130000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: FNC vs TBD
 UID:cs-go-draculan-6-2026-1403856@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -268,15 +268,15 @@ SUMMARY:Lower bracket round 2 match 3: HAVU vs TBD
 UID:cs-go-draculan-6-2026-1403858@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Eternal Fire: 2 | aimclub: 1\nStream: https://kick.com/draculancsb
+DTEND:20260330T201338Z
 DTSTART:20260330T171519Z
 SUMMARY:Lower bracket round 1 match 4: EF vs AIMC
 UID:cs-go-draculan-6-2026-1403855@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Infinite: 0 | fnatic: 2\nStream: https://kick.com/draculancs
+DTEND:20260330T200608Z
 DTSTART:20260330T181502Z
 SUMMARY:Lower bracket round 1 match 1: INF vs FNC
 UID:cs-go-draculan-6-2026-1403852@tournamentics

@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Morningstar: 1 | Rare Atom: 3\nStream: https://www.twitch.tv/aferatv
+DTEND:20260326T065809Z
+DTSTART:20260326T032205Z
+SUMMARY:Grand final: MSTAR vs RA
+UID:cs-go-macemedia-void-spring-2026-1411922@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Last Bullet: 1\nStream: https://www.twitch.tv/kreeig_
+DTEND:20260324T081917Z
+DTSTART:20260324T060417Z
+SUMMARY:Upper bracket semifinal 2: RA vs LB
+UID:cs-go-macemedia-void-spring-2026-1411918@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Morningstar: 2 | Rare Atom: 1\nStream: No official stream linked
+DTEND:20260325T074344Z
+DTSTART:20260325T051018Z
+SUMMARY:Upper bracket final: MSTAR vs RA
+UID:cs-go-macemedia-void-spring-2026-1411921@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Morningstar: 2 | Just Swing: 0\nStream: https://www.douyu.com/9441362?dyshid=0-7ed75f0182f1a690a62c186900031701
+DTEND:20260324T051546Z
+DTSTART:20260324T033907Z
+SUMMARY:Upper bracket semifinal 1: MSTAR vs JS
+UID:cs-go-macemedia-void-spring-2026-1411917@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: MaceMedia VOID Cup - Spring 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Last Bullet: 1\nStream: No official stream linked
+DTEND:20260325T104158Z
+DTSTART:20260325T081000Z
+SUMMARY:Lower bracket final: RA vs LB
+UID:cs-go-macemedia-void-spring-2026-1411920@tournamentics
+END:VEVENT
+END:VCALENDAR
