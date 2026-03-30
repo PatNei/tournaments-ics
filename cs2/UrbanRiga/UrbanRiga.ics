@@ -2,104 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Exilium: 0 | Esport BERG: 1\nStream: No official stream linked
-DTEND:20260323T235617Z
-DTSTART:20260323T230923Z
-SUMMARY:Exilium vs BERG
-UID:cs-go-urban-riga-open-3-2026-1402023@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Exilium: 0\nStream: https://www.twitch.tv/kleverrgg
-DTEND:20260323T213033Z
-DTSTART:20260323T204827Z
-SUMMARY:AAB vs Exilium
-UID:cs-go-urban-riga-open-3-2026-1402019@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | 3DMAX: 2\nStream: https://www.twitch.tv/krl_stream
-DTEND:20260324T162513Z
-DTSTART:20260324T130643Z
-SUMMARY:Quarterfinal 4: AAB vs 3DMAX
-UID:cs-go-urban-riga-open-3-2026-1403089@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Wildcard: 1 | Exilium: 0\nStream: https://kick.com/urbancontenders
-DTEND:20260323T222721Z
-DTSTART:20260323T215317Z
-SUMMARY:WC vs Exilium
-UID:cs-go-urban-riga-open-3-2026-1402020@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: ASTRAL: 1 | Matrix: 0\nStream: https://kick.com/urbancontenders
-DTEND:20260323T193830Z
-DTSTART:20260323T190423Z
-SUMMARY:ASTRAL vs Matrix
-UID:cs-go-urban-riga-open-3-2026-1402016@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: 3DMAX: 1 | Phantom: 2\nStream: https://kick.com/urbancontenders
-DTEND:20260324T202924Z
-DTSTART:20260324T173959Z
-SUMMARY:Semifinal 1: 3DMAX vs PHA
-UID:cs-go-urban-riga-open-3-2026-1403090@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: No Surrender: 0 | OlyBet SB: 2\nStream: No official stream linked
-DTEND:20260324T103359Z
-DTSTART:20260324T090333Z
-SUMMARY:Quarterfinal 1: NOSR vs OBSB
-UID:cs-go-urban-riga-open-3-2026-1403086@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: OlyBet SB: 1 | Matrix: 0\nStream: https://www.twitch.tv/kleverrgg
-DTEND:20260323T173449Z
-DTSTART:20260323T170258Z
-SUMMARY:OBSB vs Matrix
-UID:cs-go-urban-riga-open-3-2026-1402013@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
-DTSTART:20260405T123000Z
-SUMMARY:Semifinal 2: TBD vs TBD
-UID:cs-go-urban-riga-open-4-2026-1421701@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Phantom: 1 | KUUSAMO.gg: 0\nStream: https://www.twitch.tv/byalli
-DTEND:20260323T145425Z
-DTSTART:20260323T135805Z
-SUMMARY:PHA vs KSM
-UID:cs-go-urban-riga-open-3-2026-1402009@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Phantom: 1 | EC BANGA: 0\nStream: https://kick.com/urbancontenders
-DTEND:20260323T154023Z
-DTSTART:20260323T151519Z
-SUMMARY:PHA vs EC BANGA
-UID:cs-go-urban-riga-open-3-2026-1402010@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Phantom: 0 | TNC: 1\nStream: https://www.twitch.tv/kleverrgg
-DTEND:20260323T133854Z
-DTSTART:20260323T130658Z
-SUMMARY:PHA vs TNC
-UID:cs-go-urban-riga-open-3-2026-1402006@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: 3DMAX: 1 | GAMEHARMONY: 0\nStream: https://www.twitch.tv/krl_stream
-DTEND:20260323T094452Z
-DTSTART:20260323T091620Z
-SUMMARY:3DMAX vs GHY
-UID:cs-go-urban-riga-open-3-2026-1402003@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: 3DMAX: 1 | FOKUS REALITY: 0\nStream: https://www.twitch.tv/krl_stream
-DTEND:20260323T084305Z
-DTSTART:20260323T082357Z
-SUMMARY:3DMAX vs FOKUS REALITY
-UID:cs-go-urban-riga-open-3-2026-1402000@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260404T130000Z
@@ -121,81 +23,18 @@ SUMMARY:TRI vs WC
 UID:cs-go-urban-riga-open-4-2026-1421691@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Wildcard: 0 | AaB Esport: 1\nStream: https://kick.com/urbancontenders
-DTEND:20260323T235427Z
-DTSTART:20260323T230844Z
-SUMMARY:WC vs AAB
-UID:cs-go-urban-riga-open-3-2026-1402022@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Wildcard: 1 | Esport BERG: 0\nStream: https://kick.com/urbancontenders
-DTEND:20260323T213233Z
-DTSTART:20260323T204648Z
-SUMMARY:WC vs BERG
-UID:cs-go-urban-riga-open-3-2026-1402018@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | Phantom: 0\nStream: https://kick.com/urbancontenders
-DTEND:20260325T003617Z
-DTSTART:20260324T211525Z
-SUMMARY:Grand final: FOKUS vs PHA
-UID:cs-go-urban-riga-open-3-2026-1403092@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | Wildcard: 0\nStream: https://www.twitch.tv/titaanitv
-DTEND:20260324T143222Z
-DTSTART:20260324T123729Z
-SUMMARY:Quarterfinal 3: FOKUS vs WC
-UID:cs-go-urban-riga-open-3-2026-1403088@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: ASTRAL: 1 | OlyBet SB: 0\nStream: https://kick.com/urbancontenders
-DTEND:20260323T182539Z
-DTSTART:20260323T175700Z
-SUMMARY:ASTRAL vs OBSB
-UID:cs-go-urban-riga-open-3-2026-1402015@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
-DTSTART:20260405T093000Z
-SUMMARY:Semifinal 1: TBD vs TBD
-UID:cs-go-urban-riga-open-4-2026-1421700@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: ASTRAL: 1 | Wave Esports: 0\nStream: https://kick.com/urbancontenders
-DTEND:20260323T174158Z
-DTSTART:20260323T170218Z
-SUMMARY:ASTRAL vs WAVE
-UID:cs-go-urban-riga-open-3-2026-1402012@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: EC BANGA: 0 | TNC: 1\nStream: https://kick.com/urbancontenders
-DTEND:20260323T142801Z
-DTSTART:20260323T135752Z
-SUMMARY:EC BANGA vs TNC
-UID:cs-go-urban-riga-open-3-2026-1402008@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: FOKUS REALITY: 0 | GAMEHARMONY: 1\nStream: https://www.twitch.tv/kleverrgg
-DTEND:20260323T110216Z
-DTSTART:20260323T101856Z
-SUMMARY:FOKUS REALITY vs GHY
-UID:cs-go-urban-riga-open-3-2026-1402005@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: FOKUS: 1 | FOKUS REALITY: 0\nStream: https://www.twitch.tv/titaanitv
-DTEND:20260323T095532Z
-DTSTART:20260323T092140Z
-SUMMARY:FOKUS vs FOKUS REALITY
-UID:cs-go-urban-riga-open-3-2026-1402002@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260404T163000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-urban-riga-open-4-2026-1421699@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
+DURATION:PT2H
+DTSTART:20260405T123000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-urban-riga-open-4-2026-1421701@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -219,81 +58,18 @@ SUMMARY:BST vs BIG.A
 UID:cs-go-urban-riga-open-4-2026-1421690@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Esport BERG: 0\nStream: https://www.twitch.tv/kleverrgg
-DTEND:20260323T225545Z
-DTSTART:20260323T215418Z
-SUMMARY:AAB vs BERG
-UID:cs-go-urban-riga-open-3-2026-1402021@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Wave Esports: 0 | OlyBet SB: 1\nStream: https://www.twitch.tv/kleverrgg
-DTEND:20260323T194413Z
-DTSTART:20260323T190854Z
-SUMMARY:WAVE vs OBSB
-UID:cs-go-urban-riga-open-3-2026-1402017@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: OlyBet SB: 0 | FOKUS: 2\nStream: https://www.twitch.tv/titaanitv
-DTEND:20260324T170534Z
-DTSTART:20260324T154029Z
-SUMMARY:Semifinal 2: OBSB vs FOKUS
-UID:cs-go-urban-riga-open-3-2026-1403091@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: ASTRAL: 0 | Phantom: 2\nStream: https://www.twitch.tv/officialhyper
-DTEND:20260324T111022Z
-DTSTART:20260324T090828Z
-SUMMARY:Quarterfinal 2: ASTRAL vs PHA
-UID:cs-go-urban-riga-open-3-2026-1403087@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: Matrix: 1 | Wave Esports: 0\nStream: https://www.twitch.tv/albi1985
-DTEND:20260323T184955Z
-DTSTART:20260323T175731Z
-SUMMARY:Matrix vs WAVE
-UID:cs-go-urban-riga-open-3-2026-1402014@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
-DURATION:PT2H
-DTSTART:20260405T160000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-urban-riga-open-4-2026-1421702@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: TNC: 1 | KUUSAMO.gg: 0\nStream: https://www.twitch.tv/titaanitv
-DTEND:20260323T155534Z
-DTSTART:20260323T151347Z
-SUMMARY:TNC vs KSM
-UID:cs-go-urban-riga-open-3-2026-1402011@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | EC BANGA: 0\nStream: https://kick.com/urbancontenders
-DTEND:20260323T130648Z
-DTSTART:20260323T123710Z
-SUMMARY:KSM vs EC BANGA
-UID:cs-go-urban-riga-open-3-2026-1402007@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | FOKUS: 1\nStream: https://www.twitch.tv/krl_stream
-DTEND:20260323T105923Z
-DTSTART:20260323T101335Z
-SUMMARY:3DMAX vs FOKUS
-UID:cs-go-urban-riga-open-3-2026-1402004@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #3 2026\nMatch Type: Best Of\nResult: FOKUS: 1 | GAMEHARMONY: 0\nStream: https://www.twitch.tv/grimyrannarrcs
-DTEND:20260323T090301Z
-DTSTART:20260323T082401Z
-SUMMARY:FOKUS vs GHY
-UID:cs-go-urban-riga-open-3-2026-1402001@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260404T130000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-urban-riga-open-4-2026-1421698@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
+DURATION:PT2H
+DTSTART:20260405T093000Z
+SUMMARY:Semifinal 1: TBD vs TBD
+UID:cs-go-urban-riga-open-4-2026-1421700@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -308,5 +84,12 @@ DURATION:PT2H
 DTSTART:20260403T130000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-urban-riga-open-4-2026-1421692@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nStream: https://kick.com/urbancontenders
+DURATION:PT2H
+DTSTART:20260405T160000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-urban-riga-open-4-2026-1421702@tournamentics
 END:VEVENT
 END:VCALENDAR
