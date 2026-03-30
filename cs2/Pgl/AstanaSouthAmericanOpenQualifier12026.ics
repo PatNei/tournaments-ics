@@ -1,0 +1,39 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 2 | Isurus: 1\nStream: https://www.twitch.tv/locomass22
+DTEND:20260324T041511Z
+DTSTART:20260324T010346Z
+SUMMARY:Semifinal 2: RED.A vs ISG
+UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413282@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Crashers: 0 | Keyd: 2\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260322T220000Z
+SUMMARY:Quarterfinal 2: CRASH vs Keyd
+UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413278@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | ALKA: 0\nStream: No official stream linked
+DTEND:20260323T205203Z
+DTSTART:20260323T190138Z
+SUMMARY:Quarterfinal 1: GH vs ALKAa
+UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413277@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: Isurus: 2 | METANOIA WOLVES: 0\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260322T220000Z
+SUMMARY:Quarterfinal 3: ISG vs MW
+UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413279@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Open Qualifier #1 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 1 | RED Canids Academy: 2\nStream: https://www.twitch.tv/bestia_corp
+DTEND:20260324T005311Z
+DTSTART:20260323T222541Z
+SUMMARY:Quarterfinal 4: BST.A vs RED.A
+UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413280@tournamentics
+END:VEVENT
+END:VCALENDAR
