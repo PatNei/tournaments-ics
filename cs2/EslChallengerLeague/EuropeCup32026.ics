@@ -135,11 +135,11 @@ SUMMARY:Upper bracket round 2 match 9: OMG vs G2.A
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420006@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
-DURATION:PT2H
-DTSTART:20260331T132000Z
-SUMMARY:Lower bracket round 1 match 4: BIG.E vs EXSAD Gaming
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420062@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: m1x: 1 | QUAZAR: 2\nStream: https://www.twitch.tv/GoYareGo
+DTEND:20260329T170619Z
+DTSTART:20260329T130722Z
+SUMMARY:Upper bracket round 1 match 6: m1x vs QUA
+UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -147,13 +147,6 @@ DURATION:PT2H
 DTSTART:20260401T130000Z
 SUMMARY:Lower bracket round 2 match 8: PGE vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420058@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: m1x: 1 | QUAZAR: 2\nStream: https://www.twitch.tv/GoYareGo
-DTEND:20260329T170619Z
-DTSTART:20260329T130722Z
-SUMMARY:Upper bracket round 1 match 6: m1x vs QUA
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419991@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -422,7 +415,7 @@ SUMMARY:Upper bracket round 3 match 4: ENCE.A vs QUA
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/iikka_artturi
 DURATION:PT2H
 DTSTART:20260331T170000Z
 SUMMARY:Lower bracket round 1 match 11: ROTTW vs AHK
@@ -509,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T130000Z
-SUMMARY:Lower bracket round 2 match 3: GRIND vs TBD
+SUMMARY:Lower bracket round 2 match 3: GRIND vs BIG.E
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420053@tournamentics
 END:VEVENT
 BEGIN:VEVENT
