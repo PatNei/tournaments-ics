@@ -1307,7 +1307,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260404T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: Hashiras vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4464,7 +4464,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T110000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: THE vs TBD
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6305,7 +6305,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260331T110000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: VTM vs TBD
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6687,8 +6687,8 @@ SUMMARY:TAZ vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | Bebop: 0\nStream: https://www.kick.com/cct_cs
+DTEND:20260331T102124Z
 DTSTART:20260331T080711Z
 SUMMARY:Round 2: ex-RUBY vs BBP
 UID:cs-go-cct-europe-series-20-3-2026-1406937@tournamentics
@@ -7107,8 +7107,8 @@ SUMMARY:Upper bracket semifinal 2: 1WIN vs URSA
 UID:cs-go-esl-challenger-league-europe-cup-2-51-2026-1398095@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | VTM Esports: 0\nStream: No official stream linked
+DTEND:20260331T102630Z
 DTSTART:20260331T085948Z
 SUMMARY:Upper bracket semifinal 2: THE vs VTM
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424101@tournamentics
@@ -8080,8 +8080,8 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nResult: B8: 1 | maquinas: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260331T102359Z
 DTSTART:20260331T100340Z
 SUMMARY:B8 vs maquinas
 UID:cs-go-parken-challenger-championship-3-2026-1418612@tournamentics
@@ -8489,7 +8489,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260404T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Imperial.A vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8759,8 +8759,8 @@ SUMMARY:Round 1: Leo vs ALGO
 UID:cs-go-cct-europe-series-19-3-2026-1398982@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: Hashiras: 2 | Imperial Academy: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260331T101807Z
 DTSTART:20260331T081519Z
 SUMMARY:Hashiras vs Imperial.A
 UID:cs-go-european-pro-league-series-6-2026-1400861@tournamentics
