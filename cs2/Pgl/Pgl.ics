@@ -114,8 +114,8 @@ SUMMARY:Upper bracket quarterfinal 4: HOTU vs ACROBATS
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403897@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | WW Team: 0\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260331T131237Z
 DTSTART:20260331T113757Z
 SUMMARY:Upper bracket quarterfinal 1: K27 vs WW
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403894@tournamentics
@@ -333,7 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T133000Z
+DTSTART:20260331T141500Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424603@tournamentics
 END:VEVENT
@@ -488,7 +488,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T140000Z
-SUMMARY:Upper bracket semifinal 1: Lavked vs TBD
+SUMMARY:Upper bracket semifinal 1: Lavked vs K27
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -543,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T133000Z
+DTSTART:20260331T141500Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424602@tournamentics
 END:VEVENT
@@ -551,7 +551,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T080000Z
-SUMMARY:Lower bracket round 1 match 1: ILWL vs TBD
+SUMMARY:Lower bracket round 1 match 1: ILWL vs WW
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403898@tournamentics
 END:VEVENT
 BEGIN:VEVENT

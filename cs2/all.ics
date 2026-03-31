@@ -2447,7 +2447,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T133000Z
+DTSTART:20260331T141500Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424602@tournamentics
 END:VEVENT
@@ -2461,7 +2461,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T131000Z
+DTSTART:20260331T133500Z
 SUMMARY:Lower bracket round 1 match 2: IDoPieca vs NM
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420060@tournamentics
 END:VEVENT
@@ -3022,7 +3022,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T140000Z
-SUMMARY:Upper bracket semifinal 1: Lavked vs TBD
+SUMMARY:Upper bracket semifinal 1: Lavked vs K27
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5962,7 +5962,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T080000Z
-SUMMARY:Lower bracket round 1 match 1: ILWL vs TBD
+SUMMARY:Lower bracket round 1 match 1: ILWL vs WW
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6780,7 +6780,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
 DURATION:PT2H
-DTSTART:20260331T131000Z
+DTSTART:20260331T132000Z
 SUMMARY:Lower bracket round 1 match 4: BIG.E vs EXSAD Gaming
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420062@tournamentics
 END:VEVENT
@@ -6792,8 +6792,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-europe-series-19-3-2026-1399022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/watchfulTVb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | WW Team: 0\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260331T131237Z
 DTSTART:20260331T113757Z
 SUMMARY:Upper bracket quarterfinal 1: K27 vs WW
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403894@tournamentics
@@ -7469,13 +7469,6 @@ DTEND:20260329T115447Z
 DTSTART:20260329T103541Z
 SUMMARY:BIG vs SIN
 UID:cs-go-roman-imperium-cup-7-2026-1413616@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kevindoruk
-DURATION:PT2H
-DTSTART:20260331T130000Z
-SUMMARY:Lower bracket round 1 match 1: YNG vs FC
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420059@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: ex-RUBY: 0 | QWENTRY: 2\nStream: https://kick.com/cct_cs2
@@ -9196,7 +9189,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T130000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs LILMIX
+SUMMARY:Lower bracket round 2 match 1: YNG vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420051@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -9517,7 +9510,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T133000Z
+DTSTART:20260331T141500Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424603@tournamentics
 END:VEVENT
