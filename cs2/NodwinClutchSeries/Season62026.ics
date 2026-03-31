@@ -187,7 +187,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260401T110000Z
-SUMMARY:Quarterfinal 2: KOL vs TBD
+SUMMARY:Quarterfinal 2: KOL vs NTR
 UID:cs-go-nodwin-clutch-series-6-2026-1389809@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -401,8 +401,8 @@ SUMMARY:Round 2: RBLS vs ALGO
 UID:cs-go-nodwin-clutch-series-6-2026-1389776@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | ex-RUBY: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260331T203943Z
 DTSTART:20260331T170644Z
 SUMMARY:Round of 16 match 3: NTR vs ex-RUBY
 UID:cs-go-nodwin-clutch-series-6-2026-1389802@tournamentics
