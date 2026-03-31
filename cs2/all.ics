@@ -179,7 +179,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/forg1
 DURATION:PT2H
-DTSTART:20260331T230000Z
+DTSTART:20260331T231500Z
 SUMMARY:Upper bracket quarterfinal 4: 9z vs RED.A
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404071@tournamentics
 END:VEVENT
@@ -2480,9 +2480,9 @@ SUMMARY:Semifinal 1: VIT vs AUR
 UID:cs-go-blast-open-rotterdam-spring-2026-1394951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
+DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
 DURATION:PT2H
-DTSTART:20260331T230000Z
+DTSTART:20260331T231656Z
 SUMMARY:Round 1: BOSS vs AKIMBO
 UID:cs-go-dust2-us-eagle-masters-7-2026-1422176@tournamentics
 END:VEVENT
@@ -4085,7 +4085,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260331T230000Z
+DTSTART:20260331T231500Z
 SUMMARY:Round 3: Keyd vs VSC
 UID:cs-go-betboom-storm-2-2026-1413576@tournamentics
 END:VEVENT
@@ -4890,7 +4890,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T230000Z
+DTSTART:20260331T231500Z
 SUMMARY:Upper bracket quarterfinal 1: FV vs REGAIN
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404164@tournamentics
 END:VEVENT
@@ -7800,8 +7800,8 @@ SUMMARY:FOKUS vs GHY
 UID:cs-go-urban-riga-open-3-2026-1402001@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: DashSkins: 2 | UNO MILLE: 0\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260331T231540Z
 DTSTART:20260331T214128Z
 SUMMARY:Quarterfinal 2: DS vs UNO
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1425488@tournamentics
