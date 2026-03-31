@@ -835,8 +835,8 @@ SUMMARY:3DMAX vs FOKUS REALITY
 UID:cs-go-urban-riga-open-3-2026-1402000@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 2 | BESTIA Academy: 0\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260331T211349Z
 DTSTART:20260331T190908Z
 SUMMARY:Quarterfinal 1: RED.A vs BST.A
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1425487@tournamentics
@@ -1026,7 +1026,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260401T110000Z
+DTSTART:20260401T080000Z
 SUMMARY:Quarterfinal 2: KOL vs NTR
 UID:cs-go-nodwin-clutch-series-6-2026-1389809@tournamentics
 END:VEVENT
@@ -1699,7 +1699,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260401T160000Z
-SUMMARY:Upper bracket final: MNTE vs TBD
+SUMMARY:Upper bracket final: MNTE vs M80
 UID:cs-go-draculan-6-2026-1403850@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2025,8 +2025,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cis-lan-championship-4-2026-1423153@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: Alliance: 2 | fnatic: 0\nStream: https://kick.com/draculancs
+DTEND:20260331T212418Z
 DTSTART:20260331T191809Z
 SUMMARY:Lower bracket round 3 match 1: ALL vs FNC
 UID:cs-go-draculan-6-2026-1403860@tournamentics
@@ -2928,8 +2928,8 @@ SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Game Hunters: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260331T213450Z
 DTSTART:20260331T200617Z
 SUMMARY:Upper bracket quarterfinal 3: FDB vs GH
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404070@tournamentics
@@ -3693,7 +3693,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260401T080000Z
+DTSTART:20260401T140000Z
 SUMMARY:Quarterfinal 1: ILWL vs AM
 UID:cs-go-nodwin-clutch-series-6-2026-1389808@tournamentics
 END:VEVENT
@@ -3988,7 +3988,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T230000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: FDB vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5534,7 +5534,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260401T140000Z
+DTSTART:20260401T110000Z
 SUMMARY:Quarterfinal 3: ECS vs JS
 UID:cs-go-nodwin-clutch-series-6-2026-1389810@tournamentics
 END:VEVENT
@@ -6312,7 +6312,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancs
 DURATION:PT2H
 DTSTART:20260401T130000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: AUR vs ALL
 UID:cs-go-draculan-6-2026-1403862@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7460,7 +7460,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T170000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: GH vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404082@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7800,9 +7800,9 @@ SUMMARY:FOKUS vs GHY
 UID:cs-go-urban-riga-open-3-2026-1402001@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
-DTSTART:20260331T210000Z
+DTSTART:20260331T214128Z
 SUMMARY:Quarterfinal 2: DS vs UNO
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1425488@tournamentics
 END:VEVENT
@@ -9389,8 +9389,8 @@ SUMMARY:Upper bracket round 1 match 5: O49 vs CCE
 UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397690@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/draculancsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: M80: 2 | Aurora Gaming: 1\nStream: https://kick.com/draculancsb
+DTEND:20260331T211646Z
 DTSTART:20260331T182825Z
 SUMMARY:Upper bracket semifinal 1: M80 vs AUR
 UID:cs-go-draculan-6-2026-1403848@tournamentics
