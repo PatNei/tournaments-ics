@@ -564,7 +564,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260331T103000Z
+DTSTART:20260331T105000Z
 SUMMARY:RT vs IC.A
 UID:cs-go-united21-47-2026-1423178@tournamentics
 END:VEVENT
@@ -4995,7 +4995,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T103000Z
+DTSTART:20260331T104500Z
 SUMMARY:Upper bracket semifinal 2: HH vs TU
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424601@tournamentics
 END:VEVENT
@@ -5399,8 +5399,8 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421572@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nResult: Phantom: 1 | WAZABI: 0\nStream: https://kick.com/challengerchampionship_c
+DTEND:20260331T104015Z
 DTSTART:20260331T100823Z
 SUMMARY:PHA vs WAZ
 UID:cs-go-parken-challenger-championship-3-2026-1418613@tournamentics
@@ -6064,9 +6064,9 @@ SUMMARY:Round 2: RE vs  CSDIILIT
 UID:cs-go-cct-europe-series-19-3-2026-1398983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260331T104000Z
+DTSTART:20260331T104230Z
 SUMMARY:MINLATE vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400862@tournamentics
 END:VEVENT
@@ -7242,7 +7242,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260331T110000Z
+DTSTART:20260331T111500Z
 SUMMARY:Round of 16 match 2: JS vs QWE
 UID:cs-go-cct-europe-series-19-3-2026-1399009@tournamentics
 END:VEVENT
@@ -7662,7 +7662,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T103000Z
+DTSTART:20260331T104500Z
 SUMMARY:Upper bracket semifinal 1: LEGION vs DEPO
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424600@tournamentics
 END:VEVENT
