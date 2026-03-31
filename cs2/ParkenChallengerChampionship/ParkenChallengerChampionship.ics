@@ -37,11 +37,11 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-parken-challenger-championship-3-2026-1419475@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_d
+DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
 DURATION:PT2H
-DTSTART:20260331T114500Z
-SUMMARY:Atputies vs AAB
-UID:cs-go-parken-challenger-championship-3-2026-1418630@tournamentics
+DTSTART:20260331T190000Z
+SUMMARY:AM vs maquinas
+UID:cs-go-parken-challenger-championship-3-2026-1418626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -49,13 +49,6 @@ DURATION:PT2H
 DTSTART:20260401T080000Z
 SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
 UID:cs-go-parken-challenger-championship-3-2026-1419472@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
-DTSTART:20260331T190000Z
-SUMMARY:AM vs maquinas
-UID:cs-go-parken-challenger-championship-3-2026-1418626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
@@ -282,8 +275,8 @@ SUMMARY:maquinas vs Z7
 UID:cs-go-parken-challenger-championship-3-2026-1418617@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nResult: AM Gaming: 1 | Z7 Esports: 0\nStream: https://kick.com/challengerchampionship_c
+DTEND:20260331T115934Z
 DTSTART:20260331T113502Z
 SUMMARY:AM vs Z7
 UID:cs-go-parken-challenger-championship-3-2026-1418614@tournamentics
