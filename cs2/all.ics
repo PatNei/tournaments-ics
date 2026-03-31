@@ -1913,13 +1913,6 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-urban-riga-open-4-2026-1421699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_d
-DURATION:PT2H
-DTSTART:20260331T190000Z
-SUMMARY:SASHI.A vs Atputies
-UID:cs-go-parken-challenger-championship-3-2026-1418641@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260407T080000Z
@@ -3085,7 +3078,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260401T170000Z
-SUMMARY:Quarterfinal 4: NEM vs TBD
+SUMMARY:Quarterfinal 4: NEM vs NEMI
 UID:cs-go-nodwin-clutch-series-6-2026-1389811@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5161,13 +5154,6 @@ SUMMARY:Elimination match: LILMIX vs RE
 UID:cs-go-european-pro-league-series-6-2026-1400832@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_d
-DURATION:PT2H
-DTSTART:20260331T160000Z
-SUMMARY:Atputies vs Falcons Force
-UID:cs-go-parken-challenger-championship-3-2026-1418637@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Young TigeRES: 2 | Spirit Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260326T193903Z
 DTSTART:20260326T163724Z
@@ -5980,13 +5966,6 @@ SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
-DTSTART:20260331T130000Z
-SUMMARY:Atputies vs 3DMAX
-UID:cs-go-parken-challenger-championship-3-2026-1418633@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260403T100000Z
@@ -6290,7 +6269,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T122000Z
+DTSTART:20260331T123500Z
 SUMMARY:Lower bracket semifinal: VTM vs CW
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424105@tournamentics
 END:VEVENT
@@ -9025,13 +9004,6 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
-DTSTART:20260331T200000Z
-SUMMARY:BST vs Atputies
-UID:cs-go-parken-challenger-championship-3-2026-1418642@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260406T080000Z
@@ -9074,8 +9046,8 @@ SUMMARY:Round 3: UNO vs HWGA
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | ALGO Esports: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260331T123357Z
 DTSTART:20260331T110324Z
 SUMMARY:Round of 16 match 7: NEMI vs ALGO
 UID:cs-go-nodwin-clutch-series-6-2026-1389806@tournamentics
