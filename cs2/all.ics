@@ -562,9 +562,9 @@ SUMMARY:Quarterfinal 4: BST.A vs RED.A
 UID:cs-go-pgl-astana-south-american-open-qualifier-1-2026-1413280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260331T105000Z
+DTSTART:20260331T105742Z
 SUMMARY:RT vs IC.A
 UID:cs-go-united21-47-2026-1423178@tournamentics
 END:VEVENT
@@ -4463,7 +4463,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T110000Z
+DTSTART:20260331T114500Z
 SUMMARY:Upper bracket final: THE vs TBD
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424102@tournamentics
 END:VEVENT
@@ -4995,7 +4995,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T104500Z
+DTSTART:20260331T110000Z
 SUMMARY:Upper bracket semifinal 2: HH vs TU
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424601@tournamentics
 END:VEVENT
@@ -6304,7 +6304,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T110000Z
+DTSTART:20260331T114500Z
 SUMMARY:Lower bracket semifinal: VTM vs TBD
 UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424105@tournamentics
 END:VEVENT
@@ -7662,7 +7662,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T104500Z
+DTSTART:20260331T110000Z
 SUMMARY:Upper bracket semifinal 1: LEGION vs DEPO
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424600@tournamentics
 END:VEVENT
@@ -9473,8 +9473,8 @@ SUMMARY:WW vs MEGO
 UID:cs-go-european-pro-league-series-6-2026-1400824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_d
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Falcons Force: 0\nStream: https://kick.com/challengerchampionship_d
+DTEND:20260331T105028Z
 DTSTART:20260331T100506Z
 SUMMARY:AAB vs Falcons Force
 UID:cs-go-parken-challenger-championship-3-2026-1418629@tournamentics
