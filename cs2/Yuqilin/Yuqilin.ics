@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
 DURATION:PT2H
 DTSTART:20260402T103000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: RA vs TBD
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424610@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Elimination match: Chaos Gaming vs LB
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424615@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nResult: TYLOO: 2 | Rare Atom: 0\nStream: https://www.twitch.tv/narodcast
+DTEND:20260331T135827Z
 DTSTART:20260331T122502Z
 SUMMARY:Winners match: TYLOO vs RA
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424608@tournamentics

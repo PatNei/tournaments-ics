@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260404T103000Z
-SUMMARY:Winners match: Hashiras vs TBD
+SUMMARY:Winners match: Hashiras vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-european-pro-league-series-6-2026-1400946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: MINLATE: 1 | HEROIC Academy: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260331T135953Z
 DTSTART:20260331T104230Z
 SUMMARY:MINLATE vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400862@tournamentics
@@ -215,7 +215,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260404T080000Z
-SUMMARY:Elimination match: Imperial.A vs TBD
+SUMMARY:Elimination match: Imperial.A vs MINLATE
 UID:cs-go-european-pro-league-series-6-2026-1400932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
