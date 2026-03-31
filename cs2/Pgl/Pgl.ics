@@ -44,11 +44,25 @@ SUMMARY:Quarterfinal 4: NTR vs BB
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T080000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424599@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Open Qualifier #1 2026\nMatch Type: Best Of\nResult: WROTBERRY: 2 | QUAZAR: 1\nStream: https://www.twitch.tv/fyflo
 DTEND:20260323T200505Z
 DTSTART:20260323T170455Z
 SUMMARY:Quarterfinal 1: WROTBERRY vs QUA
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413190@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T080000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -261,6 +275,13 @@ SUMMARY:Quarterfinal 3: Inner Circle Academy vs MGC
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413192@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T050000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424598@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T170000Z
@@ -268,11 +289,11 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404082@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260403T190000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404163@tournamentics
+DTSTART:20260331T050000Z
+SUMMARY:Upper bracket semifinal 2: MF vs 11mins
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -280,6 +301,13 @@ DURATION:PT2H
 DTSTART:20260401T230000Z
 SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404169@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DURATION:PT2H
+DTSTART:20260403T190000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404163@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -455,6 +483,20 @@ DTEND:20260323T193320Z
 DTSTART:20260323T170002Z
 SUMMARY:Quarterfinal 2: Lavked vs Atreides
 UID:cs-go-pgl-astana-european-open-qualifier-1-2026-1413191@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T080000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424597@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T050000Z
+SUMMARY:Upper bracket semifinal 1: GZ vs Abyssal
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424594@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL

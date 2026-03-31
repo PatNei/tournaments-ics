@@ -821,6 +821,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEuropeanO
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanOpenQualifier12026.ics
 ```
 
+### Astana: Oceania Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaOceaniaClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaOceaniaClosedQualifier2026.ics
+```
+
 ### Astana: South American Open Qualifier #1 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanOpenQualifier12026.ics)
 

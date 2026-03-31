@@ -261,6 +261,13 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T050000Z
+SUMMARY:Upper bracket semifinal 2: MF vs 11mins
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424595@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260403T210000Z
@@ -1150,18 +1157,18 @@ SUMMARY:Quarterfinal 1: BOSS vs FXT
 UID:cs-go-pgl-astana-north-american-open-qualifier-1-2026-1412071@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Outfit 49: 1 | Team Aether: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260325T044700Z
-DTSTART:20260325T020104Z
-SUMMARY:Lower bracket quarterfinal 2: O49 vs TA
-UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397983@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: rottweilers: 0 | KOLESIE: 2\nStream: https://kick.com/starladder
 DTEND:20260322T175111Z
 DTSTART:20260322T160742Z
 SUMMARY:Winners match: rottweilers vs KOL
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404821@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nResult: Outfit 49: 1 | Team Aether: 2\nStream: https://www.twitch.tv/bonamant
+DTEND:20260325T044700Z
+DTSTART:20260325T020104Z
+SUMMARY:Lower bracket quarterfinal 2: O49 vs TA
+UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Fluxo W7M: 1\nStream: https://kick.com/watchfultvb
@@ -2179,6 +2186,13 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403906@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T050000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424598@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: ASTRAL: 1 | Leo Team: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260323T115320Z
 DTSTART:20260323T090307Z
@@ -2991,6 +3005,13 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T050000Z
+SUMMARY:Upper bracket semifinal 1: GZ vs Abyssal
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424594@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260404T210000Z
@@ -3782,18 +3803,18 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nResult: F5 Esports: 0 | LAG Gaming: 2\nStream: https://www.twitch.tv/eslcs
-DTEND:20260325T033726Z
-DTSTART:20260325T020015Z
-SUMMARY:Lower bracket quarterfinal 1: F5 vs LAG
-UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397982@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: rottweilers: 2 | Diamant Esports: 0\nStream: https://kick.com/starladder
 DTEND:20260320T172756Z
 DTSTART:20260320T160448Z
 SUMMARY:rottweilers vs Diamant Esports
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404820@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #2 season 51 2026\nMatch Type: Best Of\nResult: F5 Esports: 0 | LAG Gaming: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260325T033726Z
+DTSTART:20260325T020015Z
+SUMMARY:Lower bracket quarterfinal 1: F5 vs LAG
+UID:cs-go-esl-challenger-league-north-america-cup-2-51-2026-1397982@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Heroic: 1 | SAW: 0\nStream: https://kick.com/watchfultv
@@ -4676,6 +4697,13 @@ DURATION:PT2H
 DTSTART:20260402T170000Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403905@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T080000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -7296,6 +7324,13 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260331T080000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424596@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260403T210000Z
@@ -9163,6 +9198,13 @@ DTEND:20260315T164359Z
 DTSTART:20260315T150446Z
 SUMMARY:TLR vs HERO.A
 UID:cs-go-nodwin-clutch-series-6-2026-1389701@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260401T080000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | MANA eSports: 1\nStream: https://kick.com/nodwin_cs2
