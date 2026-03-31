@@ -4,9 +4,9 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T080000Z
-SUMMARY:Lower bracket semifinal: MF vs Abyssal
-UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424597@tournamentics
+DTSTART:20260401T080000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Abyssal: 0\nStream: No official stream linked
@@ -18,9 +18,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260401T080000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424599@tournamentics
+DTSTART:20260401T050000Z
+SUMMARY:Lower bracket final: Abyssal vs TBD
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -28,12 +28,5 @@ DURATION:PT2H
 DTSTART:20260331T080000Z
 SUMMARY:Upper bracket final: 11mins vs GZ
 UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424596@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260401T050000Z
-SUMMARY:Lower bracket final: TBD vs TBD
-UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424598@tournamentics
 END:VEVENT
 END:VCALENDAR

@@ -2203,7 +2203,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T050000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: Abyssal vs TBD
 UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4762,13 +4762,6 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403905@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260331T080000Z
-SUMMARY:Lower bracket semifinal: MF vs Abyssal
-UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424597@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260403T210000Z
@@ -7198,6 +7191,13 @@ SUMMARY:Quarterfinal 1: OLDBOYS- vs ENJOY
 UID:cs-go-esea-european-finals-56-2026-1418464@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: Galorys: 0 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/aorusbr
+DTEND:20260318T013459Z
+DTSTART:20260318T003852Z
+SUMMARY:Winners match: GLS vs BHE
+UID:cs-go-aorus-brazil-online-stage-2026-1400292@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Roman Imperium Cup - Season 7 2026\nMatch Type: Best Of\nResult: Heroic: 1 | CYBERSHOKE Esports: 0\nStream: https://kick.com/roman
 DTEND:20260328T193405Z
 DTSTART:20260328T184032Z
@@ -7217,13 +7217,6 @@ DURATION:PT2H
 DTSTART:20260413T160000Z
 SUMMARY:LEI vs REV
 UID:cs-go-dach-cs-masters-5-2026-1385733@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Aorus League - Brazil Online Stage 2026\nMatch Type: Best Of\nResult: Galorys: 0 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/aorusbr
-DTEND:20260318T013459Z
-DTSTART:20260318T003852Z
-SUMMARY:Winners match: GLS vs BHE
-UID:cs-go-aorus-brazil-online-stage-2026-1400292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Brute: 2 | The Last Resort: 0\nStream: https://kick.com/exort_en2
