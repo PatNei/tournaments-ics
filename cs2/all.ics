@@ -2118,7 +2118,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Yuqilin - Pinnacle of Battle season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/narodcast
 DURATION:PT2H
-DTSTART:20260331T110000Z
+DTSTART:20260331T120000Z
 SUMMARY:Winners match: TYLOO vs TBD
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424608@tournamentics
 END:VEVENT
@@ -4988,7 +4988,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T110000Z
+DTSTART:20260331T111500Z
 SUMMARY:Upper bracket semifinal 2: HH vs TU
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424601@tournamentics
 END:VEVENT
@@ -7233,9 +7233,9 @@ SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-cis-lan-championship-4-2026-1423151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260331T111500Z
+DTSTART:20260331T110956Z
 SUMMARY:Round of 16 match 2: JS vs QWE
 UID:cs-go-cct-europe-series-19-3-2026-1399009@tournamentics
 END:VEVENT
@@ -7655,7 +7655,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T110000Z
+DTSTART:20260331T111500Z
 SUMMARY:Upper bracket semifinal 1: LEGION vs DEPO
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424600@tournamentics
 END:VEVENT
