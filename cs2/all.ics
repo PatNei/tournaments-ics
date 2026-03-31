@@ -264,7 +264,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T170000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: MGC vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1535,7 +1535,7 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404169@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260331T170000Z
 SUMMARY:Lower bracket round 1 match 6: Lavked vs zajezdzacze
@@ -1570,8 +1570,8 @@ SUMMARY:Upper bracket round 1 match 4: F5 vs FV
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421610@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/Trottah
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: 100 Thieves: 1 | magic: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260331T165849Z
 DTSTART:20260331T141552Z
 SUMMARY:Upper bracket quarterfinal 3: 100T vs MGC
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403896@tournamentics
@@ -3421,7 +3421,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T110000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: 100T vs TBD
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
