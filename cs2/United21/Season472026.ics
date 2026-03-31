@@ -40,14 +40,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260404T080000Z
-SUMMARY:Winners match: FF vs TBD
+SUMMARY:Winners match: FF vs IC.A
 UID:cs-go-united21-47-2026-1423179@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260404T103000Z
-SUMMARY:Elimination match: XI vs TBD
+SUMMARY:Elimination match: XI vs RT
 UID:cs-go-united21-47-2026-1423180@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:KSM vs YN
 UID:cs-go-united21-47-2026-1423182@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: ReThink: 1 | Inner Circle Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260331T141731Z
 DTSTART:20260331T105742Z
 SUMMARY:RT vs IC.A
 UID:cs-go-united21-47-2026-1423178@tournamentics

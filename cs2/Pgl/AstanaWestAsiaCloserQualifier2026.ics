@@ -11,13 +11,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T141500Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+DTSTART:20260331T143000Z
+SUMMARY:Lower bracket semifinal: DEPO vs TBD
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 2 | DEPO: 1\nStream: No official stream linked
+DTEND:20260331T141553Z
 DTSTART:20260331T112626Z
 SUMMARY:Upper bracket semifinal 1: LEGION vs DEPO
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424600@tournamentics
@@ -32,8 +32,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260331T141500Z
-SUMMARY:Upper bracket final: TBD vs TBD
+DTSTART:20260331T143000Z
+SUMMARY:Upper bracket final: LEGION vs TBD
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
