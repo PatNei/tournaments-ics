@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T103000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: DEPO vs TBD
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -331,8 +331,8 @@ SUMMARY:Upper bracket quarterfinal 1: DS vs Keyd
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404068@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: DEPO: 2 | THE UNIT: 0\nStream: No official stream linked
+DTEND:20260331T160218Z
 DTSTART:20260331T145122Z
 SUMMARY:Lower bracket semifinal: DEPO vs TU
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424603@tournamentics

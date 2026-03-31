@@ -1227,9 +1227,9 @@ SUMMARY:Round of 16 match 7: OG vs ALGO
 UID:cs-go-cct-europe-series-19-3-2026-1399014@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
+DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
 DURATION:PT2H
-DTSTART:20260331T160000Z
+DTSTART:20260331T160259Z
 SUMMARY:maquinas vs PHA
 UID:cs-go-parken-challenger-championship-3-2026-1418621@tournamentics
 END:VEVENT
@@ -1969,8 +1969,8 @@ SUMMARY:Round 3: ISG vs GE
 UID:cs-go-champion-of-champions-tour-series-10-3-2026-1394901@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | The Last Resort: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260331T155708Z
 DTSTART:20260331T141454Z
 SUMMARY:Round of 16 match 6: JS vs TLR
 UID:cs-go-nodwin-clutch-series-6-2026-1389805@tournamentics
@@ -5626,7 +5626,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260401T140000Z
-SUMMARY:Quarterfinal 3: ECS vs TBD
+SUMMARY:Quarterfinal 3: ECS vs JS
 UID:cs-go-nodwin-clutch-series-6-2026-1389810@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6788,7 +6788,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260401T103000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: DEPO vs TBD
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7828,9 +7828,9 @@ SUMMARY:Winners match: AAB vs BB
 UID:cs-go-european-pro-league-series-6-2026-1400831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
+DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
 DURATION:PT2H
-DTSTART:20260331T160000Z
+DTSTART:20260331T160201Z
 SUMMARY:BST vs SASHI.A
 UID:cs-go-parken-challenger-championship-3-2026-1418636@tournamentics
 END:VEVENT
@@ -8374,9 +8374,9 @@ SUMMARY:Round of 16 match 8: ESC vs Leo
 UID:cs-go-cct-europe-series-19-3-2026-1399015@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
+DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260331T160000Z
+DTSTART:20260331T160207Z
 SUMMARY:B8 vs AM
 UID:cs-go-parken-challenger-championship-3-2026-1418622@tournamentics
 END:VEVENT
@@ -9522,8 +9522,8 @@ SUMMARY:Upper bracket quarterfinal 3: O49 vs BOSS
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: DEPO: 2 | THE UNIT: 0\nStream: No official stream linked
+DTEND:20260331T160218Z
 DTSTART:20260331T145122Z
 SUMMARY:Lower bracket semifinal: DEPO vs TU
 UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424603@tournamentics
