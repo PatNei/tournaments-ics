@@ -61,12 +61,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T230000Z
-SUMMARY:Upper bracket semifinal 2: FDB vs TBD
+SUMMARY:Upper bracket semifinal 2: FDB vs 9z
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/forg1
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9z: 2 | RED Canids Academy: 0\nStream: https://kick.com/forg1
+DTEND:20260401T003547Z
 DTSTART:20260331T231825Z
 SUMMARY:Upper bracket quarterfinal 4: 9z vs RED.A
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404071@tournamentics
@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260401T170000Z
-SUMMARY:Lower bracket round 1 match 2: GH vs TBD
+SUMMARY:Lower bracket round 1 match 2: GH vs RED.A
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404082@tournamentics
 END:VEVENT
 END:VCALENDAR
