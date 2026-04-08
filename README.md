@@ -36,27 +36,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Rio2026.ics
 ## A Tier
 
 <details>
-<summary>BLAST Open</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/BlastOpen.ics
-```
-
----
-
-### Rotterdam Spring 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/RotterdamSpring2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastOpen/RotterdamSpring2026.ics
-```
-
-</details>
-
-<details>
 <summary>PGL</summary>
 
 ### Full Schedule

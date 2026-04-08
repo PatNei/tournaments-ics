@@ -9,13 +9,6 @@ SUMMARY:Lower bracket round 1 match 10: TNT vs RT
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420068@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: OlyBet SB: 0 | Donstu Esports: 2\nStream: No official stream linked
-DTEND:20260331T185151Z
-DTSTART:20260331T171324Z
-SUMMARY:Lower bracket round 1 match 7: OBSB vs DNT
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420065@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: The QUBE Esports: 2 | Boring Players: 1\nStream: https://www.twitch.tv/kevindoruk
 DTEND:20260404T161917Z
 DTSTART:20260404T131318Z
@@ -23,11 +16,25 @@ SUMMARY:Lower bracket round 2 match 1: QUBE vs BP
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421673@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: OlyBet SB: 0 | Donstu Esports: 2\nStream: No official stream linked
+DTEND:20260331T185151Z
+DTSTART:20260331T171324Z
+SUMMARY:Lower bracket round 1 match 7: OBSB vs DNT
+UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420065@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: Reign Above: 0 | Zomblers: 2\nStream: https://www.twitch.tv/kevindoruk
 DTEND:20260404T024402Z
 DTSTART:20260404T010650Z
 SUMMARY:Upper bracket quarterfinal 3: Reign Above vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421617@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | 5star: 1\nStream: No official stream linked
+DTEND:20260402T155213Z
+DTSTART:20260402T133025Z
+SUMMARY:Upper bracket round 1 match 4: CW vs 5S
+UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421656@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | Surge: 1\nStream: https://www.twitch.tv/buckethead_cs
@@ -42,13 +49,6 @@ DTEND:20260402T185847Z
 DTSTART:20260402T170622Z
 SUMMARY:Lower bracket round 3 match 6: DNT vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420048@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | 5star: 1\nStream: No official stream linked
-DTEND:20260402T155213Z
-DTSTART:20260402T133025Z
-SUMMARY:Upper bracket round 1 match 4: CW vs 5S
-UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421656@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: Boring Players: 1 | BMZ: 2\nStream: https://www.twitch.tv/kevindoruk
@@ -156,18 +156,18 @@ SUMMARY:Lower bracket quarterfinal 1: InC vs FV
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260410T010000Z
-SUMMARY:Grand final: F5 vs TBD
-UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421622@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260409T130000Z
 SUMMARY:Grand final: FDG vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421667@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260410T010000Z
+SUMMARY:Grand final: F5 vs TBD
+UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421622@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: BMZ: 1 | FengDa Gaming: 2\nStream: No official stream linked
@@ -310,13 +310,6 @@ SUMMARY:Lower bracket round 1 match 4: FLY.R vs BOSS
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421636@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: FarmVille: 2 | Reign Above: 0\nStream: https://kick.com/frag
-DTEND:20260405T030951Z
-DTSTART:20260405T014241Z
-SUMMARY:Lower bracket round 2 match 2: FV vs Reign Above
-UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421630@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: NEXVOID: 2 | BMZ: 0\nStream: https://www.twitch.tv/dutchboycasts
 DTEND:20260407T144616Z
 DTSTART:20260407T134653Z
@@ -324,11 +317,18 @@ SUMMARY:Lower bracket semifinal: NEXVOID vs BMZ
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421675@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Lavked: 2 | zajezdzacze: 0\nStream: https://www.twitch.tv/eslcs
-DTEND:20260331T183804Z
-DTSTART:20260331T170651Z
-SUMMARY:Lower bracket round 1 match 6: Lavked vs zajezdzacze
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420064@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: FarmVille: 2 | Reign Above: 0\nStream: https://kick.com/frag
+DTEND:20260405T030951Z
+DTSTART:20260405T014241Z
+SUMMARY:Lower bracket round 2 match 2: FV vs Reign Above
+UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421630@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: 5star: 0 | NEXVOID: 2\nStream: No official stream linked
+DTEND:20260405T145631Z
+DTSTART:20260405T130901Z
+SUMMARY:Lower bracket round 3 match 2: 5S vs NEXVOID
+UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421672@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: InControl: 0 | F5 Esports: 2\nStream: https://www.twitch.tv/eslcs
@@ -338,11 +338,11 @@ SUMMARY:Upper bracket semifinal 1: InC vs F5
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421619@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: 5star: 0 | NEXVOID: 2\nStream: No official stream linked
-DTEND:20260405T145631Z
-DTSTART:20260405T130901Z
-SUMMARY:Lower bracket round 3 match 2: 5S vs NEXVOID
-UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421672@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Lavked: 2 | zajezdzacze: 0\nStream: https://www.twitch.tv/eslcs
+DTEND:20260331T183804Z
+DTSTART:20260331T170651Z
+SUMMARY:Lower bracket round 1 match 6: Lavked vs zajezdzacze
+UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420064@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: Outfit 49: 0 | F5 Esports: 2\nStream: https://www.twitch.tv/buckethead_cs
@@ -506,18 +506,18 @@ SUMMARY:Upper bracket final: F5 vs REGAIN
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421621@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | AKA HERO KAJO: 0\nStream: No official stream linked
-DTEND:20260401T142835Z
-DTSTART:20260401T130435Z
-SUMMARY:Lower bracket round 2 match 8: PGE vs AHK
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420058@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 1 | FengDa Gaming: 2\nStream: https://www.youtube.com/watch?v=WdPrhI3iHlo
 DTEND:20260407T161557Z
 DTSTART:20260407T131252Z
 SUMMARY:Upper bracket final: CW vs FDG
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421666@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | AKA HERO KAJO: 0\nStream: No official stream linked
+DTEND:20260401T142835Z
+DTSTART:20260401T130435Z
+SUMMARY:Lower bracket round 2 match 8: PGE vs AHK
+UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: The QUBE Esports: 1 | NSN: 2\nStream: No official stream linked
@@ -793,18 +793,18 @@ SUMMARY:Lower bracket quarterfinal 2: ZOMB vs LAG
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260409T010000Z
-SUMMARY:Lower bracket final: InC vs REGAIN
-UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421623@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
 DURATION:PT2H
 DTSTART:20260408T130835Z
 SUMMARY:Lower bracket final: NEXVOID vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421668@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260409T010000Z
+SUMMARY:Lower bracket final: InC vs REGAIN
+UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421623@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: Zomblers: 1 | regain: 2\nStream: https://kick.com/frag
@@ -821,18 +821,18 @@ SUMMARY:Lower bracket round 2 match 7: RE vs TNT
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420057@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | m1x: 1\nStream: https://www.twitch.tv/iikka_artturi
-DTEND:20260401T162019Z
-DTSTART:20260401T130520Z
-SUMMARY:Lower bracket round 2 match 4:  CSDIILIT vs m1x
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420054@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 2 | Team Arise: 0\nStream: No official stream linked
 DTEND:20260403T144308Z
 DTSTART:20260403T133130Z
 SUMMARY:Upper bracket quarterfinal 3: CW vs ARISE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421662@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | m1x: 1\nStream: https://www.twitch.tv/iikka_artturi
+DTEND:20260401T162019Z
+DTSTART:20260401T130520Z
+SUMMARY:Lower bracket round 2 match 4:  CSDIILIT vs m1x
+UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420054@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: yngods: 2 | Lilmix: 1\nStream: No official stream linked
