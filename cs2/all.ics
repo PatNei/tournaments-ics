@@ -93,9 +93,9 @@ SUMMARY:Grand final: 9z vs LGC
 UID:cs-go-ferjee-in-house-2026-1411795@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
-DTSTART:20260408T153000Z
+DTSTART:20260408T153447Z
 SUMMARY:Lower bracket round 2 match 2: banda chuya vs MJX
 UID:cs-go-cct-europe-contenders-4-2026-1436316@tournamentics
 END:VEVENT
@@ -1353,9 +1353,9 @@ SUMMARY:PIVOSQUAD vs Re Di
 UID:cs-go-hlc-belgrade-pro-2026-1427066@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260408T153000Z
+DTSTART:20260408T153811Z
 SUMMARY:Round 2: 3DMAX.A vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1435737@tournamentics
 END:VEVENT
@@ -2284,8 +2284,8 @@ SUMMARY:Elimination match: XI vs RT
 UID:cs-go-united21-47-2026-1423180@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | Wildcard: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260408T153636Z
 DTSTART:20260408T123234Z
 SUMMARY:Round 5: PRV vs WC
 UID:cs-go-pgl-bucharest-2026-1427010@tournamentics
@@ -2494,9 +2494,9 @@ SUMMARY:Semifinal 2: LGC vs GG
 UID:cs-go-ferjee-in-house-2026-1411794@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
-DTSTART:20260408T153000Z
+DTSTART:20260408T153542Z
 SUMMARY:Lower bracket round 2 match 1: Vexar vs Players
 UID:cs-go-cct-europe-contenders-4-2026-1436315@tournamentics
 END:VEVENT
@@ -6638,8 +6638,8 @@ SUMMARY:EC BANGA vs HERO.A
 UID:cs-go-nodwin-clutch-series-6-2026-1389685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Donstu Esports: 1 | Clutchain Female: 0\nStream: No official stream linked
+DTEND:20260408T153710Z
 DTSTART:20260408T151904Z
 SUMMARY:DNT vs Clutchain Female
 UID:cs-go-esea-advanced-europe-57-2026-1436235@tournamentics
