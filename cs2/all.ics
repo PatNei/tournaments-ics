@@ -2279,7 +2279,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260408T130000Z
+DTSTART:20260408T123000Z
 SUMMARY:Round 5: PRV vs WC
 UID:cs-go-pgl-bucharest-2026-1427010@tournamentics
 END:VEVENT
@@ -5994,8 +5994,8 @@ SUMMARY:CS vs Re Di
 UID:cs-go-hlc-belgrade-pro-2026-1427064@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Hermine Esports Club: 2 | KUUSAMO.gg: 1\nStream: No official stream linked
+DTEND:20260408T122235Z
 DTSTART:20260408T094236Z
 SUMMARY:Round 2: HEC vs KSM
 UID:cs-go-exort-series-25-2026-1435735@tournamentics
@@ -6904,8 +6904,8 @@ SUMMARY:NXS vs BMB
 UID:cs-go-draculan-6-2026-1403821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: Tricked: 2 | ex-RUBY: 0\nStream: https://www.kick.com/cct_cs
+DTEND:20260408T122303Z
 DTSTART:20260408T110258Z
 SUMMARY:Round of 16 match 8: TRI vs ex-RUBY
 UID:cs-go-cct-europe-series-20-3-2026-1406977@tournamentics
@@ -7943,7 +7943,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260409T170000Z
-SUMMARY:Quarterfinal 4: ESC vs TBD
+SUMMARY:Quarterfinal 4: ESC vs TRI
 UID:cs-go-cct-europe-series-20-3-2026-1406983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
