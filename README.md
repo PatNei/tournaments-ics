@@ -331,6 +331,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEuropeanClosedQualifier2026.ics
 ```
 
+### Astana: North American Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanClosedQualifier2026.ics
+```
+
 ### Astana: South American Closed Qualifier 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanClosedQualifier2026.ics)
 
@@ -681,6 +688,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/Gluck
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/Season12026.ics
+```
+
+</details>
+
+<details>
+<summary>LORGAR RANKINGS</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics
+```
+
+---
+
+### Closed Qualifier season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/ClosedQualifierSeason12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/ClosedQualifierSeason12026.ics
 ```
 
 </details>
