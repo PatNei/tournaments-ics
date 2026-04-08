@@ -149,8 +149,8 @@ SUMMARY:Winners match: STA vs ex-Zero Tenacity
 UID:cs-go-european-pro-league-series-6-2026-1400844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Infinite: 2 | AaB Esport: 1\nStream: https://kick.com/united21_en
+DTEND:20260408T133250Z
 DTSTART:20260408T110353Z
 SUMMARY:Decider match: INF vs AAB
 UID:cs-go-united21-47-2026-1423191@tournamentics
@@ -4813,7 +4813,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260409T203000Z
+DTSTART:20260408T203000Z
 SUMMARY:Semifinal 2: MIBR.A vs FDB
 UID:cs-go-betboom-storm-2-2026-1413592@tournamentics
 END:VEVENT
@@ -5287,7 +5287,7 @@ SUMMARY:MINLATE vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400862@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/wxfan21
 DURATION:PT2H
 DTSTART:20260408T220000Z
 SUMMARY:Round 3: ZOMB vs IP
@@ -8360,7 +8360,7 @@ SUMMARY:MGC vs PIVOSQUAD
 UID:cs-go-hlc-belgrade-pro-2026-1427063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
 DURATION:PT2H
 DTSTART:20260408T210000Z
 SUMMARY:Lower bracket final: SHIN vs UNO
