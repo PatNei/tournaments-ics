@@ -173,27 +173,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode
 ## C Tier
 
 <details>
-<summary>CCT North America</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctNorthAmerica/CctNorthAmerica.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctNorthAmerica/CctNorthAmerica.ics
-```
-
----
-
-### Series #4 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctNorthAmerica/Series4Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctNorthAmerica/Series4Season32026.ics
-```
-
-</details>
-
-<details>
 <summary>Conquest of Prague</summary>
 
 ### Full Schedule
@@ -352,13 +331,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEuropeanClosedQualifier2026.ics
 ```
 
-### Astana: North American Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanClosedQualifier2026.ics
-```
-
 ### Astana: South American Closed Qualifier 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanClosedQualifier2026.ics)
 
@@ -408,27 +380,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Betboo
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Season22026.ics
-```
-
-</details>
-
-<details>
-<summary>CCT Europe</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics
-```
-
----
-
-### Contenders #4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Contenders42026.ics
 ```
 
 </details>
@@ -539,27 +490,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/Seas
 </details>
 
 <details>
-<summary>ESEA</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/Esea.ics
-```
-
----
-
-### Advanced Europe season 57 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason572026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Esea/AdvancedEuropeSeason572026.ics
-```
-
-</details>
-
-<details>
 <summary>ESL Challenger League</summary>
 
 ### Full Schedule
@@ -604,13 +534,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/ExortSe
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season242026.ics
-```
-
-### Season 25 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season252026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season252026.ics
 ```
 
 </details>
@@ -679,48 +602,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GangkuiCup/Season22
 </details>
 
 <details>
-<summary>GLuck SixSeven</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/GluckSixseven.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/GluckSixseven.ics
-```
-
----
-
-### Season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/Season12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GluckSixseven/Season12026.ics
-```
-
-</details>
-
-<details>
-<summary>LORGAR RANKINGS</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics
-```
-
----
-
-### Closed Qualifier season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/ClosedQualifierSeason12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/ClosedQualifierSeason12026.ics
-```
-
-</details>
-
-<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
@@ -737,13 +618,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season62026.ics
-```
-
-### Season 7 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season72026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season72026.ics
 ```
 
 </details>
