@@ -641,7 +641,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260409T103000Z
+DTSTART:20260409T113000Z
 SUMMARY:Upper bracket quarterfinal 2: IC.A vs BRUTE
 UID:cs-go-united21-47-2026-1437368@tournamentics
 END:VEVENT
@@ -1178,9 +1178,9 @@ SUMMARY:Lower bracket quarterfinal 1: BMZ vs QUBE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421669@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260409T110000Z
+DTSTART:20260409T112832Z
 SUMMARY:ASTR vs URSA
 UID:cs-go-nodwin-clutch-series-7-2026-1431904@tournamentics
 END:VEVENT
@@ -2620,8 +2620,8 @@ SUMMARY:Grand final: FDG vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421667@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | FC Famalicão Esports: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260409T111135Z
 DTSTART:20260409T082023Z
 SUMMARY:MANA vs FCF
 UID:cs-go-nodwin-clutch-series-7-2026-1431902@tournamentics
@@ -2910,7 +2910,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260410T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MANA vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431913@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3589,7 +3589,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260410T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: FCF vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431912@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3738,13 +3738,6 @@ DTEND:20260404T173652Z
 DTSTART:20260404T164059Z
 SUMMARY:BIG vs Luminous
 UID:cs-go-hlc-belgrade-pro-2026-1427068@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260409T093000Z
-SUMMARY:Round 2: VP.F vs CLS
-UID:cs-go-exort-series-25-2026-1435739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nResult: R2 Esports Club: 0 | ShindeN: 2\nStream: No official stream linked
@@ -4940,7 +4933,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260410T100000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: QWE vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406984@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5101,7 +5094,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
 DTSTART:20260410T140000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: 3DMAX vs TBD
 UID:cs-go-pgl-bucharest-2026-1427015@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5644,14 +5637,14 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431955@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260409T110000Z
+DTSTART:20260409T110347Z
 SUMMARY:Quarterfinal 4: ESC vs TRI
 UID:cs-go-cct-europe-series-20-3-2026-1406983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260409T181500Z
 SUMMARY:Upper bracket semifinal 2: ENJOY vs ZOTIX
@@ -6680,7 +6673,7 @@ SUMMARY:SASHI vs Strael-Bora
 UID:cs-go-draculan-6-2026-1403826@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260409T181500Z
 SUMMARY:Upper bracket semifinal 1: CYBERSHOKE Prospects vs Y.TigeRES
@@ -6995,8 +6988,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431953@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | ASTRAL: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260409T102950Z
 DTSTART:20260409T080929Z
 SUMMARY:Quarterfinal 2: QWE vs ASTR
 UID:cs-go-cct-europe-series-20-3-2026-1406981@tournamentics
@@ -7226,9 +7219,9 @@ SUMMARY:KSM vs YN
 UID:cs-go-united21-47-2026-1423182@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
-DTSTART:20260409T103000Z
+DTSTART:20260409T103540Z
 SUMMARY:Quarterfinal 2: AST vs EYE
 UID:cs-go-pgl-bucharest-2026-1427012@tournamentics
 END:VEVENT
@@ -7541,8 +7534,8 @@ SUMMARY:Upper bracket quarterfinal 2: banda chuya vs Y.TigeRES
 UID:cs-go-cct-europe-contenders-4-2026-1433297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Rooster: 0\nStream: https://www.twitch.tv/eslcs
+DTEND:20260409T105326Z
 DTSTART:20260409T091115Z
 SUMMARY:Grand final: GZ vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421645@tournamentics
@@ -7898,8 +7891,8 @@ SUMMARY:Decider match: FF vs XI
 UID:cs-go-united21-47-2026-1423181@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: MIBR: 1 | 3DMAX: 2\nStream: https://www.twitch.tv/pgl
+DTEND:20260409T100953Z
 DTSTART:20260409T070431Z
 SUMMARY:Quarterfinal 1: MIBR vs 3DMAX
 UID:cs-go-pgl-bucharest-2026-1427011@tournamentics

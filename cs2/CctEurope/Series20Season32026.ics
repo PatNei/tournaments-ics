@@ -75,12 +75,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260410T100000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: QWE vs TBD
 UID:cs-go-cct-europe-series-20-3-2026-1406984@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | ASTRAL: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260409T102950Z
 DTSTART:20260409T080929Z
 SUMMARY:Quarterfinal 2: QWE vs ASTR
 UID:cs-go-cct-europe-series-20-3-2026-1406981@tournamentics
@@ -170,9 +170,9 @@ SUMMARY:Round 1: MZP vs RUST
 UID:cs-go-cct-europe-series-20-3-2026-1406927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260409T110000Z
+DTSTART:20260409T110347Z
 SUMMARY:Quarterfinal 4: ESC vs TRI
 UID:cs-go-cct-europe-series-20-3-2026-1406983@tournamentics
 END:VEVENT

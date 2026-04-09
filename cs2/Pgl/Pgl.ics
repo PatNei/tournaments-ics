@@ -341,7 +341,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
 DTSTART:20260410T140000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: 3DMAX vs TBD
 UID:cs-go-pgl-bucharest-2026-1427015@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -352,9 +352,9 @@ SUMMARY:Upper bracket quarterfinal 3: 100T vs MGC
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403896@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
-DTSTART:20260409T103000Z
+DTSTART:20260409T103540Z
 SUMMARY:Quarterfinal 2: AST vs EYE
 UID:cs-go-pgl-bucharest-2026-1427012@tournamentics
 END:VEVENT
@@ -576,8 +576,8 @@ SUMMARY:Upper bracket quarterfinal 2: ILWL vs Lavked
 UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: MIBR: 1 | 3DMAX: 2\nStream: https://www.twitch.tv/pgl
+DTEND:20260409T100953Z
 DTSTART:20260409T070431Z
 SUMMARY:Quarterfinal 1: MIBR vs 3DMAX
 UID:cs-go-pgl-bucharest-2026-1427011@tournamentics
