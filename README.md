@@ -13,6 +13,27 @@ Subscribe to every tournament at once:
 ## S Tier
 
 <details>
+<summary>BLAST Rivals</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/BlastRivals.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/BlastRivals.ics
+```
+
+---
+
+### Spring 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/Spring2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BlastRivals/Spring2026.ics
+```
+
+</details>
+
+<details>
 <summary>IEM</summary>
 
 ### Full Schedule
