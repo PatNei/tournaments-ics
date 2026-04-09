@@ -574,27 +574,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fireconter/Season32
 </details>
 
 <details>
-<summary>Fragadelphia</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/Fragadelphia.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/Fragadelphia.ics
-```
-
----
-
-### York 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/York2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/York2026.ics
-```
-
-</details>
-
-<details>
 <summary>Gamers Club Liga Série A</summary>
 
 ### Full Schedule
