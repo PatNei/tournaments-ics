@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
 DURATION:PT2H
 DTSTART:20260410T170000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: FUT vs TBD
 UID:cs-go-pgl-bucharest-2026-1427016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Round 3: LGC vs MIBR
 UID:cs-go-pgl-bucharest-2026-1426994@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | B8: 0\nStream: https://www.twitch.tv/pgl
+DTEND:20260409T155633Z
 DTSTART:20260409T135035Z
 SUMMARY:Quarterfinal 3: FUT vs B8
 UID:cs-go-pgl-bucharest-2026-1427013@tournamentics

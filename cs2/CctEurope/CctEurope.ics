@@ -222,7 +222,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260410T100000Z
-SUMMARY:Semifinal 1: QWE vs TBD
+SUMMARY:Semifinal 1: QWE vs BIG
 UID:cs-go-cct-europe-series-20-3-2026-1406984@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -233,9 +233,9 @@ SUMMARY:Round 3: ALGO vs BBP
 UID:cs-go-cct-europe-series-19-3-2026-1398996@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
-DTSTART:20260409T153000Z
+DTSTART:20260409T155007Z
 SUMMARY:Lower bracket round 3 match 1: MJX vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436321@tournamentics
 END:VEVENT
@@ -513,8 +513,8 @@ SUMMARY:Upper bracket semifinal 2: ENJOY vs ZOTIX
 UID:cs-go-cct-europe-contenders-4-2026-1436320@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nStream: https://www.kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: Ursa: 0 | BIG: 2\nStream: https://www.kick.com/cct_cs
+DTEND:20260409T155351Z
 DTSTART:20260409T140430Z
 SUMMARY:Quarterfinal 1: URSA vs BIG
 UID:cs-go-cct-europe-series-20-3-2026-1406980@tournamentics
