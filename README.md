@@ -129,27 +129,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Season6202
 </details>
 
 <details>
-<summary>Roman Imperium Cup</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/RomanImperiumCup.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/RomanImperiumCup.ics
-```
-
----
-
-### Season 7 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Season72026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/RomanImperiumCup/Season72026.ics
-```
-
-</details>
-
-<details>
 <summary>Stake Ranked</summary>
 
 ### Full Schedule
