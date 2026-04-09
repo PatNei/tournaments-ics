@@ -2,14 +2,112 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260418T033000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438964@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260412T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438961@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260412T010000Z
+SUMMARY:RSTR vs The Bardolphs
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438957@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260419T043000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438966@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260411T043000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438954@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260418T010000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438963@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260412T043000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438959@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260412T010000Z
+SUMMARY:TW vs Ding Cuts
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438958@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260412T043000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438960@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260411T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438956@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260411T010000Z
 SUMMARY:Abyssal vs DXA
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438953@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260418T033000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438965@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260418T010000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438962@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260411T043000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438955@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260419T080000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438967@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260411T010000Z
 SUMMARY:ARC vs MGLBROS
