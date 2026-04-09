@@ -173,6 +173,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctNorthAmerica/Ser
 </details>
 
 <details>
+<summary>Conquest of Prague</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/ConquestOfPrague.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/ConquestOfPrague.ics
+```
+
+---
+
+### Online Stage 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/OnlineStage2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/OnlineStage2026.ics
+```
+
+</details>
+
+<details>
 <summary>ESL Challenger League</summary>
 
 ### Full Schedule
