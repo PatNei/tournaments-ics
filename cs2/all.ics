@@ -2704,8 +2704,8 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436305@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Gaming By Legends: 0 | SAW: 1\nStream: https://kick.com/challengerchampionship_b
+DTEND:20260410T172133Z
 DTSTART:20260410T170204Z
 SUMMARY:GBL vs SAW
 UID:cs-go-parken-challenger-championship-4-2026-1437313@tournamentics
@@ -5810,13 +5810,6 @@ DTEND:20260401T205546Z
 DTSTART:20260401T180218Z
 SUMMARY:Lower bracket quarterfinal 2: B8 vs PHA
 UID:cs-go-parken-challenger-championship-3-2026-1419479@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260410T170000Z
-SUMMARY:TLR vs zajezdzacze
-UID:cs-go-esea-advanced-europe-57-2026-1433392@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | Legacy: 1\nStream: https://www.twitch.tv/PGL
