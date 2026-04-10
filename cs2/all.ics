@@ -1398,7 +1398,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260411T181500Z
-SUMMARY:Lower bracket semifinal: ZOTIX vs TBD
+SUMMARY:Lower bracket semifinal: ZOTIX vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3544,8 +3544,8 @@ SUMMARY:Grand final: BIG vs NEM
 UID:cs-go-cct-europe-series-20-3-2026-1406986@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/CCT_CS5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: Young TigeRES: 1 | Vexar: 2\nStream: https://kick.com/CCT_CS5
+DTEND:20260410T183800Z
 DTSTART:20260410T153741Z
 SUMMARY:Lower bracket quarterfinal 1: Y.TigeRES vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436323@tournamentics
