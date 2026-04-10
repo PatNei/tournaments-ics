@@ -271,7 +271,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260412T103000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: YN vs TBD
 UID:cs-go-united21-47-2026-1438944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1762,7 +1762,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260411T103000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: FF vs TBD
 UID:cs-go-united21-47-2026-1438942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8479,8 +8479,8 @@ SUMMARY:Elimination match: Hashiras vs NVQ
 UID:cs-go-nodwin-clutch-series-6-2026-1389663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Young Ninjas: 2 | Fire Flux Esports: 1\nStream: https://kick.com/united21_en
+DTEND:20260410T103358Z
 DTSTART:20260410T080744Z
 SUMMARY:Upper bracket quarterfinal 3: YN vs FF
 UID:cs-go-united21-47-2026-1437369@tournamentics
