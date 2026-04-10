@@ -2847,7 +2847,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260410T181500Z
-SUMMARY:Lower bracket quarterfinal 2: bankaPEPSI vs TBD
+SUMMARY:Lower bracket quarterfinal 2: ZOTIX vs bankaPEPSI
 UID:cs-go-cct-europe-contenders-4-2026-1436324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3533,7 +3533,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260410T153000Z
-SUMMARY:Lower bracket quarterfinal 1: Vexar vs TBD
+SUMMARY:Lower bracket quarterfinal 1: Y.TigeRES vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436323@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4769,8 +4769,8 @@ SUMMARY:Round 3: MANA vs TLR
 UID:cs-go-nodwin-clutch-series-6-2026-1389783@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: F5 Esports: 1 | InControl: 2\nStream: https://www.twitch.tv/eslcs
+DTEND:20260410T040338Z
 DTSTART:20260410T011906Z
 SUMMARY:Grand final: F5 vs InC
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421622@tournamentics
