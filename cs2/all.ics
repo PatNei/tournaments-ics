@@ -3323,7 +3323,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260413T080000Z
-SUMMARY:Quarterfinal 3: PHA vs TBD
+SUMMARY:Quarterfinal 3: PHA vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5343,8 +5343,8 @@ SUMMARY:Lower bracket quarterfinal 1: THE vs TYLOO
 UID:cs-go-gangkui-cup-2-2026-1423200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | Entropy: 1\nStream: https://kick.com/challengerchampionship
+DTEND:20260410T132621Z
 DTSTART:20260410T123359Z
 SUMMARY:AAB vs Entropy
 UID:cs-go-parken-challenger-championship-4-2026-1437297@tournamentics
@@ -7296,8 +7296,8 @@ SUMMARY:TAZ vs BIG.A
 UID:cs-go-dach-cs-masters-5-2026-1385734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: GenOne: 0 | HEROIC Academy: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260410T132313Z
 DTSTART:20260410T114315Z
 SUMMARY:Round of 16 match 6: G1 vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400939@tournamentics
@@ -7359,8 +7359,8 @@ SUMMARY:Semifinal 2: ECS vs NEM
 UID:cs-go-cct-europe-series-19-3-2026-1399021@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: SAW: 1 | LAGUNA: 0\nStream: https://kick.com/challengerchampionship_b
+DTEND:20260410T131732Z
 DTSTART:20260410T123252Z
 SUMMARY:SAW vs LAG
 UID:cs-go-parken-challenger-championship-4-2026-1437307@tournamentics

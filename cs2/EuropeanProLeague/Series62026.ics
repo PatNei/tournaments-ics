@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260413T080000Z
-SUMMARY:Quarterfinal 3: PHA vs TBD
+SUMMARY:Quarterfinal 3: PHA vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:Quarterfinal 2: Lavked vs BBP
 UID:cs-go-european-pro-league-series-6-2026-1400943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: GenOne: 0 | HEROIC Academy: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260410T132313Z
 DTSTART:20260410T114315Z
 SUMMARY:Round of 16 match 6: G1 vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400939@tournamentics
