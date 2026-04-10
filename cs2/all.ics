@@ -2286,7 +2286,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260412T180000Z
+DTSTART:20260412T160000Z
 SUMMARY:Round 1: FNC vs SASHI
 UID:cs-go-conquest-of-prague-online-stage-2026-1438486@tournamentics
 END:VEVENT
@@ -2963,9 +2963,9 @@ SUMMARY:Semifinal 1: Lavked vs UNiTY
 UID:cs-go-exort-series-24-2026-1431357@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260410T141000Z
+DTSTART:20260410T140833Z
 SUMMARY:Winners match: MANA vs Hashiras
 UID:cs-go-nodwin-clutch-series-7-2026-1431913@tournamentics
 END:VEVENT
@@ -3700,7 +3700,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260412T160000Z
+DTSTART:20260412T180000Z
 SUMMARY:Round 1: EYE vs UNiTY
 UID:cs-go-conquest-of-prague-online-stage-2026-1438484@tournamentics
 END:VEVENT
