@@ -107,13 +107,6 @@ SUMMARY:Round 2: AM vs ASTRAL
 UID:cs-go-nodwin-clutch-series-6-2026-1389778@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Haunted House: 2 | THE UNIT: 1\nStream: No official stream linked
-DTEND:20260331T142830Z
-DTSTART:20260331T112911Z
-SUMMARY:Upper bracket semifinal 2: HH vs TU
-UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424601@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: FarmVille: 2 | regain: 0\nStream: https://www.twitch.tv/bonamant
 DTEND:20260401T005900Z
 DTSTART:20260331T232344Z
@@ -196,13 +189,6 @@ DTEND:20260404T225923Z
 DTSTART:20260404T213311Z
 SUMMARY:Round 2: LAG vs CW
 UID:cs-go-dust2-us-eagle-masters-7-2026-1427596@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: K27: 2 | CYBERSHOKE Prospects: 0\nStream: https://www.twitch.tv/mpkbk
-DTEND:20260404T104611Z
-DTSTART:20260404T090333Z
-SUMMARY:Quarterfinal 1: K27 vs CYBERSHOKE Prospects
-UID:cs-go-cis-lan-championship-4-2026-1423164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 0 | Gaimin Gladiators: 2\nStream: https://www.twitch.tv/locomass22
@@ -882,13 +868,6 @@ DTEND:20260403T103940Z
 DTSTART:20260403T093159Z
 SUMMARY:TRI vs HAVEN
 UID:cs-go-urban-riga-open-4-2026-1427054@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 2 | DEPO: 1\nStream: No official stream linked
-DTEND:20260331T141553Z
-DTSTART:20260331T112626Z
-SUMMARY:Upper bracket semifinal 1: LEGION vs DEPO
-UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
@@ -2921,6 +2900,13 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431936@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: VTM Esports: 0 | Chinggis Warriors: 2\nStream: No official stream linked
+DTEND:20260331T150810Z
+DTSTART:20260331T124254Z
+SUMMARY:Lower bracket semifinal: VTM vs CW
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424105@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260418T181500Z
@@ -3621,6 +3607,13 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431935@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | The Huns Esports: 2\nStream: No official stream linked
+DTEND:20260401T114811Z
+DTSTART:20260401T095715Z
+SUMMARY:Lower bracket final: CW vs THE
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424104@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260418T150000Z
@@ -3859,11 +3852,11 @@ SUMMARY:SASHI.A vs ImmuNe
 UID:cs-go-parken-challenger-championship-4-2026-1437299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: BET-M 33: 2 | HOTU: 0\nStream: https://www.twitch.tv/mpkbk
-DTEND:20260404T133714Z
-DTSTART:20260404T114923Z
-SUMMARY:Quarterfinal 2: 33 vs HOTU
-UID:cs-go-cis-lan-championship-4-2026-1423165@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260427T140000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-7-2026-1431969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DraculaN - Season 6 2026\nMatch Type: Best Of\nResult: fnatic: 1 | Sashi Esport: 2\nStream: https://kick.com/draculancsd
@@ -3885,13 +3878,6 @@ DTEND:20260330T183757Z
 DTSTART:20260330T171412Z
 SUMMARY:Upper bracket round 2 match 12: QWE vs GRIND
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420009@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260427T140000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-nodwin-clutch-series-7-2026-1431969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 2 | rottweilers: 0\nStream: https://kick.com/starladder
@@ -3983,6 +3969,13 @@ DTEND:20260324T115905Z
 DTSTART:20260324T090230Z
 SUMMARY:Round 2: RE vs  CSDIILIT
 UID:cs-go-cct-europe-series-19-3-2026-1398983@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Haunted House: 0 | DEPO: 2\nStream: No official stream linked
+DTEND:20260401T150206Z
+DTSTART:20260401T135156Z
+SUMMARY:Grand final: HH vs DEPO
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: behaczka: 2 | VP.Future: 1\nStream: https://kick.com/exort_en2
@@ -4340,6 +4333,13 @@ DURATION:PT2H
 DTSTART:20260417T080000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431934@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 1 | The Huns Esports: 2\nStream: No official stream linked
+DTEND:20260401T153351Z
+DTSTART:20260401T125710Z
+SUMMARY:Grand final: NEXVOID vs THE
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
@@ -4720,6 +4720,13 @@ SUMMARY:Round 1: Leo vs ALGO
 UID:cs-go-cct-europe-series-19-3-2026-1398982@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 0 | DEPO: 2\nStream: No official stream linked
+DTEND:20260401T123604Z
+DTSTART:20260401T110524Z
+SUMMARY:Lower bracket final: LEGION vs DEPO
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424604@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Nova Legion: 2 | Eternal Fire Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260322T190429Z
 DTSTART:20260322T163511Z
@@ -4823,13 +4830,6 @@ DTEND:20260410T040338Z
 DTSTART:20260410T011906Z
 SUMMARY:Grand final: F5 vs InC
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421622@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: VTM Esports: 0 | Chinggis Warriors: 2\nStream: No official stream linked
-DTEND:20260331T150810Z
-DTSTART:20260331T124254Z
-SUMMARY:Lower bracket semifinal: VTM vs CW
-UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: Nemiga: 1 | WW Team: 2\nStream: https://www.twitch.tv/strogo
@@ -5117,6 +5117,13 @@ DURATION:PT2H
 DTSTART:20260417T150000Z
 SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436336@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 1 | NEXVOID: 2\nStream: No official stream linked
+DTEND:20260331T161008Z
+DTSTART:20260331T122934Z
+SUMMARY:Upper bracket final: THE vs NEXVOID
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: Keyd: 2 | paiN Academy: 0\nStream: https://www.twitch.tv/dust2br
@@ -5490,6 +5497,13 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-elisa-open-suomi-12-2026-1436298@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: DEPO: 2 | THE UNIT: 0\nStream: No official stream linked
+DTEND:20260331T160218Z
+DTSTART:20260331T145122Z
+SUMMARY:Lower bracket semifinal: DEPO vs TU
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424603@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | eternal premium: 1\nStream: https://kick.com/exort_en2
 DTEND:20260322T180411Z
 DTSTART:20260322T133407Z
@@ -5600,13 +5614,6 @@ DTEND:20260406T220423Z
 DTSTART:20260406T192912Z
 SUMMARY:R4G vs LEI
 UID:cs-go-dach-cs-masters-5-2026-1385725@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | The Huns Esports: 2\nStream: No official stream linked
-DTEND:20260401T114811Z
-DTSTART:20260401T095715Z
-SUMMARY:Lower bracket final: CW vs THE
-UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: 1WIN: 2 | TDK: 0\nStream: https://www.twitch.tv/mpkbk
@@ -5854,6 +5861,13 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | VTM Esports: 0\nStream: No official stream linked
+DTEND:20260331T102630Z
+DTSTART:20260331T085948Z
+SUMMARY:Upper bracket semifinal 2: THE vs VTM
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424101@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: LPH Gaming: 1 | ex-PeeP: 2\nStream: https://kick.com/exort_en2
 DTEND:20260403T122419Z
 DTSTART:20260403T094324Z
@@ -5931,11 +5945,11 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Haunted House: 0 | DEPO: 2\nStream: No official stream linked
-DTEND:20260401T150206Z
-DTSTART:20260401T135156Z
-SUMMARY:Grand final: HH vs DEPO
-UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424605@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 2 | UNO MILLE: 1\nStream: No official stream linked
+DTEND:20260320T014026Z
+DTSTART:20260319T215825Z
+SUMMARY:Winners match: MW vs UNO
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1405802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | BoyBand: 0\nStream: https://www.twitch.tv/elisaviihdesport
@@ -5943,13 +5957,6 @@ DTEND:20260331T160954Z
 DTSTART:20260331T143237Z
 SUMMARY:Round 6: ENCE.A vs BoyBand
 UID:cs-go-elisa-open-suomi-12-2026-1372449@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 2 | UNO MILLE: 1\nStream: No official stream linked
-DTEND:20260320T014026Z
-DTSTART:20260319T215825Z
-SUMMARY:Winners match: MW vs UNO
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1405802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_d
@@ -6085,8 +6092,8 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431966@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_c
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: ImmuNe: 0 | WAZABI: 1\nStream: https://kick.com/challengerchampionship_c
+DTEND:20260410T134311Z
 DTSTART:20260410T123311Z
 SUMMARY:ImmuNe vs WAZ
 UID:cs-go-parken-challenger-championship-4-2026-1437296@tournamentics
@@ -6190,11 +6197,11 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-elisa-open-suomi-12-2026-1436297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: Lavked: 2 | QWENTRY: 0\nStream: https://www.twitch.tv/betboom_cs_ru4
-DTEND:20260323T134716Z
-DTSTART:20260323T120624Z
-SUMMARY:Round 1: Lavked vs QWE
-UID:cs-go-cct-europe-series-19-3-2026-1398980@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 1 | Haunted House: 2\nStream: No official stream linked
+DTEND:20260331T174402Z
+DTSTART:20260331T145121Z
+SUMMARY:Upper bracket final: LEGION vs HH
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: UNO MILLE: 2 | ALKA GAMING: 0\nStream: https://www.twitch.tv/dust2br
@@ -6223,6 +6230,13 @@ DTEND:20260322T120507Z
 DTSTART:20260322T104006Z
 SUMMARY:Round 4: HEC vs  Phantom Academy
 UID:cs-go-exort-series-24-2026-1410072@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #19 season 3 2026\nMatch Type: Best Of\nResult: Lavked: 2 | QWENTRY: 0\nStream: https://www.twitch.tv/betboom_cs_ru4
+DTEND:20260323T134716Z
+DTSTART:20260323T120624Z
+SUMMARY:Round 1: Lavked vs QWE
+UID:cs-go-cct-europe-series-19-3-2026-1398980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: rhadamanthys: 0 | Players: 2\nStream: https://kick.com/cct_cs5
@@ -6330,11 +6344,11 @@ SUMMARY:Elimination match: JS vs BP
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424609@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 1 | The Huns Esports: 2\nStream: No official stream linked
-DTEND:20260401T153351Z
-DTSTART:20260401T125710Z
-SUMMARY:Grand final: NEXVOID vs THE
-UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424103@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: BET-M 33: 2 | HOTU: 0\nStream: https://www.twitch.tv/mpkbk
+DTEND:20260404T133714Z
+DTSTART:20260404T114923Z
+SUMMARY:Quarterfinal 2: 33 vs HOTU
+UID:cs-go-cis-lan-championship-4-2026-1423165@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: yngods: 2 | Lilmix: 1\nStream: No official stream linked
@@ -6561,6 +6575,13 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 1 | NEXVOID: 2\nStream: No official stream linked
+DTEND:20260331T115406Z
+DTSTART:20260331T081832Z
+SUMMARY:Upper bracket semifinal 2: CW vs NEXVOID
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424100@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Infinite: 2\nStream: https://kick.com/united21_en
 DTEND:20260402T135154Z
 DTSTART:20260402T111142Z
@@ -6643,13 +6664,6 @@ DURATION:PT2H
 DTSTART:20260415T180000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436311@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 0 | DEPO: 2\nStream: No official stream linked
-DTEND:20260401T123604Z
-DTSTART:20260401T110524Z
-SUMMARY:Lower bracket final: LEGION vs DEPO
-UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | BA 2: 0\nStream: https://www.twitch.tv/endiezcasts
@@ -6890,6 +6904,13 @@ SUMMARY:Upper Bracket Final: TBD vs TBD
 UID:cs-go-elisa-open-suomi-12-2026-1436296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Haunted House: 2 | THE UNIT: 1\nStream: No official stream linked
+DTEND:20260331T142830Z
+DTSTART:20260331T112911Z
+SUMMARY:Upper bracket semifinal 2: HH vs TU
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424601@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260429T180000Z
@@ -6967,11 +6988,11 @@ SUMMARY:Winners match: TYLOO vs RA
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 1 | NEXVOID: 2\nStream: No official stream linked
-DTEND:20260331T161008Z
-DTSTART:20260331T122934Z
-SUMMARY:Upper bracket final: THE vs NEXVOID
-UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424102@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: K27: 2 | CYBERSHOKE Prospects: 0\nStream: https://www.twitch.tv/mpkbk
+DTEND:20260404T104611Z
+DTSTART:20260404T090333Z
+SUMMARY:Quarterfinal 1: K27 vs CYBERSHOKE Prospects
+UID:cs-go-cis-lan-championship-4-2026-1423164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
@@ -7331,13 +7352,6 @@ SUMMARY:Lower bracket semifinal 2: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: DEPO: 2 | THE UNIT: 0\nStream: No official stream linked
-DTEND:20260331T160218Z
-DTSTART:20260331T145122Z
-SUMMARY:Lower bracket semifinal: DEPO vs TU
-UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424603@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Outfit 49: 1 | BOSS: 2\nStream: https://www.twitch.tv/bonamant
 DTEND:20260401T051535Z
 DTSTART:20260401T021228Z
@@ -7583,6 +7597,13 @@ SUMMARY:Round 4: ASTR vs OMG
 UID:cs-go-cct-europe-series-20-3-2026-1406958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 2 | DEPO: 1\nStream: No official stream linked
+DTEND:20260331T141553Z
+DTSTART:20260331T112626Z
+SUMMARY:Upper bracket semifinal 1: LEGION vs DEPO
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424600@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 2 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | MAGICOS: 0\nStream: https://www.twitch.tv/dust2br
 DTEND:20260403T015230Z
 DTSTART:20260403T000954Z
@@ -7632,18 +7653,18 @@ SUMMARY:Round 2: UNO vs paiN.A
 UID:cs-go-betboom-storm-2-2026-1413562@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | VTM Esports: 0\nStream: No official stream linked
-DTEND:20260331T102630Z
-DTSTART:20260331T085948Z
-SUMMARY:Upper bracket semifinal 2: THE vs VTM
-UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424101@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: ARCRED: 0 | WW Team: 2\nStream: https://www.twitch.tv/mpkbk
 DTEND:20260404T004630Z
 DTSTART:20260403T224003Z
 SUMMARY:Decider match: ARC vs WW
 UID:cs-go-cis-lan-championship-4-2026-1423163@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nResult: ASTRAL: 0 | Passion UA: 2\nStream: https://kick.com/urbancontenders
+DTEND:20260404T145604Z
+DTSTART:20260404T134051Z
+SUMMARY:Winners match: ASTR vs PSSN.UA
+UID:cs-go-urban-riga-open-4-2026-1421697@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 6 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | HEROIC Academy: 1\nStream: https://kick.com/nodwin_cs2
@@ -7658,13 +7679,6 @@ DTEND:20260331T113455Z
 DTSTART:20260331T095847Z
 SUMMARY:BP vs RA
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424607@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nResult: ASTRAL: 0 | Passion UA: 2\nStream: https://kick.com/urbancontenders
-DTEND:20260404T145604Z
-DTSTART:20260404T134051Z
-SUMMARY:Winners match: ASTR vs PSSN.UA
-UID:cs-go-urban-riga-open-4-2026-1421697@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
@@ -7987,13 +8001,6 @@ DTEND:20260330T120441Z
 DTSTART:20260330T101229Z
 SUMMARY:Round 3: BRUTE vs TLR
 UID:cs-go-exort-series-24-2026-1421527@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 1 | Haunted House: 2\nStream: No official stream linked
-DTEND:20260331T174402Z
-DTSTART:20260331T145121Z
-SUMMARY:Upper bracket final: LEGION vs HH
-UID:cs-go-pgl-astana-west-asia-closer-qualifier-2026-1424602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | Fisher College: 2\nStream: https://www.twitch.tv/bonamant
@@ -8346,11 +8353,11 @@ SUMMARY:Lower bracket semifinal 1: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436309@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closer Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 1 | NEXVOID: 2\nStream: No official stream linked
-DTEND:20260331T115406Z
-DTSTART:20260331T081832Z
-SUMMARY:Upper bracket semifinal 2: CW vs NEXVOID
-UID:cs-go-pgl-astana-east-asia-closer-qualifier-2026-1424100@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: Younglings: 1 | WW Team: 2\nStream: https://www.twitch.tv/strogo
+DTEND:20260403T221052Z
+DTSTART:20260403T182207Z
+SUMMARY:Elimination match: YL vs WW
+UID:cs-go-cis-lan-championship-4-2026-1423162@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: FROX: 2 | Huskies eSport: 1\nStream: https://www.twitch.tv/dachcs
@@ -8367,11 +8374,11 @@ SUMMARY:TYLOO vs JS
 UID:cs-go-yuqilin-pob-pinnacle-of-battle-3-2026-1424606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: Younglings: 1 | WW Team: 2\nStream: https://www.twitch.tv/strogo
-DTEND:20260403T221052Z
-DTSTART:20260403T182207Z
-SUMMARY:Elimination match: YL vs WW
-UID:cs-go-cis-lan-championship-4-2026-1423162@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nResult: Sangal: 0 | ASTRAL: 2\nStream: https://kick.com/urbancontenders
+DTEND:20260404T113804Z
+DTSTART:20260404T094404Z
+SUMMARY:SNG vs ASTR
+UID:cs-go-urban-riga-open-4-2026-1421696@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: Vexar: 0 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/cct_cs5
@@ -8395,11 +8402,11 @@ SUMMARY:Round 1: ALGO vs MEGO
 UID:cs-go-nodwin-clutch-series-6-2026-1389767@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nResult: Sangal: 0 | ASTRAL: 2\nStream: https://kick.com/urbancontenders
-DTEND:20260404T113804Z
-DTSTART:20260404T094404Z
-SUMMARY:SNG vs ASTR
-UID:cs-go-urban-riga-open-4-2026-1421696@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Alzon: 0 | METANOIA: 1\nStream: https://www.twitch.tv/metanoiagg
+DTEND:20260317T004139Z
+DTSTART:20260316T231516Z
+SUMMARY:Alzon vs METANOIA
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1396938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CIS LAN Championship - Season 4 2026\nMatch Type: Best Of\nResult: BET-M 33: 2 | 5Actors: 0\nStream: https://www.twitch.tv/mpkbk
@@ -8414,13 +8421,6 @@ DTEND:20260407T122910Z
 DTSTART:20260407T090614Z
 SUMMARY:Upper bracket final: Abyssal vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421644@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Alzon: 0 | METANOIA: 1\nStream: https://www.twitch.tv/metanoiagg
-DTEND:20260317T004139Z
-DTSTART:20260316T231516Z
-SUMMARY:Alzon vs METANOIA
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1396938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | ROUNDS: 0\nStream: No official stream linked
