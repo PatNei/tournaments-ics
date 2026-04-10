@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260411T080000Z
-SUMMARY:Decider match: UNiTY vs TBD
+SUMMARY:Decider match: UNiTY vs Hashiras
 UID:cs-go-nodwin-clutch-series-7-2026-1431914@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -261,8 +261,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431968@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | Hashiras: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260410T175951Z
 DTSTART:20260410T140833Z
 SUMMARY:Winners match: MANA vs Hashiras
 UID:cs-go-nodwin-clutch-series-7-2026-1431913@tournamentics
