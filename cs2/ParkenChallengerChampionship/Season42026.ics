@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Sashi Academy: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260410T160314Z
 DTSTART:20260410T153206Z
 SUMMARY:AAB vs SASHI.A
 UID:cs-go-parken-challenger-championship-4-2026-1437300@tournamentics
@@ -219,8 +219,8 @@ SUMMARY:Eclipse vs GBL
 UID:cs-go-parken-challenger-championship-4-2026-1437309@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: SAW: 1 | Team Eclipse: 0\nStream: https://kick.com/challengerchampionship_b
+DTEND:20260410T160622Z
 DTSTART:20260410T153145Z
 SUMMARY:SAW vs Eclipse
 UID:cs-go-parken-challenger-championship-4-2026-1437310@tournamentics
