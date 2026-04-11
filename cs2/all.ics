@@ -1395,7 +1395,7 @@ SUMMARY:Winners match: INF vs EF
 UID:cs-go-draculan-6-2026-1403833@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/CCT_CS5
 DURATION:PT2H
 DTSTART:20260411T181500Z
 SUMMARY:Lower bracket semifinal: ZOTIX vs Vexar
@@ -2130,7 +2130,7 @@ SUMMARY:paiN vs ALKA
 UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421549@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nStream: https://kick.com/CCT_CS5
 DURATION:PT2H
 DTSTART:20260411T153000Z
 SUMMARY:Upper bracket final: ENJOY vs CYBERSHOKE Prospects
@@ -2228,8 +2228,8 @@ SUMMARY:Quarterfinal 4: AAB vs ex-PeeP
 UID:cs-go-exort-series-24-2026-1430025@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | Hashiras: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260411T094814Z
 DTSTART:20260411T080819Z
 SUMMARY:Decider match: UNiTY vs Hashiras
 UID:cs-go-nodwin-clutch-series-7-2026-1431914@tournamentics
