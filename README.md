@@ -774,13 +774,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaAsiaClose
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEastAsiaClosedQualifier2026.ics
 ```
 
-### Astana: Oceania Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaOceaniaClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaOceaniaClosedQualifier2026.ics
-```
-
 ### Astana: West Asia Closed Qualifier 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaWestAsiaClosedQualifier2026.ics)
 
