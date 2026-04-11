@@ -2,25 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | Wildcard: 0\nStream: https://www.twitch.tv/PGL
-DTEND:20260407T105408Z
-DTSTART:20260407T090126Z
-SUMMARY:Round 4: MGLZ vs WC
-UID:cs-go-pgl-bucharest-2026-1427004@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Astralis: 2 | MIBR: 0\nStream: https://www.twitch.tv/PGL
 DTEND:20260404T134823Z
 DTSTART:20260404T115637Z
 SUMMARY:Round 1: AST vs MIBR
 UID:cs-go-pgl-bucharest-2026-1426982@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: 3DMAX: 1 | FOKUS: 2\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260404T095519Z
-DTSTART:20260404T070712Z
-SUMMARY:Round 1: 3DMAX vs FOKUS
-UID:cs-go-pgl-bucharest-2026-1426978@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BA 2: 0 | Fisher College: 2\nStream: No official stream linked
@@ -30,25 +16,11 @@ SUMMARY:Lower bracket quarterfinal 2: BA 2 vs FC
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404285@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: NRG: 0 | Legacy: 2\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260407T084309Z
-DTSTART:20260407T070301Z
-SUMMARY:Round 4: NRG vs LGC
-UID:cs-go-pgl-bucharest-2026-1427001@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: NEXVOID: 1 | The Huns Esports: 2\nStream: No official stream linked
 DTEND:20260401T153351Z
 DTSTART:20260401T125710Z
 SUMMARY:Grand final: NEXVOID vs THE
 UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424103@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: DEPO: 2 | THE UNIT: 0\nStream: No official stream linked
-DTEND:20260331T160218Z
-DTSTART:20260331T145122Z
-SUMMARY:Lower bracket semifinal: DEPO vs TU
-UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 1 | NEXVOID: 2\nStream: No official stream linked
@@ -58,11 +30,11 @@ SUMMARY:Upper bracket semifinal 2: CW vs NEXVOID
 UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 2 | DEPO: 1\nStream: No official stream linked
-DTEND:20260331T141553Z
-DTSTART:20260331T112626Z
-SUMMARY:Upper bracket semifinal 1: LEGION vs DEPO
-UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424600@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: K27: 0 | magic: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260402T162547Z
+DTSTART:20260402T143834Z
+SUMMARY:Upper bracket final: K27 vs MGC
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403904@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BOSS: 2 | regain: 0\nStream: No official stream linked
@@ -70,6 +42,13 @@ DTEND:20260402T233353Z
 DTSTART:20260402T221719Z
 SUMMARY:Lower bracket quarterfinal 1: BOSS vs REGAIN
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404268@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | Lavked: 1\nStream: https://www.twitch.tv/watchfultvb
+DTEND:20260402T102916Z
+DTSTART:20260402T080746Z
+SUMMARY:Lower bracket quarterfinal 2: 100T vs Lavked
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403901@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Abyssal: 1\nStream: No official stream linked
@@ -86,11 +65,18 @@ SUMMARY:Upper bracket final: 11mins vs GZ
 UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | BOSS: 0\nStream: https://www.twitch.tv/bonamant
-DTEND:20260402T034635Z
-DTSTART:20260402T022801Z
-SUMMARY:Upper bracket semifinal 2: LAG vs BOSS
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404171@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Keyd: 0 | Fake do Biru: 2\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260403T010404Z
+DTSTART:20260402T231157Z
+SUMMARY:Lower bracket semifinal: Keyd vs FDB
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404161@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | MIBR Academy: 0\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260331T191026Z
+DTSTART:20260331T170438Z
+SUMMARY:Upper bracket quarterfinal 2: ODK vs MIBR.A
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404069@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | BA 2: 0\nStream: https://www.twitch.tv/endiezcasts
@@ -107,13 +93,6 @@ SUMMARY:Upper bracket quarterfinal 1: FV vs REGAIN
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Astralis: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/PGL
-DTEND:20260406T144529Z
-DTSTART:20260406T130931Z
-SUMMARY:Round 3: AST vs MGLZ
-UID:cs-go-pgl-bucharest-2026-1426997@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/pgl
 DTEND:20260410T185809Z
 DTSTART:20260410T165238Z
@@ -121,18 +100,11 @@ SUMMARY:Semifinal 2: FUT vs MGLZ
 UID:cs-go-pgl-bucharest-2026-1427016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Legacy: 1 | MIBR: 2\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260406T095044Z
-DTSTART:20260406T070341Z
-SUMMARY:Round 3: LGC vs MIBR
-UID:cs-go-pgl-bucharest-2026-1426994@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BOSS: 0 | Fisher College: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260403T035638Z
-DTSTART:20260403T020620Z
-SUMMARY:Lower bracket semifinal: BOSS vs FC
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404297@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 0 | ACROBATS: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260331T191123Z
+DTSTART:20260331T174211Z
+SUMMARY:Upper bracket quarterfinal 4: HOTU vs ACROBATS
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403897@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | B8: 0\nStream: https://www.twitch.tv/pgl
@@ -142,18 +114,11 @@ SUMMARY:Quarterfinal 3: FUT vs B8
 UID:cs-go-pgl-bucharest-2026-1427013@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: B8: 2 | Legacy: 0\nStream: https://www.twitch.tv/PGL
-DTEND:20260408T121037Z
-DTSTART:20260408T103822Z
-SUMMARY:Round 5: B8 vs LGC
-UID:cs-go-pgl-bucharest-2026-1427009@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 1 | MIBR: 2\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260405T134640Z
-DTSTART:20260405T103903Z
-SUMMARY:Round 2: BCG vs MIBR
-UID:cs-go-pgl-bucharest-2026-1426987@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | WW Team: 0\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260331T131237Z
+DTSTART:20260331T113757Z
+SUMMARY:Upper bracket quarterfinal 1: K27 vs WW
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403894@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | Wildcard: 0\nStream: https://www.twitch.tv/PGL
@@ -163,83 +128,6 @@ SUMMARY:Round 5: PRV vs WC
 UID:cs-go-pgl-bucharest-2026-1427010@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 0 | 3DMAX: 2\nStream: https://www.twitch.tv/PGL
-DTEND:20260407T132057Z
-DTSTART:20260407T112219Z
-SUMMARY:Round 4: PRV vs 3DMAX
-UID:cs-go-pgl-bucharest-2026-1427006@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 3 | DEPO: 0\nStream: https://kick.com/meta_mn
-DTEND:20260402T110743Z
-DTSTART:20260402T081956Z
-SUMMARY:Round 2: THE vs DEPO
-UID:cs-go-pgl-astana-asia-closed-qualifier-2026-1427593@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: B8: 2 | Inner Circle Esports: 0\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260407T104257Z
-DTSTART:20260407T090326Z
-SUMMARY:Round 4: B8 vs ICE
-UID:cs-go-pgl-bucharest-2026-1427003@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260404T134421Z
-DTSTART:20260404T120020Z
-SUMMARY:Round 1: MGLZ vs BCG
-UID:cs-go-pgl-bucharest-2026-1426981@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | Inner Circle Esports: 1\nStream: https://www.twitch.tv/PGL
-DTEND:20260404T093636Z
-DTSTART:20260404T070258Z
-SUMMARY:Round 1: FUT vs ICE
-UID:cs-go-pgl-bucharest-2026-1426977@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 2 | Voca: 1\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260406T173352Z
-DTSTART:20260406T145416Z
-SUMMARY:Round 3: BCG vs VOCA
-UID:cs-go-pgl-bucharest-2026-1427000@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Haunted House: 0 | DEPO: 2\nStream: No official stream linked
-DTEND:20260401T150206Z
-DTSTART:20260401T135156Z
-SUMMARY:Grand final: HH vs DEPO
-UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424605@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: VTM Esports: 0 | Chinggis Warriors: 2\nStream: No official stream linked
-DTEND:20260331T150810Z
-DTSTART:20260331T124254Z
-SUMMARY:Lower bracket semifinal: VTM vs CW
-UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424105@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 1 | Haunted House: 2\nStream: No official stream linked
-DTEND:20260331T174402Z
-DTSTART:20260331T145121Z
-SUMMARY:Upper bracket final: LEGION vs HH
-UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424602@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 1 | NEXVOID: 2\nStream: No official stream linked
-DTEND:20260331T161008Z
-DTSTART:20260331T122934Z
-SUMMARY:Upper bracket final: THE vs NEXVOID
-UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424102@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nResult: Abyssal: 2 | 11mins: 0\nStream: No official stream linked
-DTEND:20260401T064436Z
-DTSTART:20260401T050915Z
-SUMMARY:Lower bracket final: Abyssal vs 11mins
-UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424598@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Ground Zero: 0 | DEPO: 2\nStream: https://www.twitch.tv/mikotohero
 DTEND:20260402T063653Z
 DTSTART:20260402T050930Z
@@ -247,39 +135,11 @@ SUMMARY:Round 1: GZ vs DEPO
 UID:cs-go-pgl-astana-asia-closed-qualifier-2026-1427078@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BA 2: 2 | Outfit 49: 0\nStream: No official stream linked
-DTEND:20260402T010401Z
-DTSTART:20260401T231549Z
-SUMMARY:Lower bracket round 1 match 2: BA 2 vs O49
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404169@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Fisher College: 0 | FarmVille: 2\nStream: https://www.twitch.tv/endiezcasts
-DTEND:20260402T034540Z
-DTSTART:20260402T020857Z
-SUMMARY:Upper bracket semifinal 1: FC vs FV
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404170@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Outfit 49: 1 | BOSS: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260401T051535Z
-DTSTART:20260401T021228Z
-SUMMARY:Upper bracket quarterfinal 3: O49 vs BOSS
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404166@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 0 | FUT Esports: 2\nStream: https://www.twitch.tv/PGL
 DTEND:20260406T170642Z
 DTSTART:20260406T151037Z
 SUMMARY:Round 3: PRV vs FUT
 UID:cs-go-pgl-bucharest-2026-1426999@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
-DURATION:PT2H
-DTSTART:20260411T120000Z
-SUMMARY:3rd Place match: 3DMAX vs MGLZ
-UID:cs-go-pgl-bucharest-2026-1427018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: NRG: 0 | EYEBALLERS: 2\nStream: https://www.twitch.tv/pgl_cs2
@@ -296,74 +156,11 @@ SUMMARY:Grand final: LAG vs FC
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Astralis: 2\nStream: https://www.twitch.tv/pgl
-DTEND:20260410T162614Z
-DTSTART:20260410T140321Z
-SUMMARY:Semifinal 1: 3DMAX vs AST
-UID:cs-go-pgl-bucharest-2026-1427015@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FOKUS: 1 | Wildcard: 2\nStream: https://www.twitch.tv/PGL
 DTEND:20260406T095039Z
 DTSTART:20260406T070024Z
 SUMMARY:Round 3: FOKUS vs WC
 UID:cs-go-pgl-bucharest-2026-1426993@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Legacy: 2 | Inner Circle Esports: 1\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260405T165627Z
-DTSTART:20260405T141035Z
-SUMMARY:Round 2: LGC vs ICE
-UID:cs-go-pgl-bucharest-2026-1426989@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Astralis: 2 | EYEBALLERS: 1\nStream: https://www.twitch.tv/pgl
-DTEND:20260409T131922Z
-DTSTART:20260409T103540Z
-SUMMARY:Quarterfinal 2: AST vs EYE
-UID:cs-go-pgl-bucharest-2026-1427012@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FOKUS: 1 | EYEBALLERS: 2\nStream: https://www.twitch.tv/PGL
-DTEND:20260408T100923Z
-DTSTART:20260408T070138Z
-SUMMARY:Round 5: FOKUS vs EYE
-UID:cs-go-pgl-bucharest-2026-1427008@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | FOKUS: 0\nStream: https://www.twitch.tv/PGL
-DTEND:20260405T140651Z
-DTSTART:20260405T114936Z
-SUMMARY:Round 2: PRV vs FOKUS
-UID:cs-go-pgl-bucharest-2026-1426990@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | NRG: 0\nStream: https://www.twitch.tv/pgl
-DTEND:20260405T082030Z
-DTSTART:20260405T070358Z
-SUMMARY:Round 2: FUT vs NRG
-UID:cs-go-pgl-bucharest-2026-1426986@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260407T124340Z
-DTSTART:20260407T110420Z
-SUMMARY:Round 4: FOKUS vs BCG
-UID:cs-go-pgl-bucharest-2026-1427005@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | Legacy: 1\nStream: https://www.twitch.tv/PGL
-DTEND:20260404T170514Z
-DTSTART:20260404T140633Z
-SUMMARY:Round 1: PRV vs LGC
-UID:cs-go-pgl-bucharest-2026-1426983@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: B8: 2 | Wildcard: 0\nStream: https://www.twitch.tv/PGL
-DTEND:20260404T113457Z
-DTSTART:20260404T095726Z
-SUMMARY:Round 1: B8 vs WC
-UID:cs-go-pgl-bucharest-2026-1426979@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: FarmVille: 0 | LAG Gaming: 2\nStream: https://www.twitch.tv/bonamant
@@ -373,25 +170,18 @@ SUMMARY:Upper bracket final: FV vs LAG
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: MIBR: 2 | EYEBALLERS: 0\nStream: https://www.twitch.tv/PGL
-DTEND:20260407T084031Z
-DTSTART:20260407T070351Z
-SUMMARY:Round 4: MIBR vs EYE
-UID:cs-go-pgl-bucharest-2026-1427002@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | FOKUS: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260405T140651Z
+DTSTART:20260405T114936Z
+SUMMARY:Round 2: PRV vs FOKUS
+UID:cs-go-pgl-bucharest-2026-1426990@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | EYEBALLERS: 0\nStream: https://www.twitch.tv/PGL
-DTEND:20260405T160843Z
-DTSTART:20260405T142735Z
-SUMMARY:Round 2: MGLZ vs EYE
-UID:cs-go-pgl-bucharest-2026-1426992@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: NRG: 2 | Voca: 0\nStream: https://www.twitch.tv/pgl_cs2
-DTEND:20260404T113115Z
-DTSTART:20260404T101450Z
-SUMMARY:Round 1: NRG vs VOCA
-UID:cs-go-pgl-bucharest-2026-1426980@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: B8: 2 | Wildcard: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260404T113457Z
+DTSTART:20260404T095726Z
+SUMMARY:Round 1: B8 vs WC
+UID:cs-go-pgl-bucharest-2026-1426979@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 0 | DEPO: 2\nStream: No official stream linked
@@ -401,13 +191,6 @@ SUMMARY:Lower bracket final: LEGION vs DEPO
 UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424604@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | The Huns Esports: 2\nStream: No official stream linked
-DTEND:20260401T114811Z
-DTSTART:20260401T095715Z
-SUMMARY:Lower bracket final: CW vs THE
-UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424104@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Haunted House: 2 | THE UNIT: 1\nStream: No official stream linked
 DTEND:20260331T142830Z
 DTSTART:20260331T112911Z
@@ -415,32 +198,179 @@ SUMMARY:Upper bracket semifinal 2: HH vs TU
 UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | VTM Esports: 0\nStream: No official stream linked
-DTEND:20260331T102630Z
-DTSTART:20260331T085948Z
-SUMMARY:Upper bracket semifinal 2: THE vs VTM
-UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424101@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Keyd: 1 | ODDIK: 2\nStream: https://www.twitch.tv/kabrafps
+DTEND:20260401T224702Z
+DTSTART:20260401T200528Z
+SUMMARY:Upper bracket semifinal 1: Keyd vs ODK
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404094@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Abyssal: 0\nStream: No official stream linked
-DTEND:20260331T071820Z
-DTSTART:20260331T053120Z
-SUMMARY:Upper bracket semifinal 1: GZ vs Abyssal
-UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424594@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9z: 2 | RED Canids Academy: 0\nStream: https://kick.com/forg1
+DTEND:20260401T003547Z
+DTSTART:20260331T231825Z
+SUMMARY:Upper bracket quarterfinal 4: 9z vs RED.A
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404071@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | regain: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260402T005238Z
-DTSTART:20260401T231146Z
-SUMMARY:Lower bracket round 1 match 1: ZOMB vs REGAIN
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404168@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | Wildcard: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260407T105408Z
+DTSTART:20260407T090126Z
+SUMMARY:Round 4: MGLZ vs WC
+UID:cs-go-pgl-bucharest-2026-1427004@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | Fisher College: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260401T004853Z
-DTSTART:20260331T233325Z
-SUMMARY:Upper bracket quarterfinal 2: ZOMB vs FC
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404165@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: NRG: 0 | Legacy: 2\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260407T084309Z
+DTSTART:20260407T070301Z
+SUMMARY:Round 4: NRG vs LGC
+UID:cs-go-pgl-bucharest-2026-1427001@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 1 | MIBR: 2\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260405T134640Z
+DTSTART:20260405T103903Z
+SUMMARY:Round 2: BCG vs MIBR
+UID:cs-go-pgl-bucharest-2026-1426987@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 3 | DEPO: 0\nStream: https://kick.com/meta_mn
+DTEND:20260402T110743Z
+DTSTART:20260402T081956Z
+SUMMARY:Round 2: THE vs DEPO
+UID:cs-go-pgl-astana-asia-closed-qualifier-2026-1427593@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260404T134421Z
+DTSTART:20260404T120020Z
+SUMMARY:Round 1: MGLZ vs BCG
+UID:cs-go-pgl-bucharest-2026-1426981@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: VTM Esports: 0 | Chinggis Warriors: 2\nStream: No official stream linked
+DTEND:20260331T150810Z
+DTSTART:20260331T124254Z
+SUMMARY:Lower bracket semifinal: VTM vs CW
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424105@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 1 | NEXVOID: 2\nStream: No official stream linked
+DTEND:20260331T161008Z
+DTSTART:20260331T122934Z
+SUMMARY:Upper bracket final: THE vs NEXVOID
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424102@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | 100 Thieves: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260403T131007Z
+DTSTART:20260403T102431Z
+SUMMARY:Lower bracket final: K27 vs 100T
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403906@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: magic: 2 | ACROBATS: 0\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260401T193359Z
+DTSTART:20260401T171230Z
+SUMMARY:Upper bracket semifinal 2: MGC vs ACROBATS
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403903@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: WW Team: 1 | ACROBATS: 2\nStream: https://www.twitch.tv/watchfultvb
+DTEND:20260402T141535Z
+DTSTART:20260402T112310Z
+SUMMARY:Lower bracket quarterfinal 1: WW vs ACROBATS
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403900@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nResult: Abyssal: 2 | 11mins: 0\nStream: No official stream linked
+DTEND:20260401T064436Z
+DTSTART:20260401T050915Z
+SUMMARY:Lower bracket final: Abyssal vs 11mins
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424598@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | RED Canids Academy: 0\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260401T185120Z
+DTSTART:20260401T170744Z
+SUMMARY:Lower bracket round 1 match 2: GH vs RED.A
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404082@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9z: 3 | ODDIK: 1\nStream: https://www.twitch.tv/forg1
+DTEND:20260403T225003Z
+DTSTART:20260403T190142Z
+SUMMARY:Grand final: 9z vs ODK
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404163@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BA 2: 2 | Outfit 49: 0\nStream: No official stream linked
+DTEND:20260402T010401Z
+DTSTART:20260401T231549Z
+SUMMARY:Lower bracket round 1 match 2: BA 2 vs O49
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404169@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Outfit 49: 1 | BOSS: 2\nStream: https://www.twitch.tv/bonamant
+DTEND:20260401T051535Z
+DTSTART:20260401T021228Z
+SUMMARY:Upper bracket quarterfinal 3: O49 vs BOSS
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404166@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: DashSkins: 1 | Keyd: 2\nStream: https://www.twitch.tv/kabrafps
+DTEND:20260331T164746Z
+DTSTART:20260331T140133Z
+SUMMARY:Upper bracket quarterfinal 1: DS vs Keyd
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404068@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
+DURATION:PT2H
+DTSTART:20260411T120000Z
+SUMMARY:3rd Place match: 3DMAX vs MGLZ
+UID:cs-go-pgl-bucharest-2026-1427018@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | HOTU: 1\nStream: https://www.twitch.tv/Trottah
+DTEND:20260401T143603Z
+DTSTART:20260401T112534Z
+SUMMARY:Lower bracket round 1 match 2: 100T vs HOTU
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403899@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Astralis: 2\nStream: https://www.twitch.tv/pgl
+DTEND:20260410T162614Z
+DTSTART:20260410T140321Z
+SUMMARY:Semifinal 1: 3DMAX vs AST
+UID:cs-go-pgl-bucharest-2026-1427015@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: 100 Thieves: 1 | magic: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260331T165849Z
+DTSTART:20260331T141552Z
+SUMMARY:Upper bracket quarterfinal 3: 100T vs MGC
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403896@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Astralis: 2 | EYEBALLERS: 1\nStream: https://www.twitch.tv/pgl
+DTEND:20260409T131922Z
+DTSTART:20260409T103540Z
+SUMMARY:Quarterfinal 2: AST vs EYE
+UID:cs-go-pgl-bucharest-2026-1427012@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | largadosypelados: 1\nStream: No official stream linked
+DTEND:20260402T195852Z
+DTSTART:20260402T170946Z
+SUMMARY:Lower bracket quarterfinal 1: FDB vs LDP
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404106@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Fake do Biru: 0 | 9z: 2\nStream: https://www.twitch.tv/elmorocho7
+DTEND:20260402T003112Z
+DTSTART:20260401T230725Z
+SUMMARY:Upper bracket semifinal 2: FDB vs 9z
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404100@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Inner Circle Esports: 2 | FaZe: 0\nStream: https://www.twitch.tv/pgl_cs2
@@ -448,13 +378,6 @@ DTEND:20260406T143113Z
 DTSTART:20260406T124349Z
 SUMMARY:Round 3: ICE vs FaZe
 UID:cs-go-pgl-bucharest-2026-1426998@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
-DURATION:PT2H
-DTSTART:20260411T150000Z
-SUMMARY:Grand final: AST vs FUT
-UID:cs-go-pgl-bucharest-2026-1427017@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: B8: 1 | 3DMAX: 2\nStream: https://www.twitch.tv/PGL
@@ -471,6 +394,174 @@ SUMMARY:Lower bracket final: FV vs FC
 UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404298@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | EYEBALLERS: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260405T160843Z
+DTSTART:20260405T142735Z
+SUMMARY:Round 2: MGLZ vs EYE
+UID:cs-go-pgl-bucharest-2026-1426992@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: 3DMAX: 1 | FOKUS: 2\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260404T095519Z
+DTSTART:20260404T070712Z
+SUMMARY:Round 1: 3DMAX vs FOKUS
+UID:cs-go-pgl-bucharest-2026-1426978@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: DEPO: 2 | THE UNIT: 0\nStream: No official stream linked
+DTEND:20260331T160218Z
+DTSTART:20260331T145122Z
+SUMMARY:Lower bracket semifinal: DEPO vs TU
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424603@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 2 | DEPO: 1\nStream: No official stream linked
+DTEND:20260331T141553Z
+DTSTART:20260331T112626Z
+SUMMARY:Upper bracket semifinal 1: LEGION vs DEPO
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424600@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | BOSS: 0\nStream: https://www.twitch.tv/bonamant
+DTEND:20260402T034635Z
+DTSTART:20260402T022801Z
+SUMMARY:Upper bracket semifinal 2: LAG vs BOSS
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404171@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Game Hunters: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260331T213450Z
+DTSTART:20260331T200617Z
+SUMMARY:Upper bracket quarterfinal 3: FDB vs GH
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404070@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: B8: 2 | Legacy: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260408T121037Z
+DTSTART:20260408T103822Z
+SUMMARY:Round 5: B8 vs LGC
+UID:cs-go-pgl-bucharest-2026-1427009@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 0 | 3DMAX: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260407T132057Z
+DTSTART:20260407T112219Z
+SUMMARY:Round 4: PRV vs 3DMAX
+UID:cs-go-pgl-bucharest-2026-1427006@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: B8: 2 | Inner Circle Esports: 0\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260407T104257Z
+DTSTART:20260407T090326Z
+SUMMARY:Round 4: B8 vs ICE
+UID:cs-go-pgl-bucharest-2026-1427003@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 2 | Voca: 1\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260406T173352Z
+DTSTART:20260406T145416Z
+SUMMARY:Round 3: BCG vs VOCA
+UID:cs-go-pgl-bucharest-2026-1427000@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Legacy: 2 | Inner Circle Esports: 1\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260405T165627Z
+DTSTART:20260405T141035Z
+SUMMARY:Round 2: LGC vs ICE
+UID:cs-go-pgl-bucharest-2026-1426989@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | NRG: 0\nStream: https://www.twitch.tv/pgl
+DTEND:20260405T082030Z
+DTSTART:20260405T070358Z
+SUMMARY:Round 2: FUT vs NRG
+UID:cs-go-pgl-bucharest-2026-1426986@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | Legacy: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260404T170514Z
+DTSTART:20260404T140633Z
+SUMMARY:Round 1: PRV vs LGC
+UID:cs-go-pgl-bucharest-2026-1426983@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: NRG: 2 | Voca: 0\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260404T113115Z
+DTSTART:20260404T101450Z
+SUMMARY:Round 1: NRG vs VOCA
+UID:cs-go-pgl-bucharest-2026-1426980@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | The Huns Esports: 2\nStream: No official stream linked
+DTEND:20260401T114811Z
+DTSTART:20260401T095715Z
+SUMMARY:Lower bracket final: CW vs THE
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424104@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: East Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: The Huns Esports: 2 | VTM Esports: 0\nStream: No official stream linked
+DTEND:20260331T102630Z
+DTSTART:20260331T085948Z
+SUMMARY:Upper bracket semifinal 2: THE vs VTM
+UID:cs-go-pgl-astana-east-asia-closed-qualifier-2026-1424101@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | ACROBATS: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260402T195448Z
+DTSTART:20260402T170259Z
+SUMMARY:Lower bracket semifinal: 100T vs ACROBATS
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403905@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | Lavked: 0\nStream: https://www.twitch.tv/endiezcasts
+DTEND:20260401T165034Z
+DTSTART:20260401T145506Z
+SUMMARY:Upper bracket semifinal 1: K27 vs Lavked
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403902@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: Oceania Closed Qualifier 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Abyssal: 0\nStream: No official stream linked
+DTEND:20260331T071820Z
+DTSTART:20260331T053120Z
+SUMMARY:Upper bracket semifinal 1: GZ vs Abyssal
+UID:cs-go-pgl-astana-oceania-closed-qualifier-2026-1424594@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | Fake do Biru: 0\nStream: https://www.twitch.tv/kabrafps
+DTEND:20260403T174902Z
+DTSTART:20260403T160202Z
+SUMMARY:Lower bracket final: ODK vs FDB
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404162@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | regain: 2\nStream: https://www.twitch.tv/bonamant
+DTEND:20260402T005238Z
+DTSTART:20260401T231146Z
+SUMMARY:Lower bracket round 1 match 1: ZOMB vs REGAIN
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404168@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | Fisher College: 2\nStream: https://www.twitch.tv/bonamant
+DTEND:20260401T004853Z
+DTSTART:20260331T233325Z
+SUMMARY:Upper bracket quarterfinal 2: ZOMB vs FC
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404165@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
+DURATION:PT2H
+DTSTART:20260411T150000Z
+SUMMARY:Grand final: AST vs FUT
+UID:cs-go-pgl-bucharest-2026-1427017@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: WW Team: 2 | illwill: 1\nStream: https://www.twitch.tv/watchfulTVb
+DTEND:20260401T110627Z
+DTSTART:20260401T080504Z
+SUMMARY:Lower bracket round 1 match 1: WW vs ILWL
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403898@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | PARIVISION: 1\nStream: https://www.twitch.tv/pgl
 DTEND:20260409T191457Z
 DTSTART:20260409T162025Z
@@ -478,11 +569,11 @@ SUMMARY:Quarterfinal 4: MGLZ vs PRV
 UID:cs-go-pgl-bucharest-2026-1427014@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Astralis: 2 | B8: 1\nStream: https://www.twitch.tv/pgl
-DTEND:20260405T112718Z
-DTSTART:20260405T084102Z
-SUMMARY:Round 2: AST vs B8
-UID:cs-go-pgl-bucharest-2026-1426988@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: illwill: 0 | Lavked: 2\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260331T130613Z
+DTSTART:20260331T112854Z
+SUMMARY:Upper bracket quarterfinal 2: ILWL vs Lavked
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403895@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: MIBR: 1 | 3DMAX: 2\nStream: https://www.twitch.tv/pgl
@@ -490,6 +581,104 @@ DTEND:20260409T100953Z
 DTSTART:20260409T070431Z
 SUMMARY:Quarterfinal 1: MIBR vs 3DMAX
 UID:cs-go-pgl-bucharest-2026-1427011@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Astralis: 2 | TheMongolz: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260406T144529Z
+DTSTART:20260406T130931Z
+SUMMARY:Round 3: AST vs MGLZ
+UID:cs-go-pgl-bucharest-2026-1426997@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Legacy: 1 | MIBR: 2\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260406T095044Z
+DTSTART:20260406T070341Z
+SUMMARY:Round 3: LGC vs MIBR
+UID:cs-go-pgl-bucharest-2026-1426994@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BOSS: 0 | Fisher College: 2\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260403T035638Z
+DTSTART:20260403T020620Z
+SUMMARY:Lower bracket semifinal: BOSS vs FC
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404297@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | Inner Circle Esports: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260404T093636Z
+DTSTART:20260404T070258Z
+SUMMARY:Round 1: FUT vs ICE
+UID:cs-go-pgl-bucharest-2026-1426977@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Haunted House: 0 | DEPO: 2\nStream: No official stream linked
+DTEND:20260401T150206Z
+DTSTART:20260401T135156Z
+SUMMARY:Grand final: HH vs DEPO
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424605@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: West Asia Closed Qualifier 2026\nMatch Type: Best Of\nResult: Legion: 1 | Haunted House: 2\nStream: No official stream linked
+DTEND:20260331T174402Z
+DTSTART:20260331T145121Z
+SUMMARY:Upper bracket final: LEGION vs HH
+UID:cs-go-pgl-astana-west-asia-closed-qualifier-2026-1424602@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | MIBR Academy: 1\nStream: No official stream linked
+DTEND:20260401T163111Z
+DTSTART:20260401T141352Z
+SUMMARY:Lower bracket round 1 match 1: LDP vs MIBR.A
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404072@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Fisher College: 0 | FarmVille: 2\nStream: https://www.twitch.tv/endiezcasts
+DTEND:20260402T034540Z
+DTSTART:20260402T020857Z
+SUMMARY:Upper bracket semifinal 1: FC vs FV
+UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404170@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: South American Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9z: 2 | ODDIK: 1\nStream: https://kick.com/forg1
+DTEND:20260402T195004Z
+DTSTART:20260402T170648Z
+SUMMARY:Upper bracket final: 9z vs ODK
+UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404153@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FOKUS: 1 | EYEBALLERS: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260408T100923Z
+DTSTART:20260408T070138Z
+SUMMARY:Round 5: FOKUS vs EYE
+UID:cs-go-pgl-bucharest-2026-1427008@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260407T124340Z
+DTSTART:20260407T110420Z
+SUMMARY:Round 4: FOKUS vs BCG
+UID:cs-go-pgl-bucharest-2026-1427005@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: MIBR: 2 | EYEBALLERS: 0\nStream: https://www.twitch.tv/PGL
+DTEND:20260407T084031Z
+DTSTART:20260407T070351Z
+SUMMARY:Round 4: MIBR vs EYE
+UID:cs-go-pgl-bucharest-2026-1427002@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: magic: 3 | K27: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260403T193304Z
+DTSTART:20260403T141023Z
+SUMMARY:Grand final: MGC vs K27
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403927@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: Astralis: 2 | B8: 1\nStream: https://www.twitch.tv/pgl
+DTEND:20260405T112718Z
+DTSTART:20260405T084102Z
+SUMMARY:Round 2: AST vs B8
+UID:cs-go-pgl-bucharest-2026-1426988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: 3DMAX: 2 | Voca: 1\nStream: https://www.twitch.tv/pgl_cs2
