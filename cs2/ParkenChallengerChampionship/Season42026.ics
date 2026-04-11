@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260411T140000Z
-SUMMARY:Upper bracket semifinal 1: AAB vs TBD
+SUMMARY:Upper bracket semifinal 1: AAB vs SASHI.A
 UID:cs-go-parken-challenger-championship-4-2026-1437318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +128,8 @@ SUMMARY:Upper bracket quarterfinal 4: SAW vs WAZ
 UID:cs-go-parken-challenger-championship-4-2026-1437317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | Team Eclipse: 1\nStream: https://kick.com/challengerchampionship
+DTEND:20260411T101810Z
 DTSTART:20260411T080249Z
 SUMMARY:Upper bracket quarterfinal 1: SASHI.A vs Eclipse
 UID:cs-go-parken-challenger-championship-4-2026-1437314@tournamentics
@@ -201,7 +201,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260411T110000Z
-SUMMARY:Lower bracket round 1 match 1: LAG vs TBD
+SUMMARY:Lower bracket round 1 match 1: LAG vs Eclipse
 UID:cs-go-parken-challenger-championship-4-2026-1437320@tournamentics
 END:VEVENT
 BEGIN:VEVENT

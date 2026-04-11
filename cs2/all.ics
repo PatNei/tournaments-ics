@@ -1955,8 +1955,8 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | Team Eclipse: 1\nStream: https://kick.com/challengerchampionship
+DTEND:20260411T101810Z
 DTSTART:20260411T080249Z
 SUMMARY:Upper bracket quarterfinal 1: SASHI.A vs Eclipse
 UID:cs-go-parken-challenger-championship-4-2026-1437314@tournamentics
@@ -2471,13 +2471,6 @@ DTEND:20260404T191412Z
 DTSTART:20260404T174712Z
 SUMMARY:Decider match: RGE vs ISG
 UID:cs-go-fireconter-3-2026-1429166@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
-DTSTART:20260411T080000Z
-SUMMARY:Lower bracket round 1 match 1: INF vs IC.A
-UID:cs-go-united21-47-2026-1438941@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
@@ -5920,7 +5913,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260411T110000Z
-SUMMARY:Lower bracket round 1 match 1: LAG vs TBD
+SUMMARY:Lower bracket round 1 match 1: LAG vs Eclipse
 UID:cs-go-parken-challenger-championship-4-2026-1437320@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7628,7 +7621,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260411T140000Z
-SUMMARY:Upper bracket semifinal 1: AAB vs TBD
+SUMMARY:Upper bracket semifinal 1: AAB vs SASHI.A
 UID:cs-go-parken-challenger-championship-4-2026-1437318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8125,7 +8118,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260413T080000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: IC.A vs TBD
 UID:cs-go-united21-47-2026-1438945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
