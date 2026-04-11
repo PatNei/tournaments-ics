@@ -366,18 +366,18 @@ SUMMARY:Round 3: INF vs NP
 UID:cs-go-exort-series-24-2026-1407195@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: ZennoX: 0 | Nova Legion: 2\nStream: https://kick.com/exort_en2
-DTEND:20260321T115710Z
-DTSTART:20260321T104022Z
-SUMMARY:Round 3: ZX vs NOVA
-UID:cs-go-exort-series-24-2026-1408589@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: VP.Future: 0 | CSGOPOSITIVE: 2\nStream: https://kick.com/exort_en2
 DTEND:20260407T144014Z
 DTSTART:20260407T123040Z
 SUMMARY:Round 1: VP.F vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1433375@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: ZennoX: 0 | Nova Legion: 2\nStream: https://kick.com/exort_en2
+DTEND:20260321T115710Z
+DTSTART:20260321T104022Z
+SUMMARY:Round 3: ZX vs NOVA
+UID:cs-go-exort-series-24-2026-1408589@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Hermine Esports Club: 2 | PLATOON: 1\nStream: https://kick.com/exort_en2
