@@ -2588,7 +2588,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260413T103000Z
-SUMMARY:Quarterfinal 4: ex-RUBY vs TBD
+SUMMARY:Quarterfinal 4: ex-RUBY vs MZP
 UID:cs-go-european-pro-league-series-6-2026-1400945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3040,8 +3040,8 @@ SUMMARY:Round 1: RBLS vs  CSDIILIT
 UID:cs-go-nodwin-clutch-series-6-2026-1389774@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | TheMongolz: 2\nStream: https://www.twitch.tv/pgl
+DTEND:20260411T133213Z
 DTSTART:20260411T120338Z
 SUMMARY:3rd Place match: 3DMAX vs MGLZ
 UID:cs-go-pgl-bucharest-2026-1427018@tournamentics
@@ -5507,7 +5507,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260412T170000Z
-SUMMARY:TBD vs TBD
+SUMMARY:Lavked vs RE
 UID:cs-go-nodwin-clutch-series-7-2026-1431921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5525,8 +5525,8 @@ SUMMARY:Round 3: EMP vs FV
 UID:cs-go-dust2-us-eagle-masters-7-2026-1431892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: Metizport: 2 | Basement Bobs: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260411T133824Z
 DTSTART:20260411T114859Z
 SUMMARY:Round of 16 match 8: MZP vs BB
 UID:cs-go-european-pro-league-series-6-2026-1400941@tournamentics
@@ -6214,7 +6214,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260412T140000Z
-SUMMARY:TBD vs TBD
+SUMMARY:BBP vs Hashiras
 UID:cs-go-nodwin-clutch-series-7-2026-1431920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7215,7 +7215,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260412T110000Z
-SUMMARY:TBD vs TBD
+SUMMARY:Leo vs URSA
 UID:cs-go-nodwin-clutch-series-7-2026-1431919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7880,7 +7880,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260412T080000Z
-SUMMARY:TBD vs TBD
+SUMMARY:MANA vs PG
 UID:cs-go-nodwin-clutch-series-7-2026-1431918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
