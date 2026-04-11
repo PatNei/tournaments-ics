@@ -2,34 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | Back to Back : 0\nStream: No official stream linked
-DTEND:20260316T203948Z
-DTSTART:20260316T191909Z
-SUMMARY:LDP vs Back to Back 
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1396966@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 2 | BESTIA Academy: 0\nStream: https://www.twitch.tv/gamersclubcs
-DTEND:20260331T211349Z
-DTSTART:20260331T190908Z
-SUMMARY:Quarterfinal 1: RED.A vs BST.A
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1425487@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Guara Esports: 1\nStream: No official stream linked
-DTEND:20260330T221800Z
-DTSTART:20260330T190729Z
-SUMMARY:Decider match: MIBR.A vs GE
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1418611@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Players: 0 | BESTIA Academy: 2\nStream: No official stream linked
-DTEND:20260324T184500Z
-DTSTART:20260324T170000Z
-SUMMARY:Decider match: PLS vs BST.A
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1415191@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Alzon: 2 | MIBR Academy: 1\nStream: https://www.twitch.tv/gamersclubcs
 DTEND:20260403T001455Z
 DTSTART:20260402T213755Z
@@ -37,46 +9,11 @@ SUMMARY:Semifinal 2: Alzon vs MIBR.A
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1426183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 1 | Masqueic0Gang: 0\nStream: No official stream linked
-DTEND:20260316T223013Z
-DTSTART:20260316T212338Z
-SUMMARY:RED.A vs Masqueic0Gang
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1396943@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: paiN Academy: 0 | UNO MILLE: 1\nStream: No official stream linked
-DTEND:20260313T221309Z
-DTSTART:20260313T213114Z
-SUMMARY:paiN.A vs UNO
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1396936@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Exterus: 1\nStream: No official stream linked
-DTEND:20260318T221226Z
-DTSTART:20260318T191558Z
-SUMMARY:Elimination match: paiN.A vs EXT
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1403762@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 2 | METANOIA: 1\nStream: No official stream linked
-DTEND:20260321T004542Z
-DTSTART:20260320T214608Z
-SUMMARY:Winners match: RED.A vs METANOIA
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1405082@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | Guara Esports: 0\nStream: No official stream linked
-DTEND:20260316T220439Z
-DTSTART:20260316T212847Z
-SUMMARY:MIBR.A vs GE
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1396965@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | Players: 0\nStream: No official stream linked
-DTEND:20260319T230320Z
-DTSTART:20260319T210556Z
-SUMMARY:Winners match: ALKAa vs PLS
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1407192@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: METANOIA: 0 | Alzon: 2\nStream: https://www.twitch.tv/metanoiagg
+DTEND:20260326T232948Z
+DTSTART:20260326T221150Z
+SUMMARY:Decider Match: METANOIA vs Alzon
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1415104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 0 | MIBR Academy: 2\nStream: https://www.youtube.com/watch?v=QBUF1NUryM4
@@ -93,32 +30,18 @@ SUMMARY:Winners match: MIBR.A vs LDP
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1410078@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Alzon: 0 | METANOIA: 1\nStream: https://www.twitch.tv/metanoiagg
-DTEND:20260317T004139Z
-DTSTART:20260316T231516Z
-SUMMARY:Alzon vs METANOIA
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1396938@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Alzon: 2 | Masqueic0Gang: 0\nStream: No official stream linked
+DTEND:20260320T233559Z
+DTSTART:20260320T222426Z
+SUMMARY:Elimination match: Alzon vs Masqueic0Gang
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1407200@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: METANOIA: 0 | Alzon: 2\nStream: https://www.twitch.tv/metanoiagg
-DTEND:20260326T232948Z
-DTSTART:20260326T221150Z
-SUMMARY:Decider Match: METANOIA vs Alzon
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1415104@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Back to Back : 0 | Guara Esports: 2\nStream: No official stream linked
-DTEND:20260324T212236Z
-DTSTART:20260324T192920Z
-SUMMARY:Elimination match: Back to Back  vs GE
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1405828@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | ALKA GAMING: 1\nStream: No official stream linked
-DTEND:20260316T222225Z
-DTSTART:20260316T212321Z
-SUMMARY:BST.A vs ALKAa
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1396964@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: paiN Academy: 2 | Exterus: 1\nStream: No official stream linked
+DTEND:20260318T221226Z
+DTSTART:20260318T191558Z
+SUMMARY:Elimination match: paiN.A vs EXT
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1403762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | UNO MILLE: 0\nStream: https://www.twitch.tv/gamersclubcs
@@ -126,6 +49,13 @@ DTEND:20260331T231540Z
 DTSTART:20260331T214128Z
 SUMMARY:Quarterfinal 2: LDP vs UNO
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1425488@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 2 | METANOIA: 1\nStream: No official stream linked
+DTEND:20260321T004542Z
+DTSTART:20260320T214608Z
+SUMMARY:Winners match: RED.A vs METANOIA
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1405082@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 2 | UNO MILLE: 1\nStream: No official stream linked
@@ -149,17 +79,38 @@ SUMMARY:Grand final: RED.A vs Alzon
 UID:cs-go-gamers-club-liga-serie-a-march-2026-1426184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Alzon: 2 | Masqueic0Gang: 0\nStream: No official stream linked
-DTEND:20260320T233559Z
-DTSTART:20260320T222426Z
-SUMMARY:Elimination match: Alzon vs Masqueic0Gang
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1407200@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 2 | BESTIA Academy: 0\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260331T211349Z
+DTSTART:20260331T190908Z
+SUMMARY:Quarterfinal 1: RED.A vs BST.A
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1425487@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | Exterus: 0\nStream: No official stream linked
-DTEND:20260316T195849Z
-DTSTART:20260316T192255Z
-SUMMARY:MW vs EXT
-UID:cs-go-gamers-club-liga-serie-a-march-2026-1396937@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Guara Esports: 1\nStream: No official stream linked
+DTEND:20260330T221800Z
+DTSTART:20260330T190729Z
+SUMMARY:Decider match: MIBR.A vs GE
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1418611@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Players: 0 | BESTIA Academy: 2\nStream: No official stream linked
+DTEND:20260324T184500Z
+DTSTART:20260324T170000Z
+SUMMARY:Decider match: PLS vs BST.A
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1415191@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: Back to Back : 0 | Guara Esports: 2\nStream: No official stream linked
+DTEND:20260324T212236Z
+DTSTART:20260324T192920Z
+SUMMARY:Elimination match: Back to Back  vs GE
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1405828@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - March 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 2 | Players: 0\nStream: No official stream linked
+DTEND:20260319T230320Z
+DTSTART:20260319T210556Z
+SUMMARY:Winners match: ALKAa vs PLS
+UID:cs-go-gamers-club-liga-serie-a-march-2026-1407192@tournamentics
 END:VEVENT
 END:VCALENDAR

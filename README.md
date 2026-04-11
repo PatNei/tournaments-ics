@@ -77,78 +77,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Bucharest2026.i
 
 </details>
 
-## B Tier
-
-<details>
-<summary>CCT Europe</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics
-```
-
----
-
-### Series #19 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series19Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series19Season32026.ics
-```
-
-### Series #20 season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series20Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series20Season32026.ics
-```
-
-</details>
-
-<details>
-<summary>DraculaN</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Draculan.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Draculan.ics
-```
-
----
-
-### Season 6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Season62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Season62026.ics
-```
-
-</details>
-
-<details>
-<summary>Stake Ranked</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics
-```
-
----
-
-### Episode 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode12026.ics
-```
-
-</details>
-
 ## C Tier
 
 <details>
@@ -229,27 +157,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 </details>
 
 <details>
-<summary>European Pro League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/EuropeanProLeague.ics
-```
-
----
-
-### Series 6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/Series62026.ics
-```
-
-</details>
-
-<details>
 <summary>HLC Belgrade Pro</summary>
 
 ### Full Schedule
@@ -303,25 +210,11 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics
 
 ---
 
-### Astana: European Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEuropeanClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEuropeanClosedQualifier2026.ics
-```
-
 ### Astana: North American Closed Qualifier 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanClosedQualifier2026.ics)
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaNorthAmericanClosedQualifier2026.ics
-```
-
-### Astana: South American Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaSouthAmericanClosedQualifier2026.ics
 ```
 
 </details>
@@ -345,27 +238,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayh
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayhem/SOPaulo2026.ics
-```
-
-</details>
-
-<details>
-<summary>BetBoom Storm</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/BetboomStorm.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/BetboomStorm.ics
-```
-
----
-
-### Season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Season22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomStorm/Season22026.ics
 ```
 
 </details>
@@ -429,27 +301,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CisLanChampionship/Season42026.ics
-```
-
-</details>
-
-<details>
-<summary>DACH CS Masters</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/DachCsMasters.ics
-```
-
----
-
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/DachCsMasters/Season52026.ics
 ```
 
 </details>
@@ -711,13 +562,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 
 ---
 
-### Season 6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season62026.ics
-```
-
 ### Season 7 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season72026.ics)
 
@@ -765,13 +609,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/Pgl.ics
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaAsiaClosedQualifier2026.ics
-```
-
-### Astana: East Asia Closed Qualifier 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEastAsiaClosedQualifier2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Pgl/AstanaEastAsiaClosedQualifier2026.ics
 ```
 
 ### Astana: West Asia Closed Qualifier 2026
