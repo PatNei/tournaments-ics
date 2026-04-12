@@ -782,7 +782,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260412T170000Z
-SUMMARY:Grand final: AAB vs TBD
+SUMMARY:Grand final: AAB vs Entropy
 UID:cs-go-parken-challenger-championship-4-2026-1437327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2221,8 +2221,8 @@ SUMMARY:Lower bracket round 1 match 10: TNT vs RT
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420068@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 2 | WAZABI: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260412T155407Z
 DTSTART:20260412T140413Z
 SUMMARY:Lower bracket final: Entropy vs WAZ
 UID:cs-go-parken-challenger-championship-4-2026-1437325@tournamentics
@@ -4342,8 +4342,8 @@ SUMMARY:G2.A vs COW
 UID:cs-go-esea-advanced-europe-57-2026-1434762@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: ECSTATIC: 0 | TNC: 1\nStream: https://www.twitch.tv/playzonecz
+DTEND:20260412T155325Z
 DTSTART:20260412T151030Z
 SUMMARY:Round 1: ECS vs TNC
 UID:cs-go-conquest-of-prague-online-stage-2026-1438483@tournamentics
