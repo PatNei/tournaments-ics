@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260412T080000Z
-SUMMARY:Decider match: RSTR vs TBD
+SUMMARY:Decider match: RSTR vs TW
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438963@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nResult: Time Waves: 2 | The Bardolphs: 1\nStream: https://www.twitch.tv/dfragtv_cs2
+DTEND:20260412T073406Z
 DTSTART:20260412T044813Z
 SUMMARY:Elimination match: TW vs The Bardolphs
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438959@tournamentics
