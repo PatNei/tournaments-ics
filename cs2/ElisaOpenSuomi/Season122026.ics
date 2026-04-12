@@ -26,7 +26,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260412T170000Z
-SUMMARY:Grand final: ENCE vs TBD
+SUMMARY:Grand final: ENCE vs  CSDIILIT
 UID:cs-go-elisa-open-suomi-12-2026-1436298@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -93,8 +93,8 @@ SUMMARY:Round 1: RGG vs  CSDIILIT
 UID:cs-go-elisa-open-suomi-12-2026-1372428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | KUUSAMO.gg: 0\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260412T161613Z
 DTSTART:20260412T143052Z
 SUMMARY:Lower bracket final:  CSDIILIT vs KSM
 UID:cs-go-elisa-open-suomi-12-2026-1436297@tournamentics

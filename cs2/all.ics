@@ -2256,9 +2256,9 @@ SUMMARY:Upper bracket quarterfinal 2: ODK vs MIBR.A
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404069@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
+DESCRIPTION:🔴 LIVE NOW\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260412T161000Z
+DTSTART:20260412T161558Z
 SUMMARY:Round 1: FNC vs SASHI
 UID:cs-go-conquest-of-prague-online-stage-2026-1438486@tournamentics
 END:VEVENT
@@ -5388,7 +5388,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
 DTSTART:20260412T170000Z
-SUMMARY:Grand final: ENCE vs TBD
+SUMMARY:Grand final: ENCE vs  CSDIILIT
 UID:cs-go-elisa-open-suomi-12-2026-1436298@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6071,8 +6071,8 @@ SUMMARY:Upper bracket semifinal 2: FURIA vs GL
 UID:cs-go-blast-rivals-spring-2026-1438856@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | KUUSAMO.gg: 0\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260412T161613Z
 DTSTART:20260412T143052Z
 SUMMARY:Lower bracket final:  CSDIILIT vs KSM
 UID:cs-go-elisa-open-suomi-12-2026-1436297@tournamentics
