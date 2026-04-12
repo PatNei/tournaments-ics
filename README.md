@@ -108,27 +108,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series20S
 </details>
 
 <details>
-<summary>DraculaN</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Draculan.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Draculan.ics
-```
-
----
-
-### Season 6 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Season62026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Draculan/Season62026.ics
-```
-
-</details>
-
-<details>
 <summary>Stake Ranked</summary>
 
 ### Full Schedule
@@ -266,27 +245,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HlcBelgradePro/HlcB
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/HlcBelgradePro/2026.ics
-```
-
-</details>
-
-<details>
-<summary>Parken Challenger Championship</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics
-```
-
----
-
-### Season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season32026.ics
 ```
 
 </details>

@@ -72,18 +72,18 @@ SUMMARY:Semifinal 2: FUT vs MGLZ
 UID:cs-go-pgl-bucharest-2026-1427016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 0 | ACROBATS: 2\nStream: https://www.twitch.tv/Trottah
-DTEND:20260331T191123Z
-DTSTART:20260331T174211Z
-SUMMARY:Upper bracket quarterfinal 4: HOTU vs ACROBATS
-UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403897@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FUT Esports: 2 | B8: 0\nStream: https://www.twitch.tv/pgl
 DTEND:20260409T155633Z
 DTSTART:20260409T135035Z
 SUMMARY:Quarterfinal 3: FUT vs B8
 UID:cs-go-pgl-bucharest-2026-1427013@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: HOTU: 0 | ACROBATS: 2\nStream: https://www.twitch.tv/Trottah
+DTEND:20260331T191123Z
+DTSTART:20260331T174211Z
+SUMMARY:Upper bracket quarterfinal 4: HOTU vs ACROBATS
+UID:cs-go-pgl-astana-european-closed-qualifier-2026-1403897@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: European Closed Qualifier 2026\nMatch Type: Best Of\nResult: K27: 2 | WW Team: 0\nStream: https://www.twitch.tv/watchfulTVb
