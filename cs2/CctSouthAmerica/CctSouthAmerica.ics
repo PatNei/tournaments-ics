@@ -2,25 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
-DTSTART:20260412T234500Z
-SUMMARY:Upper bracket round 1 match 7: VSC vs ALKA
-UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439650@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
-DTSTART:20260412T212000Z
-SUMMARY:Upper bracket round 1 match 2: MIBR.A vs paiN.A
-UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439645@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
-DTSTART:20260412T234500Z
-SUMMARY:Upper bracket round 1 match 8: CRASH vs HWGA
-UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439651@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | Vexa: 1\nStream: https://www.twitch.tv/bestia_corp
+DTEND:20260411T232948Z
+DTSTART:20260411T210446Z
+SUMMARY:Upper bracket round 1 match 3: BST.A vs VEXA
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439646@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs7
@@ -30,10 +16,10 @@ SUMMARY:Upper bracket round 1 match 6: R2 vs MW
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439649@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | Vexa: 1\nStream: https://www.twitch.tv/bestia_corp
-DTEND:20260411T232948Z
-DTSTART:20260411T210446Z
-SUMMARY:Upper bracket round 1 match 3: BST.A vs VEXA
-UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439646@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260412T234500Z
+SUMMARY:Upper bracket round 1 match 7: VSC vs ALKA
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439650@tournamentics
 END:VEVENT
 END:VCALENDAR
