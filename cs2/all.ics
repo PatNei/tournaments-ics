@@ -1521,9 +1521,9 @@ SUMMARY:Lower bracket round 1 match 2: FF vs LPH
 UID:cs-go-united21-47-2026-1438942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs7
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs7
 DURATION:PT2H
-DTSTART:20260412T210000Z
+DTSTART:20260412T211114Z
 SUMMARY:Upper bracket round 1 match 6: R2 vs MW
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439649@tournamentics
 END:VEVENT
@@ -3994,7 +3994,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
-DTSTART:20260412T210000Z
+DTSTART:20260412T212000Z
 SUMMARY:Upper bracket round 1 match 2: MIBR.A vs paiN.A
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1439645@tournamentics
 END:VEVENT
@@ -4776,8 +4776,8 @@ SUMMARY:DGK vs Diamant Esports
 UID:cs-go-esea-advanced-europe-57-2026-1438019@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Lavked: 2 | Rune Eaters: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260412T211200Z
 DTSTART:20260412T180734Z
 SUMMARY:Lavked vs RE
 UID:cs-go-nodwin-clutch-series-7-2026-1431921@tournamentics
@@ -6417,7 +6417,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260413T103000Z
-SUMMARY:Lower bracket quarterfinal 2: FF vs IMP.A
+SUMMARY:Lower bracket quarterfinal 2: IMP.A vs FF
 UID:cs-go-united21-47-2026-1438946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6991,7 +6991,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260413T080000Z
-SUMMARY:Lower bracket quarterfinal 1: IC.A vs MISA
+SUMMARY:Lower bracket quarterfinal 1: MISA vs IC.A
 UID:cs-go-united21-47-2026-1438945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
