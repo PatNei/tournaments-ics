@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260412T140000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: Entropy vs TBD
 UID:cs-go-parken-challenger-championship-4-2026-1437325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:WAZ vs AAB
 UID:cs-go-parken-challenger-championship-4-2026-1437298@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Sashi Academy: 1\nStream: https://kick.com/challengerchampionship
+DTEND:20260412T103704Z
 DTSTART:20260412T080411Z
 SUMMARY:Lower bracket semifinal: Entropy vs SASHI.A
 UID:cs-go-parken-challenger-championship-4-2026-1437324@tournamentics
