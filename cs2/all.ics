@@ -1892,6 +1892,13 @@ SUMMARY:Ducks vs TAZ
 UID:cs-go-dach-cs-masters-5-2026-1385741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260412T183000Z
+SUMMARY:Round 4: CSGOPOSITIVE vs NIC
+UID:cs-go-exort-series-25-2026-1442153@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | LAG Gaming: 2\nStream: https://www.twitch.tv/eslcs
 DTEND:20260407T023712Z
 DTSTART:20260407T010252Z
@@ -2606,6 +2613,13 @@ SUMMARY:WAVE vs BERG
 UID:cs-go-dach-cs-masters-5-2026-1385740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260412T153000Z
+SUMMARY:Round 4: 3DMAX.A vs WAVE
+UID:cs-go-exort-series-25-2026-1442152@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T233000Z
@@ -3276,6 +3290,13 @@ DURATION:PT2H
 DTSTART:20260415T160000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438496@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260412T093000Z
+SUMMARY:Round 4: EP vs KSM
+UID:cs-go-exort-series-25-2026-1442151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Urban Riga - Open #4 2026\nMatch Type: Best Of\nResult: ASTRAL: 1 | Sangal: 2\nStream: https://kick.com/urbancontenders
@@ -6890,7 +6911,7 @@ SUMMARY:Round 1: ASTRAL vs URSA
 UID:cs-go-nodwin-clutch-series-6-2026-1389769@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
 DURATION:PT2H
 DTSTART:20260412T000000Z
 SUMMARY:Round 5: ZOMB vs InC
