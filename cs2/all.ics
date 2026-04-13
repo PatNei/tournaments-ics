@@ -1381,8 +1381,8 @@ SUMMARY:Lower bracket final: ODK vs FDB
 UID:cs-go-pgl-astana-south-american-closed-qualifier-2026-1404162@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: ESC Gaming: 1 | Qual4: 0\nStream: https://www.twitch.tv/playzonecz
+DTEND:20260413T153132Z
 DTSTART:20260413T151052Z
 SUMMARY:Round 1: ESC vs Qual4
 UID:cs-go-conquest-of-prague-online-stage-2026-1438487@tournamentics
@@ -1848,6 +1848,13 @@ DTEND:20260404T190415Z
 DTSTART:20260404T160210Z
 SUMMARY:Grand final: G2 vs BB
 UID:cs-go-stake-ranked-episode-1-2026-1413398@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260414T210000Z
+SUMMARY:Lower bracket round 1 match 4: ALKA vs HWGA
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444720@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: eternal premium: 2 | PLATOON: 0\nStream: https://kick.com/exort_en2
@@ -2760,6 +2767,13 @@ SUMMARY:BIG vs BCA
 UID:cs-go-hlc-belgrade-pro-2026-1427069@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260413T210000Z
+SUMMARY:Lower bracket round 1 match 3: Alzon vs R2
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444719@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | Fluxo W7M: 2\nStream: https://www.twitch.tv/tris_mara
 DTEND:20260404T160214Z
 DTSTART:20260404T131321Z
@@ -3346,6 +3360,13 @@ DTEND:20260329T155217Z
 DTSTART:20260329T141941Z
 SUMMARY:Round 4: STA vs QWE
 UID:cs-go-cct-europe-series-19-3-2026-1399003@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260413T210000Z
+SUMMARY:Lower bracket round 1 match 2: VEXA vs MAG
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444718@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: HLC Belgrade Pro - 2026\nMatch Type: Best Of\nResult: BIG: 2 | Luminous: 0\nStream: https://kick.com/rlgcs
@@ -3983,6 +4004,13 @@ DTEND:20260329T123929Z
 DTSTART:20260329T110326Z
 SUMMARY:Round 4: MINLATE vs ALGO
 UID:cs-go-cct-europe-series-19-3-2026-1399002@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260414T210000Z
+SUMMARY:Lower bracket round 1 match 1: FDB vs paiN.A
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444717@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Nebula In Chaox: 2 | Eternal Fire Academy: 0\nStream: No official stream linked
@@ -4636,6 +4664,13 @@ SUMMARY:Round 4: RE vs BBP
 UID:cs-go-cct-europe-series-19-3-2026-1399001@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260414T234500Z
+SUMMARY:Upper bracket quarterfinal 4: VSC vs CRASH
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444716@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 2 | CSGOPOSITIVE: 0\nStream: No official stream linked
 DTEND:20260408T174343Z
 DTSTART:20260408T153811Z
@@ -5287,6 +5322,13 @@ SUMMARY:Round 4: MEGO vs  CSDIILIT
 UID:cs-go-cct-europe-series-19-3-2026-1399000@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260414T234500Z
+SUMMARY:Upper bracket quarterfinal 3: PCY vs MW
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444715@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Wingman: 0 | INFURITY Gaming: 2\nStream: No official stream linked
 DTEND:20260408T141253Z
 DTSTART:20260408T123511Z
@@ -5609,9 +5651,9 @@ SUMMARY:Round 3: RGG vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260413T153000Z
+DTSTART:20260413T153056Z
 SUMMARY:Upper bracket quarterfinal 3: TS vs TL
 UID:cs-go-iem-rio-2026-1429127@tournamentics
 END:VEVENT
@@ -5908,6 +5950,13 @@ DTEND:20260404T100700Z
 DTSTART:20260404T083638Z
 SUMMARY:CS vs Re Di
 UID:cs-go-hlc-belgrade-pro-2026-1427064@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260413T234500Z
+SUMMARY:Upper bracket quarterfinal 2: BST.A vs UNO
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Hermine Esports Club: 2 | KUUSAMO.gg: 1\nStream: No official stream linked
@@ -6503,6 +6552,13 @@ DTEND:20260405T193852Z
 DTSTART:20260405T170505Z
 SUMMARY:Upper bracket semifinal 2: QWE vs TNC
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420027@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DURATION:PT2H
+DTSTART:20260413T234500Z
+SUMMARY:Upper bracket quarterfinal 1: QUIN vs MIBR.A
+UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444713@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: HLC Belgrade Pro - 2026\nMatch Type: Best Of\nResult: magic: 2 | PIVOSQUAD: 0\nStream: https://www.twitch.tv/dutchboycasts
