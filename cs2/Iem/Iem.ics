@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260413T202517Z
 DTSTART:20260413T180803Z
 SUMMARY:Upper bracket quarterfinal 2: B8 vs NAVI
 UID:cs-go-iem-rio-2026-1429130@tournamentics
@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260414T180000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: B8 vs TBD
 UID:cs-go-iem-rio-2026-1436304@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260414T180000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: NAVI vs TBD
 UID:cs-go-iem-rio-2026-1436303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
