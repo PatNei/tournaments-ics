@@ -317,8 +317,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: megoshort: 1 | hindsight: 0\nStream: No official stream linked
+DTEND:20260413T184620Z
 DTSTART:20260413T181650Z
 SUMMARY:MEGO vs hindsight
 UID:cs-go-esea-advanced-europe-57-2026-1444153@tournamentics
@@ -334,7 +334,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260415T140000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: CS vs OXUJI
 UID:cs-go-nodwin-clutch-series-7-2026-1431928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -950,7 +950,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260415T110000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: FAV vs ESC
 UID:cs-go-nodwin-clutch-series-7-2026-1431927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1552,7 +1552,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260415T080000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: ACE vs URSA
 UID:cs-go-nodwin-clutch-series-7-2026-1431926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2168,7 +2168,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260414T170000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: 1WIN vs BBP
 UID:cs-go-nodwin-clutch-series-7-2026-1431925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2742,7 +2742,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260414T140000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: ex-RUBY vs PHA
 UID:cs-go-nodwin-clutch-series-7-2026-1431924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3330,7 +3330,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260414T110000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: NTR vs Lavked
 UID:cs-go-nodwin-clutch-series-7-2026-1431923@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3960,7 +3960,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260414T080000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: MOUZ.N vs G1
 UID:cs-go-nodwin-clutch-series-7-2026-1431922@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5910,8 +5910,8 @@ SUMMARY:Lower bracket round 3 match 8: PGE vs HERO.A
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420050@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | Oldboys: 0\nStream: No official stream linked
+DTEND:20260413T184902Z
 DTSTART:20260413T181658Z
 SUMMARY:EP vs OLDB
 UID:cs-go-esea-advanced-europe-57-2026-1444110@tournamentics
@@ -6533,13 +6533,6 @@ SUMMARY:Semifinal 1: FaZe vs ILWL
 UID:cs-go-hlc-belgrade-pro-2026-1427074@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260413T184500Z
-SUMMARY:Round 4: CLS vs WING
-UID:cs-go-exort-series-25-2026-1443606@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Young TigeRES: 2 | ROUNDS: 0\nStream: https://kick.com/exort_en2
 DTEND:20260401T170712Z
 DTSTART:20260401T153942Z
@@ -6890,8 +6883,8 @@ SUMMARY:Round 1: BOSS vs AKIMBO
 UID:cs-go-dust2-us-eagle-masters-7-2026-1422176@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BRAWLSTARS: 0 | B8 Academy: 1\nStream: No official stream linked
+DTEND:20260413T184740Z
 DTSTART:20260413T181254Z
 SUMMARY:BRAWLSTARS vs B8.A
 UID:cs-go-esea-advanced-europe-57-2026-1444154@tournamentics
@@ -6900,7 +6893,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260415T170000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: TDK vs MANA
 UID:cs-go-nodwin-clutch-series-7-2026-1431929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
