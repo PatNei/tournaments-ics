@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260414T103000Z
-SUMMARY:Lower bracket semifinal: MISA vs TBD
+SUMMARY:Lower bracket semifinal: MISA vs FF
 UID:cs-go-united21-47-2026-1438948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-united21-47-2026-1438949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Imperial Academy: 1 | Fire Flux Esports: 2\nStream: https://kick.com/united21_en
+DTEND:20260413T141214Z
 DTSTART:20260413T103622Z
 SUMMARY:Lower bracket quarterfinal 2: IMP.A vs FF
 UID:cs-go-united21-47-2026-1438946@tournamentics
