@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jumboteamesports
 DURATION:PT2H
 DTSTART:20260413T190000Z
 SUMMARY:JUMBO vs XI
@@ -65,8 +65,8 @@ SUMMARY:Falcons Force vs XI
 UID:cs-go-esea-advanced-europe-57-2026-1436247@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: tincan: 0 | eLITenergy: 1\nStream: No official stream linked
+DTEND:20260413T185955Z
 DTSTART:20260413T181638Z
 SUMMARY:TIN vs eLITe
 UID:cs-go-esea-advanced-europe-57-2026-1444108@tournamentics
