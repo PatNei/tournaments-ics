@@ -678,27 +678,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/UrbanRiga/Open42026
 
 </details>
 
-<details>
-<summary>Yuqilin</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Yuqilin/Yuqilin.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Yuqilin/Yuqilin.ics
-```
-
----
-
-### Pinnacle of Battle season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Yuqilin/PinnacleOfBattleSeason32026.ics
-```
-
-</details>
-
 ## License
 
 ### Calendar Data (.ics files)
