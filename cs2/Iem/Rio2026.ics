@@ -40,26 +40,26 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260415T180000Z
-SUMMARY:Upper bracket final: VIT vs TBD
+SUMMARY:Upper bracket final: VIT vs FAL
 UID:cs-go-iem-rio-2026-1436311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260415T130000Z
-SUMMARY:Lower bracket semifinal 1: RED vs TBD
+SUMMARY:Lower bracket semifinal 1: RED vs TS
 UID:cs-go-iem-rio-2026-1436307@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
 DURATION:PT2H
-DTSTART:20260414T190000Z
+DTSTART:20260414T182500Z
 SUMMARY:Lower bracket quarterfinal 1: B8 vs PSSN.UA
 UID:cs-go-iem-rio-2026-1436304@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 0 | Team Falcons: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260414T181127Z
 DTSTART:20260414T164207Z
 SUMMARY:Upper bracket semifinal 2: TS vs FAL
 UID:cs-go-iem-rio-2026-1436301@tournamentics
