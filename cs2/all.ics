@@ -1514,9 +1514,9 @@ SUMMARY:Lower bracket final: NEXVOID vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421668@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/spyhiddentv
 DURATION:PT2H
-DTSTART:20260414T150000Z
+DTSTART:20260414T151000Z
 SUMMARY:MISA vs AUR.YB
 UID:cs-go-esea-advanced-europe-57-2026-1445623@tournamentics
 END:VEVENT
@@ -4386,7 +4386,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260414T153000Z
+DTSTART:20260414T163000Z
 SUMMARY:Upper bracket semifinal 2: TS vs FAL
 UID:cs-go-iem-rio-2026-1436301@tournamentics
 END:VEVENT
