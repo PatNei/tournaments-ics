@@ -16,13 +16,6 @@ SUMMARY:Upper bracket round 1 match 5: ENJOY vs LFO
 UID:cs-go-cct-europe-contenders-4-2026-1430772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BOSS: 2 | regain: 0\nStream: No official stream linked
-DTEND:20260402T233353Z
-DTSTART:20260402T221719Z
-SUMMARY:Lower bracket quarterfinal 1: BOSS vs REGAIN
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404268@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Lavked: 2 |  Phantom Academy: 1\nStream: https://kick.com/exort_en2
 DTEND:20260404T173125Z
 DTSTART:20260404T153636Z
@@ -70,13 +63,6 @@ DTEND:20260404T024402Z
 DTSTART:20260404T010650Z
 SUMMARY:Upper bracket quarterfinal 3: Reign Above vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421617@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: FarmVille: 2 | regain: 0\nStream: https://www.twitch.tv/bonamant
-DTEND:20260401T005900Z
-DTSTART:20260331T232344Z
-SUMMARY:Upper bracket quarterfinal 1: FV vs REGAIN
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Falcons Force: 1 | XI Esport: 0\nStream: No official stream linked
@@ -371,6 +357,13 @@ DTEND:20260406T031628Z
 DTSTART:20260406T010831Z
 SUMMARY:Lower bracket round 3 match 2: Surge vs LAG
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421628@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260414T180000Z
+SUMMARY:CYBERSHOKE Prospects vs TEAM_COPH9K
+UID:cs-go-esea-advanced-europe-57-2026-1445625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Lavked: 2 | megoshort: 0\nStream: https://kick.com/nodwin_cs2
@@ -938,6 +931,13 @@ DTEND:20260406T151741Z
 DTSTART:20260406T130603Z
 SUMMARY:Lower bracket quarterfinal 1: BMZ vs QUBE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421669@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260414T163000Z
+SUMMARY:XI vs FCF
+UID:cs-go-esea-advanced-europe-57-2026-1445624@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | Ursa: 0\nStream: https://kick.com/nodwin_cs2
@@ -1521,6 +1521,13 @@ SUMMARY:Lower bracket final: NEXVOID vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421668@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260414T150000Z
+SUMMARY:MISA vs AUR.YB
+UID:cs-go-esea-advanced-europe-57-2026-1445623@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | Hashiras: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260409T190949Z
 DTSTART:20260409T182210Z
@@ -1955,13 +1962,6 @@ SUMMARY:Round 1: FOKUS REALITY vs INF
 UID:cs-go-exort-series-24-2026-1414591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Fisher College: 3\nStream: https://www.twitch.tv/bonamant
-DTEND:20260404T042640Z
-DTSTART:20260403T224112Z
-SUMMARY:Grand final: LAG vs FC
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404299@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260420T140000Z
@@ -2391,7 +2391,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260414T180000Z
+DTSTART:20260416T180000Z
 SUMMARY:EP vs ENJOY
 UID:cs-go-esea-advanced-europe-57-2026-1436243@tournamentics
 END:VEVENT
@@ -2529,13 +2529,6 @@ SUMMARY:Round 1: TLR vs NOVA
 UID:cs-go-exort-series-24-2026-1414590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: FarmVille: 1 | Fisher College: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260403T215354Z
-DTSTART:20260403T190801Z
-SUMMARY:Lower bracket final: FV vs FC
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404298@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260420T110000Z
@@ -2641,11 +2634,11 @@ SUMMARY:TAZ vs FROX
 UID:cs-go-dach-cs-masters-5-2026-1385728@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | BOSS: 0\nStream: https://www.twitch.tv/bonamant
-DTEND:20260402T034635Z
-DTSTART:20260402T022801Z
-SUMMARY:Upper bracket semifinal 2: LAG vs BOSS
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404171@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: VP.Future: 2 | ex-PeeP: 1\nStream: https://kick.com/exort_en2
+DTEND:20260316T161909Z
+DTSTART:20260316T153106Z
+SUMMARY:Round 1: VP.F vs ex-PeeP
+UID:cs-go-exort-series-24-2026-1401736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 1 | FengDa Gaming: 2\nStream: https://www.youtube.com/watch?v=WdPrhI3iHlo
@@ -3089,13 +3082,6 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BOSS: 0 | Fisher College: 2\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260403T035638Z
-DTSTART:20260403T020620Z
-SUMMARY:Lower bracket semifinal: BOSS vs FC
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404297@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260420T080000Z
@@ -3192,13 +3178,6 @@ DURATION:PT2H
 DTSTART:20260523T103000Z
 SUMMARY:BIG.A vs BERG
 UID:cs-go-dach-cs-masters-5-2026-1385727@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Fisher College: 0 | FarmVille: 2\nStream: https://www.twitch.tv/endiezcasts
-DTEND:20260402T034540Z
-DTSTART:20260402T020857Z
-SUMMARY:Upper bracket semifinal 1: FC vs FV
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: Coalesce: 1 | INFURITY Gaming: 2\nStream: https://kick.com/exort_en2
@@ -3395,13 +3374,6 @@ DTEND:20260405T101750Z
 DTSTART:20260405T070332Z
 SUMMARY:Round 2: 3DMAX vs VOCA
 UID:cs-go-pgl-bucharest-2026-1426985@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BA 2: 0 | Fisher College: 2\nStream: No official stream linked
-DTEND:20260403T000810Z
-DTSTART:20260402T232022Z
-SUMMARY:Lower bracket quarterfinal 2: BA 2 vs FC
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404285@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -3661,13 +3633,6 @@ DURATION:PT2H
 DTSTART:20260422T150000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438507@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: FarmVille: 0 | LAG Gaming: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260403T002950Z
-DTSTART:20260402T224318Z
-SUMMARY:Upper bracket final: FV vs LAG
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -4060,13 +4025,6 @@ DTEND:20260407T185942Z
 DTSTART:20260407T171230Z
 SUMMARY:Winners match: PG vs BBP
 UID:cs-go-nodwin-clutch-series-7-2026-1431910@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: BA 2: 2 | Outfit 49: 0\nStream: No official stream linked
-DTEND:20260402T010401Z
-DTSTART:20260401T231549Z
-SUMMARY:Lower bracket round 1 match 2: BA 2 vs O49
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404169@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Lavked: 2 | zajezdzacze: 0\nStream: https://www.twitch.tv/eslcs
@@ -4608,13 +4566,6 @@ SUMMARY:Upper bracket semifinal 2: ENJOY vs ZOTIX
 UID:cs-go-cct-europe-contenders-4-2026-1436320@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 24 2026\nMatch Type: Best Of\nResult: VP.Future: 2 | ex-PeeP: 1\nStream: https://kick.com/exort_en2
-DTEND:20260316T161909Z
-DTSTART:20260316T153106Z
-SUMMARY:Round 1: VP.F vs ex-PeeP
-UID:cs-go-exort-series-24-2026-1401736@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | Legacy: 1\nStream: https://www.twitch.tv/PGL
 DTEND:20260404T170514Z
 DTSTART:20260404T140633Z
@@ -4676,13 +4627,6 @@ DURATION:PT2H
 DTSTART:20260417T000000Z
 SUMMARY:Quarterfinal 4: AKIMBO vs CHICANERY
 UID:cs-go-dust2-us-eagle-masters-7-2026-1445112@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | regain: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260402T005238Z
-DTSTART:20260401T231146Z
-SUMMARY:Lower bracket round 1 match 1: ZOMB vs REGAIN
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Omega: 1 | m1x: 2\nStream: https://www.twitch.tv/hvnnn_tv
@@ -5308,13 +5252,6 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | BA 2: 0\nStream: https://www.twitch.tv/endiezcasts
-DTEND:20260401T035005Z
-DTSTART:20260401T022133Z
-SUMMARY:Upper bracket quarterfinal 4: LAG vs BA 2
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404167@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Ølgod Efterskole: 0 | SAW: 1\nStream: https://kick.com/challengerchampionship_b
 DTEND:20260410T144705Z
 DTSTART:20260410T140329Z
@@ -5875,13 +5812,6 @@ SUMMARY:Lower bracket semifinal 2: TBD vs TBD
 UID:cs-go-iem-rio-2026-1436310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Outfit 49: 1 | BOSS: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260401T051535Z
-DTSTART:20260401T021228Z
-SUMMARY:Upper bracket quarterfinal 3: O49 vs BOSS
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404166@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | BOJONG: 2\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260330T162809Z
 DTSTART:20260330T143102Z
@@ -6407,13 +6337,6 @@ SUMMARY:Round 3: BRUTE vs TLR
 UID:cs-go-exort-series-24-2026-1421527@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana: North American Closed Qualifier 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | Fisher College: 2\nStream: https://www.twitch.tv/bonamant
-DTEND:20260401T004853Z
-DTSTART:20260331T233325Z
-SUMMARY:Upper bracket quarterfinal 2: ZOMB vs FC
-UID:cs-go-pgl-astana-north-american-closed-qualifier-2026-1404165@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BoyBand: 2 | Elite Klan: 1\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260324T203217Z
 DTSTART:20260324T180127Z
@@ -6671,6 +6594,13 @@ DURATION:PT2H
 DTSTART:20260415T000000Z
 SUMMARY:Quarterfinal 1: IP vs TA
 UID:cs-go-dust2-us-eagle-masters-7-2026-1445109@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260414T180000Z
+SUMMARY:MEGO vs BRAWLSTARS
+UID:cs-go-esea-advanced-europe-57-2026-1445626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Rune Eaters: 2 | eLITenergy: 1\nStream: https://kick.com/nodwin_cs2

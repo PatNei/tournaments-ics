@@ -51,6 +51,13 @@ SUMMARY:RGG vs EP
 UID:cs-go-esea-advanced-europe-57-2026-1438016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260414T163000Z
+SUMMARY:XI vs FCF
+UID:cs-go-esea-advanced-europe-57-2026-1445624@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Nerve of Cow: 0\nStream: No official stream linked
 DTEND:20260407T191800Z
 DTSTART:20260407T183858Z
@@ -158,9 +165,23 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260414T180000Z
+SUMMARY:MEGO vs BRAWLSTARS
+UID:cs-go-esea-advanced-europe-57-2026-1445626@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260417T170000Z
 SUMMARY:SE7ENS vs JUMBO
 UID:cs-go-esea-advanced-europe-57-2026-1433387@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260414T150000Z
+SUMMARY:MISA vs AUR.YB
+UID:cs-go-esea-advanced-europe-57-2026-1445623@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -172,7 +193,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260414T180000Z
+DTSTART:20260416T180000Z
 SUMMARY:EP vs ENJOY
 UID:cs-go-esea-advanced-europe-57-2026-1436243@tournamentics
 END:VEVENT
@@ -231,6 +252,13 @@ DTEND:20260409T180013Z
 DTSTART:20260409T171001Z
 SUMMARY:ZOTIX vs Falcons Force
 UID:cs-go-esea-advanced-europe-57-2026-1438017@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260414T180000Z
+SUMMARY:CYBERSHOKE Prospects vs TEAM_COPH9K
+UID:cs-go-esea-advanced-europe-57-2026-1445625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | QUAZAR: 1\nStream: https://www.twitch.tv/theeb1ye
