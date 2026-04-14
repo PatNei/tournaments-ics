@@ -109,7 +109,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
 DURATION:PT2H
-DTSTART:20260414T160000Z
+DTSTART:20260414T161000Z
 SUMMARY:Round 2: FNC vs EYE
 UID:cs-go-conquest-of-prague-online-stage-2026-1438492@tournamentics
 END:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: ECSTATIC: 1 | Johnny Speeds: 0\nStream: https://www.twitch.tv/playzoneup
+DTEND:20260414T160141Z
 DTSTART:20260414T150257Z
 SUMMARY:Round 2: ECS vs JS
 UID:cs-go-conquest-of-prague-online-stage-2026-1438491@tournamentics
