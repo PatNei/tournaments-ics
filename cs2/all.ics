@@ -884,9 +884,9 @@ SUMMARY:Round 4: RE vs ENCE.A
 UID:cs-go-cct-europe-series-20-3-2026-1406955@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260414T103000Z
+DTSTART:20260414T103752Z
 SUMMARY:Semifinal 2: PHA vs MZP
 UID:cs-go-european-pro-league-series-6-2026-1400947@tournamentics
 END:VEVENT
@@ -3698,8 +3698,8 @@ SUMMARY:LEI vs TAZ
 UID:cs-go-dach-cs-masters-5-2026-1385749@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | GenOne: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260414T103731Z
 DTSTART:20260414T080205Z
 SUMMARY:Round 1: MOUZ.N vs G1
 UID:cs-go-nodwin-clutch-series-7-2026-1431922@tournamentics
@@ -4748,9 +4748,9 @@ SUMMARY:Lower bracket quarterfinal 1: paiN.A vs CRASH
 UID:cs-go-esl-challenger-league-south-america-cup-3-2026-1421595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260414T103000Z
+DTSTART:20260414T104054Z
 SUMMARY:Lower bracket semifinal: MISA vs FF
 UID:cs-go-united21-47-2026-1438948@tournamentics
 END:VEVENT
