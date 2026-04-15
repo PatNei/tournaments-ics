@@ -128,13 +128,6 @@ SUMMARY:Round 2: LAG vs CW
 UID:cs-go-dust2-us-eagle-masters-7-2026-1427596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 0 | Gaimin Gladiators: 2\nStream: https://www.twitch.tv/locomass22
-DTEND:20260405T023232Z
-DTSTART:20260405T004419Z
-SUMMARY:Semifinal 2: BHE vs GG
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421574@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Just Players: 1 | TNC: 2\nStream: https://www.twitch.tv/tncesport
 DTEND:20260403T195120Z
 DTSTART:20260403T170717Z
@@ -163,13 +156,6 @@ SUMMARY:Upper bracket final: UNO vs FDB
 UID:cs-go-esl-challenger-league-south-america-cup-3-2026-1421591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Despedidos: 0\nStream: https://www.youtube.com/watch?v=RawR4hBbaiQ
-DTEND:20260405T154157Z
-DTSTART:20260405T140424Z
-SUMMARY:Upper bracket final: ISG vs Despe
-UID:cs-go-fireconter-3-2026-1429169@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Young Ninjas: 2 | Misa Esports: 0\nStream: https://kick.com/united21_en
 DTEND:20260412T122245Z
 DTSTART:20260412T103948Z
@@ -184,13 +170,6 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431962@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: paiN: 2 | Galorys: 1\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260401T194753Z
-DTSTART:20260401T165144Z
-SUMMARY:Winners match: paiN vs GLS
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421551@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | brazylijski luz: 0\nStream: No official stream linked
 DTEND:20260330T150959Z
 DTSTART:20260330T130823Z
@@ -198,18 +177,18 @@ SUMMARY:Upper bracket round 2 match 5: UNiTY vs BL
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420002@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: BIG: 2 | Bebop: 1\nStream: https://kick.com/cct_cs2
-DTEND:20260408T195315Z
-DTSTART:20260408T172206Z
-SUMMARY:Round of 16 match 1: BIG vs BBP
-UID:cs-go-cct-europe-series-20-3-2026-1406979@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: banda chuya: 0 | MAJIX ESPORTS: 2\nStream: https://kick.com/cct_cs6
 DTEND:20260408T165944Z
 DTSTART:20260408T153447Z
 SUMMARY:Lower bracket round 2 match 2: banda chuya vs MJX
 UID:cs-go-cct-europe-contenders-4-2026-1436316@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: BIG: 2 | Bebop: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260408T195315Z
+DTSTART:20260408T172206Z
+SUMMARY:Round of 16 match 1: BIG vs BBP
+UID:cs-go-cct-europe-series-20-3-2026-1406979@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
@@ -450,13 +429,6 @@ SUMMARY:Upper bracket round 1 match 12: AHK vs YNG
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419997@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Crashers: 0 | ShindeN: 2\nStream: https://www.twitch.tv/locomass22
-DTEND:20260402T181530Z
-DTSTART:20260402T164330Z
-SUMMARY:Elimination match: CRASH vs SHIN
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421562@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: TNC: 2 | yngods: 0\nStream: https://www.twitch.tv/GoYareGo
 DTEND:20260330T192922Z
 DTSTART:20260330T172122Z
@@ -497,13 +469,6 @@ DTEND:20260414T021546Z
 DTSTART:20260414T004446Z
 SUMMARY:Semifinal 1: VOCA vs REGAIN
 UID:cs-go-cct-north-america-series-4-3-2026-1431984@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 2 | Riprising Argentina: 0\nStream: https://www.youtube.com/watch?v=9fYxfY8OWZE
-DTEND:20260403T151625Z
-DTSTART:20260403T140515Z
-SUMMARY:PCY vs RIP ARG
-UID:cs-go-fireconter-3-2026-1429157@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -639,13 +604,6 @@ SUMMARY:Round 1: PHTM.Ac vs HEC
 UID:cs-go-exort-series-25-2026-1447126@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: paiN: 2 | Fluxo W7M: 0\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260404T222727Z
-DTSTART:20260404T205633Z
-SUMMARY:Semifinal 1: paiN vs FXW7
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421573@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: eLITenergy: 0 | QWENTRY: 2\nStream: No official stream linked
 DTEND:20260403T192258Z
 DTSTART:20260403T174007Z
@@ -674,25 +632,11 @@ SUMMARY:Upper bracket semifinal 1: IMP.A vs BRUTE
 UID:cs-go-united21-47-2026-1438943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 1 | Despedidos: 2\nStream: https://www.youtube.com/watch?v=fn2sJnapLl0
-DTEND:20260404T210826Z
-DTSTART:20260404T185828Z
-SUMMARY:Upper bracket semifinal 2: BST.A vs Despe
-UID:cs-go-fireconter-3-2026-1429168@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260424T140000Z
 SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431961@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Marsborne: 1 | Galorys: 2\nStream: https://kick.com/locomas
-DTEND:20260401T155407Z
-DTSTART:20260401T132600Z
-SUMMARY:MARS vs GLS
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421550@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Rune Eaters: 1 | RUSTEC: 2\nStream: No official stream linked
@@ -947,13 +891,6 @@ SUMMARY:Upper bracket round 1 match 11: ex-Zero Tenacity vs RT
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419996@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Imperial: 1 | Bounty Hunters Esports: 2\nStream: https://kick.com/circuitx
-DTEND:20260402T192312Z
-DTSTART:20260402T164329Z
-SUMMARY:Winners match: IMP vs BHE
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421561@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 2 | Lilmix: 0\nStream: https://www.twitch.tv/piaskees
 DTEND:20260330T183240Z
 DTSTART:20260330T170337Z
@@ -1150,13 +1087,6 @@ SUMMARY:Round 1: PAR vs INF
 UID:cs-go-exort-series-25-2026-1447125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Galorys: 0\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260404T185115Z
-DTSTART:20260404T171613Z
-SUMMARY:Quarterfinal 4: BHE vs GLS
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421572@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | ENCE Academy: 2\nStream: https://www.twitch.tv/titaanitv
 DTEND:20260403T184921Z
 DTSTART:20260403T170540Z
@@ -1190,13 +1120,6 @@ DURATION:PT2H
 DTSTART:20260424T110000Z
 SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431960@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | Isurus: 2\nStream: https://www.youtube.com/watch?v=_FxfhsYtiwg
-DTEND:20260404T221150Z
-DTSTART:20260404T200346Z
-SUMMARY:Upper bracket semifinal 1: PCY vs ISG
-UID:cs-go-fireconter-3-2026-1429167@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | TNT: 1\nStream: https://www.twitch.tv/GoYareGo
@@ -1437,25 +1360,11 @@ SUMMARY:Upper bracket semifinal 1: UNO vs paiN.A
 UID:cs-go-esl-challenger-league-south-america-cup-3-2026-1421589@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: ShindeN: 1 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/locomass22
-DTEND:20260402T155039Z
-DTSTART:20260402T131032Z
-SUMMARY:SHIN vs BHE
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421560@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Ursa: 2 | ex-Zero Tenacity: 1\nStream: https://www.twitch.tv/karmaflexxx
 DTEND:20260330T200108Z
 DTSTART:20260330T170449Z
 SUMMARY:Upper bracket round 2 match 14: URSA vs ex-Zero Tenacity
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420011@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: paiN: 2 | ALKA GAMING: 0\nStream: https://www.twitch.tv/vilacattv
-DTEND:20260401T145042Z
-DTSTART:20260401T132642Z
-SUMMARY:paiN vs ALKA
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421549@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | CYBERSHOKE Prospects: 0\nStream: https://kick.com/CCT_CS5
@@ -1619,13 +1528,6 @@ SUMMARY:Round 4: BOJONG vs BoyBand
 UID:cs-go-elisa-open-suomi-12-2026-1372442@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: RED Canids: 0 | Gaimin Gladiators: 2\nStream: https://www.twitch.tv/locomass22
-DTEND:20260404T193755Z
-DTSTART:20260404T172418Z
-SUMMARY:Quarterfinal 3: RED vs GG
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421571@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | MANA eSports: 0\nStream: https://www.twitch.tv/eslcs
 DTEND:20260403T185115Z
 DTSTART:20260403T171106Z
@@ -1638,13 +1540,6 @@ DTEND:20260323T173648Z
 DTSTART:20260323T160813Z
 SUMMARY:Elimination match: m1x vs LPH
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404869@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Really Gang Esports: 0 | Isurus: 2\nStream: https://www.youtube.com/watch?v=_FxfhsYtiwg
-DTEND:20260404T191412Z
-DTSTART:20260404T174712Z
-SUMMARY:Decider match: RGE vs ISG
-UID:cs-go-fireconter-3-2026-1429166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 0 | FUT Esports: 2\nStream: https://www.twitch.tv/PGL
@@ -1990,18 +1885,18 @@ SUMMARY:3rd Place match: 3DMAX vs MGLZ
 UID:cs-go-pgl-bucharest-2026-1427018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: regain: 2 | FlyQuest RED: 0\nStream: https://www.twitch.tv/floofys
-DTEND:20260403T022659Z
-DTSTART:20260403T010541Z
-SUMMARY:Upper bracket round 1 match 7: REGAIN vs FLY.R
-UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421613@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
 DTSTART:20260418T010000Z
 SUMMARY:Upper bracket semifinal 2: DXA vs Ding Cuts
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438963@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: regain: 2 | FlyQuest RED: 0\nStream: https://www.twitch.tv/floofys
+DTEND:20260403T022659Z
+DTSTART:20260403T010541Z
+SUMMARY:Upper bracket round 1 match 7: REGAIN vs FLY.R
+UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421613@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nResult: Game Hunters: 0 | Keyd: 2\nStream: https://www.twitch.tv/eslcs
@@ -2074,13 +1969,6 @@ SUMMARY:Lower bracket round 1 match 3: Alzon vs R2
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1444719@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: ODDIK: 1 | Fluxo W7M: 2\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260404T160214Z
-DTSTART:20260404T131321Z
-SUMMARY:Quarterfinal 2: ODK vs FXW7
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421570@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 1 | TNC: 2\nStream: https://www.twitch.tv/tncesport
 DTEND:20260401T200328Z
 DTSTART:20260401T170618Z
@@ -2095,25 +1983,11 @@ SUMMARY:Winners match: Inner Circle Academy vs ESC
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404868@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Crashers: 0\nStream: https://www.twitch.tv/RNakano
-DTEND:20260402T153336Z
-DTSTART:20260402T131054Z
-SUMMARY:IMP vs CRASH
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421559@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260419T210000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447265@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Isurus: 1 | Despedidos: 2\nStream: https://www.youtube.com/watch?v=_FxfhsYtiwg
-DTEND:20260404T170338Z
-DTSTART:20260404T140528Z
-SUMMARY:Winners match: ISG vs Despe
-UID:cs-go-fireconter-3-2026-1429165@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
@@ -2333,18 +2207,18 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: BIG: 0 | Team Nemesis: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260410T174615Z
-DTSTART:20260410T160353Z
-SUMMARY:Grand final: BIG vs NEM
-UID:cs-go-cct-europe-series-20-3-2026-1406986@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: Young TigeRES: 1 | Vexar: 2\nStream: https://kick.com/CCT_CS5
 DTEND:20260410T183800Z
 DTSTART:20260410T153741Z
 SUMMARY:Lower bracket quarterfinal 1: Y.TigeRES vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436323@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: BIG: 0 | Team Nemesis: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260410T174615Z
+DTSTART:20260410T160353Z
+SUMMARY:Grand final: BIG vs NEM
+UID:cs-go-cct-europe-series-20-3-2026-1406986@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #4 season 3 2026\nMatch Type: Best Of\nResult: Voca: 2 | Akimbo Esports: 0\nStream: https://kick.com/cct_cs3
@@ -2578,13 +2452,6 @@ SUMMARY:Lower bracket quarterfinal 2: IC.A vs ROTTW
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 2 | largadosypelados: 0\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260403T194619Z
-DTSTART:20260403T180800Z
-SUMMARY:Decider match: FXW7 vs LDP
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421558@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | Grindas: 0\nStream: No official stream linked
 DTEND:20260330T183757Z
 DTSTART:20260330T171412Z
@@ -2597,13 +2464,6 @@ DURATION:PT2H
 DTSTART:20260418T234500Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447264@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Hacha Esports: 0 | Really Gang Esports: 2\nStream: https://www.youtube.com/watch?v=9fYxfY8OWZE
-DTEND:20260403T204012Z
-DTSTART:20260403T191147Z
-SUMMARY:Elimination match: Hacha Esports vs RGE
-UID:cs-go-fireconter-3-2026-1429164@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | Vexa: 1\nStream: https://www.twitch.tv/bestia_corp
@@ -2800,13 +2660,6 @@ DTEND:20260410T213048Z
 DTSTART:20260410T184745Z
 SUMMARY:Lower bracket semifinal 2: IC.A vs BND
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404970@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: paiN: 2 | ShindeN: 1\nStream: https://www.twitch.tv/locomass22
-DTEND:20260404T154236Z
-DTSTART:20260404T131040Z
-SUMMARY:Quarterfinal 1: paiN vs SHIN
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nResult: R2 Esports Club: 1 | paiN Academy: 2\nStream: https://www.twitch.tv/ddaniro_
@@ -3075,13 +2928,6 @@ SUMMARY:Lower bracket quarterfinal 1: KOL vs m1x
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 0 | largadosypelados: 2\nStream: https://www.twitch.tv/metanoiagg
-DTEND:20260402T023442Z
-DTSTART:20260402T005457Z
-SUMMARY:Elimination match: MW vs LDP
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421557@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/eslcs
 DTEND:20260330T181447Z
 DTSTART:20260330T170941Z
@@ -3094,13 +2940,6 @@ DURATION:PT2H
 DTSTART:20260416T210000Z
 SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447263@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Despedidos: 2 | Really Gang Esports: 0\nStream: https://www.youtube.com/watch?v=9fYxfY8OWZE
-DTEND:20260403T180943Z
-DTSTART:20260403T163617Z
-SUMMARY:Despe vs RGE
-UID:cs-go-fireconter-3-2026-1429163@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: NRG: 0 | EYEBALLERS: 2\nStream: https://www.twitch.tv/pgl_cs2
@@ -3346,13 +3185,6 @@ DTEND:20260410T182528Z
 DTSTART:20260410T150311Z
 SUMMARY:Lower bracket semifinal 1: KOL vs UNiTY
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404958@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Gaimin Gladiators: 2 | Game Hunters: 1\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260404T024830Z
-DTSTART:20260404T000630Z
-SUMMARY:Decider match: GG vs GH
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421568@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: The Last Resort: 1 | QWENTRY: 2\nStream: https://www.twitch.tv/eslcs
@@ -3607,13 +3439,6 @@ SUMMARY:Upper bracket semifinal 2: UNiTY vs ASTR
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | Fluxo W7M: 0\nStream: https://www.twitch.tv/gaules
-DTEND:20260402T024801Z
-DTSTART:20260402T005657Z
-SUMMARY:Winners match: RED vs FXW7
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421556@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: eLITenergy: 2 |  CSDIILIT: 1\nStream: https://www.twitch.tv/xristcs
 DTEND:20260330T194814Z
 DTSTART:20260330T171025Z
@@ -3626,13 +3451,6 @@ DURATION:PT2H
 DTSTART:20260416T210000Z
 SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447262@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Hacha Esports: 0\nStream: https://www.youtube.com/watch?v=FAsnOEKUjOU
-DTEND:20260403T152524Z
-DTSTART:20260403T140455Z
-SUMMARY:ISG vs Hacha Esports
-UID:cs-go-fireconter-3-2026-1429162@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: B8: 1 | 3DMAX: 2\nStream: https://www.twitch.tv/PGL
@@ -3852,13 +3670,6 @@ SUMMARY:ASTRAL vs DAL
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404876@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Game Hunters: 2 | Yawara Esports: 0\nStream: https://www.twitch.tv/tris_mara
-DTEND:20260403T002940Z
-DTSTART:20260402T230744Z
-SUMMARY:Elimination match: GH vs YAW
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421567@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: G2 Ares: 0 | eLITenergy: 2\nStream: No official stream linked
 DTEND:20260401T185318Z
 DTSTART:20260401T170421Z
@@ -3901,18 +3712,18 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431955@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: ESC Gaming: 2 | Tricked: 1\nStream: https://www.kick.com/cct_cs
-DTEND:20260409T132840Z
-DTSTART:20260409T110347Z
-SUMMARY:Quarterfinal 4: ESC vs TRI
-UID:cs-go-cct-europe-series-20-3-2026-1406983@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | ZOTIX: 1\nStream: https://kick.com/cct_cs6
 DTEND:20260409T211654Z
 DTSTART:20260409T182445Z
 SUMMARY:Upper bracket semifinal 2: ENJOY vs ZOTIX
 UID:cs-go-cct-europe-contenders-4-2026-1436320@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: ESC Gaming: 2 | Tricked: 1\nStream: https://www.kick.com/cct_cs
+DTEND:20260409T132840Z
+DTSTART:20260409T110347Z
+SUMMARY:Quarterfinal 4: ESC vs TRI
+UID:cs-go-cct-europe-series-20-3-2026-1406983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: PARIVISION: 2 | Legacy: 1\nStream: https://www.twitch.tv/PGL
@@ -4090,13 +3901,6 @@ SUMMARY:ImmuNe vs WAZ
 UID:cs-go-parken-challenger-championship-4-2026-1437296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 2 | largadosypelados: 1\nStream: https://www.twitch.tv/vanfantv
-DTEND:20260402T001752Z
-DTSTART:20260401T211319Z
-SUMMARY:FXW7 vs LDP
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421555@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Omega: 1 | G2 Ares: 2\nStream: No official stream linked
 DTEND:20260330T194513Z
 DTSTART:20260330T170103Z
@@ -4109,13 +3913,6 @@ DURATION:PT2H
 DTSTART:20260416T234500Z
 SUMMARY:Upper bracket semifinal 2: PCY vs VSC
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447261@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: LUNA Esports: 0 | BESTIA Academy: 2\nStream: https://www.youtube.com/watch?v=fn2sJnapLl0
-DTEND:20260404T175529Z
-DTSTART:20260404T170351Z
-SUMMARY:Decider match: LYN vs BST.A
-UID:cs-go-fireconter-3-2026-1429161@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Wingman: 2\nStream: https://kick.com/exort_en2
@@ -4286,6 +4083,13 @@ SUMMARY:Upper bracket quarterfinal 3: CW vs ARISE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421662@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: ZOTIX: 2 | WROTBERRY: 1\nStream: No official stream linked
+DTEND:20260407T215830Z
+DTSTART:20260407T182722Z
+SUMMARY:Upper bracket quarterfinal 4: ZOTIX vs WROTBERRY
+UID:cs-go-cct-europe-contenders-4-2026-1433299@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nResult: Time Waves: 2 | The Bardolphs: 1\nStream: https://www.twitch.tv/dfragtv_cs2
 DTEND:20260412T073406Z
 DTSTART:20260412T044813Z
@@ -4298,13 +4102,6 @@ DTEND:20260413T015542Z
 DTSTART:20260413T001816Z
 SUMMARY:Round 5: CHICANERY vs mouse
 UID:cs-go-dust2-us-eagle-masters-7-2026-1441139@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: ZOTIX: 2 | WROTBERRY: 1\nStream: No official stream linked
-DTEND:20260407T215830Z
-DTSTART:20260407T182722Z
-SUMMARY:Upper bracket quarterfinal 4: ZOTIX vs WROTBERRY
-UID:cs-go-cct-europe-contenders-4-2026-1433299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | Gentle Mates: 1\nStream: https://www.twitch.tv/ESLCSb
@@ -4384,25 +4181,11 @@ SUMMARY:Decider match: UNiTY vs BMB
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404875@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | Gaimin Gladiators: 0\nStream: https://www.twitch.tv/mager1337
-DTEND:20260403T010013Z
-DTSTART:20260402T231753Z
-SUMMARY:Winners match: ODK vs GG
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421566@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | QUAZAR: 1\nStream: https://www.twitch.tv/GoYareGo
 DTEND:20260401T201857Z
 DTSTART:20260401T170456Z
 SUMMARY:Upper bracket round 3 match 4: ENCE.A vs QUA
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420017@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Despedidos: 1\nStream: https://www.youtube.com/watch?v=RawR4hBbaiQ
-DTEND:20260405T234032Z
-DTSTART:20260405T203602Z
-SUMMARY:Grand final: ISG vs Despe
-UID:cs-go-fireconter-3-2026-1429172@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
@@ -4594,13 +4377,6 @@ SUMMARY:WAZ vs SASHI.A
 UID:cs-go-parken-challenger-championship-4-2026-1437295@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | METANOIA WOLVES: 0\nStream: https://www.twitch.tv/gaules
-DTEND:20260401T222605Z
-DTSTART:20260401T210646Z
-SUMMARY:RED vs MW
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421554@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Lavked: 0 | QUAZAR: 2\nStream: https://www.twitch.tv/GoYareGo
 DTEND:20260330T150216Z
 DTSTART:20260330T130317Z
@@ -4620,13 +4396,6 @@ DTEND:20260409T211721Z
 DTSTART:20260409T190625Z
 SUMMARY:Upper bracket semifinal 1: CYBERSHOKE Prospects vs Y.TigeRES
 UID:cs-go-cct-europe-contenders-4-2026-1436319@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 2 | BESTIA Academy: 0\nStream: https://www.youtube.com/watch?v=fn2sJnapLl0
-DTEND:20260404T153939Z
-DTSTART:20260404T140532Z
-SUMMARY:Winners match: PCY vs BST.A
-UID:cs-go-fireconter-3-2026-1429160@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FOKUS: 1 | Wildcard: 2\nStream: https://www.twitch.tv/PGL
@@ -4755,11 +4524,11 @@ SUMMARY:TW vs Ding Cuts
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: shimmer: 0 | InControl: 2\nStream: No official stream linked
-DTEND:20260403T025502Z
-DTSTART:20260403T010953Z
-SUMMARY:Upper bracket round 1 match 2: SE vs SHIM vs InC
-UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421608@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | Team Palace: 0\nStream: https://kick.com/cct_cs6
+DTEND:20260406T201715Z
+DTSTART:20260406T185507Z
+SUMMARY:Upper bracket quarterfinal 3: ENJOY vs TPL
+UID:cs-go-cct-europe-contenders-4-2026-1433298@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | InControl: 1\nStream: https://kick.com/dust2us
@@ -4769,11 +4538,11 @@ SUMMARY:Round 5: ZOMB vs InC
 UID:cs-go-dust2-us-eagle-masters-7-2026-1441138@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | Team Palace: 0\nStream: https://kick.com/cct_cs6
-DTEND:20260406T201715Z
-DTSTART:20260406T185507Z
-SUMMARY:Upper bracket quarterfinal 3: ENJOY vs TPL
-UID:cs-go-cct-europe-contenders-4-2026-1433298@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: shimmer: 0 | InControl: 2\nStream: No official stream linked
+DTEND:20260403T025502Z
+DTSTART:20260403T010953Z
+SUMMARY:Upper bracket round 1 match 2: SE vs SHIM vs InC
+UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Abyssal: 0 | Rooster: 2\nStream: https://www.twitch.tv/eslcs
@@ -4839,13 +4608,6 @@ SUMMARY:Elimination match: Qual4 vs BMB
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404874@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Gaimin Gladiators: 2 | Yawara Esports: 0\nStream: https://www.twitch.tv/nahzinhaa
-DTEND:20260402T223323Z
-DTSTART:20260402T205302Z
-SUMMARY:GG vs YAW
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421565@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Atreides: 0 | UNiTY esports: 2\nStream: https://www.twitch.tv/kevindoruk
 DTEND:20260401T183730Z
 DTSTART:20260401T170539Z
@@ -4858,13 +4620,6 @@ DURATION:PT2H
 DTSTART:20260418T210000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447271@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Despedidos: 2 | BESTIA Academy: 0\nStream: https://www.youtube.com/watch?v=gQ9kYMYrW7s
-DTEND:20260405T181807Z
-DTSTART:20260405T165428Z
-SUMMARY:Lower bracket final: Despe vs BST.A
-UID:cs-go-fireconter-3-2026-1429171@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
@@ -5042,13 +4797,6 @@ SUMMARY:Round 2: O49 vs Reign Above
 UID:cs-go-dust2-us-eagle-masters-7-2026-1427598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: paiN: 3 | Gaimin Gladiators: 1\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260405T234028Z
-DTSTART:20260405T194134Z
-SUMMARY:Grand final: paiN vs GG
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421576@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: QWENTRY: 2 | TNC: 1\nStream: https://www.twitch.tv/naxasek
 DTEND:20260405T193852Z
 DTSTART:20260405T170505Z
@@ -5103,13 +4851,6 @@ DTEND:20260329T145635Z
 DTSTART:20260329T131944Z
 SUMMARY:Upper bracket round 1 match 3: RUST vs NM
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419988@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Galorys: 2 | Marsborne: 1\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260403T174113Z
-DTSTART:20260403T150432Z
-SUMMARY:Decider match: GLS vs MARS
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421553@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | playersclub: 0\nStream: No official stream linked
@@ -5252,18 +4993,18 @@ SUMMARY:RSTR vs The Bardolphs
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438957@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Club 333: 0\nStream: https://www.twitch.tv/iamfusiion
-DTEND:20260403T032232Z
-DTSTART:20260403T011931Z
-SUMMARY:Upper bracket round 1 match 1: LAG vs Club 333
-UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421607@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: banda chuya: 1 | Young TigeRES: 2\nStream: https://kick.com/cct_cs5
 DTEND:20260407T205033Z
 DTSTART:20260407T183055Z
 SUMMARY:Upper bracket quarterfinal 2: banda chuya vs Y.TigeRES
 UID:cs-go-cct-europe-contenders-4-2026-1433297@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Club 333: 0\nStream: https://www.twitch.tv/iamfusiion
+DTEND:20260403T032232Z
+DTSTART:20260403T011931Z
+SUMMARY:Upper bracket round 1 match 1: LAG vs Club 333
+UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421607@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Rooster: 0\nStream: https://www.twitch.tv/eslcs
@@ -5322,13 +5063,6 @@ SUMMARY:Upper bracket round 2 match 2: PGE vs 8S
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1419999@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: ODDIK: 2 | Game Hunters: 0\nStream: https://kick.com/r-nicolino
-DTEND:20260402T222321Z
-DTSTART:20260402T205300Z
-SUMMARY:ODK vs GH
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421564@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: RUSTEC: 0 | MANA eSports: 2\nStream: https://www.twitch.tv/dutchboycasts
 DTEND:20260401T192417Z
 DTSTART:20260401T174152Z
@@ -5341,13 +5075,6 @@ DURATION:PT2H
 DTSTART:20260417T234500Z
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447270@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 0 | BESTIA Academy: 2\nStream: https://www.youtube.com/watch?v=gQ9kYMYrW7s
-DTEND:20260405T155821Z
-DTSTART:20260405T140426Z
-SUMMARY:Lower bracket semifinal: PCY vs BST.A
-UID:cs-go-fireconter-3-2026-1429170@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs7
@@ -5369,13 +5096,6 @@ DTEND:20260415T020211Z
 DTSTART:20260414T234636Z
 SUMMARY:Grand final: VOCA vs MARS
 UID:cs-go-cct-north-america-series-4-3-2026-1431986@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: Riprising Argentina: 0 | LUNA Esports: 2\nStream: https://www.youtube.com/watch?v=FAsnOEKUjOU
-DTEND:20260403T200449Z
-DTSTART:20260403T190636Z
-SUMMARY:Elimination match: RIP ARG vs LYN
-UID:cs-go-fireconter-3-2026-1429159@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -5511,13 +5231,6 @@ SUMMARY:Round 2: BOSS vs mouse
 UID:cs-go-dust2-us-eagle-masters-7-2026-1427597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 2 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260405T181455Z
-DTSTART:20260405T151351Z
-SUMMARY:3rd Place match: FXW7 vs BHE
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421575@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | ENCE Academy: 0\nStream: https://www.twitch.tv/titaanitv
 DTEND:20260405T183346Z
 DTSTART:20260405T170645Z
@@ -5551,13 +5264,6 @@ DURATION:PT2H
 DTSTART:20260425T080000Z
 SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431963@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 0 | Marsborne: 2\nStream: https://www.twitch.tv/Trottah
-DTEND:20260401T183658Z
-DTSTART:20260401T164405Z
-SUMMARY:Elimination match: ALKA vs MARS
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421552@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: Team Palace: 2 | gothboiclique: 0\nStream: https://kick.com/cct_cs5
@@ -5791,13 +5497,6 @@ SUMMARY:BMB vs BND
 UID:cs-go-lorgar-rankings-closed-qualifier-1-2026-1404872@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Betboom Circuit X Mayhem - São Paulo 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | Imperial: 0\nStream: https://www.twitch.tv/circuitxofficial
-DTEND:20260403T231102Z
-DTSTART:20260403T210454Z
-SUMMARY:Decider match: SHIN vs IMP
-UID:cs-go-betboom-circuit-x-mayhem-sao-paulo-2026-1421563@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | 8Sins: 0\nStream: https://www.twitch.tv/orionzspark
 DTEND:20260401T184517Z
 DTSTART:20260401T170605Z
@@ -5831,13 +5530,6 @@ DTEND:20260413T232558Z
 DTSTART:20260413T213812Z
 SUMMARY:Semifinal 2: MARS vs TA
 UID:cs-go-cct-north-america-series-4-3-2026-1431985@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FiReCONTER - Season 3 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | LUNA Esports: 0\nStream: https://www.youtube.com/watch?v=FAsnOEKUjOU
-DTEND:20260403T181348Z
-DTSTART:20260403T163039Z
-SUMMARY:BST.A vs LYN
-UID:cs-go-fireconter-3-2026-1429158@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2

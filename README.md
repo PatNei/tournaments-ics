@@ -203,27 +203,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EuropeanProLeague/S
 ## D Tier
 
 <details>
-<summary>Betboom Circuit X Mayhem</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayhem/BetboomCircuitXMayhem.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayhem/BetboomCircuitXMayhem.ics
-```
-
----
-
-### São Paulo 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayhem/SOPaulo2026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/BetboomCircuitXMayhem/SOPaulo2026.ics
-```
-
-</details>
-
-<details>
 <summary>BetBoom Storm</summary>
 
 ### Full Schedule
@@ -436,27 +415,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/ExortSe
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season252026.ics
-```
-
-</details>
-
-<details>
-<summary>FiReCONTER</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fireconter/Fireconter.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fireconter/Fireconter.ics
-```
-
----
-
-### Season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fireconter/Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fireconter/Season32026.ics
 ```
 
 </details>
