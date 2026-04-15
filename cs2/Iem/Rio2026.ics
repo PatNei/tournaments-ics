@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260415T203000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: NAVI vs TBD
 UID:cs-go-iem-rio-2026-1436314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Lower bracket semifinal 1: B8 vs AUR
 UID:cs-go-iem-rio-2026-1436309@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | HOTU: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260415T171758Z
 DTSTART:20260415T153104Z
 SUMMARY:Lower bracket semifinal 2: NAVI vs HOTU
 UID:cs-go-iem-rio-2026-1436310@tournamentics
