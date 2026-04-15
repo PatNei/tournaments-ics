@@ -431,13 +431,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/ExortSe
 
 ---
 
-### Season 24 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season242026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season242026.ics
-```
-
 ### Season 25 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season252026.ics)
 
