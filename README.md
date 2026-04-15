@@ -511,27 +511,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fireconter/Season32
 </details>
 
 <details>
-<summary>GangKui Cup</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GangkuiCup/GangkuiCup.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GangkuiCup/GangkuiCup.ics
-```
-
----
-
-### Season 2 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GangkuiCup/Season22026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GangkuiCup/Season22026.ics
-```
-
-</details>
-
-<details>
 <summary>GLuck SixSeven</summary>
 
 ### Full Schedule
