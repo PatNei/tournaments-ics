@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260416T210000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: R2 vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Lower bracket round 3 match 1: VEXA vs paiN.A
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | R2 Esports Club: 2\nStream: https://kick.com/cct_cs6
+DTEND:20260416T015543Z
 DTSTART:20260416T001824Z
 SUMMARY:Lower bracket round 2 match 3: BST.A vs R2
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447258@tournamentics
