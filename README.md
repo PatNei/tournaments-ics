@@ -543,6 +543,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerCha
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season42026.ics
 ```
 
+### Season 5 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season52026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season52026.ics
+```
+
 </details>
 
 <details>
