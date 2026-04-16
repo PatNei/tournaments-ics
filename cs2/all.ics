@@ -44,6 +44,13 @@ SUMMARY:HUSK vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385732@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260427T180000Z
+SUMMARY:Round 1: SASHI.A vs EN
+UID:cs-go-dust2-dk-32-2026-1448780@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: QUAZAR: 1 | PURE: 0\nStream: https://www.twitch.tv/theeb1ye
 DTEND:20260415T192701Z
 DTSTART:20260415T181902Z
@@ -219,13 +226,6 @@ SUMMARY:Round 1: B8 vs WC
 UID:cs-go-pgl-bucharest-2026-1426979@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260419T170000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-iem-rio-2026-1436342@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: LAG Gaming: 1 | EMPIRE: 2\nStream: https://www.twitch.tv/ynotcs2
 DTEND:20260402T020630Z
 DTSTART:20260401T232758Z
@@ -238,6 +238,13 @@ DTEND:20260413T184620Z
 DTSTART:20260413T181650Z
 SUMMARY:MEGO vs hindsight
 UID:cs-go-esea-advanced-europe-57-2026-1444153@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260419T170000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-iem-rio-2026-1436342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Oxuji Esports: 2\nStream: https://kick.com/nodwin_cs2
@@ -695,18 +702,18 @@ SUMMARY:Round 1: 3DMAX vs FOKUS
 UID:cs-go-pgl-bucharest-2026-1426978@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
-DTSTART:20260419T133000Z
-SUMMARY:3rd place decider: TBD vs TBD
-UID:cs-go-iem-rio-2026-1436341@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: FarmVille: 2 | mouse: 1\nStream: https://www.twitch.tv/endiezcasts
 DTEND:20260331T034724Z
 DTSTART:20260331T013642Z
 SUMMARY:Round 1: FV vs mouse
 UID:cs-go-dust2-us-eagle-masters-7-2026-1422174@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DURATION:PT2H
+DTSTART:20260419T133000Z
+SUMMARY:3rd place decider: TBD vs TBD
+UID:cs-go-iem-rio-2026-1436341@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Favbet: 1 | ESC Gaming: 2\nStream: https://kick.com/nodwin_cs2
@@ -758,6 +765,13 @@ SUMMARY:Lower bracket round 3 match 1: Club 333 vs FV
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260427T150000Z
+SUMMARY:Round 1: FOR vs FLOD
+UID:cs-go-dust2-dk-32-2026-1448779@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: BMZ: 2 | The QUBE Esports: 1\nStream: No official stream linked
 DTEND:20260406T151741Z
 DTSTART:20260406T130603Z
@@ -779,18 +793,18 @@ SUMMARY:ASTR vs URSA
 UID:cs-go-nodwin-clutch-series-7-2026-1431904@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: RED Canids: 1 | Spirit: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260415T154342Z
-DTSTART:20260415T130118Z
-SUMMARY:Lower bracket semifinal 1: RED vs TS
-UID:cs-go-iem-rio-2026-1436307@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Pigeons: 2 | AKA HERO KAJO: 0\nStream: No official stream linked
 DTEND:20260401T142835Z
 DTSTART:20260401T130435Z
 SUMMARY:Lower bracket round 2 match 8: PGE vs AHK
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420058@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: RED Canids: 1 | Spirit: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260415T154342Z
+DTSTART:20260415T130118Z
+SUMMARY:Lower bracket semifinal 1: RED vs TS
+UID:cs-go-iem-rio-2026-1436307@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: LAG Gaming: 1 | mouse: 2\nStream: https://www.twitch.tv/wxfan21
@@ -1248,6 +1262,13 @@ SUMMARY:Lower bracket quarterfinal 2: ZOMB vs LAG
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421626@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260427T150000Z
+SUMMARY:Round 1: WAZ vs AAB.B
+UID:cs-go-dust2-dk-32-2026-1448778@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: NEXVOID: 1 | Chinggis Warriors: 2\nStream: https://www.twitch.tv/eslcsb
 DTEND:20260408T170545Z
 DTSTART:20260408T130835Z
@@ -1276,18 +1297,18 @@ SUMMARY:Round 7:  CSDIILIT vs ENCE.A
 UID:cs-go-elisa-open-suomi-12-2026-1372454@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Legacy: 0 | HOTU: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260414T223503Z
-DTSTART:20260414T203220Z
-SUMMARY:Lower bracket quarterfinal 2: LGC vs HOTU
-UID:cs-go-iem-rio-2026-1436306@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Rune Eaters: 0 | TNT: 2\nStream: https://www.twitch.tv/hvnnn_tv
 DTEND:20260401T150059Z
 DTSTART:20260401T130237Z
 SUMMARY:Lower bracket round 2 match 7: RE vs TNT
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420057@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Legacy: 0 | HOTU: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260414T223503Z
+DTSTART:20260414T203220Z
+SUMMARY:Lower bracket quarterfinal 2: LGC vs HOTU
+UID:cs-go-iem-rio-2026-1436306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: EMPIRE: 2 | Clockwork: 1\nStream: https://www.twitch.tv/bonamant
@@ -1528,11 +1549,11 @@ SUMMARY:RE vs BB
 UID:cs-go-european-pro-league-series-6-2026-1400830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Legacy: 1 | MOUZ: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260413T210935Z
-DTSTART:20260413T182429Z
-SUMMARY:Upper bracket quarterfinal 4: LGC vs MOUZ
-UID:cs-go-iem-rio-2026-1429132@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | BoyBand: 2\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260317T200121Z
+DTSTART:20260317T180339Z
+SUMMARY:Round 4: BOJONG vs BoyBand
+UID:cs-go-elisa-open-suomi-12-2026-1372442@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Sashi Academy: 1 | Entropy: 0\nStream: https://kick.com/challengerchampionship_c
@@ -1542,11 +1563,11 @@ SUMMARY:SASHI.A vs Entropy
 UID:cs-go-parken-challenger-championship-4-2026-1437302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | BoyBand: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260317T200121Z
-DTSTART:20260317T180339Z
-SUMMARY:Round 4: BOJONG vs BoyBand
-UID:cs-go-elisa-open-suomi-12-2026-1372442@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Legacy: 1 | MOUZ: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260413T210935Z
+DTSTART:20260413T182429Z
+SUMMARY:Upper bracket quarterfinal 4: LGC vs MOUZ
+UID:cs-go-iem-rio-2026-1429132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | MANA eSports: 0\nStream: https://www.twitch.tv/eslcs
@@ -1696,6 +1717,13 @@ SUMMARY:Round 3: FDB vs PLS
 UID:cs-go-betboom-storm-2-2026-1413569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260420T180000Z
+SUMMARY:Round 1: XI vs Eclipse
+UID:cs-go-dust2-dk-32-2026-1448777@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Reveal: 0 | BIG Academy: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260323T211605Z
 DTSTART:20260323T192202Z
@@ -1724,18 +1752,18 @@ SUMMARY:Round 7: BOJONG vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | Aurora Gaming: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260414T231423Z
-DTSTART:20260414T213429Z
-SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
-UID:cs-go-iem-rio-2026-1436305@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: brazylijski luz: 1 | Donstu Esports: 2\nStream: https://www.twitch.tv/piaskees
 DTEND:20260401T153040Z
 DTSTART:20260401T130703Z
 SUMMARY:Lower bracket round 2 match 6: BL vs DNT
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420056@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | Aurora Gaming: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260414T231423Z
+DTSTART:20260414T213429Z
+SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
+UID:cs-go-iem-rio-2026-1436305@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Gaming By Legends: 0 | SAW: 1\nStream: https://kick.com/challengerchampionship_b
@@ -1927,18 +1955,18 @@ SUMMARY:3rd Place match: 3DMAX vs MGLZ
 UID:cs-go-pgl-bucharest-2026-1427018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
-DURATION:PT2H
-DTSTART:20260418T010000Z
-SUMMARY:Upper bracket semifinal 2: DXA vs Ding Cuts
-UID:cs-go-dfrag-open-series-open-series-4-2026-1438963@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: regain: 2 | FlyQuest RED: 0\nStream: https://www.twitch.tv/floofys
 DTEND:20260403T022659Z
 DTSTART:20260403T010541Z
 SUMMARY:Upper bracket round 1 match 7: REGAIN vs FLY.R
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421613@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DURATION:PT2H
+DTSTART:20260418T010000Z
+SUMMARY:Upper bracket semifinal 2: DXA vs Ding Cuts
+UID:cs-go-dfrag-open-series-open-series-4-2026-1438963@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nResult: Game Hunters: 0 | Keyd: 2\nStream: https://www.twitch.tv/eslcs
@@ -1976,18 +2004,18 @@ SUMMARY:Nordic Valor vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372441@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | HOTU: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260413T232316Z
-DTSTART:20260413T212358Z
-SUMMARY:Upper bracket quarterfinal 3: AUR vs HOTU
-UID:cs-go-iem-rio-2026-1429131@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 0 | RUSTEC: 2\nStream: https://www.twitch.tv/eslcs
 DTEND:20260402T184918Z
 DTSTART:20260402T170718Z
 SUMMARY:Lower bracket round 3 match 2: ex-Zero Tenacity vs RUST
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420044@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | JUMBO TEAM: 0\nStream: No official stream linked
+DTEND:20260413T180020Z
+DTSTART:20260413T171440Z
+SUMMARY:G2.A vs JUMBO
+UID:cs-go-esea-advanced-europe-57-2026-1444104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 1 | WAZABI: 0\nStream: https://kick.com/challengerchampionship_c
@@ -1997,11 +2025,11 @@ SUMMARY:Entropy vs WAZ
 UID:cs-go-parken-challenger-championship-4-2026-1437301@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | JUMBO TEAM: 0\nStream: No official stream linked
-DTEND:20260413T180020Z
-DTSTART:20260413T171440Z
-SUMMARY:G2.A vs JUMBO
-UID:cs-go-esea-advanced-europe-57-2026-1444104@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | HOTU: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260413T232316Z
+DTSTART:20260413T212358Z
+SUMMARY:Upper bracket quarterfinal 3: AUR vs HOTU
+UID:cs-go-iem-rio-2026-1429131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: Alzon: 1 | R2 Esports Club: 2\nStream: https://kick.com/cct_cs6
@@ -2142,6 +2170,13 @@ DTEND:20260408T023401Z
 DTSTART:20260408T010448Z
 SUMMARY:Lower bracket semifinal: InC vs LAG
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421624@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260420T180000Z
+SUMMARY:Round 1: MSC vs Invicta
+UID:cs-go-dust2-dk-32-2026-1448776@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Team AceZone: 2 | FROX: 0\nStream: https://www.twitch.tv/dachcs
@@ -2424,11 +2459,11 @@ SUMMARY:Round 4: KSM vs  CSDIILIT
 UID:cs-go-elisa-open-suomi-12-2026-1372440@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T202517Z
-DTSTART:20260413T180803Z
-SUMMARY:Upper bracket quarterfinal 2: B8 vs NAVI
-UID:cs-go-iem-rio-2026-1429130@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: yngods: 2 | 8Sins: 0\nStream: No official stream linked
+DTEND:20260402T190158Z
+DTSTART:20260402T171306Z
+SUMMARY:Lower bracket round 3 match 1: YNG vs 8S
+UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420043@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Sashi Academy: 0\nStream: https://kick.com/challengerchampionship
@@ -2445,11 +2480,11 @@ SUMMARY:Upper bracket quarterfinal 2: Arcade Esports vs Abyssal
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: yngods: 2 | 8Sins: 0\nStream: No official stream linked
-DTEND:20260402T190158Z
-DTSTART:20260402T171306Z
-SUMMARY:Lower bracket round 3 match 1: YNG vs 8S
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420043@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Diamant Esports: 1\nStream: https://www.twitch.tv/dutchboycasts
+DTEND:20260413T173501Z
+DTSTART:20260413T165839Z
+SUMMARY:ZOTIX vs Diamant Esports
+UID:cs-go-esea-advanced-europe-57-2026-1444103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 2 | ENCE Academy: 0\nStream: https://www.twitch.tv/elisaviihdesport
@@ -2459,11 +2494,11 @@ SUMMARY:Round 1: BOJONG vs ENCE.A
 UID:cs-go-elisa-open-suomi-12-2026-1372429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Diamant Esports: 1\nStream: https://www.twitch.tv/dutchboycasts
-DTEND:20260413T173501Z
-DTSTART:20260413T165839Z
-SUMMARY:ZOTIX vs Diamant Esports
-UID:cs-go-esea-advanced-europe-57-2026-1444103@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260413T202517Z
+DTSTART:20260413T180803Z
+SUMMARY:Upper bracket quarterfinal 2: B8 vs NAVI
+UID:cs-go-iem-rio-2026-1429130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #3 2026\nMatch Type: Best Of\nResult: R2 Esports Club: 0 | ShindeN: 2\nStream: No official stream linked
@@ -2627,6 +2662,13 @@ SUMMARY:Lower bracket final: InC vs REGAIN
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421623@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260420T150000Z
+SUMMARY:Round 1: MASQ vs SutP
+UID:cs-go-dust2-dk-32-2026-1448775@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260523T103000Z
@@ -2648,18 +2690,18 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260414T211852Z
-DTSTART:20260414T182730Z
-SUMMARY:Upper bracket semifinal 1: NAVI vs FURIA
-UID:cs-go-iem-rio-2026-1436303@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | m1x: 1\nStream: https://www.twitch.tv/iikka_artturi
 DTEND:20260401T162019Z
 DTSTART:20260401T130520Z
 SUMMARY:Lower bracket round 2 match 4:  CSDIILIT vs m1x
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420054@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | Nordic Valor: 2\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260406T171748Z
+DTSTART:20260406T143226Z
+SUMMARY:Round 7: KSM vs Nordic Valor
+UID:cs-go-elisa-open-suomi-12-2026-1372451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | FarmVille: 2\nStream: https://www.twitch.tv/endiezcasts
@@ -2676,11 +2718,11 @@ SUMMARY:LAG vs Ølgod
 UID:cs-go-parken-challenger-championship-4-2026-1437311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | Nordic Valor: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260406T171748Z
-DTSTART:20260406T143226Z
-SUMMARY:Round 7: KSM vs Nordic Valor
-UID:cs-go-elisa-open-suomi-12-2026-1372451@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260414T211852Z
+DTSTART:20260414T182730Z
+SUMMARY:Upper bracket semifinal 1: NAVI vs FURIA
+UID:cs-go-iem-rio-2026-1436303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: FOKUS: 2 | BC.Game Esports: 0\nStream: https://www.twitch.tv/pgl_cs2
@@ -2809,18 +2851,18 @@ SUMMARY:Decider match: MSC vs PG
 UID:cs-go-nodwin-clutch-series-7-2026-1431911@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | Aurora Gaming: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260415T231203Z
-DTSTART:20260415T203124Z
-SUMMARY:Lower bracket final: NAVI vs AUR
-UID:cs-go-iem-rio-2026-1436314@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: OlyBet SB: 0 | Donstu Esports: 2\nStream: No official stream linked
 DTEND:20260331T185151Z
 DTSTART:20260331T171324Z
 SUMMARY:Lower bracket round 1 match 7: OBSB vs DNT
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420065@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260416T153000Z
+SUMMARY:Round 1: TS.A vs WAVE
+UID:cs-go-exort-series-25-2026-1447167@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 2 | LAGUNA: 1\nStream: https://kick.com/challengerchampionship
@@ -2837,11 +2879,11 @@ SUMMARY:Winners match: Hashiras vs HERO.A
 UID:cs-go-european-pro-league-series-6-2026-1400931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260416T153000Z
-SUMMARY:Round 1: TS.A vs WAVE
-UID:cs-go-exort-series-25-2026-1447167@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | Aurora Gaming: 1\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260415T231203Z
+DTSTART:20260415T203124Z
+SUMMARY:Lower bracket final: NAVI vs AUR
+UID:cs-go-iem-rio-2026-1436314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Nerve of Cow: 0\nStream: No official stream linked
@@ -3145,6 +3187,13 @@ SUMMARY:Grand final: F5 vs InC
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421622@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260420T150000Z
+SUMMARY:Round 1: WOPA vs Washed
+UID:cs-go-dust2-dk-32-2026-1448774@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #3 2026\nMatch Type: Best Of\nResult: BMZ: 1 | FengDa Gaming: 2\nStream: No official stream linked
 DTEND:20260405T154551Z
 DTSTART:20260405T130859Z
@@ -3152,11 +3201,11 @@ SUMMARY:Upper bracket semifinal 1: BMZ vs FDG
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421664@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Liquid: 0 | 3DMAX: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260414T180739Z
-DTSTART:20260414T160755Z
-SUMMARY:Lower bracket quarterfinal 2: TL vs 3DMAX
-UID:cs-go-iem-rio-2026-1436302@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Grindas: 2 | BIG EQUIPA: 0\nStream: https://www.twitch.tv/dachcs
+DTEND:20260401T142323Z
+DTSTART:20260401T130505Z
+SUMMARY:Lower bracket round 2 match 3: GRIND vs BIG.E
+UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420053@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Mindfreak: 1 | Arcade Esports: 2\nStream: https://www.twitch.tv/streamross
@@ -3180,13 +3229,6 @@ SUMMARY:SAW vs Eclipse
 UID:cs-go-parken-challenger-championship-4-2026-1437310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Grindas: 2 | BIG EQUIPA: 0\nStream: https://www.twitch.tv/dachcs
-DTEND:20260401T142323Z
-DTSTART:20260401T130505Z
-SUMMARY:Lower bracket round 2 match 3: GRIND vs BIG.E
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420053@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 1 | ROUNDS: 2\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260331T193257Z
 DTSTART:20260331T170029Z
@@ -3194,18 +3236,25 @@ SUMMARY:Round 6: Nordic Valor vs RGG
 UID:cs-go-elisa-open-suomi-12-2026-1372450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: FURIA: 2 | Passion UA: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T222349Z
-DTSTART:20260413T204028Z
-SUMMARY:Upper bracket quarterfinal 1: FURIA vs PSSN.UA
-UID:cs-go-iem-rio-2026-1429129@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ROUNDS: 0 | ENCE Academy: 2\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260316T170650Z
 DTSTART:20260316T153123Z
 SUMMARY:Round 4: RGG vs ENCE.A
 UID:cs-go-elisa-open-suomi-12-2026-1372439@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Liquid: 0 | 3DMAX: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260414T180739Z
+DTSTART:20260414T160755Z
+SUMMARY:Lower bracket quarterfinal 2: TL vs 3DMAX
+UID:cs-go-iem-rio-2026-1436302@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: FURIA: 2 | Passion UA: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260413T222349Z
+DTSTART:20260413T204028Z
+SUMMARY:Upper bracket quarterfinal 1: FURIA vs PSSN.UA
+UID:cs-go-iem-rio-2026-1429129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Imperial Academy: 2\nStream: https://kick.com/united21_en
@@ -3362,18 +3411,18 @@ SUMMARY:Round 1: AIMC vs WING
 UID:cs-go-exort-series-25-2026-1447166@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: FURIA: 2 | MOUZ: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260415T231652Z
-DTSTART:20260415T212532Z
-SUMMARY:Upper bracket final: FURIA vs MOUZ
-UID:cs-go-iem-rio-2026-1436313@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Lavked: 2 | zajezdzacze: 0\nStream: https://www.twitch.tv/eslcs
 DTEND:20260331T183804Z
 DTSTART:20260331T170651Z
 SUMMARY:Lower bracket round 1 match 6: Lavked vs zajezdzacze
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420064@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: FURIA: 2 | MOUZ: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260415T231652Z
+DTSTART:20260415T212532Z
+SUMMARY:Upper bracket final: FURIA vs MOUZ
+UID:cs-go-iem-rio-2026-1436313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Ølgod Efterskole: 1 | SAW: 2\nStream: https://kick.com/challengerchampionship_b
@@ -3866,11 +3915,11 @@ SUMMARY:Round 1: DRAMA vs EP
 UID:cs-go-exort-series-25-2026-1447165@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 2 | G2: 0\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260415T195506Z
-DTSTART:20260415T180054Z
-SUMMARY:Lower bracket final: TS vs G2
-UID:cs-go-iem-rio-2026-1436312@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Omega: 1 | m1x: 2\nStream: https://www.twitch.tv/hvnnn_tv
+DTEND:20260331T152718Z
+DTSTART:20260331T130621Z
+SUMMARY:Lower bracket round 1 match 5: OMG vs m1x
+UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: LAGUNA: 2 | Team Eclipse: 1\nStream: https://kick.com/challengerchampionship
@@ -3880,11 +3929,11 @@ SUMMARY:Lower bracket round 1 match 1: LAG vs Eclipse
 UID:cs-go-parken-challenger-championship-4-2026-1437320@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Omega: 1 | m1x: 2\nStream: https://www.twitch.tv/hvnnn_tv
-DTEND:20260331T152718Z
-DTSTART:20260331T130621Z
-SUMMARY:Lower bracket round 1 match 5: OMG vs m1x
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420063@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 2 | G2: 0\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260415T195506Z
+DTSTART:20260415T180054Z
+SUMMARY:Lower bracket final: TS vs G2
+UID:cs-go-iem-rio-2026-1436312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | BoyBand: 0\nStream: https://www.twitch.tv/elisaviihdesport
@@ -4202,11 +4251,11 @@ SUMMARY:Upper bracket quarterfinal 4: ZOTIX vs WROTBERRY
 UID:cs-go-cct-europe-contenders-4-2026-1433299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | Gentle Mates: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260414T155227Z
-DTSTART:20260414T130052Z
-SUMMARY:Lower bracket quarterfinal 1: RED vs M8
-UID:cs-go-iem-rio-2026-1436300@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: yngods: 2 | Lilmix: 1\nStream: No official stream linked
+DTEND:20260401T151605Z
+DTSTART:20260401T130346Z
+SUMMARY:Lower bracket round 2 match 1: YNG vs LILMIX
+UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420051@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Rooster: 2 | Arcade Esports: 1\nStream: https://www.twitch.tv/dutchboycasts
@@ -4216,11 +4265,11 @@ SUMMARY:Lower bracket semifinal: RSTR vs ARC
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: yngods: 2 | Lilmix: 1\nStream: No official stream linked
-DTEND:20260401T151605Z
-DTSTART:20260401T130346Z
-SUMMARY:Lower bracket round 2 match 1: YNG vs LILMIX
-UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420051@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: RED Canids: 2 | Gentle Mates: 1\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260414T155227Z
+DTSTART:20260414T130052Z
+SUMMARY:Lower bracket quarterfinal 1: RED vs M8
+UID:cs-go-iem-rio-2026-1436300@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: 8Sins: 0 | tincan: 1\nStream: https://www.twitch.tv/orionzspark
@@ -4237,18 +4286,18 @@ SUMMARY:Round 3: RGG vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 2 | Liquid: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T172011Z
-DTSTART:20260413T153056Z
-SUMMARY:Upper bracket quarterfinal 3: TS vs TL
-UID:cs-go-iem-rio-2026-1429127@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: megoshort: 0 | Ursa: 2\nStream: https://www.kick.com/eplcs_en
 DTEND:20260402T130900Z
 DTSTART:20260402T105604Z
 SUMMARY:Winners match: MEGO vs URSA
 UID:cs-go-european-pro-league-series-6-2026-1400825@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 2 | Liquid: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260413T172011Z
+DTSTART:20260413T153056Z
+SUMMARY:Upper bracket quarterfinal 3: TS vs TL
+UID:cs-go-iem-rio-2026-1429127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - Closed Qualifier season 1 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | HyperSpirit: 0\nStream: https://kick.com/starladder
@@ -4685,18 +4734,18 @@ SUMMARY:Round 3:  CSDIILIT vs BoyBand
 UID:cs-go-elisa-open-suomi-12-2026-1372436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Gentle Mates: 1 | G2: 2\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260413T155745Z
-DTSTART:20260413T130120Z
-SUMMARY:Upper bracket quarterfinal 2: M8 vs G2
-UID:cs-go-iem-rio-2026-1429126@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: WW Team: 1 | megoshort: 2\nStream: https://www.kick.com/eplcs_en
 DTEND:20260328T144015Z
 DTSTART:20260328T113731Z
 SUMMARY:WW vs MEGO
 UID:cs-go-european-pro-league-series-6-2026-1400824@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Gentle Mates: 1 | G2: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260413T155745Z
+DTSTART:20260413T130120Z
+SUMMARY:Upper bracket quarterfinal 2: M8 vs G2
+UID:cs-go-iem-rio-2026-1429126@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: NRG: 0 | Legacy: 2\nStream: https://www.twitch.tv/pgl_cs2
@@ -5133,18 +5182,18 @@ SUMMARY:Lower bracket round 5 match 3: MANA vs HERO.A
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Vitality: 2 | RED Canids: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T144424Z
-DTSTART:20260413T130124Z
-SUMMARY:Upper bracket quarterfinal 1: VIT vs RED
-UID:cs-go-iem-rio-2026-1429125@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | ENCE Academy: 2\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260309T182027Z
 DTSTART:20260309T153722Z
 SUMMARY:Round 3: KSM vs ENCE.A
 UID:cs-go-elisa-open-suomi-12-2026-1372435@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Vitality: 2 | RED Canids: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260413T144424Z
+DTSTART:20260413T130124Z
+SUMMARY:Upper bracket quarterfinal 1: VIT vs RED
+UID:cs-go-iem-rio-2026-1429125@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: BC.Game Esports: 2 | Voca: 1\nStream: https://www.twitch.tv/pgl_cs2
@@ -5257,6 +5306,13 @@ DTEND:20260331T161901Z
 DTSTART:20260331T140958Z
 SUMMARY:Round 3: MAG vs BST.A
 UID:cs-go-betboom-storm-2-2026-1413573@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DURATION:PT2H
+DTSTART:20260427T180000Z
+SUMMARY:Round 1: LLE vs st0ny
+UID:cs-go-dust2-dk-32-2026-1448781@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: uust _esports: 0 | Donstu Esports: 1\nStream: No official stream linked
