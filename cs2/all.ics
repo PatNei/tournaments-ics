@@ -2154,7 +2154,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260418T181500Z
-SUMMARY:Semifinal 2: FURIA vs TBD
+SUMMARY:Semifinal 2: FURIA vs VIT
 UID:cs-go-iem-rio-2026-1436339@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3250,8 +3250,8 @@ SUMMARY:Round 2: TDK vs OXUJI
 UID:cs-go-nodwin-clutch-series-7-2026-1431934@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Vitality: 2 | Natus Vincere: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260417T195925Z
 DTSTART:20260417T182031Z
 SUMMARY:Quarterfinal 2: VIT vs NAVI
 UID:cs-go-iem-rio-2026-1436337@tournamentics
