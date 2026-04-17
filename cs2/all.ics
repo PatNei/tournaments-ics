@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260417T210000Z
-SUMMARY:Lower bracket quarterfinal 1: paiN.A vs TBD
+SUMMARY:Lower bracket quarterfinal 1: paiN.A vs PCY
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447269@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4503,8 +4503,8 @@ SUMMARY:Upper bracket round 2 match 9: OMG vs G2.A
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420006@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct-cs7
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 1 | Vasco Esports: 2\nStream: https://kick.com/cct-cs7
+DTEND:20260417T023313Z
 DTSTART:20260416T234925Z
 SUMMARY:Upper bracket semifinal 2: PCY vs VSC
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447261@tournamentics
@@ -5056,8 +5056,8 @@ SUMMARY:Upper bracket round 2 match 8: Lavked vs QUA
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420005@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | UNO MILLE: 0\nStream: https://kick.com/cct_cs6
+DTEND:20260417T021248Z
 DTSTART:20260416T234934Z
 SUMMARY:Upper bracket semifinal 1: MIBR.A vs UNO
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447260@tournamentics
@@ -5318,7 +5318,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260418T210000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: MIBR.A vs VSC
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447271@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5829,7 +5829,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260417T234500Z
-SUMMARY:Lower bracket quarterfinal 2: ALKA vs TBD
+SUMMARY:Lower bracket quarterfinal 2: ALKA vs UNO
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
