@@ -191,8 +191,8 @@ SUMMARY:Round 2: LPH vs EP
 UID:cs-go-exort-series-25-2026-1449862@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/dust2us
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: insane players: 2 | Zomblers: 0\nStream: https://kick.com/dust2us
+DTEND:20260418T024916Z
 DTSTART:20260418T003353Z
 SUMMARY:Semifinal 1: IP vs ZOMB
 UID:cs-go-dust2-us-eagle-masters-7-2026-1448784@tournamentics
@@ -1187,8 +1187,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
-DTSTART:20260418T033000Z
-SUMMARY:Lower bracket semifinal: DXA vs Abyssal
+DTSTART:20260418T043000Z
+SUMMARY:Lower bracket semifinal: Abyssal vs DXA
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1740,8 +1740,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
 DURATION:PT2H
-DTSTART:20260418T033000Z
-SUMMARY:Upper bracket final: Ding Cuts vs RSTR
+DTSTART:20260418T043000Z
+SUMMARY:Upper bracket final: RSTR vs Ding Cuts
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5094,7 +5094,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260420T000000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: IP vs TBD
 UID:cs-go-dust2-us-eagle-masters-7-2026-1448787@tournamentics
 END:VEVENT
 BEGIN:VEVENT
