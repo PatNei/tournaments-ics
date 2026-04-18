@@ -576,6 +576,13 @@ SUMMARY:Upper bracket round 1 match 4: Y.TigeRES vs MJX
 UID:cs-go-cct-europe-contenders-4-2026-1430771@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260422T080000Z
+SUMMARY:Elimination match: LPH vs MASQ
+UID:cs-go-european-pro-league-regular-4-2026-1452815@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: ASTRAL: 0 | Lavked: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260410T103023Z
 DTSTART:20260410T081022Z
@@ -1127,6 +1134,13 @@ DURATION:PT2H
 DTSTART:20260511T160000Z
 SUMMARY:LEI vs BERG
 UID:cs-go-dach-cs-masters-5-2026-1385753@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260426T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-european-pro-league-regular-4-2026-1452814@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | WAZABI: 0\nStream: https://kick.com/challengerchampionship
@@ -5399,9 +5413,9 @@ SUMMARY:Upper bracket round 3 match 3: Atreides vs UNiTY
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
-DTSTART:20260418T210000Z
+DTSTART:20260418T210512Z
 SUMMARY:Upper bracket final: MIBR.A vs VSC
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447271@tournamentics
 END:VEVENT

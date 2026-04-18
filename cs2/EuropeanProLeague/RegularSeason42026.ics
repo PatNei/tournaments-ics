@@ -11,6 +11,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
+DTSTART:20260426T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-european-pro-league-regular-4-2026-1452814@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
 DTSTART:20260419T080000Z
 SUMMARY:PRE vs IMP.A
 UID:cs-go-european-pro-league-regular-4-2026-1451290@tournamentics
@@ -51,6 +58,13 @@ SUMMARY:XI vs SNG
 UID:cs-go-european-pro-league-regular-4-2026-1450386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | BIG Academy: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260417T100502Z
+DTSTART:20260417T080808Z
+SUMMARY:AAB vs BIG.A
+UID:cs-go-european-pro-league-regular-4-2026-1450385@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260420T080000Z
@@ -58,11 +72,11 @@ SUMMARY:KSM vs FF
 UID:cs-go-european-pro-league-regular-4-2026-1451291@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | BIG Academy: 2\nStream: https://kick.com/eplcs_en
-DTEND:20260417T100502Z
-DTSTART:20260417T080808Z
-SUMMARY:AAB vs BIG.A
-UID:cs-go-european-pro-league-regular-4-2026-1450385@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260422T080000Z
+SUMMARY:Elimination match: LPH vs MASQ
+UID:cs-go-european-pro-league-regular-4-2026-1452815@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | NAVI Junior: 2\nStream: https://kick.com/eplcs_en
