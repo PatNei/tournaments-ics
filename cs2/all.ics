@@ -740,7 +740,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260419T234500Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: MIBR.A vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2385,7 +2385,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
 DURATION:PT2H
 DTSTART:20260419T210000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: VSC vs TBD
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447265@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5455,8 +5455,8 @@ SUMMARY:Upper bracket round 3 match 3: Atreides vs UNiTY
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | Vasco Esports: 0\nStream: https://kick.com/cct_cs5
+DTEND:20260418T223623Z
 DTSTART:20260418T210512Z
 SUMMARY:Upper bracket final: MIBR.A vs VSC
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447271@tournamentics
