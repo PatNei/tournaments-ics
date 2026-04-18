@@ -604,6 +604,13 @@ SUMMARY:Quarterfinal 4: M8 vs ASTR
 UID:cs-go-lorgar-rankings-2026-1450340@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260418T103000Z
+SUMMARY:BOJONG vs MASQ
+UID:cs-go-european-pro-league-regular-4-2026-1451839@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: Lavked: 2 | Hashiras: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260409T100532Z
 DTSTART:20260409T081221Z
@@ -5294,7 +5301,7 @@ SUMMARY:Upper bracket round 1 match 2: SE vs SHIM vs InC
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421608@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
+DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_d
 DURATION:PT2H
 DTSTART:20260418T200000Z
 SUMMARY:Z7 vs Dua Lipa
@@ -5392,7 +5399,7 @@ SUMMARY:Upper bracket round 3 match 3: Atreides vs UNiTY
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420016@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs6
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
 DURATION:PT2H
 DTSTART:20260418T210000Z
 SUMMARY:Upper bracket final: MIBR.A vs VSC
@@ -6314,6 +6321,13 @@ DTEND:20260407T105840Z
 DTSTART:20260407T081229Z
 SUMMARY:Elimination match: RE vs eLITe
 UID:cs-go-nodwin-clutch-series-7-2026-1431906@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260421T103000Z
+SUMMARY:Winners match: BIG.A vs XI
+UID:cs-go-european-pro-league-regular-4-2026-1451840@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 0 | Aurora Gaming: 2\nStream: https://www.twitch.tv/ESLCSb
