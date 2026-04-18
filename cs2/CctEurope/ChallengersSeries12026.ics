@@ -110,7 +110,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260421T110000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 4: CC.FE vs TBD
 UID:cs-go-cct-europe-challengers-series-1-2026-1449733@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -142,8 +142,8 @@ SUMMARY:Upper bracket round 1 match 6: 8S vs playersclub
 UID:cs-go-cct-europe-challengers-series-1-2026-1449723@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | Atreides: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260418T120539Z
 DTSTART:20260418T110630Z
 SUMMARY:Upper bracket round 1 match 8: CC.FE vs Atreides
 UID:cs-go-cct-europe-challengers-series-1-2026-1449720@tournamentics
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260421T134500Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 4: Atreides vs TBD
 UID:cs-go-cct-europe-challengers-series-1-2026-1449735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
