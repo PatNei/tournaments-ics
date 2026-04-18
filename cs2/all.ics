@@ -793,11 +793,11 @@ SUMMARY:Upper bracket semifinal 2: TBD vs HERO
 UID:cs-go-cct-global-finals-3-2026-1449758@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
-DTSTART:20260419T160000Z
-SUMMARY:Round 3: ESC vs ECS
-UID:cs-go-conquest-of-prague-online-stage-2026-1438500@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #4 season 3 2026\nMatch Type: Best Of\nResult: FarmVille: 1 | regain: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260409T005025Z
+DTSTART:20260408T213600Z
+SUMMARY:Winners match: FV vs REGAIN
+UID:cs-go-cct-north-america-series-4-3-2026-1431972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -805,13 +805,6 @@ DURATION:PT2H
 DTSTART:20260420T190000Z
 SUMMARY:SE7ENS vs JUMBO
 UID:cs-go-esea-advanced-europe-57-2026-1433387@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT North America - Series #4 season 3 2026\nMatch Type: Best Of\nResult: FarmVille: 1 | regain: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260409T005025Z
-DTSTART:20260408T213600Z
-SUMMARY:Winners match: FV vs REGAIN
-UID:cs-go-cct-north-america-series-4-3-2026-1431972@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: 3DMAX: 1 | FOKUS: 2\nStream: https://www.twitch.tv/pgl_cs2
@@ -1185,7 +1178,7 @@ SUMMARY:Round 1: ATRIX vs paiN.A
 UID:cs-go-betboom-storm-2-2026-1413559@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dfragtv_cs2
 DURATION:PT2H
 DTSTART:20260418T043000Z
 SUMMARY:Lower bracket semifinal: Abyssal vs DXA
@@ -6192,7 +6185,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260419T180000Z
+DTSTART:20260419T160000Z
 SUMMARY:Round 3: CC vs UNiTY
 UID:cs-go-conquest-of-prague-online-stage-2026-1438502@tournamentics
 END:VEVENT

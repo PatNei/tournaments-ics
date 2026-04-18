@@ -88,7 +88,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260419T180000Z
+DTSTART:20260419T160000Z
 SUMMARY:Round 3: CC vs UNiTY
 UID:cs-go-conquest-of-prague-online-stage-2026-1438502@tournamentics
 END:VEVENT
@@ -252,12 +252,5 @@ DURATION:PT2H
 DTSTART:20260420T150000Z
 SUMMARY:Round 3: SIN vs SASHI
 UID:cs-go-conquest-of-prague-online-stage-2026-1438503@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
-DTSTART:20260419T160000Z
-SUMMARY:Round 3: ESC vs ECS
-UID:cs-go-conquest-of-prague-online-stage-2026-1438500@tournamentics
 END:VEVENT
 END:VCALENDAR
