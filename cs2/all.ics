@@ -3341,9 +3341,9 @@ SUMMARY:Round 1: MEGO vs OBSB
 UID:cs-go-cct-europe-series-20-3-2026-1406928@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260419T183000Z
+DTSTART:20260419T184122Z
 SUMMARY:Round 3: HEC vs EP
 UID:cs-go-exort-series-25-2026-1452827@tournamentics
 END:VEVENT
@@ -3516,8 +3516,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438507@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | Bebop: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260419T183925Z
 DTSTART:20260419T171248Z
 SUMMARY:Round 3: MANA vs BBP
 UID:cs-go-nodwin-clutch-series-7-2026-1431945@tournamentics
