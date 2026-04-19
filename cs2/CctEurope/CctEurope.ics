@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260421T110000Z
-SUMMARY:Lower bracket round 1 match 4: CC.FE vs TBD
+SUMMARY:Lower bracket round 1 match 4: CC.FE vs EC BANGA
 UID:cs-go-cct-europe-challengers-series-1-2026-1449733@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -184,9 +184,9 @@ SUMMARY:Lower bracket final: CYBERSHOKE Prospects vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260419T141000Z
+DTSTART:20260419T142046Z
 SUMMARY:Upper bracket round 1 match 3: eLITe vs AIMC
 UID:cs-go-cct-europe-challengers-series-1-2026-1449727@tournamentics
 END:VEVENT
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260421T134500Z
-SUMMARY:Upper bracket quarterfinal 4: Atreides vs TBD
+SUMMARY:Upper bracket quarterfinal 4: Atreides vs RUST
 UID:cs-go-cct-europe-challengers-series-1-2026-1449735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -399,13 +399,6 @@ DTEND:20260411T210904Z
 DTSTART:20260411T182251Z
 SUMMARY:Lower bracket semifinal: ZOTIX vs Vexar
 UID:cs-go-cct-europe-contenders-4-2026-1436326@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260419T141000Z
-SUMMARY:Upper bracket round 1 match 7: EC BANGA vs RUST
-UID:cs-go-cct-europe-challengers-series-1-2026-1449726@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: BIG: 0 | Team Nemesis: 2\nStream: https://kick.com/cct_cs2
@@ -632,18 +625,18 @@ SUMMARY:Upper bracket final: ENJOY vs CYBERSHOKE Prospects
 UID:cs-go-cct-europe-contenders-4-2026-1436325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: Team Palace: 0 | bankaPEPSI: 2\nStream: https://kick.com/cct_cs6
-DTEND:20260409T174915Z
-DTSTART:20260409T153722Z
-SUMMARY:Lower bracket round 3 match 2: TPL vs bankaPEPSI
-UID:cs-go-cct-europe-contenders-4-2026-1436322@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Brute: 2 | Young Ninjas: 1\nStream: https://kick.com/cct_cs3
 DTEND:20260419T140024Z
 DTSTART:20260419T110800Z
 SUMMARY:Upper bracket round 1 match 5: BRUTE vs YN
 UID:cs-go-cct-europe-challengers-series-1-2026-1449725@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: Team Palace: 0 | bankaPEPSI: 2\nStream: https://kick.com/cct_cs6
+DTEND:20260409T174915Z
+DTSTART:20260409T153722Z
+SUMMARY:Lower bracket round 3 match 2: TPL vs bankaPEPSI
+UID:cs-go-cct-europe-contenders-4-2026-1436322@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #20 season 3 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | ESC Gaming: 0\nStream: https://kick.com/cct_cs2

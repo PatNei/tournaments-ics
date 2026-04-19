@@ -754,7 +754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260421T134500Z
-SUMMARY:Upper bracket quarterfinal 4: Atreides vs TBD
+SUMMARY:Upper bracket quarterfinal 4: Atreides vs RUST
 UID:cs-go-cct-europe-challengers-series-1-2026-1449735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1780,9 +1780,9 @@ SUMMARY:Upper bracket final: RSTR vs Ding Cuts
 UID:cs-go-dfrag-open-series-open-series-4-2026-1438964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
+DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
 DURATION:PT2H
-DTSTART:20260419T140000Z
+DTSTART:20260419T141530Z
 SUMMARY:Upper bracket semifinal 2: INF vs RBLS
 UID:cs-go-parken-challenger-championship-5-2026-1448823@tournamentics
 END:VEVENT
@@ -1860,7 +1860,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260421T110000Z
-SUMMARY:Lower bracket round 1 match 4: CC.FE vs TBD
+SUMMARY:Lower bracket round 1 match 4: CC.FE vs EC BANGA
 UID:cs-go-cct-europe-challengers-series-1-2026-1449733@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5490,9 +5490,9 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438515@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260419T141000Z
+DTSTART:20260419T142046Z
 SUMMARY:Upper bracket round 1 match 3: eLITe vs AIMC
 UID:cs-go-cct-europe-challengers-series-1-2026-1449727@tournamentics
 END:VEVENT
@@ -6027,13 +6027,6 @@ DTEND:20260415T020211Z
 DTSTART:20260414T234636Z
 SUMMARY:Grand final: VOCA vs MARS
 UID:cs-go-cct-north-america-series-4-3-2026-1431986@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
-DTSTART:20260419T141000Z
-SUMMARY:Upper bracket round 1 match 7: EC BANGA vs RUST
-UID:cs-go-cct-europe-challengers-series-1-2026-1449726@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
