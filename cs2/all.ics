@@ -3901,11 +3901,11 @@ SUMMARY:Round 1: MZP vs RUST
 UID:cs-go-cct-europe-series-20-3-2026-1406927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260419T153000Z
-SUMMARY:Round 3: TS.A vs EF.A
-UID:cs-go-exort-series-25-2026-1452826@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260405T123711Z
+DTSTART:20260405T105950Z
+SUMMARY:Elimination match: KSM vs INF
+UID:cs-go-united21-47-2026-1423185@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Astralis: 2\nStream: https://www.twitch.tv/pgl
@@ -3941,13 +3941,6 @@ DTEND:20260413T032405Z
 DTSTART:20260413T011817Z
 SUMMARY:Round 5: TA vs EMP
 UID:cs-go-dust2-us-eagle-masters-7-2026-1441140@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
-DTEND:20260405T123711Z
-DTSTART:20260405T105950Z
-SUMMARY:Elimination match: KSM vs INF
-UID:cs-go-united21-47-2026-1423185@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: TNC: 0 | Sashi Academy: 1\nStream: https://kick.com/challengerchampionship_b
