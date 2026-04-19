@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
-DTSTART:20260419T150000Z
-SUMMARY:Round 3: YN vs TNC
-UID:cs-go-conquest-of-prague-online-stage-2026-1438499@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: TNC: 0 | Sashi Esport: 1\nStream: https://www.twitch.tv/playzoneup
 DTEND:20260415T164932Z
 DTSTART:20260415T161246Z
