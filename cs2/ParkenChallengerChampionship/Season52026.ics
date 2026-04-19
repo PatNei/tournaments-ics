@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260419T140000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: INF vs TBD
 UID:cs-go-parken-challenger-championship-5-2026-1448823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -257,7 +257,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260419T110000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: SASHI.A vs TBD
 UID:cs-go-parken-challenger-championship-5-2026-1448831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -289,8 +289,8 @@ SUMMARY:XI vs zajezdzacze
 UID:cs-go-parken-challenger-championship-5-2026-1448795@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Sashi Academy: 0 | Infinite: 2\nStream: https://kick.com/challengerchampionship_b
+DTEND:20260419T094118Z
 DTSTART:20260419T080435Z
 SUMMARY:Upper bracket quarterfinal 4: SASHI.A vs INF
 UID:cs-go-parken-challenger-championship-5-2026-1448821@tournamentics
