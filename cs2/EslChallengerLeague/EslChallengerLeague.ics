@@ -366,13 +366,6 @@ SUMMARY:Lower bracket round 2 match 2: GH vs Keyd
 UID:cs-go-esl-challenger-league-south-america-cup-3-2026-1421600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Arcade Esports: 2 | Time Waves: 0\nStream: No official stream linked
-DTEND:20260405T104333Z
-DTSTART:20260405T091209Z
-SUMMARY:Lower bracket round 2 match 2: Arcade Esports vs Time Waves
-UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421651@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: F5 Esports: 2 | FarmVille: 0\nStream: https://www.twitch.tv/bonamant
 DTEND:20260403T031057Z
 DTSTART:20260403T010904Z
@@ -385,6 +378,13 @@ DTEND:20260402T193004Z
 DTSTART:20260402T172000Z
 SUMMARY:Lower bracket round 3 match 5: Lavked vs G2.A
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420047@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Arcade Esports: 2 | Time Waves: 0\nStream: No official stream linked
+DTEND:20260405T104333Z
+DTSTART:20260405T091209Z
+SUMMARY:Lower bracket round 2 match 2: Arcade Esports vs Time Waves
+UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421651@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: ex-Zero Tenacity: 0 | RUSTEC: 2\nStream: https://www.twitch.tv/eslcs
@@ -527,18 +527,18 @@ SUMMARY:Upper bracket quarterfinal 4: QUBE vs NSN
 UID:cs-go-esl-challenger-league-asia-pacific-cup-3-2026-1421663@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Rooster: 2 | Skele: 0\nStream: No official stream linked
-DTEND:20260406T103824Z
-DTSTART:20260406T092436Z
-SUMMARY:Lower bracket quarterfinal 1: RSTR vs Skele
-UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421648@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #3 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Club 333: 0\nStream: https://www.twitch.tv/iamfusiion
 DTEND:20260403T032232Z
 DTSTART:20260403T011931Z
 SUMMARY:Upper bracket round 1 match 1: LAG vs Club 333
 UID:cs-go-esl-challenger-league-north-america-cup-3-2026-1421607@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Rooster: 2 | Skele: 0\nStream: No official stream linked
+DTEND:20260406T103824Z
+DTSTART:20260406T092436Z
+SUMMARY:Lower bracket quarterfinal 1: RSTR vs Skele
+UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Rooster: 0\nStream: https://www.twitch.tv/eslcs
@@ -548,18 +548,18 @@ SUMMARY:Grand final: GZ vs RSTR
 UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421645@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Mindfreak: 1 | Abyssal: 2\nStream: No official stream linked
-DTEND:20260405T120524Z
-DTSTART:20260405T091206Z
-SUMMARY:Upper bracket semifinal 1: MF vs Abyssal
-UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421642@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | HEROIC Academy: 1\nStream: https://www.twitch.tv/eslcs
 DTEND:20260404T193347Z
 DTSTART:20260404T170527Z
 SUMMARY:Lower bracket round 5 match 3: MANA vs HERO.A
 UID:cs-go-esl-challenger-league-europe-cup-3-2026-1420038@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #3 2026\nMatch Type: Best Of\nResult: Mindfreak: 1 | Abyssal: 2\nStream: No official stream linked
+DTEND:20260405T120524Z
+DTSTART:20260405T091206Z
+SUMMARY:Upper bracket semifinal 1: MF vs Abyssal
+UID:cs-go-esl-challenger-league-oceania-cup-3-2026-1421642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #3 2026\nMatch Type: Best Of\nResult: Just Players: 2 | yngods: 1\nStream: No official stream linked
