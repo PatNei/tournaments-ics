@@ -37,9 +37,9 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-parken-challenger-championship-5-2026-1448829@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
+DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260419T110000Z
+DTSTART:20260419T110053Z
 SUMMARY:Lower bracket round 1 match 1: PHTM.Ac vs ImmuNe
 UID:cs-go-parken-challenger-championship-5-2026-1448830@tournamentics
 END:VEVENT
@@ -72,6 +72,13 @@ SUMMARY:Upper bracket quarterfinal 2: TNC vs PHTM.Ac
 UID:cs-go-parken-challenger-championship-5-2026-1448819@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 |  Phantom Academy: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260418T152100Z
+DTSTART:20260418T143359Z
+SUMMARY:AAB vs PHTM.Ac
+UID:cs-go-parken-challenger-championship-5-2026-1448794@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: XI Esport: 1 | Rebels Gaming: 2\nStream: https://kick.com/challengerchampionship_c
 DTEND:20260419T105159Z
 DTSTART:20260419T080338Z
@@ -84,6 +91,13 @@ DTEND:20260418T194026Z
 DTSTART:20260418T190109Z
 SUMMARY:SASHI.A vs ImmuNe
 UID:cs-go-parken-challenger-championship-5-2026-1448816@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | XI Esport: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260418T121048Z
+DTSTART:20260418T113648Z
+SUMMARY:AAB vs XI
+UID:cs-go-parken-challenger-championship-5-2026-1448791@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Z7 Esports: 0 | TNC: 1\nStream: https://kick.com/challengerchampionship_b
@@ -119,6 +133,13 @@ DTEND:20260418T110428Z
 DTSTART:20260418T102626Z
 SUMMARY:RBLS vs ImmuNe
 UID:cs-go-parken-challenger-championship-5-2026-1448803@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | ELITEN: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260418T104556Z
+DTSTART:20260418T101343Z
+SUMMARY:AAB vs ELITEN
+UID:cs-go-parken-challenger-championship-5-2026-1448788@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | Infinite: 1\nStream: https://kick.com/challengerchampionship
@@ -170,11 +191,32 @@ SUMMARY:Upper bracket quarterfinal 1: zajezdzacze vs ImmuNe
 UID:cs-go-parken-challenger-championship-5-2026-1448818@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Infinite: 1 | zajezdzacze: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260418T135243Z
+DTSTART:20260418T130456Z
+SUMMARY:INF vs zajezdzacze
+UID:cs-go-parken-challenger-championship-5-2026-1448793@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: zajezdzacze: 0 |  Phantom Academy: 1\nStream: https://kick.com/challengerchampionship_c
+DTEND:20260418T124111Z
+DTSTART:20260418T113511Z
+SUMMARY:zajezdzacze vs PHTM.Ac
+UID:cs-go-parken-challenger-championship-5-2026-1448790@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 0 | TNC: 1\nStream: https://kick.com/challengerchampionship_b
 DTEND:20260418T194911Z
 DTSTART:20260418T190103Z
 SUMMARY:RBLS vs TNC
 UID:cs-go-parken-challenger-championship-5-2026-1448815@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Infinite: 0 | XI Esport: 1\nStream: https://kick.com/challengerchampionship_c
+DTEND:20260418T110757Z
+DTSTART:20260418T100822Z
+SUMMARY:INF vs XI
+UID:cs-go-parken-challenger-championship-5-2026-1448789@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 1 | Sashi Academy: 0\nStream: https://kick.com/challengerchampionship_b
@@ -189,6 +231,13 @@ DTEND:20260418T133341Z
 DTSTART:20260418T130417Z
 SUMMARY:TNC vs SASHI.A
 UID:cs-go-parken-challenger-championship-5-2026-1448808@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: ELITEN: 0 |  Phantom Academy: 1\nStream: https://kick.com/challengerchampionship_c
+DTEND:20260418T132807Z
+DTSTART:20260418T130459Z
+SUMMARY:ELITEN vs PHTM.Ac
+UID:cs-go-parken-challenger-championship-5-2026-1448792@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Sashi Academy: 1 | Z7 Esports: 0\nStream: https://kick.com/challengerchampionship_d
