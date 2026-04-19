@@ -18,20 +18,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260420T210000Z
-SUMMARY:LDP vs 9daplug
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1448771@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260420T190000Z
-SUMMARY:MIBR.A vs VEXA
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1448773@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
 DTSTART:20260420T190000Z
 SUMMARY:ALKA vs PLS
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1449853@tournamentics
@@ -42,12 +28,5 @@ DURATION:PT2H
 DTSTART:20260421T000000Z
 SUMMARY:MW vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1451287@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: Alzon: 0 | FURIA fe: 1\nStream: No official stream linked
-DTEND:20260416T192704Z
-DTSTART:20260416T183658Z
-SUMMARY:Alzon vs FURIA.F
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1448772@tournamentics
 END:VEVENT
 END:VCALENDAR
