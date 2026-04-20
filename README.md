@@ -427,27 +427,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 </details>
 
 <details>
-<summary>LORGAR RANKINGS</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/LorgarRankings.ics
-```
-
----
-
-### Closed Qualifier season 1 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/ClosedQualifierSeason12026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/ClosedQualifierSeason12026.ics
-```
-
-</details>
-
-<details>
 <summary>NODWIN Clutch Series</summary>
 
 ### Full Schedule
