@@ -333,7 +333,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260420T144500Z
+DTSTART:20260420T145500Z
 SUMMARY:Round 4: ex-RUBY vs OXUJI
 UID:cs-go-nodwin-clutch-series-7-2026-1431948@tournamentics
 END:VEVENT
@@ -471,8 +471,8 @@ SUMMARY:Round 4: FAV vs Lavked
 UID:cs-go-nodwin-clutch-series-7-2026-1431951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Nuclear TigeRES: 2 | Acend: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260420T143659Z
 DTSTART:20260420T120502Z
 SUMMARY:Round 4: NTR vs ACE
 UID:cs-go-nodwin-clutch-series-7-2026-1431947@tournamentics
