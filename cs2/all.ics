@@ -5266,8 +5266,8 @@ SUMMARY:RT vs XI
 UID:cs-go-united21-48-2026-1453432@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nResult: Linx Legacy Esport: 0 | struggletony: 2\nStream: No official stream linked
+DTEND:20260420T164037Z
 DTSTART:20260420T150311Z
 SUMMARY:Round 1: LLE vs st0ny
 UID:cs-go-dust2-dk-32-2026-1448781@tournamentics
@@ -5413,9 +5413,9 @@ SUMMARY:Round 3: CC vs UNiTY
 UID:cs-go-conquest-of-prague-online-stage-2026-1438502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/glitchtechgaming
 DURATION:PT2H
-DTSTART:20260420T163000Z
+DTSTART:20260420T164429Z
 SUMMARY:ENRAGE vs GE
 UID:cs-go-esea-advanced-europe-57-2026-1454773@tournamentics
 END:VEVENT
