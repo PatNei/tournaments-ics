@@ -2039,8 +2039,8 @@ SUMMARY:PF vs SS
 UID:cs-go-esea-advanced-europe-57-2026-1454791@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Dripmen: 0 | Young Ninjas: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260420T124650Z
 DTSTART:20260420T110610Z
 SUMMARY:Lower bracket round 1 match 3: DRIP vs YN
 UID:cs-go-cct-europe-challengers-series-1-2026-1449732@tournamentics
@@ -2499,6 +2499,13 @@ DTEND:20260224T172519Z
 DTSTART:20260224T153315Z
 SUMMARY:Round 1: BOJONG vs ENCE.A
 UID:cs-go-elisa-open-suomi-12-2026-1372429@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260424T103000Z
+SUMMARY:Elimination match: IMP.A vs BIG.A
+UID:cs-go-united21-48-2026-1455262@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: ALGO Esports: 2 | ReThink: 0\nStream: https://kick.com/eplcs_en
@@ -2989,6 +2996,13 @@ DTEND:20260223T194731Z
 DTSTART:20260223T181400Z
 SUMMARY:Round 1: RGG vs  CSDIILIT
 UID:cs-go-elisa-open-suomi-12-2026-1372428@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260424T080000Z
+SUMMARY:Winners match: INF vs AAB
+UID:cs-go-united21-48-2026-1455261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Nebula In Chaox: 2 | Eternal Fire Academy: 0\nStream: No official stream linked
@@ -4933,7 +4947,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260422T134500Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 3: YN vs TBD
 UID:cs-go-cct-europe-challengers-series-1-2026-1449738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
