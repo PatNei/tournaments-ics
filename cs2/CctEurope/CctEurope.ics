@@ -376,7 +376,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260423T134500Z
-SUMMARY:Upper bracket semifinal 2: RUST vs TBD
+SUMMARY:Upper bracket semifinal 2: RUST vs playersclub
 UID:cs-go-cct-europe-challengers-series-1-2026-1449743@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -481,12 +481,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260422T110000Z
-SUMMARY:Lower bracket round 2 match 2: AIMC vs TBD
+SUMMARY:Lower bracket round 2 match 2: AIMC vs BRUTE
 UID:cs-go-cct-europe-challengers-series-1-2026-1449737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: playersclub: 2 | Brute: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260420T165816Z
 DTSTART:20260420T141800Z
 SUMMARY:Upper bracket quarterfinal 3: playersclub vs BRUTE
 UID:cs-go-cct-europe-challengers-series-1-2026-1449734@tournamentics
