@@ -564,7 +564,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260420T103000Z
+DTSTART:20260420T104500Z
 SUMMARY:BIG.A vs AAB
 UID:cs-go-united21-48-2026-1453430@tournamentics
 END:VEVENT
@@ -2510,7 +2510,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260420T103000Z
+DTSTART:20260420T110000Z
 SUMMARY:ALGO vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1451292@tournamentics
 END:VEVENT
@@ -2623,7 +2623,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260424T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: KSM vs TBD
 UID:cs-go-european-pro-league-regular-4-2026-1452822@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3005,8 +3005,8 @@ SUMMARY:Round 2: NIC vs EF.A
 UID:cs-go-exort-series-25-2026-1435738@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | Fire Flux Esports: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260420T104249Z
 DTSTART:20260420T080640Z
 SUMMARY:KSM vs FF
 UID:cs-go-european-pro-league-regular-4-2026-1451291@tournamentics
@@ -3106,7 +3106,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260424T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: FF vs TBD
 UID:cs-go-european-pro-league-regular-4-2026-1452821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
