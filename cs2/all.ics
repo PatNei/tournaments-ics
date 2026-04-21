@@ -208,7 +208,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260422T110000Z
-SUMMARY:Lower bracket round 2 match 1: VP.P vs Atreides
+SUMMARY:Lower bracket round 2 match 1: Atreides vs VP.P
 UID:cs-go-cct-europe-challengers-series-1-2026-1449736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1006,7 +1006,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260426T080000Z
-SUMMARY:Decider match: AAB vs TBD
+SUMMARY:Decider match: AAB vs XI
 UID:cs-go-european-pro-league-regular-4-2026-1452814@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2105,7 +2105,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T170000Z
-SUMMARY:Upper bracket round 2 match 11: G1 vs TBD
+SUMMARY:Upper bracket round 2 match 10: G1 vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456703@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4373,7 +4373,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T170000Z
-SUMMARY:Upper bracket round 2 match 10: Lavked vs TBD
+SUMMARY:Upper bracket round 2 match 11: Lavked vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456710@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5612,7 +5612,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260422T110000Z
-SUMMARY:Lower bracket round 2 match 2: AIMC vs BRUTE
+SUMMARY:Lower bracket round 2 match 2: BRUTE vs AIMC
 UID:cs-go-cct-europe-challengers-series-1-2026-1449737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5756,8 +5756,8 @@ SUMMARY:Elimination match: RE vs eLITe
 UID:cs-go-nodwin-clutch-series-7-2026-1431906@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | XI Esport: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260421T120039Z
 DTSTART:20260421T103744Z
 SUMMARY:Winners match: BIG.A vs XI
 UID:cs-go-european-pro-league-regular-4-2026-1451840@tournamentics
