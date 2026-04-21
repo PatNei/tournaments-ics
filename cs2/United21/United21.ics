@@ -9,6 +9,13 @@ SUMMARY:Winners match: SNG vs Imperial.A
 UID:cs-go-united21-47-2026-1423174@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260424T103000Z
+SUMMARY:Elimination match: IMP.A vs BIG.A
+UID:cs-go-united21-48-2026-1455262@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Inner Circle Academy: 0 | Brute: 2\nStream: https://kick.com/united21_en
 DTEND:20260409T133825Z
 DTSTART:20260409T115535Z
@@ -28,6 +35,27 @@ DTEND:20260413T094501Z
 DTSTART:20260413T081859Z
 SUMMARY:Lower bracket quarterfinal 1: MISA vs IC.A
 UID:cs-go-united21-47-2026-1438945@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:🕒 POSTPONED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260421T103000Z
+SUMMARY:KSM vs Z7
+UID:cs-go-united21-48-2026-1453434@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | ALGO Esports: 1\nStream: https://kick.com/united21_en
+DTEND:20260421T103428Z
+DTSTART:20260421T080614Z
+SUMMARY:FF vs ALGO
+UID:cs-go-united21-48-2026-1453431@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Passion Academy: 2 | Sangal ALTERS: 1\nStream: https://kick.com/united21_en
+DTEND:20260419T111355Z
+DTSTART:20260419T081714Z
+SUMMARY:PSN.A vs SNG
+UID:cs-go-united21-48-2026-1453427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | LPH Gaming: 0\nStream: https://kick.com/united21_en
@@ -93,18 +121,18 @@ SUMMARY:Imperial.A vs LPH
 UID:cs-go-united21-47-2026-1423173@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260424T080000Z
+SUMMARY:Winners match: INF vs AAB
+UID:cs-go-united21-48-2026-1455261@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | Infinite: 1\nStream: https://kick.com/united21_en
 DTEND:20260409T114248Z
 DTSTART:20260409T081917Z
 SUMMARY:Upper bracket quarterfinal 1: IMP.A vs INF
 UID:cs-go-united21-47-2026-1437367@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Young Ninjas: 2 | Fire Flux Esports: 1\nStream: https://kick.com/united21_en
-DTEND:20260416T104759Z
-DTSTART:20260416T080606Z
-SUMMARY:Grand final: YN vs FF
-UID:cs-go-united21-47-2026-1438951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Brute: 1 | Young Ninjas: 2\nStream: https://kick.com/united21_en
@@ -114,11 +142,39 @@ SUMMARY:Upper bracket final: BRUTE vs YN
 UID:cs-go-united21-47-2026-1438947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Young Ninjas: 2 | Fire Flux Esports: 1\nStream: https://kick.com/united21_en
+DTEND:20260416T104759Z
+DTSTART:20260416T080606Z
+SUMMARY:Grand final: YN vs FF
+UID:cs-go-united21-47-2026-1438951@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260422T130000Z
+SUMMARY:SASHI.A vs NAVI.J
+UID:cs-go-united21-48-2026-1453433@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260420T101419Z
+DTSTART:20260420T081738Z
+SUMMARY:IMP.A vs INF
+UID:cs-go-united21-48-2026-1453429@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Young Ninjas: 2 | Misa Esports: 0\nStream: https://kick.com/united21_en
 DTEND:20260412T122245Z
 DTSTART:20260412T103948Z
 SUMMARY:Upper bracket semifinal 2: YN vs MISA
 UID:cs-go-united21-47-2026-1438944@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: BIG Academy: 0 | AaB Esport: 2\nStream: https://kick.com/united21_en
+DTEND:20260420T123248Z
+DTSTART:20260420T105155Z
+SUMMARY:BIG.A vs AAB
+UID:cs-go-united21-48-2026-1453430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Infinite: 2\nStream: https://kick.com/united21_en
@@ -156,6 +212,20 @@ SUMMARY:Elimination match: Z7 vs LPH
 UID:cs-go-united21-47-2026-1423175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260423T080000Z
+SUMMARY:Winners match: PSN.A vs LPH
+UID:cs-go-united21-48-2026-1455259@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260423T103000Z
+SUMMARY:Elimination match: SNG vs Golden Five
+UID:cs-go-united21-48-2026-1455260@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Young Ninjas: 2 | Fire Flux Esports: 1\nStream: https://kick.com/united21_en
 DTEND:20260410T103358Z
 DTSTART:20260410T080744Z
@@ -182,6 +252,20 @@ DTEND:20260413T141214Z
 DTSTART:20260413T103622Z
 SUMMARY:Lower bracket quarterfinal 2: IMP.A vs FF
 UID:cs-go-united21-47-2026-1438946@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260422T103000Z
+SUMMARY:RT vs XI
+UID:cs-go-united21-48-2026-1453432@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Golden Five: 0 | LPH Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260419T125650Z
+DTSTART:20260419T113555Z
+SUMMARY:Golden Five vs LPH
+UID:cs-go-united21-48-2026-1453428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | Brute: 2\nStream: https://kick.com/united21_en
