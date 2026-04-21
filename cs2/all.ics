@@ -247,11 +247,11 @@ SUMMARY:Round 1: B8 vs WC
 UID:cs-go-pgl-bucharest-2026-1426979@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 0 | Vitality: 3\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260419T201122Z
-DTSTART:20260419T170126Z
-SUMMARY:Grand final: TS vs VIT
-UID:cs-go-iem-rio-2026-1436342@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260423T220000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: LAG Gaming: 1 | EMPIRE: 2\nStream: https://www.twitch.tv/ynotcs2
@@ -266,6 +266,13 @@ DTEND:20260413T184620Z
 DTSTART:20260413T181650Z
 SUMMARY:MEGO vs hindsight
 UID:cs-go-esea-advanced-europe-57-2026-1444153@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 0 | Vitality: 3\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260419T201122Z
+DTSTART:20260419T170126Z
+SUMMARY:Grand final: TS vs VIT
+UID:cs-go-iem-rio-2026-1436342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 0 | Oxuji Esports: 2\nStream: https://kick.com/nodwin_cs2
@@ -660,11 +667,11 @@ SUMMARY:Round 1: 3DMAX vs FOKUS
 UID:cs-go-pgl-bucharest-2026-1426978@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | FURIA: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260419T153538Z
-DTSTART:20260419T133026Z
-SUMMARY:3rd place decider: FAL vs FURIA
-UID:cs-go-iem-rio-2026-1436341@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260423T010000Z
+SUMMARY:Upper bracket quartefinal 4: Keyd vs CRASH
+UID:cs-go-betboom-rush-b-summit-3-2026-1456318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: FarmVille: 2 | mouse: 1\nStream: https://www.twitch.tv/endiezcasts
@@ -672,6 +679,13 @@ DTEND:20260331T034724Z
 DTSTART:20260331T013642Z
 SUMMARY:Round 1: FV vs mouse
 UID:cs-go-dust2-us-eagle-masters-7-2026-1422174@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Team Falcons: 2 | FURIA: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260419T153538Z
+DTSTART:20260419T133026Z
+SUMMARY:3rd place decider: FAL vs FURIA
+UID:cs-go-iem-rio-2026-1436341@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Favbet: 1 | ESC Gaming: 2\nStream: https://kick.com/nodwin_cs2
@@ -1052,8 +1066,8 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431960@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Ursa: 2 | Bebop: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260421T101136Z
 DTSTART:20260421T080416Z
 SUMMARY:Round 4: URSA vs BBP
 UID:cs-go-nodwin-clutch-series-7-2026-1431949@tournamentics
@@ -1092,6 +1106,13 @@ DTEND:20260404T093636Z
 DTSTART:20260404T070258Z
 SUMMARY:Round 1: FUT vs ICE
 UID:cs-go-pgl-bucharest-2026-1426977@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260422T220000Z
+SUMMARY:Upper bracket quartefinal 3: LGC vs Alzon
+UID:cs-go-betboom-rush-b-summit-3-2026-1456317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | Clockwork: 1\nStream: https://www.twitch.tv/bonamant
@@ -1311,6 +1332,13 @@ SUMMARY:Round 2: AST vs B8
 UID:cs-go-pgl-bucharest-2026-1426988@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260426T010000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456328@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Esports: 2 | MANA eSports: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260417T183720Z
 DTSTART:20260417T171254Z
@@ -1409,11 +1437,11 @@ SUMMARY:RE vs BB
 UID:cs-go-european-pro-league-series-6-2026-1400830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Legacy: 1 | MOUZ: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260413T210935Z
-DTSTART:20260413T182429Z
-SUMMARY:Upper bracket quarterfinal 4: LGC vs MOUZ
-UID:cs-go-iem-rio-2026-1429132@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | BoyBand: 2\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260317T200121Z
+DTSTART:20260317T180339Z
+SUMMARY:Round 4: BOJONG vs BoyBand
+UID:cs-go-elisa-open-suomi-12-2026-1372442@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Sashi Academy: 1 | Entropy: 0\nStream: https://kick.com/challengerchampionship_c
@@ -1423,11 +1451,11 @@ SUMMARY:SASHI.A vs Entropy
 UID:cs-go-parken-challenger-championship-4-2026-1437302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | BoyBand: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260317T200121Z
-DTSTART:20260317T180339Z
-SUMMARY:Round 4: BOJONG vs BoyBand
-UID:cs-go-elisa-open-suomi-12-2026-1372442@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Legacy: 1 | MOUZ: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260413T210935Z
+DTSTART:20260413T182429Z
+SUMMARY:Upper bracket quarterfinal 4: LGC vs MOUZ
+UID:cs-go-iem-rio-2026-1429132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | Infinite: 1\nStream: https://kick.com/challengerchampionship
@@ -1505,6 +1533,13 @@ DTEND:20260416T192704Z
 DTSTART:20260416T183658Z
 SUMMARY:Alzon vs FURIA.F
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1448772@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260422T190000Z
+SUMMARY:Upper bracket quartefinal 2: MW vs VSC
+UID:cs-go-betboom-rush-b-summit-3-2026-1456316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: mixmix: 1 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/cct_cs5
@@ -1696,6 +1731,13 @@ SUMMARY:Round 2: BCG vs MIBR
 UID:cs-go-pgl-bucharest-2026-1426987@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260425T190000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456327@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 0 | ex-RUBY: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260417T155420Z
 DTSTART:20260417T140323Z
@@ -1815,18 +1857,18 @@ SUMMARY:Nordic Valor vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372441@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | HOTU: 0\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260413T232316Z
-DTSTART:20260413T212358Z
-SUMMARY:Upper bracket quarterfinal 3: AUR vs HOTU
-UID:cs-go-iem-rio-2026-1429131@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | JUMBO TEAM: 0\nStream: No official stream linked
 DTEND:20260413T180020Z
 DTSTART:20260413T171440Z
 SUMMARY:G2.A vs JUMBO
 UID:cs-go-esea-advanced-europe-57-2026-1444104@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Aurora Gaming: 2 | HOTU: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260413T232316Z
+DTSTART:20260413T212358Z
+SUMMARY:Upper bracket quarterfinal 3: AUR vs HOTU
+UID:cs-go-iem-rio-2026-1429131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 1 | WAZABI: 0\nStream: https://kick.com/challengerchampionship_c
@@ -1911,6 +1953,13 @@ DTEND:20260420T223237Z
 DTSTART:20260420T212028Z
 SUMMARY:LDP vs 9daplug
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1448771@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260422T160000Z
+SUMMARY:Upper bracket quartefinal 1: 9z vs ALKA
+UID:cs-go-betboom-rush-b-summit-3-2026-1456315@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -2130,6 +2179,13 @@ SUMMARY:Round 2: FUT vs NRG
 UID:cs-go-pgl-bucharest-2026-1426986@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260424T220000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456326@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Acend: 2 | Favbet: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260417T131851Z
 DTSTART:20260417T111118Z
@@ -2249,11 +2305,11 @@ SUMMARY:Round 4: KSM vs  CSDIILIT
 UID:cs-go-elisa-open-suomi-12-2026-1372440@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T202517Z
-DTSTART:20260413T180803Z
-SUMMARY:Upper bracket quarterfinal 2: B8 vs NAVI
-UID:cs-go-iem-rio-2026-1429130@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Diamant Esports: 1\nStream: https://www.twitch.tv/dutchboycasts
+DTEND:20260413T173501Z
+DTSTART:20260413T165839Z
+SUMMARY:ZOTIX vs Diamant Esports
+UID:cs-go-esea-advanced-europe-57-2026-1444103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Sashi Academy: 0\nStream: https://kick.com/challengerchampionship
@@ -2263,11 +2319,11 @@ SUMMARY:AAB vs SASHI.A
 UID:cs-go-parken-challenger-championship-4-2026-1437300@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Diamant Esports: 1\nStream: https://www.twitch.tv/dutchboycasts
-DTEND:20260413T173501Z
-DTSTART:20260413T165839Z
-SUMMARY:ZOTIX vs Diamant Esports
-UID:cs-go-esea-advanced-europe-57-2026-1444103@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260413T202517Z
+DTSTART:20260413T180803Z
+SUMMARY:Upper bracket quarterfinal 2: B8 vs NAVI
+UID:cs-go-iem-rio-2026-1429130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 2 | ENCE Academy: 0\nStream: https://www.twitch.tv/elisaviihdesport
@@ -2452,18 +2508,18 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260414T211852Z
-DTSTART:20260414T182730Z
-SUMMARY:Upper bracket semifinal 1: NAVI vs FURIA
-UID:cs-go-iem-rio-2026-1436303@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | Nordic Valor: 2\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260406T171748Z
 DTSTART:20260406T143226Z
 SUMMARY:Round 7: KSM vs Nordic Valor
 UID:cs-go-elisa-open-suomi-12-2026-1372451@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260414T211852Z
+DTSTART:20260414T182730Z
+SUMMARY:Upper bracket semifinal 1: NAVI vs FURIA
+UID:cs-go-iem-rio-2026-1436303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | FarmVille: 2\nStream: https://www.twitch.tv/endiezcasts
@@ -2557,6 +2613,13 @@ SUMMARY:Round 2: 3DMAX vs VOCA
 UID:cs-go-pgl-bucharest-2026-1426985@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260424T190000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456325@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: TDK: 2 | Oxuji Esports: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260417T104735Z
 DTSTART:20260417T081744Z
@@ -2592,18 +2655,18 @@ SUMMARY:Decider match: MSC vs PG
 UID:cs-go-nodwin-clutch-series-7-2026-1431911@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | Aurora Gaming: 1\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260415T231203Z
-DTSTART:20260415T203124Z
-SUMMARY:Lower bracket final: NAVI vs AUR
-UID:cs-go-iem-rio-2026-1436314@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | Wave Esports: 1\nStream: https://kick.com/exort_en2
 DTEND:20260416T175200Z
 DTSTART:20260416T153428Z
 SUMMARY:Round 1: TS.A vs WAVE
 UID:cs-go-exort-series-25-2026-1447167@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | Aurora Gaming: 1\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260415T231203Z
+DTSTART:20260415T203124Z
+SUMMARY:Lower bracket final: NAVI vs AUR
+UID:cs-go-iem-rio-2026-1436314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 2 | LAGUNA: 1\nStream: https://kick.com/challengerchampionship
@@ -2879,18 +2942,18 @@ SUMMARY:Round 1: STA vs Washed
 UID:cs-go-dust2-dk-32-2026-1448774@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Liquid: 0 | 3DMAX: 2\nStream: https://www.twitch.tv/ESLCSb
-DTEND:20260414T180739Z
-DTSTART:20260414T160755Z
-SUMMARY:Lower bracket quarterfinal 2: TL vs 3DMAX
-UID:cs-go-iem-rio-2026-1436302@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 1 | ROUNDS: 2\nStream: https://www.twitch.tv/elisaviihdesport
 DTEND:20260331T193257Z
 DTSTART:20260331T170029Z
 SUMMARY:Round 6: Nordic Valor vs RGG
 UID:cs-go-elisa-open-suomi-12-2026-1372450@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Liquid: 0 | 3DMAX: 2\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260414T180739Z
+DTSTART:20260414T160755Z
+SUMMARY:Lower bracket quarterfinal 2: TL vs 3DMAX
+UID:cs-go-iem-rio-2026-1436302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Team Aether: 1 | BOSS: 2\nStream: https://kick.com/dust2us
@@ -3003,6 +3066,13 @@ DTEND:20260406T185415Z
 DTSTART:20260406T182828Z
 SUMMARY:BOJONG vs Diamant Esports
 UID:cs-go-esea-advanced-europe-57-2026-1433393@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260423T190000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: InControl: 1 | Team Aether: 2\nStream: No official stream linked
@@ -3446,6 +3516,13 @@ SUMMARY:Round 1: PRV vs LGC
 UID:cs-go-pgl-bucharest-2026-1426983@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260423T160000Z
+SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456323@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: 1WIN: 0 | Nuclear TigeRES: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260416T155735Z
 DTSTART:20260416T141000Z
@@ -3782,18 +3859,18 @@ SUMMARY:Round 3: RGG vs EK
 UID:cs-go-elisa-open-suomi-12-2026-1372437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 2 | Liquid: 0\nStream: https://www.twitch.tv/ESLCS
-DTEND:20260413T172011Z
-DTSTART:20260413T153056Z
-SUMMARY:Upper bracket quarterfinal 3: TS vs TL
-UID:cs-go-iem-rio-2026-1429127@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: megoshort: 0 | Ursa: 2\nStream: https://www.kick.com/eplcs_en
 DTEND:20260402T130900Z
 DTSTART:20260402T105604Z
 SUMMARY:Winners match: MEGO vs URSA
 UID:cs-go-european-pro-league-series-6-2026-1400825@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Spirit: 2 | Liquid: 0\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260413T172011Z
+DTSTART:20260413T153056Z
+SUMMARY:Upper bracket quarterfinal 3: TS vs TL
+UID:cs-go-iem-rio-2026-1429127@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: MIBR: 2 | EYEBALLERS: 0\nStream: https://www.twitch.tv/PGL
@@ -3864,6 +3941,13 @@ DTEND:20260404T134823Z
 DTSTART:20260404T115637Z
 SUMMARY:Round 1: AST vs MIBR
 UID:cs-go-pgl-bucharest-2026-1426982@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260426T230000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456322@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: BakS eSports: 0 | WROTBERRY: 2\nStream: https://kick.com/cct_cs6
@@ -4230,18 +4314,18 @@ SUMMARY:Round 3:  CSDIILIT vs BoyBand
 UID:cs-go-elisa-open-suomi-12-2026-1372436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Gentle Mates: 1 | G2: 2\nStream: https://www.twitch.tv/eslcsb
-DTEND:20260413T155745Z
-DTSTART:20260413T130120Z
-SUMMARY:Upper bracket quarterfinal 2: M8 vs G2
-UID:cs-go-iem-rio-2026-1429126@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: WW Team: 1 | megoshort: 2\nStream: https://www.kick.com/eplcs_en
 DTEND:20260328T144015Z
 DTSTART:20260328T113731Z
 SUMMARY:WW vs MEGO
 UID:cs-go-european-pro-league-series-6-2026-1400824@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Gentle Mates: 1 | G2: 2\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260413T155745Z
+DTSTART:20260413T130120Z
+SUMMARY:Upper bracket quarterfinal 2: M8 vs G2
+UID:cs-go-iem-rio-2026-1429126@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Bucharest 2026\nMatch Type: Best Of\nResult: NRG: 0 | Legacy: 2\nStream: https://www.twitch.tv/pgl_cs2
@@ -4312,6 +4396,13 @@ DTEND:20260404T134421Z
 DTSTART:20260404T120020Z
 SUMMARY:Round 1: MGLZ vs BCG
 UID:cs-go-pgl-bucharest-2026-1426981@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260425T010000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456321@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -4725,6 +4816,13 @@ DURATION:PT2H
 DTSTART:20260513T160000Z
 SUMMARY:TAZ vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385756@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
+DURATION:PT2H
+DTSTART:20260424T010000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-betboom-rush-b-summit-3-2026-1456320@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: Team Palace: 2 | eternal premium: 1\nStream: https://kick.com/cct_cs6
