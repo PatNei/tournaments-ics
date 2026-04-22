@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260424T170000Z
-SUMMARY:Lower bracket round 1 match 10: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 10: TBD vs FCF
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456764@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -429,8 +429,8 @@ SUMMARY:Lower bracket round 1 match 15: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456789@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: brazylijski luz: 1 | Just Players: 2\nStream: https://www.twitch.tv/GoYareGo
+DTEND:20260422T194155Z
 DTSTART:20260422T170312Z
 SUMMARY:Upper bracket round 1 match 15: BL vs Just Players
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456415@tournamentics
@@ -572,7 +572,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T170000Z
-SUMMARY:Upper bracket round 2 match 10: G1 vs TBD
+SUMMARY:Upper bracket round 2 match 10: G1 vs bankaPEPSI
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456703@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -656,7 +656,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260424T170000Z
-SUMMARY:Lower bracket round 1 match 12: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 12: TBD vs G2.A
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456774@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -726,7 +726,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T170000Z
-SUMMARY:Upper bracket round 2 match 15: aAa vs TBD
+SUMMARY:Upper bracket round 2 match 15: aAa vs Just Players
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456734@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1367,8 +1367,8 @@ SUMMARY:Upper bracket round of 16 match 7: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456865@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/fyflo
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | bankaPEPSI: 2\nStream: https://www.twitch.tv/fyflo
+DTEND:20260422T193703Z
 DTSTART:20260422T165833Z
 SUMMARY:Upper bracket round 1 match 10: FCF vs bankaPEPSI
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456410@tournamentics
