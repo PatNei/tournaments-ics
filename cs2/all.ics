@@ -135,13 +135,6 @@ SUMMARY:Falcons Force vs XI
 UID:cs-go-esea-advanced-europe-57-2026-1436247@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | ROUNDS: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260324T172355Z
-DTSTART:20260324T154135Z
-SUMMARY:Round 5: KSM vs RGG
-UID:cs-go-elisa-open-suomi-12-2026-1372445@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: tincan: 0 | eLITenergy: 1\nStream: No official stream linked
 DTEND:20260413T185955Z
 DTSTART:20260413T181638Z
@@ -345,11 +338,11 @@ SUMMARY:Round 1: LAG vs EMP
 UID:cs-go-dust2-us-eagle-masters-7-2026-1422175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE: 2 | KUUSAMO.gg: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260410T161532Z
-DTSTART:20260410T143510Z
-SUMMARY:Upper Bracket Semifinals 1: ENCE vs KSM
-UID:cs-go-elisa-open-suomi-12-2026-1436293@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
+DTSTART:20260425T083000Z
+SUMMARY:AAB vs AIMC
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458867@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -357,13 +350,6 @@ DURATION:PT2H
 DTSTART:20260428T210000Z
 SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456997@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260425T083000Z
-SUMMARY:AAB vs AIMC
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458867@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: Lavked: 2 | Phantom: 0\nStream: https://kick.com/eplcs_en
@@ -441,13 +427,6 @@ DTEND:20260408T153710Z
 DTSTART:20260408T151904Z
 SUMMARY:DNT vs Clutchain Female
 UID:cs-go-esea-advanced-europe-57-2026-1436235@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | BoyBand: 1\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260303T185145Z
-DTSTART:20260303T153125Z
-SUMMARY:Round 2: KSM vs BoyBand
-UID:cs-go-elisa-open-suomi-12-2026-1372433@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | Strael-Bora: 1\nStream: No official stream linked
@@ -716,13 +695,6 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 0 | ENCE Academy: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260323T192612Z
-DTSTART:20260323T180150Z
-SUMMARY:Round 5: Nordic Valor vs ENCE.A
-UID:cs-go-elisa-open-suomi-12-2026-1372444@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | Rune Eaters: 2\nStream: https://www.kick.com/eplcs_en
 DTEND:20260402T103831Z
 DTSTART:20260402T080544Z
@@ -989,11 +961,11 @@ SUMMARY:Z7 vs TNC
 UID:cs-go-parken-challenger-championship-5-2026-1448813@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 0 |  CSDIILIT: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260302T192608Z
-DTSTART:20260302T180105Z
-SUMMARY:Round 2: Nordic Valor vs  CSDIILIT
-UID:cs-go-elisa-open-suomi-12-2026-1372432@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: VP.Future: 0 | CSGOPOSITIVE: 2\nStream: https://kick.com/exort_en2
+DTEND:20260407T144014Z
+DTSTART:20260407T123040Z
+SUMMARY:Round 1: VP.F vs CSGOPOSITIVE
+UID:cs-go-exort-series-25-2026-1433375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1001,13 +973,6 @@ DURATION:PT2H
 DTSTART:20260430T010000Z
 SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456963@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: VP.Future: 0 | CSGOPOSITIVE: 2\nStream: https://kick.com/exort_en2
-DTEND:20260407T144014Z
-DTSTART:20260407T123040Z
-SUMMARY:Round 1: VP.F vs CSGOPOSITIVE
-UID:cs-go-exort-series-25-2026-1433375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1115,18 +1080,18 @@ SUMMARY:Round 3: OXUJI vs Lavked
 UID:cs-go-nodwin-clutch-series-7-2026-1431938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260425T173000Z
-SUMMARY:EC BANGA vs eLITe
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458877@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T090000Z
 SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457349@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
+DTSTART:20260425T173000Z
+SUMMARY:EC BANGA vs eLITe
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458877@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roundsgg
@@ -1253,13 +1218,6 @@ DTEND:20260408T185149Z
 DTSTART:20260408T181156Z
 SUMMARY:B8.A vs BOJONG
 UID:cs-go-esea-advanced-europe-57-2026-1436245@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 0 |  CSDIILIT: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260325T172142Z
-DTSTART:20260325T160139Z
-SUMMARY:Round 5: BOJONG vs  CSDIILIT
-UID:cs-go-elisa-open-suomi-12-2026-1372443@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | Basement Bobs: 1\nStream: https://www.kick.com/eplcs_en
@@ -1514,13 +1472,6 @@ SUMMARY:UNiTY vs Hashiras
 UID:cs-go-nodwin-clutch-series-7-2026-1431903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 1 | ENCE Academy: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260407T201851Z
-DTSTART:20260407T172607Z
-SUMMARY:Round 7:  CSDIILIT vs ENCE.A
-UID:cs-go-elisa-open-suomi-12-2026-1372454@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Legacy: 0 | HOTU: 2\nStream: https://www.twitch.tv/ESLCSb
 DTEND:20260414T223503Z
 DTSTART:20260414T203220Z
@@ -1570,11 +1521,11 @@ SUMMARY:RBLS vs SASHI.A
 UID:cs-go-parken-challenger-championship-5-2026-1448812@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 2 | ROUNDS: 1\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260302T174335Z
-DTSTART:20260302T154505Z
-SUMMARY:Round 2: BOJONG vs RGG
-UID:cs-go-elisa-open-suomi-12-2026-1372431@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | NeverPlay: 0\nStream: No official stream linked
+DTEND:20260407T103224Z
+DTSTART:20260407T094638Z
+SUMMARY:Round 1: INF vs NP
+UID:cs-go-exort-series-25-2026-1433374@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1582,13 +1533,6 @@ DURATION:PT2H
 DTSTART:20260430T010000Z
 SUMMARY:Upper bracket semifinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456962@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 2 | NeverPlay: 0\nStream: No official stream linked
-DTEND:20260407T103224Z
-DTSTART:20260407T094638Z
-SUMMARY:Round 1: INF vs NP
-UID:cs-go-exort-series-25-2026-1433374@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1689,18 +1633,18 @@ SUMMARY:Round 2: CS vs MANA
 UID:cs-go-nodwin-clutch-series-7-2026-1431937@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260424T173000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458876@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T090000Z
 SUMMARY:Upper bracket quarterfinal 4: GZ vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457348@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
+DTSTART:20260424T173000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458876@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: LFO: 1 | hindsight: 0\nStream: https://www.twitch.tv/popilop
@@ -1808,11 +1752,11 @@ SUMMARY:TLR vs hindsight
 UID:cs-go-esea-advanced-europe-57-2026-1436244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | BoyBand: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260317T200121Z
-DTSTART:20260317T180339Z
-SUMMARY:Round 4: BOJONG vs BoyBand
-UID:cs-go-elisa-open-suomi-12-2026-1372442@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: Rune Eaters: 0 | Basement Bobs: 2\nStream: https://www.kick.com/eplcs_en
+DTEND:20260329T121922Z
+DTSTART:20260329T103551Z
+SUMMARY:RE vs BB
+UID:cs-go-european-pro-league-series-6-2026-1400830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Legacy: 1 | MOUZ: 2\nStream: https://www.twitch.tv/ESLCSb
@@ -1827,13 +1771,6 @@ DTEND:20260410T173617Z
 DTSTART:20260410T170212Z
 SUMMARY:SASHI.A vs Entropy
 UID:cs-go-parken-challenger-championship-4-2026-1437302@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: Rune Eaters: 0 | Basement Bobs: 2\nStream: https://www.kick.com/eplcs_en
-DTEND:20260329T121922Z
-DTSTART:20260329T103551Z
-SUMMARY:RE vs BB
-UID:cs-go-european-pro-league-series-6-2026-1400830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1899,18 +1836,18 @@ SUMMARY:Round 3: NP vs WAVE
 UID:cs-go-exort-series-25-2026-1439597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Hashiras: 2 | RUSTEC: 0\nStream: https://www.twitch.tv/karmaflexxx
-DTEND:20260422T144733Z
-DTSTART:20260422T131240Z
-SUMMARY:Upper bracket round 1 match 4: Hashiras vs RUST
-UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456404@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260501T090000Z
 SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457359@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Hashiras: 2 | RUSTEC: 0\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260422T144733Z
+DTSTART:20260422T131240Z
+SUMMARY:Upper bracket round 1 match 4: Hashiras vs RUST
+UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456404@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -2053,13 +1990,6 @@ SUMMARY:MANA vs FCF
 UID:cs-go-nodwin-clutch-series-7-2026-1431902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 1 | Elite Klan: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260407T170915Z
-DTSTART:20260407T143133Z
-SUMMARY:Round 7: BOJONG vs EK
-UID:cs-go-elisa-open-suomi-12-2026-1372453@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | Aurora Gaming: 0\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260414T231423Z
 DTSTART:20260414T213429Z
@@ -2093,13 +2023,6 @@ DTEND:20260418T163003Z
 DTSTART:20260418T160130Z
 SUMMARY:ImmuNe vs TNC
 UID:cs-go-parken-challenger-championship-5-2026-1448811@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 1 | BoyBand: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260224T204959Z
-DTSTART:20260224T180034Z
-SUMMARY:Round 1: Nordic Valor vs BoyBand
-UID:cs-go-elisa-open-suomi-12-2026-1372430@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2221,18 +2144,18 @@ SUMMARY:Semifinal 2: FURIA vs VIT
 UID:cs-go-iem-rio-2026-1436339@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260424T113000Z
-SUMMARY:Elimination match: TBD vs TBD
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458875@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T090000Z
 SUMMARY:Upper bracket quarterfinal 3: RSTR vs MandL
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457347@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
+DTSTART:20260424T113000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458875@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2340,13 +2263,6 @@ SUMMARY:EP vs ENJOY
 UID:cs-go-esea-advanced-europe-57-2026-1436243@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 1 | Elite Klan: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260317T174853Z
-DTSTART:20260317T153100Z
-SUMMARY:Nordic Valor vs EK
-UID:cs-go-elisa-open-suomi-12-2026-1372441@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | JUMBO TEAM: 0\nStream: No official stream linked
 DTEND:20260413T180020Z
 DTSTART:20260413T171440Z
@@ -2445,6 +2361,13 @@ SUMMARY:Round 4: INF vs DRAMA
 UID:cs-go-exort-series-25-2026-1457361@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260502T090000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457358@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Atreides: 2 | BASEMENT BOYS: 1\nStream: https://www.twitch.tv/GoYareGo
 DTEND:20260422T162223Z
 DTSTART:20260422T130910Z
@@ -2457,13 +2380,6 @@ DURATION:PT2H
 DTSTART:20260424T080000Z
 SUMMARY:Lower bracket round 1 match 2: ILWL vs TBD
 UID:cs-go-cct-global-finals-3-2026-1449755@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260502T090000Z
-SUMMARY:Lower bracket final: TBD vs TBD
-UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | 9daplug: 0\nStream: No official stream linked
@@ -2583,13 +2499,6 @@ DTEND:20260406T155324Z
 DTSTART:20260406T143801Z
 SUMMARY:PG vs EC BANGA
 UID:cs-go-nodwin-clutch-series-7-2026-1431901@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ROUNDS: 2 | BoyBand: 1\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260406T200544Z
-DTSTART:20260406T173715Z
-SUMMARY:Round 7: RGG vs BoyBand
-UID:cs-go-elisa-open-suomi-12-2026-1372452@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 2 | Passion UA: 0\nStream: https://www.twitch.tv/ESLCSb
@@ -2900,13 +2809,6 @@ SUMMARY:BG vs IMP.A
 UID:cs-go-esea-advanced-europe-57-2026-1436242@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 |  CSDIILIT: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260316T192218Z
-DTSTART:20260316T180044Z
-SUMMARY:Round 4: KSM vs  CSDIILIT
-UID:cs-go-elisa-open-suomi-12-2026-1372440@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Diamant Esports: 1\nStream: https://www.twitch.tv/dutchboycasts
 DTEND:20260413T173501Z
 DTSTART:20260413T165839Z
@@ -2926,13 +2828,6 @@ DTEND:20260413T202517Z
 DTSTART:20260413T180803Z
 SUMMARY:Upper bracket quarterfinal 2: B8 vs NAVI
 UID:cs-go-iem-rio-2026-1429130@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BOJONG: 2 | ENCE Academy: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260224T172519Z
-DTSTART:20260224T153315Z
-SUMMARY:Round 1: BOJONG vs ENCE.A
-UID:cs-go-elisa-open-suomi-12-2026-1372429@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
@@ -3143,13 +3038,6 @@ DURATION:PT2H
 DTSTART:20260430T150000Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438570@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | Nordic Valor: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260406T171748Z
-DTSTART:20260406T143226Z
-SUMMARY:Round 7: KSM vs Nordic Valor
-UID:cs-go-elisa-open-suomi-12-2026-1372451@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS
@@ -3467,13 +3355,6 @@ SUMMARY:Winners match: INF vs AAB
 UID:cs-go-united21-48-2026-1455261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ROUNDS: 0 |  CSDIILIT: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260223T194731Z
-DTSTART:20260223T181400Z
-SUMMARY:Round 1: RGG vs  CSDIILIT
-UID:cs-go-elisa-open-suomi-12-2026-1372428@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T130000Z
@@ -3572,18 +3453,18 @@ SUMMARY:ZOTIX vs FCF
 UID:cs-go-esea-advanced-europe-57-2026-1444159@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | Dripmen: 1\nStream: https://www.twitch.tv/fyflo
-DTEND:20260422T154209Z
-DTSTART:20260422T130758Z
-SUMMARY:Upper bracket round 1 match 1: CYBERSHOKE Prospects vs DRIP
-UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456401@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T090000Z
 SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457356@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | Dripmen: 1\nStream: https://www.twitch.tv/fyflo
+DTEND:20260422T154209Z
+DTSTART:20260422T130758Z
+SUMMARY:Upper bracket round 1 match 1: CYBERSHOKE Prospects vs DRIP
+UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456401@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -3677,13 +3558,6 @@ SUMMARY:Round 1: STA vs Washed
 UID:cs-go-dust2-dk-32-2026-1448774@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 1 | ROUNDS: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260331T193257Z
-DTSTART:20260331T170029Z
-SUMMARY:Round 6: Nordic Valor vs RGG
-UID:cs-go-elisa-open-suomi-12-2026-1372450@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Liquid: 0 | 3DMAX: 2\nStream: https://www.twitch.tv/ESLCSb
 DTEND:20260414T180739Z
 DTSTART:20260414T160755Z
@@ -3703,13 +3577,6 @@ DTEND:20260410T024408Z
 DTSTART:20260409T235955Z
 SUMMARY:Round 4: TA vs BOSS
 UID:cs-go-dust2-us-eagle-masters-7-2026-1438470@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ROUNDS: 0 | ENCE Academy: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260316T170650Z
-DTSTART:20260316T153123Z
-SUMMARY:Round 4: RGG vs ENCE.A
-UID:cs-go-elisa-open-suomi-12-2026-1372439@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: FURIA: 2 | Passion UA: 0\nStream: https://www.twitch.tv/ESLCS
@@ -3866,18 +3733,18 @@ SUMMARY:Quarterfinal 1: TS vs MOUZ
 UID:cs-go-iem-rio-2026-1436336@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260423T143000Z
-SUMMARY:ENCE vs LILMIX
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458872@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260426T090000Z
 SUMMARY:Upper bracket round 1 match 2: TW vs Skele
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457344@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
+DTSTART:20260423T143000Z
+SUMMARY:ENCE vs LILMIX
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458872@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -3976,13 +3843,6 @@ DTEND:20260413T171222Z
 DTSTART:20260413T161245Z
 SUMMARY:uust _esports vs IMP.A
 UID:cs-go-esea-advanced-europe-57-2026-1444101@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | Elite Klan: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260223T165821Z
-DTSTART:20260223T153144Z
-SUMMARY:Round 1: KSM vs EK
-UID:cs-go-elisa-open-suomi-12-2026-1372427@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -4139,13 +3999,6 @@ SUMMARY:Falcons Force vs B8.A
 UID:cs-go-esea-advanced-europe-57-2026-1457924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE: 2 |  CSDIILIT: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260412T184042Z
-DTSTART:20260412T171819Z
-SUMMARY:Grand final: ENCE vs  CSDIILIT
-UID:cs-go-elisa-open-suomi-12-2026-1436298@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260425T080000Z
@@ -4270,13 +4123,6 @@ DTEND:20260414T181127Z
 DTSTART:20260414T164207Z
 SUMMARY:Upper bracket semifinal 2: TS vs FAL
 UID:cs-go-iem-rio-2026-1436301@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: Nordic Valor: 0 | BOJONG: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260310T194606Z
-DTSTART:20260310T180043Z
-SUMMARY:Round 3: Nordic Valor vs BOJONG
-UID:cs-go-elisa-open-suomi-12-2026-1372438@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: 3DMAX: 0 | Team Falcons: 2\nStream: https://www.twitch.tv/eslcsb
@@ -4426,18 +4272,18 @@ SUMMARY:Round 2: 1WIN vs NTR
 UID:cs-go-nodwin-clutch-series-7-2026-1431932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260426T143000Z
-SUMMARY:Decider matchd: TBD vs TBD
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458871@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260426T090000Z
 SUMMARY:Upper bracket round 1 match 1: LC vs FURY
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457343@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
+DTSTART:20260426T143000Z
+SUMMARY:Decider matchd: TBD vs TBD
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458871@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Huskies eSport: 0 | Esport BERG: 2\nStream: https://www.twitch.tv/dachcs
@@ -4473,13 +4319,6 @@ DTEND:20260411T131432Z
 DTSTART:20260411T110518Z
 SUMMARY:Lower bracket round 1 match 1: LAG vs Eclipse
 UID:cs-go-parken-challenger-championship-4-2026-1437320@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | BoyBand: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260331T160954Z
-DTSTART:20260331T143237Z
-SUMMARY:Round 6: ENCE.A vs BoyBand
-UID:cs-go-elisa-open-suomi-12-2026-1372449@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -4685,13 +4524,6 @@ SUMMARY:Upper bracket semifinal 2: FURIA vs GL
 UID:cs-go-blast-rivals-spring-2026-1438856@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | KUUSAMO.gg: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260412T161613Z
-DTSTART:20260412T143052Z
-SUMMARY:Lower bracket final:  CSDIILIT vs KSM
-UID:cs-go-elisa-open-suomi-12-2026-1436297@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260424T130000Z
@@ -4823,13 +4655,6 @@ DTEND:20260408T190257Z
 DTSTART:20260408T181231Z
 SUMMARY:8S vs TIN
 UID:cs-go-esea-advanced-europe-57-2026-1436239@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ROUNDS: 2 | Elite Klan: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260310T170148Z
-DTSTART:20260310T153233Z
-SUMMARY:Round 3: RGG vs EK
-UID:cs-go-elisa-open-suomi-12-2026-1372437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5280,13 +5105,6 @@ SUMMARY:Upper bracket semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1438855@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE: 2 |  CSDIILIT: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260411T183236Z
-DTSTART:20260411T170211Z
-SUMMARY:Upper Bracket Final: ENCE vs  CSDIILIT
-UID:cs-go-elisa-open-suomi-12-2026-1436296@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260429T180000Z
@@ -5383,13 +5201,6 @@ DURATION:PT2H
 DTSTART:20260429T150000Z
 SUMMARY:Upper bracket semifinal 1: VIT vs FUT
 UID:cs-go-blast-rivals-spring-2026-1438555@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | BoyBand: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260309T200012Z
-DTSTART:20260309T183643Z
-SUMMARY:Round 3:  CSDIILIT vs BoyBand
-UID:cs-go-elisa-open-suomi-12-2026-1372436@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5623,13 +5434,6 @@ SUMMARY:Lower bracket semifinal 2: NAVI vs HOTU
 UID:cs-go-iem-rio-2026-1436310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | BOJONG: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260330T162809Z
-DTSTART:20260330T143102Z
-SUMMARY:Round 6: KSM vs BOJONG
-UID:cs-go-elisa-open-suomi-12-2026-1372447@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: SAW: 1 | LAGUNA: 0\nStream: https://kick.com/challengerchampionship_b
 DTEND:20260410T131732Z
 DTSTART:20260410T123252Z
@@ -5777,18 +5581,18 @@ SUMMARY:BIG.E vs OBSB
 UID:cs-go-esea-advanced-europe-57-2026-1444155@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260426T083000Z
-SUMMARY:Elimination match: TBD vs TBD
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458880@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T090000Z
 SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457352@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
+DTSTART:20260426T083000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Outfit 49: 0 | CHICANERY: 2\nStream: https://www.twitch.tv/kevindoruk
@@ -5805,11 +5609,11 @@ SUMMARY:ENJOY vs RT
 UID:cs-go-esea-advanced-europe-57-2026-1457921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 2 | BOJONG: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260411T161411Z
-DTSTART:20260411T143048Z
-SUMMARY:Lower bracket semifinal: KSM vs BOJONG
-UID:cs-go-elisa-open-suomi-12-2026-1436295@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
+DTSTART:20260426T083000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458869@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5817,13 +5621,6 @@ DURATION:PT2H
 DTSTART:20260428T210000Z
 SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456999@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260426T083000Z
-SUMMARY:Winners match: TBD vs TBD
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458869@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -5901,13 +5698,6 @@ DTEND:20260408T180728Z
 DTSTART:20260408T174337Z
 SUMMARY:SE7ENS vs G2.A
 UID:cs-go-esea-advanced-europe-57-2026-1436237@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | ENCE Academy: 2\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260309T182027Z
-DTSTART:20260309T153722Z
-SUMMARY:Round 3: KSM vs ENCE.A
-UID:cs-go-elisa-open-suomi-12-2026-1372435@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -6120,13 +5910,6 @@ SUMMARY:Lower bracket semifinal: TNC vs RBLS
 UID:cs-go-parken-challenger-championship-5-2026-1448827@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: BoyBand: 2 | Elite Klan: 1\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260324T203217Z
-DTSTART:20260324T180127Z
-SUMMARY:Round 5: BoyBand vs EK
-UID:cs-go-elisa-open-suomi-12-2026-1372446@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | QUAZAR: 1\nStream: https://www.twitch.tv/theeb1ye
 DTEND:20260413T184235Z
 DTSTART:20260413T181908Z
@@ -6337,11 +6120,11 @@ SUMMARY:EP vs GE
 UID:cs-go-esea-advanced-europe-57-2026-1457920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult:  CSDIILIT: 2 | BOJONG: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260410T182721Z
-DTSTART:20260410T170350Z
-SUMMARY:Upper Bracket Semifinals 2:  CSDIILIT vs BOJONG
-UID:cs-go-elisa-open-suomi-12-2026-1436294@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DURATION:PT2H
+DTSTART:20260425T113000Z
+SUMMARY:MEGO vs BMB
+UID:cs-go-xp-game-fest-closed-qualifier-2026-1458868@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -6349,13 +6132,6 @@ DURATION:PT2H
 DTSTART:20260428T210000Z
 SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456998@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
-DTSTART:20260425T113000Z
-SUMMARY:MEGO vs BMB
-UID:cs-go-xp-game-fest-closed-qualifier-2026-1458868@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: ARCRED: 1 | Metizport: 3\nStream: https://kick.com/eplcs_en
@@ -6461,13 +6237,6 @@ DTEND:20260408T165723Z
 DTSTART:20260408T161840Z
 SUMMARY:FF vs RGG
 UID:cs-go-esea-advanced-europe-57-2026-1436236@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 12 2026\nMatch Type: Best Of\nResult: ENCE Academy: 2 | Elite Klan: 0\nStream: https://www.twitch.tv/elisaviihdesport
-DTEND:20260303T203200Z
-DTSTART:20260303T190820Z
-SUMMARY:Round 2: ENCE.A vs EK
-UID:cs-go-elisa-open-suomi-12-2026-1372434@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Coalesce: 0 | Eternal Fire Academy: 2\nStream: No official stream linked
