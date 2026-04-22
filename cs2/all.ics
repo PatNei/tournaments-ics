@@ -3673,7 +3673,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260423T110000Z
-SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 3 match 2: LILMIX vs TBD
 UID:cs-go-cct-europe-challengers-series-1-2026-1449741@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4240,7 +4240,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260423T110000Z
-SUMMARY:Lower bracket round 3 match 1: Atreides vs TBD
+SUMMARY:Lower bracket round 3 match 1: Atreides vs BRUTE
 UID:cs-go-cct-europe-challengers-series-1-2026-1449740@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4820,7 +4820,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260422T140000Z
+DTSTART:20260422T141500Z
 SUMMARY:Round 5: FAV vs OXUJI
 UID:cs-go-nodwin-clutch-series-7-2026-1431954@tournamentics
 END:VEVENT
@@ -5040,13 +5040,6 @@ DTEND:20260420T020042Z
 DTSTART:20260420T003700Z
 SUMMARY:Grand final: IP vs AKIMBO
 UID:cs-go-dust2-us-eagle-masters-7-2026-1448787@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260422T134500Z
-SUMMARY:Lower bracket round 2 match 4: LILMIX vs CC.FE
-UID:cs-go-cct-europe-challengers-series-1-2026-1449739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Brute: 1 | Young Ninjas: 2\nStream: https://kick.com/united21_en
@@ -5478,7 +5471,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260422T133000Z
+DTSTART:20260422T141500Z
 SUMMARY:SASHI.A vs NAVI.J
 UID:cs-go-united21-48-2026-1453433@tournamentics
 END:VEVENT
@@ -6099,8 +6092,8 @@ SUMMARY:Semifinal 2: REGAIN vs AKIMBO
 UID:cs-go-dust2-us-eagle-masters-7-2026-1448785@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Brute: 2 | aimclub: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260422T133900Z
 DTSTART:20260422T110441Z
 SUMMARY:Lower bracket round 2 match 2: BRUTE vs AIMC
 UID:cs-go-cct-europe-challengers-series-1-2026-1449737@tournamentics
