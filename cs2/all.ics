@@ -1976,7 +1976,7 @@ SUMMARY:Golden Five vs LPH
 UID:cs-go-united21-48-2026-1453428@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260422T170000Z
 SUMMARY:Round 1: XI vs Eclipse
@@ -3446,8 +3446,8 @@ SUMMARY:ELITEN vs INF
 UID:cs-go-parken-challenger-championship-5-2026-1448796@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: UNiTY esports: 0 | KOLESIE: 2\nStream: https://www.twitch.tv/playzonecz
+DTEND:20260422T164301Z
 DTSTART:20260422T150237Z
 SUMMARY:Round 4: UNiTY vs KOL
 UID:cs-go-conquest-of-prague-online-stage-2026-1438507@tournamentics
@@ -4818,8 +4818,8 @@ SUMMARY:TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Favbet: 0 | Oxuji Esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260422T164740Z
 DTSTART:20260422T144717Z
 SUMMARY:Round 5: FAV vs OXUJI
 UID:cs-go-nodwin-clutch-series-7-2026-1431954@tournamentics
