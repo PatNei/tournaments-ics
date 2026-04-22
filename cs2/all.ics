@@ -292,7 +292,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260423T220000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: 9z vs TBD
 UID:cs-go-betboom-rush-b-summit-3-2026-1456319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2298,8 +2298,8 @@ SUMMARY:LDP vs 9daplug
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1448771@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: 9z: 2 | ALKA GAMING: 0\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260422T191633Z
 DTSTART:20260422T162000Z
 SUMMARY:Upper bracket quartefinal 1: 9z vs ALKA
 UID:cs-go-betboom-rush-b-summit-3-2026-1456315@tournamentics
@@ -4100,7 +4100,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260423T160000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: ALKA vs TBD
 UID:cs-go-betboom-rush-b-summit-3-2026-1456323@tournamentics
 END:VEVENT
 BEGIN:VEVENT
