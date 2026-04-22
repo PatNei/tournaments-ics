@@ -142,13 +142,6 @@ SUMMARY:TIN vs eLITe
 UID:cs-go-esea-advanced-europe-57-2026-1444108@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Ølgod Efterskole: 1 | Team Eclipse: 0\nStream: https://kick.com/challengerchampionship_b
-DTEND:20260410T115130Z
-DTSTART:20260410T111335Z
-SUMMARY:Ølgod vs Eclipse
-UID:cs-go-parken-challenger-championship-4-2026-1437305@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: Basement Bobs: 2 | Rune Eaters: 1\nStream: https://www.kick.com/eplcs_en
 DTEND:20260406T171629Z
 DTSTART:20260406T142542Z
@@ -387,13 +380,6 @@ SUMMARY:Winners match: STA vs ex-Zero Tenacity
 UID:cs-go-european-pro-league-series-6-2026-1400844@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Ølgod Efterskole: 0\nStream: https://kick.com/challengerchampionship_c
-DTEND:20260411T092851Z
-DTSTART:20260411T080202Z
-SUMMARY:Upper bracket quarterfinal 3: Entropy vs Ølgod
-UID:cs-go-parken-challenger-championship-4-2026-1437316@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Infinite: 2 | AaB Esport: 1\nStream: https://kick.com/united21_en
 DTEND:20260408T133250Z
 DTSTART:20260408T110353Z
@@ -569,8 +555,8 @@ SUMMARY:Lower bracket round 1 match 9: TBD vs zajezdzacze
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456763@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: SE7ENS Esport: 0 | OldBoys: 1\nStream: No official stream linked
+DTEND:20260422T185305Z
 DTSTART:20260422T181031Z
 SUMMARY:SE7ENS vs OBOYS
 UID:cs-go-esea-advanced-europe-57-2026-1457919@tournamentics
@@ -595,13 +581,6 @@ DTEND:20260410T103023Z
 DTSTART:20260410T081022Z
 SUMMARY:Winners match: ASTR vs Lavked
 UID:cs-go-nodwin-clutch-series-7-2026-1431916@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | Entropy: 0\nStream: https://kick.com/challengerchampionship
-DTEND:20260412T184422Z
-DTSTART:20260412T170650Z
-SUMMARY:Grand final: AAB vs Entropy
-UID:cs-go-parken-challenger-championship-4-2026-1437327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -700,13 +679,6 @@ DTEND:20260402T103831Z
 DTSTART:20260402T080544Z
 SUMMARY:Elimination match: LILMIX vs RE
 UID:cs-go-european-pro-league-series-6-2026-1400832@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: LAGUNA: 1 | Gaming By Legends: 0\nStream: https://kick.com/challengerchampionship_d
-DTEND:20260410T113341Z
-DTSTART:20260410T111305Z
-SUMMARY:LAG vs GBL
-UID:cs-go-parken-challenger-championship-4-2026-1437304@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: FarmVille: 1 | Akimbo Esports: 2\nStream: https://www.youtube.com/watch?v=QNAYLi4TadA
@@ -912,13 +884,6 @@ SUMMARY:Lower bracket semifinal 1: RED vs TS
 UID:cs-go-iem-rio-2026-1436307@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: LAGUNA: 0 | AaB Esport: 2\nStream: https://kick.com/challengerchampionship_d
-DTEND:20260411T095644Z
-DTSTART:20260411T081124Z
-SUMMARY:Upper bracket quarterfinal 2: LAG vs AAB
-UID:cs-go-parken-challenger-championship-4-2026-1437315@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Nebula In Chaox: 2 | LPH Gaming: 0\nStream: https://kick.com/exort_en2
 DTEND:20260420T200138Z
 DTSTART:20260420T183459Z
@@ -1080,18 +1045,18 @@ SUMMARY:Round 3: OXUJI vs Lavked
 UID:cs-go-nodwin-clutch-series-7-2026-1431938@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260429T090000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
-UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457349@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260425T173000Z
 SUMMARY:EC BANGA vs eLITe
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458877@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260429T090000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roundsgg
@@ -1120,13 +1085,6 @@ DURATION:PT2H
 DTSTART:20260426T080000Z
 SUMMARY:Decider match: AAB vs XI
 UID:cs-go-european-pro-league-regular-4-2026-1452814@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | WAZABI: 0\nStream: https://kick.com/challengerchampionship
-DTEND:20260412T125016Z
-DTSTART:20260412T111334Z
-SUMMARY:Upper bracket final: AAB vs WAZ
-UID:cs-go-parken-challenger-championship-4-2026-1437326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1227,13 +1185,6 @@ SUMMARY:Winners match: AAB vs BB
 UID:cs-go-european-pro-league-series-6-2026-1400831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: ImmuNe: 0 | AaB Esport: 1\nStream: https://kick.com/challengerchampionship
-DTEND:20260410T173126Z
-DTSTART:20260410T170225Z
-SUMMARY:ImmuNe vs AAB
-UID:cs-go-parken-challenger-championship-4-2026-1437303@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | EMPIRE: 1\nStream: No official stream linked
 DTEND:20260403T011842Z
 DTSTART:20260402T225006Z
@@ -1325,9 +1276,9 @@ SUMMARY:Round 3: EF.A vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1439598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260422T183000Z
+DTSTART:20260422T184613Z
 SUMMARY:Round 4: HAVEN vs EP
 UID:cs-go-exort-series-25-2026-1457363@tournamentics
 END:VEVENT
@@ -1479,13 +1430,6 @@ SUMMARY:Lower bracket quarterfinal 2: LGC vs HOTU
 UID:cs-go-iem-rio-2026-1436306@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | Team Eclipse: 1\nStream: https://kick.com/challengerchampionship
-DTEND:20260411T101810Z
-DTSTART:20260411T080249Z
-SUMMARY:Upper bracket quarterfinal 1: SASHI.A vs Eclipse
-UID:cs-go-parken-challenger-championship-4-2026-1437314@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | HAVENs: 0\nStream: https://kick.com/exort_en2
 DTEND:20260420T165200Z
 DTSTART:20260420T153435Z
@@ -1577,8 +1521,8 @@ SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457003@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Clair Obscur: 0 | Misa Esports: 2\nStream: No official stream linked
+DTEND:20260422T184700Z
 DTSTART:20260422T171031Z
 SUMMARY:Upper bracket round 1 match 16: CO vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456416@tournamentics
@@ -1633,18 +1577,18 @@ SUMMARY:Round 2: CS vs MANA
 UID:cs-go-nodwin-clutch-series-7-2026-1431937@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260427T090000Z
-SUMMARY:Upper bracket quarterfinal 4: GZ vs TBD
-UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457348@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260424T173000Z
 SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458876@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260427T090000Z
+SUMMARY:Upper bracket quarterfinal 4: GZ vs TBD
+UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457348@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: LFO: 1 | hindsight: 0\nStream: https://www.twitch.tv/popilop
@@ -1673,13 +1617,6 @@ DTEND:20260411T094814Z
 DTSTART:20260411T080819Z
 SUMMARY:Decider match: UNiTY vs Hashiras
 UID:cs-go-nodwin-clutch-series-7-2026-1431914@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 2 | WAZABI: 0\nStream: https://kick.com/challengerchampionship
-DTEND:20260412T155407Z
-DTSTART:20260412T140413Z
-SUMMARY:Lower bracket final: Entropy vs WAZ
-UID:cs-go-parken-challenger-championship-4-2026-1437325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1764,13 +1701,6 @@ DTEND:20260413T210935Z
 DTSTART:20260413T182429Z
 SUMMARY:Upper bracket quarterfinal 4: LGC vs MOUZ
 UID:cs-go-iem-rio-2026-1429132@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Sashi Academy: 1 | Entropy: 0\nStream: https://kick.com/challengerchampionship_c
-DTEND:20260410T173617Z
-DTSTART:20260410T170212Z
-SUMMARY:SASHI.A vs Entropy
-UID:cs-go-parken-challenger-championship-4-2026-1437302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1997,13 +1927,6 @@ SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
 UID:cs-go-iem-rio-2026-1436305@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Gaming By Legends: 0 | SAW: 1\nStream: https://kick.com/challengerchampionship_b
-DTEND:20260410T172133Z
-DTSTART:20260410T170204Z
-SUMMARY:GBL vs SAW
-UID:cs-go-parken-challenger-championship-4-2026-1437313@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | XI Esport: 0\nStream: https://kick.com/united21_en
 DTEND:20260331T103634Z
 DTSTART:20260331T081203Z
@@ -2144,18 +2067,18 @@ SUMMARY:Semifinal 2: FURIA vs VIT
 UID:cs-go-iem-rio-2026-1436339@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260427T090000Z
-SUMMARY:Upper bracket quarterfinal 3: RSTR vs MandL
-UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457347@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260424T113000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458875@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260427T090000Z
+SUMMARY:Upper bracket quarterfinal 3: RSTR vs MandL
+UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457347@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2184,13 +2107,6 @@ DTEND:20260410T175951Z
 DTSTART:20260410T140833Z
 SUMMARY:Winners match: MANA vs Hashiras
 UID:cs-go-nodwin-clutch-series-7-2026-1431913@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 2 | Sashi Academy: 1\nStream: https://kick.com/challengerchampionship
-DTEND:20260412T103704Z
-DTSTART:20260412T080411Z
-SUMMARY:Lower bracket semifinal: Entropy vs SASHI.A
-UID:cs-go-parken-challenger-championship-4-2026-1437324@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2275,13 +2191,6 @@ DTEND:20260413T232316Z
 DTSTART:20260413T212358Z
 SUMMARY:Upper bracket quarterfinal 3: AUR vs HOTU
 UID:cs-go-iem-rio-2026-1429131@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 1 | WAZABI: 0\nStream: https://kick.com/challengerchampionship_c
-DTEND:20260410T161846Z
-DTSTART:20260410T153216Z
-SUMMARY:Entropy vs WAZ
-UID:cs-go-parken-challenger-championship-4-2026-1437301@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -2508,13 +2417,6 @@ SUMMARY:Lower bracket quarterfinal 1: B8 vs PSSN.UA
 UID:cs-go-iem-rio-2026-1436304@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Team Eclipse: 0 | LAGUNA: 1\nStream: https://kick.com/challengerchampionship_d
-DTEND:20260410T173706Z
-DTSTART:20260410T170223Z
-SUMMARY:Eclipse vs LAG
-UID:cs-go-parken-challenger-championship-4-2026-1437312@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Akimbo Esports: 2 | CHICANERY: 0\nStream: https://www.twitch.tv/floofys
 DTEND:20260411T020647Z
 DTSTART:20260411T005132Z
@@ -2739,13 +2641,6 @@ SUMMARY:Round 1: HAVEN vs NIC
 UID:cs-go-exort-series-25-2026-1447168@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | SAW: 1\nStream: https://kick.com/challengerchampionship_b
-DTEND:20260411T202257Z
-DTSTART:20260411T180503Z
-SUMMARY:Lower bracket quarterfinal 2: SASHI.A vs SAW
-UID:cs-go-parken-challenger-championship-4-2026-1437323@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260426T210000Z
@@ -2816,13 +2711,6 @@ SUMMARY:ZOTIX vs Diamant Esports
 UID:cs-go-esea-advanced-europe-57-2026-1444103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 1 | Sashi Academy: 0\nStream: https://kick.com/challengerchampionship
-DTEND:20260410T160314Z
-DTSTART:20260410T153206Z
-SUMMARY:AAB vs SASHI.A
-UID:cs-go-parken-challenger-championship-4-2026-1437300@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 1 | Natus Vincere: 2\nStream: https://www.twitch.tv/ESLCS
 DTEND:20260413T202517Z
 DTSTART:20260413T180803Z
@@ -2856,13 +2744,6 @@ DURATION:PT2H
 DTSTART:20260427T140000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431969@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Sashi Academy: 1 | ImmuNe: 0\nStream: https://kick.com/challengerchampionship_c
-DTEND:20260410T144041Z
-DTSTART:20260410T140228Z
-SUMMARY:SASHI.A vs ImmuNe
-UID:cs-go-parken-challenger-championship-4-2026-1437299@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: Procyon Gaming: 1 | UNO MILLE: 2\nStream: https://www.twitch.tv/lorranbs_
@@ -3047,13 +2928,6 @@ SUMMARY:Upper bracket semifinal 1: NAVI vs FURIA
 UID:cs-go-iem-rio-2026-1436303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: LAGUNA: 1 | Ølgod Efterskole: 0\nStream: https://kick.com/challengerchampionship_d
-DTEND:20260410T164408Z
-DTSTART:20260410T154006Z
-SUMMARY:LAG vs Ølgod
-UID:cs-go-parken-challenger-championship-4-2026-1437311@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Zomblers: 0 | FarmVille: 2\nStream: https://www.twitch.tv/endiezcasts
 DTEND:20260410T014622Z
 DTSTART:20260410T002215Z
@@ -3222,13 +3096,6 @@ SUMMARY:Lower bracket final: NAVI vs AUR
 UID:cs-go-iem-rio-2026-1436314@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 2 | LAGUNA: 1\nStream: https://kick.com/challengerchampionship
-DTEND:20260411T202705Z
-DTSTART:20260411T180338Z
-SUMMARY:Lower bracket quarterfinal 1: Entropy vs LAG
-UID:cs-go-parken-challenger-championship-4-2026-1437322@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Series 6 2026\nMatch Type: Best Of\nResult: Hashiras: 2 | HEROIC Academy: 1\nStream: https://kick.com/eplcs_en
 DTEND:20260404T140021Z
 DTSTART:20260404T105514Z
@@ -3390,13 +3257,6 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431968@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: WAZABI: 1 | AaB Esport: 0\nStream: https://kick.com/challengerchampionship
-DTEND:20260410T145654Z
-DTSTART:20260410T140321Z
-SUMMARY:WAZ vs AAB
-UID:cs-go-parken-challenger-championship-4-2026-1437298@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: R2 Esports Club: 0 | ALKA GAMING: 2\nStream: https://kick.com/cct-cs7
 DTEND:20260416T225921Z
 DTSTART:20260416T210708Z
@@ -3533,7 +3393,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T170000Z
-SUMMARY:Upper bracket round 2 match 16: 9INE vs TBD
+SUMMARY:Upper bracket round 2 match 16: 9INE vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3563,13 +3423,6 @@ DTEND:20260414T180739Z
 DTSTART:20260414T160755Z
 SUMMARY:Lower bracket quarterfinal 2: TL vs 3DMAX
 UID:cs-go-iem-rio-2026-1436302@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: SAW: 1 | Team Eclipse: 0\nStream: https://kick.com/challengerchampionship_b
-DTEND:20260410T160622Z
-DTSTART:20260410T153145Z
-SUMMARY:SAW vs Eclipse
-UID:cs-go-parken-challenger-championship-4-2026-1437310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Team Aether: 1 | BOSS: 2\nStream: https://kick.com/dust2us
@@ -3733,18 +3586,18 @@ SUMMARY:Quarterfinal 1: TS vs MOUZ
 UID:cs-go-iem-rio-2026-1436336@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260426T090000Z
-SUMMARY:Upper bracket round 1 match 2: TW vs Skele
-UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457344@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260423T143000Z
 SUMMARY:ENCE vs LILMIX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458872@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260426T090000Z
+SUMMARY:Upper bracket round 1 match 2: TW vs Skele
+UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457344@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -3780,13 +3633,6 @@ DTEND:20260415T231652Z
 DTSTART:20260415T212532Z
 SUMMARY:Upper bracket final: FURIA vs MOUZ
 UID:cs-go-iem-rio-2026-1436313@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Ølgod Efterskole: 1 | SAW: 2\nStream: https://kick.com/challengerchampionship_b
-DTEND:20260411T134948Z
-DTSTART:20260411T112356Z
-SUMMARY:Lower bracket round 1 match 2: Ølgod vs SAW
-UID:cs-go-parken-challenger-championship-4-2026-1437321@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -3913,13 +3759,6 @@ DURATION:PT2H
 DTSTART:20260503T210000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457010@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | Entropy: 1\nStream: https://kick.com/challengerchampionship
-DTEND:20260410T132621Z
-DTSTART:20260410T123359Z
-SUMMARY:AAB vs Entropy
-UID:cs-go-parken-challenger-championship-4-2026-1437297@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -4272,18 +4111,18 @@ SUMMARY:Round 2: 1WIN vs NTR
 UID:cs-go-nodwin-clutch-series-7-2026-1431932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260426T090000Z
-SUMMARY:Upper bracket round 1 match 1: LC vs FURY
-UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457343@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T143000Z
 SUMMARY:Decider matchd: TBD vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458871@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260426T090000Z
+SUMMARY:Upper bracket round 1 match 1: LC vs FURY
+UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457343@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Huskies eSport: 0 | Esport BERG: 2\nStream: https://www.twitch.tv/dachcs
@@ -4314,25 +4153,11 @@ SUMMARY:Lower bracket final: TS vs G2
 UID:cs-go-iem-rio-2026-1436312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: LAGUNA: 2 | Team Eclipse: 1\nStream: https://kick.com/challengerchampionship
-DTEND:20260411T131432Z
-DTSTART:20260411T110518Z
-SUMMARY:Lower bracket round 1 match 1: LAG vs Eclipse
-UID:cs-go-parken-challenger-championship-4-2026-1437320@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T130000Z
 SUMMARY:Upper bracket round 2 match 3: PHA vs Atreides
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456641@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Team Eclipse: 1 | Gaming By Legends: 0\nStream: https://kick.com/challengerchampionship_d
-DTEND:20260410T143236Z
-DTSTART:20260410T140333Z
-SUMMARY:Eclipse vs GBL
-UID:cs-go-parken-challenger-championship-4-2026-1437309@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Ctrl Alt Defeat: 2 | Wave Esports: 0\nStream: https://kick.com/exort_en2
@@ -4417,13 +4242,6 @@ DURATION:PT2H
 DTSTART:20260425T170000Z
 SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431966@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: ImmuNe: 0 | WAZABI: 1\nStream: https://kick.com/challengerchampionship_c
-DTEND:20260410T134311Z
-DTSTART:20260410T123311Z
-SUMMARY:ImmuNe vs WAZ
-UID:cs-go-parken-challenger-championship-4-2026-1437296@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -4895,13 +4713,6 @@ SUMMARY:Upper bracket round 2 match 2: TLR vs ex-Zero Tenacity
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Ølgod Efterskole: 0 | SAW: 1\nStream: https://kick.com/challengerchampionship_b
-DTEND:20260410T144705Z
-DTSTART:20260410T140329Z
-SUMMARY:Ølgod vs SAW
-UID:cs-go-parken-challenger-championship-4-2026-1437308@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Partizan Esport: 2 | aimclub: 0\nStream: https://kick.com/exort_en2
 DTEND:20260419T112035Z
 DTSTART:20260419T095157Z
@@ -4991,13 +4802,6 @@ DURATION:PT2H
 DTSTART:20260425T140000Z
 SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431965@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: WAZABI: 0 | Sashi Academy: 1\nStream: https://kick.com/challengerchampionship
-DTEND:20260410T115221Z
-DTSTART:20260410T110905Z
-SUMMARY:WAZ vs SASHI.A
-UID:cs-go-parken-challenger-championship-4-2026-1437295@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Challengers #1 2026\nMatch Type: Best Of\nResult: MIBR Academy: 2 | UNO MILLE: 0\nStream: https://kick.com/cct_cs6
@@ -5138,13 +4942,6 @@ DTEND:20260414T160141Z
 DTSTART:20260414T150257Z
 SUMMARY:Round 2: ECS vs JS
 UID:cs-go-conquest-of-prague-online-stage-2026-1438491@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 1 | WAZABI: 2\nStream: https://kick.com/challengerchampionship_c
-DTEND:20260411T165001Z
-DTSTART:20260411T140143Z
-SUMMARY:Upper bracket semifinal 2: Entropy vs WAZ
-UID:cs-go-parken-challenger-championship-4-2026-1437319@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
@@ -5434,13 +5231,6 @@ SUMMARY:Lower bracket semifinal 2: NAVI vs HOTU
 UID:cs-go-iem-rio-2026-1436310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: SAW: 1 | LAGUNA: 0\nStream: https://kick.com/challengerchampionship_b
-DTEND:20260410T131732Z
-DTSTART:20260410T123252Z
-SUMMARY:SAW vs LAG
-UID:cs-go-parken-challenger-championship-4-2026-1437307@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | Young Ninjas: 2\nStream: https://kick.com/united21_en
 DTEND:20260401T103521Z
 DTSTART:20260401T080705Z
@@ -5525,13 +5315,6 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Entropy: 1 | ImmuNe: 0\nStream: https://kick.com/challengerchampionship_c
-DTEND:20260410T115720Z
-DTSTART:20260410T111503Z
-SUMMARY:Entropy vs ImmuNe
-UID:cs-go-parken-challenger-championship-4-2026-1437294@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #4 2026\nMatch Type: Best Of\nResult: WROTBERRY: 0 | bankaPEPSI: 2\nStream: https://kick.com/cct_cs6
 DTEND:20260408T195443Z
 DTSTART:20260408T181900Z
@@ -5581,18 +5364,18 @@ SUMMARY:BIG.E vs OBSB
 UID:cs-go-esea-advanced-europe-57-2026-1444155@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260428T090000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
-UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457352@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T083000Z
 SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458880@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260428T090000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Outfit 49: 0 | CHICANERY: 2\nStream: https://www.twitch.tv/kevindoruk
@@ -5649,13 +5432,6 @@ DTEND:20260413T190026Z
 DTSTART:20260413T180556Z
 SUMMARY:Round 1: SIN vs JS
 UID:cs-go-conquest-of-prague-online-stage-2026-1438490@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | Sashi Academy: 1\nStream: https://kick.com/challengerchampionship
-DTEND:20260411T163428Z
-DTSTART:20260411T140918Z
-SUMMARY:Upper bracket semifinal 1: AAB vs SASHI.A
-UID:cs-go-parken-challenger-championship-4-2026-1437318@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -5924,13 +5700,6 @@ SUMMARY:STA vs OBSB
 UID:cs-go-european-pro-league-series-6-2026-1400834@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: Gaming By Legends: 0 | Ølgod Efterskole: 1\nStream: https://kick.com/challengerchampionship_d
-DTEND:20260410T125747Z
-DTSTART:20260410T123339Z
-SUMMARY:GBL vs Ølgod
-UID:cs-go-parken-challenger-championship-4-2026-1437306@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | XI Esport: 0\nStream: https://kick.com/united21_en
 DTEND:20260407T122037Z
 DTSTART:20260407T103531Z
@@ -6188,13 +5957,6 @@ DTEND:20260415T174051Z
 DTSTART:20260415T155911Z
 SUMMARY:Lower bracket semifinal 1: B8 vs AUR
 UID:cs-go-iem-rio-2026-1436309@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 4 2026\nMatch Type: Best Of\nResult: SAW: 1 | WAZABI: 2\nStream: https://kick.com/challengerchampionship_b
-DTEND:20260411T110112Z
-DTSTART:20260411T080429Z
-SUMMARY:Upper bracket quarterfinal 4: SAW vs WAZ
-UID:cs-go-parken-challenger-championship-4-2026-1437317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
