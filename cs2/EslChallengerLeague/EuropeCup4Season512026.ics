@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T130000Z
-SUMMARY:Upper bracket round 2 match 2: TLR vs TBD
+SUMMARY:Upper bracket round 2 match 2: TLR vs ex-Zero Tenacity
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -105,13 +105,6 @@ DURATION:PT2H
 DTSTART:20260426T170000Z
 SUMMARY:Lower bracket round 3 match 4: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456870@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260422T130000Z
-SUMMARY:Upper bracket round 1 match 7: AUR.YB vs MEGO
-UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456407@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -177,7 +170,7 @@ SUMMARY:Lower bracket round 1 match 15: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456789@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
 DURATION:PT2H
 DTSTART:20260422T170000Z
 SUMMARY:Upper bracket round 1 match 15: BL vs Just Players
@@ -278,7 +271,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T170000Z
-SUMMARY:Upper bracket round 2 match 13: ex-RUBY vs TBD
+SUMMARY:Upper bracket round 2 match 13: ex-RUBY vs playersclub
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456723@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -308,13 +301,6 @@ DURATION:PT2H
 DTSTART:20260427T170000Z
 SUMMARY:Lower bracket round 4 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456892@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260422T170000Z
-SUMMARY:Upper bracket round 1 match 9: zajezdzacze vs LILMIX
-UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -401,7 +387,7 @@ SUMMARY:Lower bracket round 3 match 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456869@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/chankyftw
 DURATION:PT2H
 DTSTART:20260422T170000Z
 SUMMARY:Upper bracket round 1 match 14: AIMC vs YNG
@@ -432,7 +418,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T170000Z
-SUMMARY:Upper bracket round 2 match 9: 33 vs TBD
+SUMMARY:Upper bracket round 2 match 9: 33 vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456687@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -534,9 +520,9 @@ SUMMARY:Lower bracket round 3 match 5: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456871@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dach_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dach_cs2
 DURATION:PT2H
-DTSTART:20260422T130000Z
+DTSTART:20260422T130436Z
 SUMMARY:Upper bracket round 1 match 8: JUL vs BIG.A
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456408@tournamentics
 END:VEVENT
@@ -546,13 +532,6 @@ DURATION:PT2H
 DTSTART:20260422T130000Z
 SUMMARY:Upper bracket round 1 match 5: EC BANGA vs Project 91
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456405@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260422T130000Z
-SUMMARY:Upper bracket round 1 match 2: ex-Zero Tenacity vs EJ
-UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456402@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -586,7 +565,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T130000Z
-SUMMARY:Upper bracket round 2 match 7: Leo vs TBD
+SUMMARY:Upper bracket round 2 match 7: Leo vs AUR.YB
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456652@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -630,13 +609,6 @@ DURATION:PT2H
 DTSTART:20260426T170000Z
 SUMMARY:Lower bracket round 3 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456868@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260422T170000Z
-SUMMARY:Upper bracket round 1 match 13: playersclub vs  CSDIILIT
-UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
