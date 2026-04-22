@@ -2874,7 +2874,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260424T103000Z
+DTSTART:20260424T080000Z
 SUMMARY:Elimination match: IMP.A vs BIG.A
 UID:cs-go-united21-48-2026-1455262@tournamentics
 END:VEVENT
@@ -3399,7 +3399,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260424T080000Z
+DTSTART:20260424T103000Z
 SUMMARY:Winners match: INF vs AAB
 UID:cs-go-united21-48-2026-1455261@tournamentics
 END:VEVENT
@@ -3525,7 +3525,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260422T180000Z
+DTSTART:20260428T180000Z
 SUMMARY:OBSB vs MEGO
 UID:cs-go-esea-advanced-europe-57-2026-1457925@tournamentics
 END:VEVENT
@@ -6241,7 +6241,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260422T180000Z
+DTSTART:20260430T180000Z
 SUMMARY:EP vs GE
 UID:cs-go-esea-advanced-europe-57-2026-1457920@tournamentics
 END:VEVENT
