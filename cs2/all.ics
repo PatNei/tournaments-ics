@@ -1020,7 +1020,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260425T173000Z
-SUMMARY:EC BANGA vs eLITe
+SUMMARY:EC BANGA vs INOX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458877@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2671,7 +2671,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260424T080000Z
+DTSTART:20260424T103000Z
 SUMMARY:Elimination match: IMP.A vs BIG.A
 UID:cs-go-united21-48-2026-1455262@tournamentics
 END:VEVENT
@@ -2917,7 +2917,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260423T134500Z
-SUMMARY:Upper bracket semifinal 1: eLITe vs DNT
+SUMMARY:Upper bracket semifinal 1: INOX vs DNT
 UID:cs-go-cct-europe-challengers-series-1-2026-1449742@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3161,7 +3161,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260424T103000Z
+DTSTART:20260424T080000Z
 SUMMARY:Winners match: INF vs AAB
 UID:cs-go-united21-48-2026-1455261@tournamentics
 END:VEVENT
