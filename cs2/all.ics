@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260424T170000Z
-SUMMARY:Lower bracket round 1 match 13: TBD vs CSD
+SUMMARY:Lower bracket round 1 match 13: WAL vs CSD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456775@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3719,13 +3719,6 @@ SUMMARY:Upper bracket final: FURIA vs MOUZ
 UID:cs-go-iem-rio-2026-1436313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/majkibets
-DURATION:PT2H
-DTSTART:20260423T130000Z
-SUMMARY:Upper bracket round 2 match 4: WAL vs Hashiras
-UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456642@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260423T170000Z
@@ -4184,7 +4177,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260425T170000Z
-SUMMARY:Upper bracket round of 16 match 2: TBD vs TBD
+SUMMARY:Upper bracket round of 16 match 2: Hashiras vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456860@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5000,9 +4993,9 @@ SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457353@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260423T120000Z
+DTSTART:20260423T120659Z
 SUMMARY:Upper bracket quarterfinal 1: MNTE vs BCA
 UID:cs-go-cct-global-finals-3-2026-1449750@tournamentics
 END:VEVENT
