@@ -789,7 +789,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260424T170000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs HERO
+SUMMARY:Upper bracket semifinal 2: BIG vs HERO
 UID:cs-go-cct-global-finals-3-2026-1449758@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -971,7 +971,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260425T110000Z
-SUMMARY:Upper bracket final: RUST vs INOX
+SUMMARY:Upper bracket final: INOX vs RUST
 UID:cs-go-cct-europe-challengers-series-1-2026-1449746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1545,7 +1545,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260424T134500Z
-SUMMARY:Lower bracket quarterfinal 2: YN vs playersclub
+SUMMARY:Lower bracket quarterfinal 2: playersclub vs YN
 UID:cs-go-cct-europe-challengers-series-1-2026-1449745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2042,7 +2042,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260424T110000Z
-SUMMARY:Lower bracket quarterfinal 1: BRUTE vs DNT
+SUMMARY:Lower bracket quarterfinal 1: DNT vs BRUTE
 UID:cs-go-cct-europe-challengers-series-1-2026-1449744@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2357,7 +2357,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260424T080000Z
-SUMMARY:Lower bracket round 1 match 2: ILWL vs TBD
+SUMMARY:Lower bracket round 1 match 2: ILWL vs 100T
 UID:cs-go-cct-global-finals-3-2026-1449755@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2893,8 +2893,8 @@ SUMMARY:Lower bracket semifinal : TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457357@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nResult: BIG: 2 | 100 Thieves: 1\nStream: https://kick.com/cct_cs
+DTEND:20260423T181620Z
 DTSTART:20260423T152451Z
 SUMMARY:Upper bracket quarterfinal 4: BIG vs 100T
 UID:cs-go-cct-global-finals-3-2026-1449754@tournamentics
@@ -4554,7 +4554,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260423T180000Z
+DTSTART:20260423T181500Z
 SUMMARY:ZOTIX vs DGK
 UID:cs-go-esea-advanced-europe-57-2026-1459402@tournamentics
 END:VEVENT
@@ -5126,8 +5126,8 @@ SUMMARY:BERG vs FROX
 UID:cs-go-dach-cs-masters-5-2026-1385746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/jumboteamesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: tincan: 1 | JUMBO TEAM: 0\nStream: https://www.twitch.tv/jumboteamesports
+DTEND:20260423T181344Z
 DTSTART:20260423T172057Z
 SUMMARY:TIN vs JUMBO
 UID:cs-go-esea-advanced-europe-57-2026-1459401@tournamentics
