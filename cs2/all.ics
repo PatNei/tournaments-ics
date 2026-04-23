@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260425T080000Z
-SUMMARY:Winners match: ALGO vs NAVI.J
+SUMMARY:Winners match: FF vs NAVI.J
 UID:cs-go-united21-48-2026-1458886@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2028,7 +2028,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260424T110000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: BRUTE vs TBD
 UID:cs-go-cct-europe-challengers-series-1-2026-1449744@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4132,8 +4132,8 @@ SUMMARY:Lower bracket round 3 match 7: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Atreides: 1 | Brute: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260423T133656Z
 DTSTART:20260423T110614Z
 SUMMARY:Lower bracket round 3 match 1: Atreides vs BRUTE
 UID:cs-go-cct-europe-challengers-series-1-2026-1449740@tournamentics
@@ -4274,7 +4274,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/byalli
 DURATION:PT2H
-DTSTART:20260423T132000Z
+DTSTART:20260423T134500Z
 SUMMARY:Upper bracket round 2 match 3: PHA vs Atreides
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456641@tournamentics
 END:VEVENT
@@ -4524,9 +4524,9 @@ SUMMARY:Round of 16 match 7: ex-RUBY vs STA
 UID:cs-go-european-pro-league-series-6-2026-1400940@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
 DURATION:PT2H
-DTSTART:20260423T132000Z
+DTSTART:20260423T133842Z
 SUMMARY:Upper bracket round 2 match 7: Leo vs AUR.YB
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456652@tournamentics
 END:VEVENT
@@ -4856,7 +4856,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260425T103000Z
-SUMMARY:Elimination match: FF vs SASHI.A
+SUMMARY:Elimination match: ALGO vs SASHI.A
 UID:cs-go-united21-48-2026-1458889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
