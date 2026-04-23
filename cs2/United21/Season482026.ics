@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260427T080000Z
-SUMMARY:Decider Match: LPH vs TBD
+SUMMARY:Decider Match: LPH vs SNG
 UID:cs-go-united21-48-2026-1458883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -114,8 +114,8 @@ SUMMARY:Winners match: PSN.A vs LPH
 UID:cs-go-united21-48-2026-1455259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 2 | Golden Five: 1\nStream: https://kick.com/united21_en
+DTEND:20260423T135455Z
 DTSTART:20260423T114807Z
 SUMMARY:Elimination match: SNG vs Golden Five
 UID:cs-go-united21-48-2026-1455260@tournamentics

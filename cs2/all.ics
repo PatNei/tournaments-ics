@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260424T170000Z
-SUMMARY:Lower bracket round 1 match 10: TBD vs FCF
+SUMMARY:Lower bracket round 1 match 10: AUR.YB vs FCF
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456764@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1307,7 +1307,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260424T140000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: MNTE vs TBD
 UID:cs-go-cct-global-finals-3-2026-1449757@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1734,7 +1734,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260427T080000Z
-SUMMARY:Decider Match: LPH vs TBD
+SUMMARY:Decider Match: LPH vs SNG
 UID:cs-go-united21-48-2026-1458883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1825,7 +1825,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260424T110000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: BCA vs TBD
 UID:cs-go-cct-global-finals-3-2026-1449756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2538,7 +2538,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260423T134500Z
+DTSTART:20260423T140000Z
 SUMMARY:Upper bracket semifinal 2: RUST vs playersclub
 UID:cs-go-cct-europe-challengers-series-1-2026-1449743@tournamentics
 END:VEVENT
@@ -3035,7 +3035,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260423T134500Z
+DTSTART:20260423T140000Z
 SUMMARY:Upper bracket semifinal 1: INOX vs DNT
 UID:cs-go-cct-europe-challengers-series-1-2026-1449742@tournamentics
 END:VEVENT
@@ -3085,7 +3085,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260425T170000Z
-SUMMARY:Upper bracket round of 16 match 4: TBD vs TBD
+SUMMARY:Upper bracket round of 16 match 4: Leo vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456862@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3796,8 +3796,8 @@ SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456958@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 2 | Golden Five: 1\nStream: https://kick.com/united21_en
+DTEND:20260423T135455Z
 DTSTART:20260423T114807Z
 SUMMARY:Elimination match: SNG vs Golden Five
 UID:cs-go-united21-48-2026-1455260@tournamentics
@@ -4524,13 +4524,6 @@ SUMMARY:Round of 16 match 7: ex-RUBY vs STA
 UID:cs-go-european-pro-league-series-6-2026-1400940@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
-DURATION:PT2H
-DTSTART:20260423T133842Z
-SUMMARY:Upper bracket round 2 match 7: Leo vs AUR.YB
-UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456652@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: fnatic: 0 | EYEBALLERS: 1\nStream: https://www.twitch.tv/playzoneup
 DTEND:20260414T172430Z
 DTSTART:20260414T163647Z
@@ -5028,8 +5021,8 @@ SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457353@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nResult: Monte: 2 | Betclic Apogee Esports: 0\nStream: https://kick.com/cct_cs
+DTEND:20260423T135500Z
 DTSTART:20260423T120659Z
 SUMMARY:Upper bracket quarterfinal 1: MNTE vs BCA
 UID:cs-go-cct-global-finals-3-2026-1449750@tournamentics
