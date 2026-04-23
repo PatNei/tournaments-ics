@@ -3127,7 +3127,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260424T190000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: MW vs TBD
 UID:cs-go-betboom-rush-b-summit-3-2026-1456325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3145,9 +3145,9 @@ SUMMARY:Quarterfinal 2: VIT vs NAVI
 UID:cs-go-iem-rio-2026-1436337@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
-DTSTART:20260423T174500Z
+DTSTART:20260423T175105Z
 SUMMARY:JJH vs TS
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458873@tournamentics
 END:VEVENT
@@ -4265,8 +4265,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1459520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 0 | METANOIA WOLVES: 2\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260423T175032Z
 DTSTART:20260423T160534Z
 SUMMARY:Lower bracket round 1 match 1: ALKA vs MW
 UID:cs-go-betboom-rush-b-summit-3-2026-1456323@tournamentics
@@ -4512,7 +4512,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260423T180000Z
+DTSTART:20260423T183000Z
 SUMMARY:Upper bracket quarterfinal 2: NIP vs SHK
 UID:cs-go-cct-global-finals-3-2026-1449751@tournamentics
 END:VEVENT
