@@ -11,6 +11,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260425T000000Z
+SUMMARY:Elimination match: Alzon vs paiN.A
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1460906@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260424T170000Z
 SUMMARY:Elimination match: VEXA vs PLS
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1459669@tournamentics
@@ -32,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260427T220000Z
+DTSTART:20260429T220000Z
 SUMMARY:Elimination match: RED.A vs Red Feet
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1460383@tournamentics
 END:VEVENT
@@ -65,10 +72,24 @@ SUMMARY:MW vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1451287@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260428T200000Z
+SUMMARY:Winners match: FURIA.F vs MW
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1460907@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: Alzon: 0 | FURIA fe: 1\nStream: No official stream linked
 DTEND:20260416T192704Z
 DTSTART:20260416T183658Z
 SUMMARY:Alzon vs FURIA.F
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1448772@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260425T000000Z
+SUMMARY:Winners match: BST.A vs QUIN
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1460904@tournamentics
 END:VEVENT
 END:VCALENDAR
