@@ -838,7 +838,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T173000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: MANA vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458866@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1311,7 +1311,7 @@ SUMMARY:Upper bracket semifinal 1: MNTE vs NIP
 UID:cs-go-cct-global-finals-3-2026-1449757@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cosiq
 DURATION:PT2H
 DTSTART:20260424T190000Z
 SUMMARY:Round 1: FXW7 vs paiN.A
@@ -1892,8 +1892,8 @@ SUMMARY:Round 1: 1WIN vs BBP
 UID:cs-go-nodwin-clutch-series-7-2026-1431925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: Atreides: 2 | MANA eSports: 0\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260424T134237Z
 DTSTART:20260424T120821Z
 SUMMARY:Winners match: Atreides vs MANA
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458864@tournamentics

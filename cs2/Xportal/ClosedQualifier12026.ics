@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T173000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: MANA vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458866@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:AAB vs AIMC
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458867@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: Atreides: 2 | MANA eSports: 0\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260424T134237Z
 DTSTART:20260424T120821Z
 SUMMARY:Winners match: Atreides vs MANA
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458864@tournamentics
