@@ -4909,7 +4909,7 @@ SUMMARY:Upper bracket round 2 match 2: ex-Zero Tenacity vs TLR
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
 DURATION:PT2H
 DTSTART:20260424T183000Z
 SUMMARY:Round 1 match 4: PAR vs PHTM.Ac
@@ -5476,8 +5476,8 @@ SUMMARY:Lower bracket semifinal 2: NAVI vs HOTU
 UID:cs-go-iem-rio-2026-1436310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: CSGOPOSITIVE: 0 | LPH Gaming: 2\nStream: https://kick.com/exort_en
+DTEND:20260424T172323Z
 DTSTART:20260424T155945Z
 SUMMARY:Round 1 match 3: CSGOPOSITIVE vs LPH
 UID:cs-go-exort-series-25-2026-1460890@tournamentics
@@ -5539,9 +5539,9 @@ SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456955@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260424T171500Z
+DTSTART:20260424T172041Z
 SUMMARY:Elimination match: VEXA vs PLS
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1459669@tournamentics
 END:VEVENT
