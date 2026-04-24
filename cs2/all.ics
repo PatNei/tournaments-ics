@@ -838,7 +838,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T173000Z
-SUMMARY:Decider Match: MANA vs TBD
+SUMMARY:Decider Match: MANA vs TLR
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458866@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1360,8 +1360,8 @@ SUMMARY:Round 1: ACE vs URSA
 UID:cs-go-nodwin-clutch-series-7-2026-1431926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/tavarescs2
+DTEND:20260424T163344Z
 DTSTART:20260424T145134Z
 SUMMARY:Elimination match: FCF vs TLR
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458865@tournamentics
@@ -1927,8 +1927,8 @@ SUMMARY:Quarterfinal 2: FOKUS vs KOL
 UID:cs-go-lorgar-rankings-2026-1450338@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: RUSTEC: 2 | ex-RUBY: 1\nStream: https://www.twitch.tv/karmaflexxx
+DTEND:20260424T163101Z
 DTSTART:20260424T130302Z
 SUMMARY:Lower bracket round 1 match 4: RUST vs ex-RUBY
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456738@tournamentics
@@ -5738,7 +5738,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260425T130000Z
-SUMMARY:Lower bracket round 2 match 2: AIMC vs TBD
+SUMMARY:Lower bracket round 2 match 2: AIMC vs RUST
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456812@tournamentics
 END:VEVENT
 BEGIN:VEVENT
