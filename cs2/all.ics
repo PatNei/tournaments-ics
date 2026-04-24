@@ -446,7 +446,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260425T134500Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: BRUTE vs TBD
 UID:cs-go-cct-europe-challengers-series-1-2026-1449747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2053,8 +2053,8 @@ SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456887@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Donstu Esports: 0 | Brute: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260424T124304Z
 DTSTART:20260424T111413Z
 SUMMARY:Lower bracket quarterfinal 1: DNT vs BRUTE
 UID:cs-go-cct-europe-challengers-series-1-2026-1449744@tournamentics
