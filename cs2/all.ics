@@ -3134,7 +3134,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260424T190000Z
-SUMMARY:Lower bracket quarterfinal 1: MW vs TBD
+SUMMARY:Lower bracket quarterfinal 1: MW vs Keyd
 UID:cs-go-betboom-rush-b-summit-3-2026-1456325@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5346,7 +5346,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260425T010000Z
-SUMMARY:Upper bracket final: 9z vs TBD
+SUMMARY:Upper bracket final: 9z vs LGC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456321@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5882,8 +5882,8 @@ SUMMARY:TAZ vs R4G
 UID:cs-go-dach-cs-masters-5-2026-1385756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: Keyd: 0 | Legacy: 2\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260424T022805Z
 DTSTART:20260424T010512Z
 SUMMARY:Upper bracket semifinal 2: Keyd vs LGC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456320@tournamentics
