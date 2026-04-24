@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260425T103000Z
-SUMMARY:Decider match: RT vs TBD
+SUMMARY:Decider match: RT vs KSM
 UID:cs-go-european-pro-league-regular-4-2026-1452823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -121,8 +121,8 @@ SUMMARY:RE vs BB
 UID:cs-go-european-pro-league-series-6-2026-1400830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | ALGO Esports: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260424T121655Z
 DTSTART:20260424T104545Z
 SUMMARY:Winners match: KSM vs ALGO
 UID:cs-go-european-pro-league-regular-4-2026-1452822@tournamentics

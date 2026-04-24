@@ -2392,7 +2392,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260425T103000Z
-SUMMARY:Decider match: RT vs TBD
+SUMMARY:Decider match: RT vs KSM
 UID:cs-go-european-pro-league-regular-4-2026-1452823@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2914,8 +2914,8 @@ SUMMARY:COW vs JUMBO
 UID:cs-go-esea-advanced-europe-57-2026-1457926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | ALGO Esports: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260424T121655Z
 DTSTART:20260424T104545Z
 SUMMARY:Winners match: KSM vs ALGO
 UID:cs-go-european-pro-league-regular-4-2026-1452822@tournamentics
@@ -2975,13 +2975,6 @@ DTEND:20260415T191420Z
 DTSTART:20260415T181124Z
 SUMMARY:BIG.E vs BRAWLSTARS
 UID:cs-go-esea-advanced-europe-57-2026-1447122@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/GoYareGo
-DURATION:PT2H
-DTSTART:20260424T130000Z
-SUMMARY:Lower bracket round 1 match 2: Just Players vs EJ
-UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456736@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
@@ -6326,7 +6319,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260425T130000Z
-SUMMARY:Lower bracket round 2 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 1: Just Players vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456811@tournamentics
 END:VEVENT
 BEGIN:VEVENT
