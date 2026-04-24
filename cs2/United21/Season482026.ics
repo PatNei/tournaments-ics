@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Imperial Academy: 1 | BIG Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260424T110025Z
 DTSTART:20260424T080930Z
 SUMMARY:Elimination match: IMP.A vs BIG.A
 UID:cs-go-united21-48-2026-1455262@tournamentics
@@ -60,7 +60,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260424T110000Z
+DTSTART:20260424T111500Z
 SUMMARY:Winners match: INF vs AAB
 UID:cs-go-united21-48-2026-1455261@tournamentics
 END:VEVENT
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260427T103000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: BIG.A vs TBD
 UID:cs-go-united21-48-2026-1458885@tournamentics
 END:VEVENT
 BEGIN:VEVENT
