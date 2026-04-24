@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260424T190000Z
+DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Imperial: 1 | QUINTESSÊNCIA: 0\nStream: https://www.twitch.tv/nahzinhaa
+DTEND:20260424T193325Z
+DTSTART:20260424T190318Z
 SUMMARY:Round 1: IMP vs QUIN
 UID:cs-go-odyssey-cup-brazil-2026-1459512@tournamentics
 END:VEVENT
@@ -79,16 +79,16 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1459521@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nahzinhaa
 DURATION:PT2H
 DTSTART:20260424T200000Z
 SUMMARY:Round 1: FDB vs Keyd
 UID:cs-go-odyssey-cup-brazil-2026-1459517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cosiq
-DURATION:PT2H
-DTSTART:20260424T190000Z
+DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 1 | paiN Academy: 0\nStream: https://www.twitch.tv/cosiq
+DTEND:20260424T194710Z
+DTSTART:20260424T190539Z
 SUMMARY:Round 1: FXW7 vs paiN.A
 UID:cs-go-odyssey-cup-brazil-2026-1459514@tournamentics
 END:VEVENT
@@ -170,7 +170,7 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1459523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/nandin027
 DURATION:PT2H
 DTSTART:20260424T200000Z
 SUMMARY:Round 1: YAW vs GH
@@ -184,7 +184,7 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1459520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cosiq
 DURATION:PT2H
 DTSTART:20260424T200000Z
 SUMMARY:Round 1: LDP vs CRASH
@@ -198,7 +198,7 @@ SUMMARY:Round 1: TdP vs MW
 UID:cs-go-odyssey-cup-brazil-2026-1459513@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/camyyfps
 DURATION:PT2H
 DTSTART:20260424T200000Z
 SUMMARY:Round 1: BHE vs UNO
@@ -275,9 +275,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1459522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260424T190000Z
+DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Galorys: 1 | MIBR Academy: 0\nStream: https://www.twitch.tv/nandin027
+DTEND:20260424T195346Z
+DTSTART:20260424T190728Z
 SUMMARY:Round 1: GLS vs MIBR.A
 UID:cs-go-odyssey-cup-brazil-2026-1459515@tournamentics
 END:VEVENT
