@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260425T080000Z
-SUMMARY:Lower bracket quarterfinal 1: SHK vs TBD
+SUMMARY:Lower bracket quarterfinal 1: SHK vs BIG
 UID:cs-go-cct-global-finals-3-2026-1449759@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -569,8 +569,8 @@ SUMMARY:Upper bracket round 1 match 5: SHIN vs PCY
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456985@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rallencs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Oldboys: 2 | rottweilers: 1\nStream: https://www.twitch.tv/rallencs2
+DTEND:20260424T154352Z
 DTSTART:20260424T131335Z
 SUMMARY:Lower bracket round 1 match 6: OLDBOYS- vs ROTTW
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456740@tournamentics
@@ -779,8 +779,8 @@ SUMMARY:Lower bracket round 1 match 12: G2.A vs Project 91
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456774@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nResult: BIG: 0 | Heroic: 2\nStream: https://kick.com/cct_cs
+DTEND:20260424T154505Z
 DTSTART:20260424T140010Z
 SUMMARY:Upper bracket semifinal 2: BIG vs HERO
 UID:cs-go-cct-global-finals-3-2026-1449758@tournamentics
@@ -1125,7 +1125,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260425T130000Z
-SUMMARY:Lower bracket round 2 match 3: DNT vs TBD
+SUMMARY:Lower bracket round 2 match 3: DNT vs OLDBOYS-
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456820@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5353,7 +5353,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260425T140000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: HERO vs TBD
 UID:cs-go-cct-global-finals-3-2026-1449761@tournamentics
 END:VEVENT
 BEGIN:VEVENT
