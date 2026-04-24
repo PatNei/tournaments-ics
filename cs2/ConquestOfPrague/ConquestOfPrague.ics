@@ -39,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260427T180000Z
+DTSTART:20260427T173000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438515@tournamentics
 END:VEVENT
@@ -51,11 +51,11 @@ SUMMARY:Round 1: FNC vs SASHI
 UID:cs-go-conquest-of-prague-online-stage-2026-1438486@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
-DURATION:PT2H
-DTSTART:20260424T173000Z
-SUMMARY:Round 4: ECS vs MOUZ.N
-UID:cs-go-conquest-of-prague-online-stage-2026-1438512@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: ECSTATIC: 0 | TNC: 1\nStream: https://www.twitch.tv/playzonecz
+DTEND:20260412T155325Z
+DTSTART:20260412T151030Z
+SUMMARY:Round 1: ECS vs TNC
+UID:cs-go-conquest-of-prague-online-stage-2026-1438483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: Sinners: 1 | Young Ninjas: 2\nStream: https://www.twitch.tv/playzonecz
@@ -63,13 +63,6 @@ DTEND:20260422T200400Z
 DTSTART:20260422T173052Z
 SUMMARY:Round 4: SIN vs YN
 UID:cs-go-conquest-of-prague-online-stage-2026-1438508@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: ECSTATIC: 0 | TNC: 1\nStream: https://www.twitch.tv/playzonecz
-DTEND:20260412T155325Z
-DTSTART:20260412T151030Z
-SUMMARY:Round 1: ECS vs TNC
-UID:cs-go-conquest-of-prague-online-stage-2026-1438483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: Tricked: 2 | Johnny Speeds: 1\nStream: https://www.twitch.tv/playzonecz
@@ -123,7 +116,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260427T153000Z
+DTSTART:20260427T150000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438514@tournamentics
 END:VEVENT
@@ -207,7 +200,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
 DURATION:PT2H
-DTSTART:20260427T130000Z
+DTSTART:20260424T180000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438513@tournamentics
 END:VEVENT
