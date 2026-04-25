@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: WC vs TBD
 UID:cs-go-fragadelphia-20-2026-1462418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -44,8 +44,8 @@ SUMMARY:CCE vs InC
 UID:cs-go-fragadelphia-20-2026-1462402@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | FRZ Unit: 0\nStream: No official stream linked
+DTEND:20260425T191538Z
 DTSTART:20260425T181211Z
 SUMMARY:WC vs FRZ
 UID:cs-go-fragadelphia-20-2026-1462417@tournamentics
@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: FRZ vs TBD
 UID:cs-go-fragadelphia-20-2026-1462419@tournamentics
 END:VEVENT
 BEGIN:VEVENT

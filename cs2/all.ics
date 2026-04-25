@@ -1514,9 +1514,9 @@ SUMMARY:MISA vs AUR.YB
 UID:cs-go-esea-advanced-europe-57-2026-1445623@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260425T183000Z
+DTSTART:20260425T191504Z
 SUMMARY:Quarterfinal 4: 33 vs PAR
 UID:cs-go-exort-series-25-2026-1462388@tournamentics
 END:VEVENT
@@ -1594,7 +1594,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: FRZ vs TBD
 UID:cs-go-fragadelphia-20-2026-1462419@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2140,7 +2140,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: WC vs TBD
 UID:cs-go-fragadelphia-20-2026-1462418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2431,9 +2431,9 @@ SUMMARY:Lower bracket final: VSC vs UNO
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447265@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260425T190000Z
+DTSTART:20260425T191502Z
 SUMMARY:Round 3: BHE vs GH
 UID:cs-go-odyssey-cup-brazil-2026-1459535@tournamentics
 END:VEVENT
@@ -2683,8 +2683,8 @@ SUMMARY:InC vs GK
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460366@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | FRZ Unit: 0\nStream: No official stream linked
+DTEND:20260425T191538Z
 DTSTART:20260425T181211Z
 SUMMARY:WC vs FRZ
 UID:cs-go-fragadelphia-20-2026-1462417@tournamentics
@@ -3019,9 +3019,9 @@ SUMMARY:Lower bracket semifinal: PCY vs UNO
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260425T190000Z
+DTSTART:20260425T191459Z
 SUMMARY:Round 3: FDB vs UNO
 UID:cs-go-odyssey-cup-brazil-2026-1459534@tournamentics
 END:VEVENT
@@ -3600,9 +3600,9 @@ SUMMARY:Lower bracket round 3 match 2: R2 vs ALKA
 UID:cs-go-champion-of-champions-tour-challengers-1-2026-1447263@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kabrafps
+DESCRIPTION:🔴 LIVE NOW\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kabrafps
 DURATION:PT2H
-DTSTART:20260425T190000Z
+DTSTART:20260425T190713Z
 SUMMARY:Round 3: TdP vs Keyd
 UID:cs-go-odyssey-cup-brazil-2026-1459533@tournamentics
 END:VEVENT
