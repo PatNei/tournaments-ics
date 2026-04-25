@@ -3897,7 +3897,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260426T110000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: NEMI vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431956@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5371,15 +5371,15 @@ SUMMARY:Upper bracket final: BRUTE vs YN
 UID:cs-go-united21-47-2026-1438947@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag4
 DURATION:PT2H
 DTSTART:20260425T180000Z
 SUMMARY:M80 vs Secret
 UID:cs-go-fragadelphia-20-2026-1462401@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | ex-RUBY: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260425T180336Z
 DTSTART:20260425T153613Z
 SUMMARY:Round of 16 match 7: NEMI vs ex-RUBY
 UID:cs-go-nodwin-clutch-series-7-2026-1431965@tournamentics
