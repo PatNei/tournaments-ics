@@ -4,7 +4,7 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
-DTSTART:20260426T083000Z
+DTSTART:20260425T173000Z
 SUMMARY:Winners match: TBD vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458879@tournamentics
 END:VEVENT
@@ -1054,7 +1054,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
-DTSTART:20260425T173000Z
+DTSTART:20260425T143000Z
 SUMMARY:EC BANGA vs INOX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458877@tournamentics
 END:VEVENT
@@ -2480,6 +2480,13 @@ SUMMARY:PG vs EC BANGA
 UID:cs-go-nodwin-clutch-series-7-2026-1431901@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260425T093000Z
+SUMMARY:Quarterfinal 2: Lavked vs TS.A
+UID:cs-go-exort-series-25-2026-1462386@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: B8: 2 | Passion UA: 0\nStream: https://www.twitch.tv/ESLCSb
 DTEND:20260414T195322Z
 DTSTART:20260414T182256Z
@@ -2996,6 +3003,13 @@ DURATION:PT2H
 DTSTART:20260430T150000Z
 SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438570@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260425T153000Z
+SUMMARY:Quarterfinal 1: AAB vs NIC
+UID:cs-go-exort-series-25-2026-1462385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: IEM - Rio 2026\nMatch Type: Best Of\nResult: Natus Vincere: 1 | FURIA: 2\nStream: https://www.twitch.tv/ESLCS

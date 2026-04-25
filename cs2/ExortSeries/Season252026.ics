@@ -128,6 +128,13 @@ SUMMARY:Round 1 match 4: PAR vs PHTM.Ac
 UID:cs-go-exort-series-25-2026-1460891@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260425T093000Z
+SUMMARY:Quarterfinal 2: Lavked vs TS.A
+UID:cs-go-exort-series-25-2026-1462386@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Partizan Esport: 2 | aimclub: 0\nStream: https://kick.com/exort_en2
 DTEND:20260419T112035Z
 DTSTART:20260419T095157Z
@@ -135,18 +142,18 @@ SUMMARY:Round 3: PAR vs AIMC
 UID:cs-go-exort-series-25-2026-1452824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Wingman: 2\nStream: https://kick.com/exort_en2
-DTEND:20260414T204725Z
-DTSTART:20260414T192905Z
-SUMMARY:Round 5: 3DMAX.A vs WING
-UID:cs-go-exort-series-25-2026-1445606@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: HAVENs: 0 | eternal premium: 2\nStream: https://kick.com/exort_en2
 DTEND:20260422T201151Z
 DTSTART:20260422T184613Z
 SUMMARY:Round 4: HAVEN vs EP
 UID:cs-go-exort-series-25-2026-1457363@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 0 | Wingman: 2\nStream: https://kick.com/exort_en2
+DTEND:20260414T204725Z
+DTSTART:20260414T192905Z
+SUMMARY:Round 5: 3DMAX.A vs WING
+UID:cs-go-exort-series-25-2026-1445606@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 1 | CSGOPOSITIVE: 2\nStream: https://kick.com/exort_en2
@@ -233,11 +240,11 @@ SUMMARY:Round 3: DRAMA vs WING
 UID:cs-go-exort-series-25-2026-1452829@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | HAVENs: 0\nStream: https://kick.com/exort_en2
-DTEND:20260420T165200Z
-DTSTART:20260420T153435Z
-SUMMARY:Round 3: PHTM.Ac vs HAVEN
-UID:cs-go-exort-series-25-2026-1452830@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260425T153000Z
+SUMMARY:Quarterfinal 1: AAB vs NIC
+UID:cs-go-exort-series-25-2026-1462385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | eternal premium: 1\nStream: https://kick.com/exort_en2
@@ -245,6 +252,13 @@ DTEND:20260424T184625Z
 DTSTART:20260424T162601Z
 SUMMARY:Round 1 match 2: TS.A vs EP
 UID:cs-go-exort-series-25-2026-1460889@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult:  Phantom Academy: 2 | HAVENs: 0\nStream: https://kick.com/exort_en2
+DTEND:20260420T165200Z
+DTSTART:20260420T153435Z
+SUMMARY:Round 3: PHTM.Ac vs HAVEN
+UID:cs-go-exort-series-25-2026-1452830@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: CSGOPOSITIVE: 0 | LPH Gaming: 2\nStream: https://kick.com/exort_en
