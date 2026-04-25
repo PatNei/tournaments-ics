@@ -26,12 +26,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260426T140000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: SIN vs TBD
 UID:cs-go-lorgar-rankings-2026-1450341@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nResult: Sinners: 2 | Inner Circle Academy: 0\nStream: https://www.twitch.tv/starladder_cs_en
+DTEND:20260425T131055Z
 DTSTART:20260425T113020Z
 SUMMARY:Quarterfinal 1: SIN vs IC.A
 UID:cs-go-lorgar-rankings-2026-1450337@tournamentics

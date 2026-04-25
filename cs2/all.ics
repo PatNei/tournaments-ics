@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260426T140000Z
-SUMMARY:Semifinal 1: TBD vs TBD
+SUMMARY:Semifinal 1: SIN vs TBD
 UID:cs-go-lorgar-rankings-2026-1450341@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/anishared
 DURATION:PT2H
-DTSTART:20260425T130000Z
+DTSTART:20260425T131000Z
 SUMMARY:Lower bracket round 2 match 5: EF vs FCF
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456822@tournamentics
 END:VEVENT
@@ -1129,9 +1129,9 @@ SUMMARY:Round of 16 match 2: MOUZ.N vs zajezdzacze
 UID:cs-go-european-pro-league-series-6-2026-1400935@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rallencs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/rallencs2
 DURATION:PT2H
-DTSTART:20260425T130000Z
+DTSTART:20260425T131621Z
 SUMMARY:Lower bracket round 2 match 3: DNT vs OLDBOYS-
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456820@tournamentics
 END:VEVENT
@@ -2522,8 +2522,8 @@ SUMMARY:Round 4: EP vs KSM
 UID:cs-go-exort-series-25-2026-1442151@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nResult: Sinners: 2 | Inner Circle Academy: 0\nStream: https://www.twitch.tv/starladder_cs_en
+DTEND:20260425T131055Z
 DTSTART:20260425T113020Z
 SUMMARY:Quarterfinal 1: SIN vs IC.A
 UID:cs-go-lorgar-rankings-2026-1450337@tournamentics
