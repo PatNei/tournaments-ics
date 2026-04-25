@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260426T110000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: 9INE vs TBD
 UID:cs-go-lorgar-rankings-2026-1450342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -32,7 +32,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
-DTSTART:20260425T120000Z
+DTSTART:20260425T113000Z
 SUMMARY:Quarterfinal 1: SIN vs IC.A
 UID:cs-go-lorgar-rankings-2026-1450337@tournamentics
 END:VEVENT
@@ -44,8 +44,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-lorgar-rankings-2026-1450343@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nResult: 9INE: 2 | HyperSpirit: 0\nStream: https://www.twitch.tv/starladder_cs_en
+DTEND:20260425T103441Z
 DTSTART:20260425T090121Z
 SUMMARY:Quarterfinal 3: 9INE vs HS
 UID:cs-go-lorgar-rankings-2026-1450339@tournamentics
