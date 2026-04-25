@@ -3820,7 +3820,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T233000Z
-SUMMARY:Decider match: PSSN.UA vs TBD
+SUMMARY:Decider match: PSSN.UA vs NT
 UID:cs-go-fragadelphia-20-2026-1462415@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4440,8 +4440,8 @@ SUMMARY:Elimination match: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: NuTorious: 2 | AGA: 1\nStream: https://kick.com/frag4
+DTEND:20260425T214121Z
 DTSTART:20260425T201400Z
 SUMMARY:Elimination match: NT vs AGA
 UID:cs-go-fragadelphia-20-2026-1462414@tournamentics
