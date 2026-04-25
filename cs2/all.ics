@@ -4443,7 +4443,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: NT vs AGA
 UID:cs-go-fragadelphia-20-2026-1462414@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5038,7 +5038,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
 DTSTART:20260425T210000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: FC vs PSSN.UA
 UID:cs-go-fragadelphia-20-2026-1462413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5630,8 +5630,8 @@ SUMMARY:Elimination match: AAB vs SNG
 UID:cs-go-european-pro-league-regular-4-2026-1451288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | NuTorious: 0\nStream: No official stream linked
+DTEND:20260425T192611Z
 DTSTART:20260425T182831Z
 SUMMARY:FC vs NT
 UID:cs-go-fragadelphia-20-2026-1462412@tournamentics
@@ -6190,8 +6190,8 @@ SUMMARY:Grand final: INOX vs TBD
 UID:cs-go-cct-europe-challengers-series-1-2026-1449749@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | AGA: 0\nStream: https://kick.com/frag
+DTEND:20260425T192833Z
 DTSTART:20260425T181158Z
 SUMMARY:PSSN.UA vs AGA
 UID:cs-go-fragadelphia-20-2026-1462411@tournamentics
