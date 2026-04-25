@@ -135,8 +135,8 @@ SUMMARY:Elimination match: XI vs RT
 UID:cs-go-united21-47-2026-1423180@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | NAVI Junior: 0\nStream: https://kick.com/united21_en
+DTEND:20260425T094830Z
 DTSTART:20260425T080655Z
 SUMMARY:Winners match: FF vs NAVI.J
 UID:cs-go-united21-48-2026-1458886@tournamentics
@@ -373,11 +373,11 @@ SUMMARY:R4G vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385720@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Nebula In Chaox: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/exort_en2
-DTEND:20260424T204039Z
-DTSTART:20260424T190610Z
-SUMMARY:Round 1 match 1: NIC vs EF.A
-UID:cs-go-exort-series-25-2026-1460888@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260501T110000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462488@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -385,6 +385,13 @@ DURATION:PT2H
 DTSTART:20260428T190000Z
 SUMMARY:Round 1: VSC vs Damajuana
 UID:cs-go-champion-of-champions-tour-series-1-2026-1460949@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Nebula In Chaox: 2 | Eternal Fire Academy: 0\nStream: https://kick.com/exort_en2
+DTEND:20260424T204039Z
+DTSTART:20260424T190610Z
+SUMMARY:Round 1 match 1: NIC vs EF.A
+UID:cs-go-exort-series-25-2026-1460888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nResult: MGLBROS: 1 | DXA Esports: 2\nStream: https://www.twitch.tv/dfragtv_cs2
@@ -903,6 +910,13 @@ DTEND:20260406T120659Z
 DTSTART:20260406T104111Z
 SUMMARY:Elimination match: PRE vs AAB
 UID:cs-go-united21-47-2026-1423190@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260428T170000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462487@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -1493,11 +1507,11 @@ SUMMARY:Round 4: EMP vs CW
 UID:cs-go-dust2-us-eagle-masters-7-2026-1438474@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: ReThink: 1 | Inner Circle Academy: 2\nStream: https://kick.com/united21_en
-DTEND:20260331T141731Z
-DTSTART:20260331T105742Z
-SUMMARY:RT vs IC.A
-UID:cs-go-united21-47-2026-1423178@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260428T110000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462486@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -1519,6 +1533,13 @@ DTEND:20260418T165823Z
 DTSTART:20260418T160124Z
 SUMMARY:RBLS vs SASHI.A
 UID:cs-go-parken-challenger-championship-5-2026-1448812@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: ReThink: 1 | Inner Circle Academy: 2\nStream: https://kick.com/united21_en
+DTEND:20260331T141731Z
+DTSTART:20260331T105742Z
+SUMMARY:RT vs IC.A
+UID:cs-go-united21-47-2026-1423178@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
@@ -2023,6 +2044,13 @@ DTEND:20260414T231423Z
 DTSTART:20260414T213429Z
 SUMMARY:Upper bracket semifinal 2: MOUZ vs AUR
 UID:cs-go-iem-rio-2026-1436305@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260427T170000Z
+SUMMARY:BBP vs INOX
+UID:cs-go-cct-europe-series-1-play-in-2026-1462485@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | XI Esport: 0\nStream: https://kick.com/united21_en
@@ -2557,6 +2585,13 @@ SUMMARY:AAB vs LILMIX
 UID:cs-go-european-pro-league-series-6-2026-1400829@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260427T140000Z
+SUMMARY:NNP vs HERO.A
+UID:cs-go-cct-europe-series-1-play-in-2026-1462484@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | LPH Gaming: 2\nStream: https://kick.com/united21_en
 DTEND:20260407T093301Z
 DTSTART:20260407T080840Z
@@ -3089,6 +3124,13 @@ SUMMARY:Decider Match: TBD vs TBD
 UID:cs-go-united21-48-2026-1458892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260501T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462483@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Z7 Esports: 0 | LPH Gaming: 2\nStream: https://kick.com/united21_en
 DTEND:20260403T122917Z
 DTSTART:20260403T104444Z
@@ -3120,7 +3162,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T010000Z
-SUMMARY:Upper bracket round 1 match 8: Reign Above vs MARS
+SUMMARY:Upper bracket round 1 match 8: Reign Above vs ex-MARS
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3631,7 +3673,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260428T080000Z
-SUMMARY:Decider Match: TBD vs TBD
+SUMMARY:Decider Match: NAVI.J vs TBD
 UID:cs-go-united21-48-2026-1458891@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3640,6 +3682,13 @@ DTEND:20260413T222349Z
 DTSTART:20260413T204028Z
 SUMMARY:Upper bracket quarterfinal 1: FURIA vs PSSN.UA
 UID:cs-go-iem-rio-2026-1429129@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260428T140000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | Imperial Academy: 2\nStream: https://kick.com/united21_en
@@ -3873,11 +3922,11 @@ SUMMARY:Upper bracket round 2 match 13: ex-RUBY vs playersclub
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456723@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260429T220000Z
-SUMMARY:Round 1: UNO vs CRASH
-UID:cs-go-champion-of-champions-tour-series-1-2026-1460954@tournamentics
+DTSTART:20260501T140000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462493@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dfrag - Open Series #4 2026\nMatch Type: Best Of\nResult: Rooster: 0 | Ding Cuts: 2\nStream: https://www.twitch.tv/dfragtv
@@ -3894,6 +3943,13 @@ SUMMARY:FROX vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260429T220000Z
+SUMMARY:Round 1: UNO vs CRASH
+UID:cs-go-champion-of-champions-tour-series-1-2026-1460954@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Team Aether: 1 | EMPIRE: 2\nStream: https://www.twitch.tv/endiezcasts
 DTEND:20260413T032405Z
 DTSTART:20260413T011817Z
@@ -3901,18 +3957,18 @@ SUMMARY:Round 5: TA vs EMP
 UID:cs-go-dust2-us-eagle-masters-7-2026-1441140@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
-DTEND:20260405T123711Z
-DTSTART:20260405T105950Z
-SUMMARY:Elimination match: KSM vs INF
-UID:cs-go-united21-47-2026-1423185@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260503T233000Z
 SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460375@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260405T123711Z
+DTSTART:20260405T105950Z
+SUMMARY:Elimination match: KSM vs INF
+UID:cs-go-united21-47-2026-1423185@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: TNC: 0 | Sashi Academy: 1\nStream: https://kick.com/challengerchampionship_b
@@ -4445,6 +4501,13 @@ DTEND:20260419T135727Z
 DTSTART:20260419T124122Z
 SUMMARY:Round 3: CAD vs WAVE
 UID:cs-go-exort-series-25-2026-1452825@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260430T140000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462492@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -5042,11 +5105,11 @@ SUMMARY:Round 1 match 4: PAR vs PHTM.Ac
 UID:cs-go-exort-series-25-2026-1460891@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Partizan Esport: 2 | aimclub: 0\nStream: https://kick.com/exort_en2
-DTEND:20260419T112035Z
-DTSTART:20260419T095157Z
-SUMMARY:Round 3: PAR vs AIMC
-UID:cs-go-exort-series-25-2026-1452824@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260430T080000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462491@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -5063,11 +5126,11 @@ SUMMARY:Elimination match: ALGO vs SASHI.A
 UID:cs-go-united21-48-2026-1458889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 0 | Brute: 2\nStream: https://kick.com/united21_en
-DTEND:20260401T121244Z
-DTSTART:20260401T105103Z
-SUMMARY:INF vs BRUTE
-UID:cs-go-united21-47-2026-1423183@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Partizan Esport: 2 | aimclub: 0\nStream: https://kick.com/exort_en2
+DTEND:20260419T112035Z
+DTSTART:20260419T095157Z
+SUMMARY:Round 3: PAR vs AIMC
+UID:cs-go-exort-series-25-2026-1452824@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Regnum4Games: 0 | Playing Ducks: 2\nStream: https://www.twitch.tv/dachcs
@@ -5075,6 +5138,13 @@ DTEND:20260304T210638Z
 DTSTART:20260304T195001Z
 SUMMARY:R4G vs Ducks
 UID:cs-go-dach-cs-masters-5-2026-1385712@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: INFURITY Gaming: 0 | Brute: 2\nStream: https://kick.com/united21_en
+DTEND:20260401T121244Z
+DTSTART:20260401T105103Z
+SUMMARY:INF vs BRUTE
+UID:cs-go-united21-47-2026-1423183@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
@@ -5623,11 +5693,11 @@ SUMMARY:Round 1 match 3: CSGOPOSITIVE vs LPH
 UID:cs-go-exort-series-25-2026-1460890@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | Young Ninjas: 2\nStream: https://kick.com/united21_en
-DTEND:20260401T103521Z
-DTSTART:20260401T080705Z
-SUMMARY:KSM vs YN
-UID:cs-go-united21-47-2026-1423182@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260429T110000Z
+SUMMARY:ASTR vs CC.FE
+UID:cs-go-cct-europe-series-1-play-in-2026-1462490@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -5642,6 +5712,13 @@ DURATION:PT2H
 DTSTART:20260426T103000Z
 SUMMARY:Elimination match: Z7 vs RT
 UID:cs-go-united21-48-2026-1458888@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 47 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 1 | Young Ninjas: 2\nStream: https://kick.com/united21_en
+DTEND:20260401T103521Z
+DTSTART:20260401T080705Z
+SUMMARY:KSM vs YN
+UID:cs-go-united21-47-2026-1423182@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -6454,6 +6531,13 @@ DTEND:20260325T215829Z
 DTSTART:20260325T191407Z
 SUMMARY:FROX vs HUSK
 UID:cs-go-dach-cs-masters-5-2026-1385721@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260429T080000Z
+SUMMARY:MANA vs HS
+UID:cs-go-cct-europe-series-1-play-in-2026-1462489@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | eternal premium: 1\nStream: https://kick.com/exort_en2
