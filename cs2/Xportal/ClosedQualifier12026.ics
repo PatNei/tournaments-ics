@@ -33,14 +33,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T113000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: AAB vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458869@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T113000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: AIMC vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458870@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +128,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458871@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | aimclub: 0\nStream: https://www.twitch.tv/xportalesports
+DTEND:20260425T103244Z
 DTSTART:20260425T083934Z
 SUMMARY:AAB vs AIMC
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458867@tournamentics
