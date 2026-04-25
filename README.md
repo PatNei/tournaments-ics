@@ -460,22 +460,22 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season2
 </details>
 
 <details>
-<summary>Fragadelphia</summary>
+<summary>FRAG</summary>
 
 ### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/Fragadelphia.ics)
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Frag.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/Fragadelphia.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Frag.ics
 ```
 
 ---
 
 ### Season 20 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/Season202026.ics)
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Season202026.ics)
 
 ```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Fragadelphia/Season202026.ics
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Season202026.ics
 ```
 
 </details>
