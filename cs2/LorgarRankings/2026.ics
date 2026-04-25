@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | ASTRAL: 0\nStream: https://www.twitch.tv/starladder_cs_en
+DTEND:20260425T160231Z
 DTSTART:20260425T141516Z
 SUMMARY:Quarterfinal 4: M8 vs ASTR
 UID:cs-go-lorgar-rankings-2026-1450340@tournamentics
@@ -12,13 +12,13 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
 DTSTART:20260426T110000Z
-SUMMARY:Semifinal 2: 9INE vs TBD
+SUMMARY:Semifinal 2: 9INE vs M8
 UID:cs-go-lorgar-rankings-2026-1450342@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
-DTSTART:20260425T180000Z
+DTSTART:20260425T170000Z
 SUMMARY:Quarterfinal 2: FOKUS vs KOL
 UID:cs-go-lorgar-rankings-2026-1450338@tournamentics
 END:VEVENT
