@@ -702,9 +702,9 @@ SUMMARY:PHTM.Ac vs XI
 UID:cs-go-parken-challenger-championship-5-2026-1448802@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
-DTSTART:20260425T233000Z
+DTSTART:20260425T224500Z
 SUMMARY:Decider match: MARS vs VOCA
 UID:cs-go-fragadelphia-20-2026-1462420@tournamentics
 END:VEVENT
@@ -1717,8 +1717,8 @@ SUMMARY:AAB vs ELITEN
 UID:cs-go-parken-challenger-championship-5-2026-1448788@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: 9z: 2 | Vasco Esports: 0\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260425T223028Z
 DTSTART:20260425T210430Z
 SUMMARY:Lower bracket final: 9z vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456328@tournamentics
@@ -3033,9 +3033,9 @@ SUMMARY:ALGO vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1451292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
+DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260425T233000Z
+DTSTART:20260425T230000Z
 SUMMARY:Decider match: InC vs CCE
 UID:cs-go-fragadelphia-20-2026-1462405@tournamentics
 END:VEVENT
@@ -3859,9 +3859,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag4
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag4
 DURATION:PT2H
-DTSTART:20260425T223000Z
+DTSTART:20260425T223222Z
 SUMMARY:Decider match: PSSN.UA vs NT
 UID:cs-go-fragadelphia-20-2026-1462415@tournamentics
 END:VEVENT
@@ -5185,7 +5185,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260426T190000Z
-SUMMARY:Grand final: LGC vs TBD
+SUMMARY:Grand final: LGC vs 9z
 UID:cs-go-betboom-rush-b-summit-3-2026-1456322@tournamentics
 END:VEVENT
 BEGIN:VEVENT
