@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
 DURATION:PT2H
 DTSTART:20260425T160000Z
-SUMMARY:Lower bracket semifinal: MW vs TBD
+SUMMARY:Lower bracket semifinal: MW vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -58,8 +58,8 @@ SUMMARY:Upper bracket quartefinal 3: LGC vs Alzon
 UID:cs-go-betboom-rush-b-summit-3-2026-1456317@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/btsbrasilfps
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: Vasco Esports: 2 | Crashers: 0\nStream: https://www.twitch.tv/btsbrasilfps
+DTEND:20260425T010140Z
 DTSTART:20260424T230646Z
 SUMMARY:Lower bracket quarterfinal 2: VSC vs CRASH
 UID:cs-go-betboom-rush-b-summit-3-2026-1456326@tournamentics
