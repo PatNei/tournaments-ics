@@ -37,9 +37,9 @@ SUMMARY:Upper bracket round 1 match 6: ISG vs BHE
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456986@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
-DTSTART:20260426T133000Z
+DTSTART:20260426T133015Z
 SUMMARY:Semifinal 1: SIN vs KOL
 UID:cs-go-lorgar-rankings-2026-1450341@tournamentics
 END:VEVENT
@@ -2627,9 +2627,9 @@ SUMMARY:Lower bracket quarterfinal 2: VSC vs CRASH
 UID:cs-go-betboom-rush-b-summit-3-2026-1456326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
+DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
-DTSTART:20260426T133000Z
+DTSTART:20260426T133121Z
 SUMMARY:Round 1: SINQU vs TMVG
 UID:cs-go-elisa-open-suomi-13-2026-1463381@tournamentics
 END:VEVENT
@@ -4013,9 +4013,9 @@ SUMMARY:Falcons Force vs B8.A
 UID:cs-go-esea-advanced-europe-57-2026-1457924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260426T133000Z
+DTSTART:20260426T133445Z
 SUMMARY:Decider match: PRE vs SASHI.A
 UID:cs-go-european-pro-league-regular-4-2026-1452820@tournamentics
 END:VEVENT
@@ -4303,7 +4303,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
 DTSTART:20260426T173000Z
-SUMMARY:Decider match: AIMC vs TBD
+SUMMARY:Decider match: AIMC vs BMB
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458871@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5728,8 +5728,8 @@ SUMMARY:ENJOY vs RT
 UID:cs-go-esea-advanced-europe-57-2026-1457921@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportal_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | BASEMENT BOYS: 0\nStream: https://www.twitch.tv/xportal_b
+DTEND:20260426T133529Z
 DTSTART:20260426T114900Z
 SUMMARY:Winners match: AAB vs BMB
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458869@tournamentics
