@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260426T150000Z
-SUMMARY:Grand final: HERO vs TBD
+SUMMARY:Grand final: HERO vs MNTE
 UID:cs-go-cct-global-finals-3-2026-1449764@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -37,8 +37,8 @@ SUMMARY:Upper bracket quarterfinal 2: NIP vs SHK
 UID:cs-go-cct-global-finals-3-2026-1449751@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Global Finals - Season 3 2026\nMatch Type: Best Of\nResult: Monte: 2 | NIP: 1\nStream: https://kick.com/cct_cs
+DTEND:20260426T143821Z
 DTSTART:20260426T113020Z
 SUMMARY:Lower bracket final: MNTE vs NIP
 UID:cs-go-cct-global-finals-3-2026-1449763@tournamentics
