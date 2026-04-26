@@ -999,7 +999,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260426T170000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: WC vs TBD
 UID:cs-go-fragadelphia-20-2026-1463487@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2172,8 +2172,8 @@ SUMMARY:Upper bracket semifinal 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | Chicken Coop Esports: 0\nStream: No official stream linked
+DTEND:20260426T040551Z
 DTSTART:20260426T030632Z
 SUMMARY:Quarterfinal 4: WC vs CCE
 UID:cs-go-fragadelphia-20-2026-1463485@tournamentics
@@ -3285,9 +3285,9 @@ SUMMARY:Round 1: WING vs WAVE
 UID:cs-go-exort-series-25-2026-1433371@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260426T034500Z
+DTSTART:20260426T035739Z
 SUMMARY:Quarterfinal 2: FC vs LAG
 UID:cs-go-fragadelphia-20-2026-1463483@tournamentics
 END:VEVENT
