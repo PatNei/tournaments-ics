@@ -138,7 +138,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T130000Z
-SUMMARY:Lower bracket round 1 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 4: ARISE vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -184,7 +184,7 @@ SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457020@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/misterhenrybatt
 DURATION:PT2H
 DTSTART:20260426T170000Z
 SUMMARY:Lower bracket round 3 match 4: 33 vs BIG.A
@@ -331,9 +331,9 @@ SUMMARY:Upper bracket quarterfinal 1: NEM vs Hashiras
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456887@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260426T130000Z
+DTSTART:20260426T130905Z
 SUMMARY:Upper bracket round 1 match 7: BMZ vs LB
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457017@tournamentics
 END:VEVENT
@@ -579,7 +579,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T130000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 4: THE vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -786,9 +786,9 @@ SUMMARY:Upper bracket round 1 match 3: BOSS vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260426T130000Z
+DTSTART:20260426T131044Z
 SUMMARY:Upper bracket round 1 match 6: HH vs KG
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457016@tournamentics
 END:VEVENT
@@ -807,9 +807,9 @@ SUMMARY:Lower bracket round 3 match 7: WAL vs playersclub
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456883@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260426T130000Z
+DTSTART:20260426T130932Z
 SUMMARY:Upper bracket round 1 match 3: RA vs JS
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457013@tournamentics
 END:VEVENT
@@ -1038,7 +1038,7 @@ SUMMARY:Lower bracket round 1 match 16: CYBERSHOKE Prospects vs CO
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456790@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
 DURATION:PT2H
 DTSTART:20260426T170000Z
 SUMMARY:Lower bracket round 3 match 5: EF vs LILMIX
@@ -1185,11 +1185,11 @@ SUMMARY:Upper bracket quarterfinal 2: FNC vs Leo
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=OfR8ans9qSE
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260426T130000Z
-SUMMARY:Upper bracket round 1 match 8: ARISE vs THE
-UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457018@tournamentics
+DTSTART:20260427T010000Z
+SUMMARY:Upper bracket round 1 match 5: WC vs WG
+UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -1202,18 +1202,11 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T010000Z
-SUMMARY:Upper bracket round 1 match 5: WC vs WG
-UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456945@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260427T010000Z
 SUMMARY:Upper bracket round 1 match 2: F5 vs CCE
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456942@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=OfR8ans9qSE
 DURATION:PT2H
 DTSTART:20260426T130434Z
 SUMMARY:Upper bracket round 1 match 5: NEXVOID vs BP
@@ -1227,7 +1220,7 @@ SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457006@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
 DTSTART:20260426T170000Z
 SUMMARY:Lower bracket round 3 match 6: G2.A vs Lavked
