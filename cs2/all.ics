@@ -905,9 +905,9 @@ SUMMARY:Lower bracket round 3 match 1: TBD vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456963@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
+DESCRIPTION:🔴 LIVE NOW\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: https://kick.com/frag
 DURATION:PT2H
-DTSTART:20260426T170000Z
+DTSTART:20260426T172734Z
 SUMMARY:Semifinal 2: PSSN.UA vs WC
 UID:cs-go-fragadelphia-20-2026-1463487@tournamentics
 END:VEVENT
@@ -2095,8 +2095,8 @@ SUMMARY:Lower bracket semifinal: MW vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nResult: KAJO: 0 | KUUSAMO.gg: 2\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260426T172411Z
 DTSTART:20260426T160750Z
 SUMMARY:Round 1: KAJO vs KSM
 UID:cs-go-elisa-open-suomi-13-2026-1463382@tournamentics
@@ -2564,9 +2564,9 @@ SUMMARY:Round 2: EF.A vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1449858@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260426T171500Z
+DTSTART:20260426T172356Z
 SUMMARY:Quarterfinal 4: ALL vs NTR
 UID:cs-go-nodwin-clutch-series-7-2026-1431958@tournamentics
 END:VEVENT
@@ -4293,7 +4293,7 @@ SUMMARY:Round 2: 1WIN vs NTR
 UID:cs-go-nodwin-clutch-series-7-2026-1431932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportal_b
 DURATION:PT2H
 DTSTART:20260426T173000Z
 SUMMARY:Decider match: AIMC vs BMB
@@ -4755,9 +4755,9 @@ SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457009@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/karmaflexxx
 DURATION:PT2H
-DTSTART:20260426T170000Z
+DTSTART:20260426T172442Z
 SUMMARY:Lower bracket round 3 match 6: G2.A vs Lavked
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456882@tournamentics
 END:VEVENT
