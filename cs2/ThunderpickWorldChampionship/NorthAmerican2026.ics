@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260429T213000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: OverKnight vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nResult: FarmVille: 2 | OverKnight: 0\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260426T221257Z
 DTSTART:20260426T213508Z
 SUMMARY:FV vs OverKnight
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460360@tournamentics
@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260428T213000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: FV vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460362@tournamentics
 END:VEVENT
 BEGIN:VEVENT
