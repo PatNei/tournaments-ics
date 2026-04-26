@@ -999,7 +999,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260426T170000Z
-SUMMARY:Semifinal 2: WC vs PSSN.UA
+SUMMARY:Semifinal 2: PSSN.UA vs WC
 UID:cs-go-fragadelphia-20-2026-1463487@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2328,7 +2328,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260426T153000Z
+DTSTART:20260426T123000Z
 SUMMARY:Semifinal 2: LPH vs 33
 UID:cs-go-exort-series-25-2026-1463985@tournamentics
 END:VEVENT
@@ -3236,8 +3236,8 @@ SUMMARY:Lower bracket semifinal: TBD vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | Nebula In Chaox: 2\nStream: https://kick.com/exort_en2
-DTEND:20260425T192540Z
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: AaB Esport: 2 | Nebula In Chaox: 1\nStream: https://kick.com/exort_en2
+DTEND:20260425T192500Z
 DTSTART:20260425T154822Z
 SUMMARY:Quarterfinal 1: AAB vs NIC
 UID:cs-go-exort-series-25-2026-1462385@tournamentics
@@ -5952,6 +5952,13 @@ SUMMARY:STA vs LILMIX
 UID:cs-go-cct-europe-series-1-play-in-2026-1462479@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260426T190000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-exort-series-25-2026-1464033@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260502T213000Z
@@ -5966,13 +5973,6 @@ SUMMARY:Round 4: EF.A vs PHTM.Ac
 UID:cs-go-exort-series-25-2026-1456253@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Outfit 49: 2 | Reign Above: 1\nStream: https://kick.com/dust2us
-DTEND:20260403T041208Z
-DTSTART:20260403T014629Z
-SUMMARY:Round 2: O49 vs Reign Above
-UID:cs-go-dust2-us-eagle-masters-7-2026-1427598@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Sashi Academy: 1 | Z7 Esports: 0\nStream: https://kick.com/challengerchampionship_d
 DTEND:20260418T115952Z
 DTSTART:20260418T113111Z
@@ -5985,6 +5985,13 @@ DURATION:PT2H
 DTSTART:20260426T080000Z
 SUMMARY:Semifinal 2: MSC vs WAZ
 UID:cs-go-gamebox-festival-2026-1463987@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Outfit 49: 2 | Reign Above: 1\nStream: https://kick.com/dust2us
+DTEND:20260403T041208Z
+DTSTART:20260403T014629Z
+SUMMARY:Round 2: O49 vs Reign Above
+UID:cs-go-dust2-us-eagle-masters-7-2026-1427598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
@@ -6526,7 +6533,7 @@ SUMMARY:TNC vs Dua Lipa
 UID:cs-go-parken-challenger-championship-5-2026-1448804@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
 DTSTART:20260426T080000Z
 SUMMARY:Semifinal 1: STA vs SASHI.A
