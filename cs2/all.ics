@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
+DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
-DTSTART:20260426T084500Z
+DTSTART:20260426T084626Z
 SUMMARY:Winners match: UNiTY vs INOX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458879@tournamentics
 END:VEVENT
@@ -6120,9 +6120,9 @@ SUMMARY:BIG.E vs OBSB
 UID:cs-go-esea-advanced-europe-57-2026-1444155@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportal_b
 DURATION:PT2H
-DTSTART:20260426T084500Z
+DTSTART:20260426T084559Z
 SUMMARY:Elimination match: FPR vs EC BANGA
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458880@tournamentics
 END:VEVENT
