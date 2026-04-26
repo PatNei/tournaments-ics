@@ -670,7 +670,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T130000Z
-SUMMARY:Upper bracket quarterfinal 4: THE vs TBD
+SUMMARY:Upper bracket quarterfinal 4: THE vs BMZ
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457022@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3614,8 +3614,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1459544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: BMZ: 2 | Last Bullet: 1\nStream: No official stream linked
+DTEND:20260426T154320Z
 DTSTART:20260426T130905Z
 SUMMARY:Upper bracket round 1 match 7: BMZ vs LB
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457017@tournamentics
@@ -5017,7 +5017,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260427T130000Z
-SUMMARY:Lower bracket round 1 match 4: ARISE vs TBD
+SUMMARY:Lower bracket round 1 match 4: ARISE vs LB
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457026@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5429,7 +5429,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: LORGAR RANKINGS - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/starladder_cs_en
 DURATION:PT2H
-DTSTART:20260426T170000Z
+DTSTART:20260426T162000Z
 SUMMARY:Grand final: M8 vs SIN
 UID:cs-go-lorgar-rankings-2026-1450343@tournamentics
 END:VEVENT
