@@ -1153,7 +1153,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260426T210000Z
-SUMMARY:Upper bracket round 1 match 4: YAW vs RED
+SUMMARY:Upper bracket round 1 match 4: YAW vs ex-RED
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456984@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4573,9 +4573,9 @@ SUMMARY:Lower bracket round 1 match 2: HERO.A vs AIMC
 UID:cs-go-cct-europe-challengers-series-1-2026-1449729@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260426T080000Z
+DTSTART:20260426T081012Z
 SUMMARY:Quarterfinal 1: BIG vs SPARTA
 UID:cs-go-nodwin-clutch-series-7-2026-1431955@tournamentics
 END:VEVENT
@@ -5931,9 +5931,9 @@ SUMMARY:Round 1: FURIA.F vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-1-2026-1460951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260426T103000Z
+DTSTART:20260426T081023Z
 SUMMARY:Elimination match: Z7 vs RT
 UID:cs-go-united21-48-2026-1458888@tournamentics
 END:VEVENT
@@ -5980,9 +5980,9 @@ SUMMARY:SASHI.A vs Z7
 UID:cs-go-parken-challenger-championship-5-2026-1448805@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260426T080000Z
+DTSTART:20260426T081108Z
 SUMMARY:Semifinal 2: MSC vs WAZ
 UID:cs-go-gamebox-festival-2026-1463987@tournamentics
 END:VEVENT
@@ -6493,7 +6493,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260426T080000Z
+DTSTART:20260426T103000Z
 SUMMARY:Winners match: KSM vs XI
 UID:cs-go-united21-48-2026-1458887@tournamentics
 END:VEVENT
@@ -6533,9 +6533,9 @@ SUMMARY:TNC vs Dua Lipa
 UID:cs-go-parken-challenger-championship-5-2026-1448804@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
+DESCRIPTION:🔴 LIVE NOW\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
-DTSTART:20260426T080000Z
+DTSTART:20260426T080802Z
 SUMMARY:Semifinal 1: STA vs SASHI.A
 UID:cs-go-gamebox-festival-2026-1463986@tournamentics
 END:VEVENT

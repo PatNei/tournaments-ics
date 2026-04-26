@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260426T080000Z
+DTSTART:20260426T103000Z
 SUMMARY:Winners match: KSM vs XI
 UID:cs-go-united21-48-2026-1458887@tournamentics
 END:VEVENT
@@ -93,9 +93,9 @@ SUMMARY:Decider Match: TBD vs TBD
 UID:cs-go-united21-48-2026-1458892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260426T103000Z
+DTSTART:20260426T081023Z
 SUMMARY:Elimination match: Z7 vs RT
 UID:cs-go-united21-48-2026-1458888@tournamentics
 END:VEVENT
