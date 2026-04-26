@@ -3266,7 +3266,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260427T213000Z
+DTSTART:20260427T003000Z
 SUMMARY:IP vs Incognito
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460365@tournamentics
 END:VEVENT
@@ -3329,7 +3329,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260426T140000Z
+DTSTART:20260426T110000Z
 SUMMARY:Quarterfinal 3: URSA vs WAL
 UID:cs-go-nodwin-clutch-series-7-2026-1431957@tournamentics
 END:VEVENT
@@ -3945,7 +3945,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260426T110000Z
+DTSTART:20260426T140000Z
 SUMMARY:Quarterfinal 2: NEMI vs CS
 UID:cs-go-nodwin-clutch-series-7-2026-1431956@tournamentics
 END:VEVENT
@@ -5506,7 +5506,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xportalesports
 DURATION:PT2H
-DTSTART:20260426T143000Z
+DTSTART:20260426T173000Z
 SUMMARY:Decider Match: TBD vs TBD
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458881@tournamentics
 END:VEVENT
@@ -5660,7 +5660,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260427T003000Z
+DTSTART:20260427T213000Z
 SUMMARY:TA vs SHIM
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460361@tournamentics
 END:VEVENT
