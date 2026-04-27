@@ -51,6 +51,13 @@ SUMMARY:Elimination match: AAB vs SNG
 UID:cs-go-european-pro-league-regular-4-2026-1451288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260428T080000Z
+SUMMARY:Upper bracket quarterfinal 2: NAVI.J vs PRE
+UID:cs-go-european-pro-league-regular-4-2026-1465431@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: KUUSAMO.gg: 0 | ALGO Esports: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260424T121655Z
 DTSTART:20260424T104545Z
@@ -86,6 +93,13 @@ SUMMARY:BOJONG vs MASQ
 UID:cs-go-european-pro-league-regular-4-2026-1451839@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260427T080000Z
+SUMMARY:Upper bracket quarterfinal 4: ALGO vs AAB
+UID:cs-go-european-pro-league-regular-4-2026-1465433@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | XI Esport: 0\nStream: https://kick.com/eplcs_en
 DTEND:20260421T120039Z
 DTSTART:20260421T103744Z
@@ -93,18 +107,18 @@ SUMMARY:Winners match: BIG.A vs XI
 UID:cs-go-european-pro-league-regular-4-2026-1451840@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260428T103000Z
+SUMMARY:Upper bracket quarterfinal 1: BIG.A vs RT
+UID:cs-go-european-pro-league-regular-4-2026-1465430@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: XI Esport: 2 | Sangal ALTERS: 1\nStream: https://kick.com/eplcs_en
 DTEND:20260417T141104Z
 DTSTART:20260417T104150Z
 SUMMARY:XI vs SNG
 UID:cs-go-european-pro-league-regular-4-2026-1450386@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | NAVI Junior: 2\nStream: https://kick.com/eplcs_en
-DTEND:20260418T094730Z
-DTSTART:20260418T081913Z
-SUMMARY:LPH vs NAVI.J
-UID:cs-go-european-pro-league-regular-4-2026-1451289@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | BOJONG: 0\nStream: https://kick.com/eplcs_en
@@ -121,11 +135,25 @@ SUMMARY:Elimination match: FF vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1452821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: LPH Gaming: 0 | NAVI Junior: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260418T094730Z
+DTSTART:20260418T081913Z
+SUMMARY:LPH vs NAVI.J
+UID:cs-go-european-pro-league-regular-4-2026-1451289@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: Prestige: 1 | Imperial Academy: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260419T111329Z
 DTSTART:20260419T080440Z
 SUMMARY:PRE vs IMP.A
 UID:cs-go-european-pro-league-regular-4-2026-1451290@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260427T113000Z
+SUMMARY:Upper bracket quarterfinal 3: IMP.A vs LPH
+UID:cs-go-european-pro-league-regular-4-2026-1465432@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: AaB Esport: 0 | BIG Academy: 2\nStream: https://kick.com/eplcs_en
