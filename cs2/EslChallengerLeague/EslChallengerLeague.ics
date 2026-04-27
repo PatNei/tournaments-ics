@@ -523,7 +523,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T130000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: RA vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457028@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -947,8 +947,8 @@ SUMMARY:Upper bracket quarterfinal 3: WC vs TA
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | Legion: 0\nStream: No official stream linked
+DTEND:20260427T141244Z
 DTSTART:20260427T134620Z
 SUMMARY:Lower bracket round 1 match 2: RA vs LEGION
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457024@tournamentics
