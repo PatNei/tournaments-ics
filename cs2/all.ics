@@ -166,7 +166,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T010000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: Surge vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456953@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -422,8 +422,8 @@ SUMMARY:Lower bracket semifinal: BRUTE vs playersclub
 UID:cs-go-cct-europe-challengers-series-1-2026-1449747@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lorranbs_
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Voca: 2 | Surge: 0\nStream: https://www.twitch.tv/lorranbs_
+DTEND:20260427T023019Z
 DTSTART:20260427T012038Z
 SUMMARY:Upper bracket round 1 match 1: VOCA vs Surge
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456941@tournamentics
@@ -2532,7 +2532,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T010000Z
-SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 1: VOCA vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
