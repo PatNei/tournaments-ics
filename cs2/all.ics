@@ -2161,7 +2161,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T210000Z
-SUMMARY:Upper bracket semifinal 2: GLS vs TBD
+SUMMARY:Upper bracket semifinal 2: GLS vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457002@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3698,8 +3698,8 @@ SUMMARY:Round 3: BOSS vs LAG
 UID:cs-go-dust2-us-eagle-masters-7-2026-1431893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/locomass22
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nResult: ShindeN: 0 | Isurus: 2\nStream: https://www.twitch.tv/locomass22
+DTEND:20260427T230301Z
 DTSTART:20260427T210210Z
 SUMMARY:Upper bracket quarterfinal 3: SHIN vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456991@tournamentics
@@ -6655,7 +6655,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T210000Z
-SUMMARY:Lower bracket round 2 match 2: GH vs TBD
+SUMMARY:Lower bracket round 2 match 2: GH vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
