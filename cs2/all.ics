@@ -3005,6 +3005,13 @@ SUMMARY:COW vs IMP.A
 UID:cs-go-esea-advanced-europe-57-2026-1454790@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260428T180000Z
+SUMMARY:BOJONG vs FF
+UID:cs-go-esea-advanced-europe-57-2026-1466520@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | eLITenergy: 2\nStream: https://kick.com/cct_cs3
 DTEND:20260421T152201Z
 DTSTART:20260421T135745Z
@@ -3852,6 +3859,13 @@ SUMMARY:KOL vs TBD
 UID:cs-go-conquest-of-prague-online-stage-2026-1438518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260428T170000Z
+SUMMARY:XI vs PeePuP
+UID:cs-go-esea-advanced-europe-57-2026-1466519@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | Falcons Force: 1\nStream: https://www.twitch.tv/astramcs
 DTEND:20260420T185558Z
 DTSTART:20260420T181454Z
@@ -4461,11 +4475,11 @@ SUMMARY:YN vs UNiTY
 UID:cs-go-conquest-of-prague-online-stage-2026-1438517@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | megoshort: 0\nStream: No official stream linked
-DTEND:20260424T174503Z
-DTSTART:20260424T165200Z
-SUMMARY:ENJOY vs MEGO
-UID:cs-go-esea-advanced-europe-57-2026-1454788@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260428T163000Z
+SUMMARY:FCF vs BG
+UID:cs-go-esea-advanced-europe-57-2026-1466518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Huskies eSport: 0 | Team AceZone: 2\nStream: https://www.twitch.tv/dachcs
@@ -4480,6 +4494,13 @@ DTEND:20260420T140654Z
 DTSTART:20260420T110434Z
 SUMMARY:Lower bracket round 1 match 2: HERO.A vs AIMC
 UID:cs-go-cct-europe-challengers-series-1-2026-1449729@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | megoshort: 0\nStream: No official stream linked
+DTEND:20260424T174503Z
+DTSTART:20260424T165200Z
+SUMMARY:ENJOY vs MEGO
+UID:cs-go-esea-advanced-europe-57-2026-1454788@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: BIG: 2 | SPARTA: 0\nStream: https://kick.com/nodwin_cs2
