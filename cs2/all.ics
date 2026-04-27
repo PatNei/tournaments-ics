@@ -2875,7 +2875,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260427T140000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: WAL vs TBD
 UID:cs-go-nodwin-clutch-series-7-2026-1431969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3418,8 +3418,8 @@ SUMMARY:Elimination match: Secret vs CCE
 UID:cs-go-fragadelphia-20-2026-1462404@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | Nuclear TigeRES: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260427T095515Z
 DTSTART:20260427T081225Z
 SUMMARY:Semifinal 2: WAL vs NTR
 UID:cs-go-nodwin-clutch-series-7-2026-1431968@tournamentics
@@ -3824,8 +3824,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1460066@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: ALGO Esports: 0 | AaB Esport: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260427T094614Z
 DTSTART:20260427T081129Z
 SUMMARY:Upper bracket quarterfinal 4: ALGO vs AAB
 UID:cs-go-european-pro-league-regular-4-2026-1465433@tournamentics
