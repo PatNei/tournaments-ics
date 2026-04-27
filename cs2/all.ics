@@ -1647,9 +1647,9 @@ SUMMARY:Lower bracket final: 9z vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
+DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
-DTSTART:20260427T143000Z
+DTSTART:20260427T143739Z
 SUMMARY:Round 1: ENCE vs BOJONG
 UID:cs-go-elisa-open-suomi-13-2026-1463383@tournamentics
 END:VEVENT
@@ -2091,7 +2091,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T130000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: TYLOO vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457031@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2616,7 +2616,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T130000Z
-SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 4: AE vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457030@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2634,8 +2634,8 @@ SUMMARY:Upper bracket quarterfinal 1: VOCA vs CCE
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/vanfantv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: TYLOO: 2 | Alter Ego: 0\nStream: https://www.twitch.tv/vanfantv
+DTEND:20260427T143610Z
 DTSTART:20260427T133334Z
 SUMMARY:Upper bracket quarterfinal 1: TYLOO vs AE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457019@tournamentics
@@ -3456,7 +3456,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T130000Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 3: BP vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4692,8 +4692,8 @@ SUMMARY:Lower bracket round 2 match 2: Ding Cuts vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457354@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | Privateer Gaming: 0\nStream: https://kick.com/exort_en2
+DTEND:20260427T144022Z
 DTSTART:20260427T143207Z
 SUMMARY:Round 1: FORZE.R vs PG
 UID:cs-go-exort-series-26-2026-1466120@tournamentics
@@ -5812,8 +5812,8 @@ SUMMARY:Elimination match: VEXA vs PLS
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1459669@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Boring Players: 2 | Haunted House: 0\nStream: No official stream linked
+DTEND:20260427T143340Z
 DTSTART:20260427T130853Z
 SUMMARY:Lower bracket round 1 match 3: BP vs HH
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457025@tournamentics
