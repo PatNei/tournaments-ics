@@ -1167,7 +1167,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T010000Z
-SUMMARY:Upper bracket quarterfinal 3: WC vs TBD
+SUMMARY:Upper bracket quarterfinal 3: WC vs TA
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456951@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4160,8 +4160,8 @@ SUMMARY:Elimination match: NT vs AGA
 UID:cs-go-fragadelphia-20-2026-1462414@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: EMPIRE: 0 | Team Aether: 2\nStream: No official stream linked
+DTEND:20260427T022048Z
 DTSTART:20260427T011417Z
 SUMMARY:Upper bracket round 1 match 6: EMP vs TA
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456946@tournamentics
@@ -5570,7 +5570,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T010000Z
-SUMMARY:Lower bracket round 1 match 3: WG vs TBD
+SUMMARY:Lower bracket round 1 match 3: WG vs EMP
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456955@tournamentics
 END:VEVENT
 BEGIN:VEVENT
