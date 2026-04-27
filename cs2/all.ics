@@ -72,7 +72,7 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
+DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
 DTSTART:20260427T180000Z
 SUMMARY:Round 1: SASHI.A vs EN
@@ -1822,8 +1822,8 @@ SUMMARY:Upper bracket quarterfinal 2: ZOMB vs REGAIN
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456950@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.youtube.com/watch?v=7JpDJvinGsw
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Just Swing: 1 | Chinggis Warriors: 2\nStream: https://www.youtube.com/watch?v=7JpDJvinGsw
+DTEND:20260427T152542Z
 DTSTART:20260427T133329Z
 SUMMARY:Upper bracket quarterfinal 2: JS vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457020@tournamentics
@@ -2091,7 +2091,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T130000Z
-SUMMARY:Upper bracket semifinal 1: TYLOO vs TBD
+SUMMARY:Upper bracket semifinal 1: TYLOO vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457031@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2487,7 +2487,7 @@ SUMMARY:MANA vs TLR
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458863@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/lorranbs_
 DURATION:PT2H
 DTSTART:20260427T210000Z
 SUMMARY:Lower bracket round 1 match 1: RTT100 vs LDP
@@ -2616,7 +2616,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T130000Z
-SUMMARY:Lower bracket round 2 match 4: AE vs TBD
+SUMMARY:Lower bracket round 2 match 4: AE vs LB
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457030@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3456,7 +3456,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T130000Z
-SUMMARY:Lower bracket round 2 match 3: BP vs TBD
+SUMMARY:Lower bracket round 2 match 3: BP vs JS
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457029@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5189,8 +5189,8 @@ SUMMARY:Lower bracket round 1 match 4: ex-MARS vs IP
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456956@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Last Bullet: 2 | Team Arise: 0\nStream: No official stream linked
+DTEND:20260427T152529Z
 DTSTART:20260427T131856Z
 SUMMARY:Lower bracket round 1 match 4: LB vs ARISE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457026@tournamentics
@@ -5532,7 +5532,7 @@ SUMMARY:Lower bracket round 1 match 15: ex-Zero Tenacity vs BL
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456789@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzonecz
+DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
 DURATION:PT2H
 DTSTART:20260427T173000Z
 SUMMARY:Round 5: WAL vs CC
