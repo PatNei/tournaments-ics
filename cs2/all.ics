@@ -625,9 +625,9 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260427T110000Z
+DTSTART:20260427T110535Z
 SUMMARY:Decider Match: BIG.A vs AAB
 UID:cs-go-united21-48-2026-1458885@tournamentics
 END:VEVENT
@@ -3610,7 +3610,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260428T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: LILMIX vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3985,9 +3985,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457010@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260427T110000Z
+DTSTART:20260427T110601Z
 SUMMARY:Semifinal 1: BIG vs NEMI
 UID:cs-go-nodwin-clutch-series-7-2026-1431967@tournamentics
 END:VEVENT
@@ -4219,7 +4219,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260428T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: STA vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462481@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4764,7 +4764,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260427T110000Z
+DTSTART:20260427T111000Z
 SUMMARY:URSA vs BRUTE
 UID:cs-go-cct-europe-series-1-play-in-2026-1462480@tournamentics
 END:VEVENT
@@ -5609,8 +5609,8 @@ SUMMARY:Elimination match: Z7 vs RT
 UID:cs-go-united21-48-2026-1458888@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: STATE: 1 | Lilmix: 2\nStream: https://kick.com/cct_cs
+DTEND:20260427T105910Z
 DTSTART:20260427T080520Z
 SUMMARY:STA vs LILMIX
 UID:cs-go-cct-europe-series-1-play-in-2026-1462479@tournamentics

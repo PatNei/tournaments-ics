@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260428T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: LILMIX vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -131,7 +131,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260428T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: STA vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462481@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -247,8 +247,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: STATE: 1 | Lilmix: 2\nStream: https://kick.com/cct_cs
+DTEND:20260427T105910Z
 DTSTART:20260427T080520Z
 SUMMARY:STA vs LILMIX
 UID:cs-go-cct-europe-series-1-play-in-2026-1462479@tournamentics
@@ -256,7 +256,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260427T110000Z
+DTSTART:20260427T111000Z
 SUMMARY:URSA vs BRUTE
 UID:cs-go-cct-europe-series-1-play-in-2026-1462480@tournamentics
 END:VEVENT
