@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260427T140000Z
-SUMMARY:Grand final: WAL vs TBD
+SUMMARY:Grand final: WAL vs NEMI
 UID:cs-go-nodwin-clutch-series-7-2026-1431969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -394,8 +394,8 @@ SUMMARY:MANA vs PG
 UID:cs-go-nodwin-clutch-series-7-2026-1431918@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: BIG: 0 | Nemiga: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260427T125115Z
 DTSTART:20260427T110601Z
 SUMMARY:Semifinal 1: BIG vs NEMI
 UID:cs-go-nodwin-clutch-series-7-2026-1431967@tournamentics
