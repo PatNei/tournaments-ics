@@ -627,7 +627,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260427T103000Z
+DTSTART:20260427T110000Z
 SUMMARY:Decider Match: BIG.A vs AAB
 UID:cs-go-united21-48-2026-1458885@tournamentics
 END:VEVENT
@@ -1048,7 +1048,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T090000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: Abyssal vs TdU
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2711,8 +2711,8 @@ SUMMARY:Winners match: ENCE vs JJH
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458874@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/flamboyantttt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Ding Cuts: 0 | Abyssal: 2\nStream: https://www.twitch.tv/flamboyantttt
+DTEND:20260427T102852Z
 DTSTART:20260427T090745Z
 SUMMARY:Upper bracket quarterfinal 2: Ding Cuts vs Abyssal
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457346@tournamentics
@@ -3194,8 +3194,8 @@ SUMMARY:JJH vs TS
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458873@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | low cortisol: 0\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260427T103200Z
 DTSTART:20260427T090738Z
 SUMMARY:Upper bracket quarterfinal 1: TdU vs LC
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457345@tournamentics
@@ -5780,7 +5780,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260428T090000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: LC vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457352@tournamentics
 END:VEVENT
 BEGIN:VEVENT
