@@ -72,9 +72,9 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
+DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/d0kt0r3n
 DURATION:PT2H
-DTSTART:20260427T172000Z
+DTSTART:20260427T173140Z
 SUMMARY:Round 1: SASHI.A vs EN
 UID:cs-go-dust2-dk-32-2026-1448780@tournamentics
 END:VEVENT
@@ -1647,8 +1647,8 @@ SUMMARY:Lower bracket final: 9z vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456328@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nResult: ENCE: 2 | BOJONG: 1\nStream: https://www.twitch.tv/elisaviihdesport
+DTEND:20260427T173600Z
 DTSTART:20260427T143739Z
 SUMMARY:Round 1: ENCE vs BOJONG
 UID:cs-go-elisa-open-suomi-13-2026-1463383@tournamentics
@@ -6505,7 +6505,7 @@ SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
+DESCRIPTION:🕒 POSTPONED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260427T180000Z
 SUMMARY:BIG.A vs HUSK
