@@ -278,7 +278,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T090000Z
-SUMMARY:Upper bracket semifinal 2: MandL vs TBD
+SUMMARY:Upper bracket semifinal 2: MandL vs GZ
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457350@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1647,8 +1647,8 @@ SUMMARY:Decider match: ENCE vs LILMIX
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458876@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/onlyjoshintv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Ground Zero: 2 | Skele: 0\nStream: https://www.twitch.tv/onlyjoshintv
+DTEND:20260427T104352Z
 DTSTART:20260427T090758Z
 SUMMARY:Upper bracket quarterfinal 4: GZ vs Skele
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457348@tournamentics
@@ -1752,8 +1752,8 @@ SUMMARY:Round 7: KAJO vs BOYB
 UID:cs-go-elisa-open-suomi-13-2026-1463407@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | Sangal ALTERS: 1\nStream: https://kick.com/united21_en
+DTEND:20260427T104143Z
 DTSTART:20260427T080615Z
 SUMMARY:Decider Match: LPH vs SNG
 UID:cs-go-united21-48-2026-1458883@tournamentics
