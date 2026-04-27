@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260428T153000Z
+SUMMARY:Round 1: Oldboys vs HEC
+UID:cs-go-exort-series-26-2026-1466492@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: aimclub: 0 | CSGOPOSITIVE: 2\nStream: https://kick.com/exort_en2
 DTEND:20260421T132843Z
 DTSTART:20260421T124026Z
@@ -32,7 +39,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
 DURATION:PT2H
-DTSTART:20260427T183000Z
+DTSTART:20260428T183000Z
 SUMMARY:Round 1: Z7 vs HAVEN
 UID:cs-go-exort-series-26-2026-1465461@tournamentics
 END:VEVENT
@@ -168,6 +175,13 @@ DTEND:20260411T174947Z
 DTSTART:20260411T153513Z
 SUMMARY:Round 3: EF.A vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1439598@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260428T093000Z
+SUMMARY:Round 1: YL vs TBD
+UID:cs-go-exort-series-26-2026-1466494@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Wingman: 0 | Nebula In Chaox: 2\nStream: https://kick.com/exort_en2
@@ -336,6 +350,13 @@ DTEND:20260410T182401Z
 DTSTART:20260410T154652Z
 SUMMARY:Round 3: PLT vs Z7
 UID:cs-go-exort-series-25-2026-1439594@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260428T123000Z
+SUMMARY:Round 1: CAD vs VP.F
+UID:cs-go-exort-series-26-2026-1466493@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Spirit Academy: 0 | BET-M 33: 2\nStream: https://kick.com/exort_en2

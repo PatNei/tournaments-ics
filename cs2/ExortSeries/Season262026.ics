@@ -4,16 +4,16 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260427T183000Z
-SUMMARY:Round 1: 3DMAX.A vs NP
-UID:cs-go-exort-series-26-2026-1465460@tournamentics
+DTSTART:20260428T153000Z
+SUMMARY:Round 1: Oldboys vs HEC
+UID:cs-go-exort-series-26-2026-1466492@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260427T183000Z
-SUMMARY:Round 1: Z7 vs HAVEN
-UID:cs-go-exort-series-26-2026-1465461@tournamentics
+DTSTART:20260428T093000Z
+SUMMARY:Round 1: YL vs TBD
+UID:cs-go-exort-series-26-2026-1466494@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: P2N: 0 | INFURITY Gaming: 2\nStream: https://kick.com/exort_en2
@@ -23,10 +23,31 @@ SUMMARY:Round 1: P2N vs INF
 UID:cs-go-exort-series-26-2026-1466119@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
+DURATION:PT2H
+DTSTART:20260428T183000Z
+SUMMARY:Round 1: Z7 vs HAVEN
+UID:cs-go-exort-series-26-2026-1465461@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | Privateer Gaming: 0\nStream: https://kick.com/exort_en2
 DTEND:20260427T144022Z
 DTSTART:20260427T143207Z
 SUMMARY:Round 1: FORZE.R vs PG
 UID:cs-go-exort-series-26-2026-1466120@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260428T123000Z
+SUMMARY:Round 1: CAD vs VP.F
+UID:cs-go-exort-series-26-2026-1466493@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260427T183000Z
+SUMMARY:Round 1: 3DMAX.A vs NP
+UID:cs-go-exort-series-26-2026-1465460@tournamentics
 END:VEVENT
 END:VCALENDAR

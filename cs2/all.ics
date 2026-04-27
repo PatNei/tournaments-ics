@@ -1194,7 +1194,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en
 DURATION:PT2H
-DTSTART:20260427T183000Z
+DTSTART:20260428T183000Z
 SUMMARY:Round 1: Z7 vs HAVEN
 UID:cs-go-exort-series-26-2026-1465461@tournamentics
 END:VEVENT
@@ -1302,6 +1302,13 @@ DTEND:20260424T202347Z
 DTSTART:20260424T170007Z
 SUMMARY:Upper bracket semifinal 1: MNTE vs NIP
 UID:cs-go-cct-global-finals-3-2026-1449757@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260428T093000Z
+SUMMARY:Round 1: YL vs TBD
+UID:cs-go-exort-series-26-2026-1466494@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 1 | paiN Academy: 0\nStream: https://www.twitch.tv/cosiq
@@ -1899,6 +1906,13 @@ SUMMARY:Lower bracket round 1 match 1: BCA vs SHK
 UID:cs-go-cct-global-finals-3-2026-1449756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260428T123000Z
+SUMMARY:Round 1: CAD vs VP.F
+UID:cs-go-exort-series-26-2026-1466493@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Turma do Pagode: 0 | METANOIA WOLVES: 1\nStream: https://www.twitch.tv/r_nicolino
 DTEND:20260424T213514Z
 DTSTART:20260424T201954Z
@@ -2436,6 +2450,13 @@ DTEND:20260422T162223Z
 DTSTART:20260422T130910Z
 SUMMARY:Upper bracket round 1 match 3: Atreides vs BMB
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456403@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260428T153000Z
+SUMMARY:Round 1: Oldboys vs HEC
+UID:cs-go-exort-series-26-2026-1466492@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Imperial: 1 | QUINTESSÊNCIA: 0\nStream: https://www.twitch.tv/nahzinhaa
@@ -3077,7 +3098,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
 DURATION:PT2H
-DTSTART:20260427T180000Z
+DTSTART:20260427T181500Z
 SUMMARY:Round 1: MASQ vs 820
 UID:cs-go-dust2-dk-32-2026-1448775@tournamentics
 END:VEVENT
