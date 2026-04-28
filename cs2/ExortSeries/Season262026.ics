@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260428T153000Z
-SUMMARY:Round 1: Oldboys vs HEC
-UID:cs-go-exort-series-26-2026-1466492@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: Younglings: 2 | gothboiclique: 0\nStream: https://kick.com/exort_en2
 DTEND:20260428T111346Z
 DTSTART:20260428T094322Z

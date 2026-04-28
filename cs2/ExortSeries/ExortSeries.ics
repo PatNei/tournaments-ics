@@ -2,13 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260428T153000Z
-SUMMARY:Round 1: Oldboys vs HEC
-UID:cs-go-exort-series-26-2026-1466492@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: aimclub: 0 | CSGOPOSITIVE: 2\nStream: https://kick.com/exort_en2
 DTEND:20260421T132843Z
 DTSTART:20260421T124026Z
