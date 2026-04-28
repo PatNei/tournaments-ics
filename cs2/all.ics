@@ -2438,9 +2438,9 @@ SUMMARY:Upper bracket round of 16 match 6: Lavked vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456864@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ozstrik3rtv
+DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ozstrik3rtv
 DURATION:PT2H
-DTSTART:20260428T140000Z
+DTSTART:20260428T140946Z
 SUMMARY:Round 1: Lavked vs aAa
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467059@tournamentics
 END:VEVENT
@@ -4345,7 +4345,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260430T103000Z
-SUMMARY:Upper bracket semifinal 1: PRE vs TBD
+SUMMARY:Upper bracket semifinal 1: PRE vs BIG.A
 UID:cs-go-european-pro-league-regular-4-2026-1466097@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6291,7 +6291,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260429T103000Z
-SUMMARY:Lower bracket round 1 match 1: NAVI.J vs TBD
+SUMMARY:Lower bracket round 1 match 1: NAVI.J vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1466107@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6435,9 +6435,9 @@ SUMMARY:Upper bracket final: HERO vs MNTE
 UID:cs-go-cct-global-finals-3-2026-1449761@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/bcgamemasters
+DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260428T141000Z
+DTSTART:20260428T141006Z
 SUMMARY:Round 1: CS vs ex-Zero Tenacity
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467053@tournamentics
 END:VEVENT
@@ -6575,8 +6575,8 @@ SUMMARY:Lower bracket quarterfinal 1: PHTM.Ac vs RBLS
 UID:cs-go-parken-challenger-championship-5-2026-1448828@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | ReThink: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260428T141531Z
 DTSTART:20260428T124720Z
 SUMMARY:Upper bracket quarterfinal 1: BIG.A vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1465430@tournamentics
