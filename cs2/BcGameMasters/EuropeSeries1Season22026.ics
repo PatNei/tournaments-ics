@@ -4,28 +4,42 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260428T170000Z
+DTSTART:20260428T140000Z
+SUMMARY:Round 1: Lavked vs AAB
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467059@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
+DURATION:PT2H
+DTSTART:20260428T140000Z
 SUMMARY:Round 1: HERO.A vs HS
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467056@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260428T080000Z
+DTSTART:20260428T140000Z
 SUMMARY:Round 1: CS vs ex-Zero Tenacity
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467053@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260428T110000Z
+DTSTART:20260428T140000Z
+SUMMARY:Round 1: TNC vs G1
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467058@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
+DURATION:PT2H
+DTSTART:20260428T190000Z
 SUMMARY:Round 1: WAL vs ASTR
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467055@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260428T170000Z
+DTSTART:20260428T190000Z
 SUMMARY:Round 1: SPARTA vs MEGO
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467057@tournamentics
 END:VEVENT

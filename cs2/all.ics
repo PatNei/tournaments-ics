@@ -2179,11 +2179,11 @@ SUMMARY:Upper bracket round of 16 match 6: Lavked vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456864@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | ReThink: 1\nStream: No official stream linked
-DTEND:20260420T190329Z
-DTSTART:20260420T181339Z
-SUMMARY:BOJONG vs RT
-UID:cs-go-esea-advanced-europe-57-2026-1454780@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
+DURATION:PT2H
+DTSTART:20260428T140000Z
+SUMMARY:Round 1: Lavked vs AAB
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467059@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 1 | The Last Resort: 2\nStream: https://kick.com/cct_cs3
@@ -2191,6 +2191,13 @@ DTEND:20260418T133744Z
 DTSTART:20260418T111414Z
 SUMMARY:Upper bracket round 1 match 4: HERO.A vs TLR
 UID:cs-go-cct-europe-challengers-series-1-2026-1449721@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | ReThink: 1\nStream: No official stream linked
+DTEND:20260420T190329Z
+DTSTART:20260420T181339Z
+SUMMARY:BOJONG vs RT
+UID:cs-go-esea-advanced-europe-57-2026-1454780@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 0 | Vasco Esports: 2\nStream: https://www.twitch.tv/btsbrasilfps
@@ -2739,11 +2746,11 @@ SUMMARY:Upper bracket round of 16 match 5: G1 vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456863@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | SINQU: 1\nStream: https://www.twitch.tv/sinquesports
-DTEND:20260427T174359Z
-DTSTART:20260427T171245Z
-SUMMARY:BIG.E vs SINQU
-UID:cs-go-esea-advanced-europe-57-2026-1433395@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
+DURATION:PT2H
+DTSTART:20260428T140000Z
+SUMMARY:Round 1: TNC vs G1
+UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | Atreides: 2\nStream: https://kick.com/cct_cs2
@@ -2751,6 +2758,13 @@ DTEND:20260418T120539Z
 DTSTART:20260418T110630Z
 SUMMARY:Upper bracket round 1 match 8: CC.FE vs Atreides
 UID:cs-go-cct-europe-challengers-series-1-2026-1449720@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | SINQU: 1\nStream: https://www.twitch.tv/sinquesports
+DTEND:20260427T174359Z
+DTSTART:20260427T171245Z
+SUMMARY:BIG.E vs SINQU
+UID:cs-go-esea-advanced-europe-57-2026-1433395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: Vasco Esports: 2 | Crashers: 0\nStream: https://www.twitch.tv/btsbrasilfps
@@ -3280,7 +3294,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260428T170000Z
+DTSTART:20260428T190000Z
 SUMMARY:Round 1: SPARTA vs MEGO
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467057@tournamentics
 END:VEVENT
@@ -3917,7 +3931,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260428T170000Z
+DTSTART:20260428T140000Z
 SUMMARY:Round 1: HERO.A vs HS
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467056@tournamentics
 END:VEVENT
@@ -4540,7 +4554,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260428T110000Z
+DTSTART:20260428T190000Z
 SUMMARY:Round 1: WAL vs ASTR
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467055@tournamentics
 END:VEVENT
@@ -5224,9 +5238,9 @@ SUMMARY:Lower bracket quarterfinal 2: XI vs TNC
 UID:cs-go-parken-challenger-championship-5-2026-1448829@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260428T080000Z
+DTSTART:20260428T081333Z
 SUMMARY:Upper bracket quarterfinal 2: NAVI.J vs PRE
 UID:cs-go-european-pro-league-regular-4-2026-1465431@tournamentics
 END:VEVENT
@@ -5737,7 +5751,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/bcgamemasters
 DURATION:PT2H
-DTSTART:20260428T080000Z
+DTSTART:20260428T140000Z
 SUMMARY:Round 1: CS vs ex-Zero Tenacity
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467053@tournamentics
 END:VEVENT
@@ -6071,7 +6085,7 @@ SUMMARY:Elimination match: FPR vs EC BANGA
 UID:cs-go-xp-game-fest-closed-qualifier-2026-1458880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dutchboycasts
 DURATION:PT2H
 DTSTART:20260428T090000Z
 SUMMARY:Lower bracket round 1 match 2: TW vs LC
