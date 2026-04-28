@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T010000Z
-SUMMARY:Lower bracket round 2 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 3: REGAIN vs WG
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456959@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Lower bracket round 4 match 3: Lavked vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/regent_xd
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | regain: 1\nStream: https://www.twitch.tv/regent_xd
+DTEND:20260428T034423Z
 DTSTART:20260428T010706Z
 SUMMARY:Upper bracket quarterfinal 2: ZOMB vs REGAIN
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456950@tournamentics
@@ -285,7 +285,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T010000Z
-SUMMARY:Upper bracket semifinal 1: VOCA vs TBD
+SUMMARY:Upper bracket semifinal 1: VOCA vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456961@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -499,8 +499,8 @@ SUMMARY:Lower bracket round 5 match 4: CYBERSHOKE Prospects vs Hashiras
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456898@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/endiezcasts
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Wanted Goons: 2 | EMPIRE: 1\nStream: https://www.twitch.tv/endiezcasts
+DTEND:20260428T034427Z
 DTSTART:20260428T010703Z
 SUMMARY:Lower bracket round 1 match 3: WG vs EMP
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456955@tournamentics
