@@ -1332,9 +1332,9 @@ SUMMARY:Upper bracket semifinal 1: MNTE vs NIP
 UID:cs-go-cct-global-finals-3-2026-1449757@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260428T094500Z
+DTSTART:20260428T094322Z
 SUMMARY:Round 1: YL vs GBC
 UID:cs-go-exort-series-26-2026-1466494@tournamentics
 END:VEVENT
@@ -3932,7 +3932,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260430T103000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: PRE vs TBD
 UID:cs-go-european-pro-league-regular-4-2026-1466097@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5294,8 +5294,8 @@ SUMMARY:Lower bracket quarterfinal 2: XI vs TNC
 UID:cs-go-parken-challenger-championship-5-2026-1448829@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: NAVI Junior: 0 | Prestige: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260428T094431Z
 DTSTART:20260428T081333Z
 SUMMARY:Upper bracket quarterfinal 2: NAVI.J vs PRE
 UID:cs-go-european-pro-league-regular-4-2026-1465431@tournamentics
@@ -5682,7 +5682,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260429T103000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: NAVI.J vs TBD
 UID:cs-go-european-pro-league-regular-4-2026-1466107@tournamentics
 END:VEVENT
 BEGIN:VEVENT
