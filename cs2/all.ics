@@ -1307,7 +1307,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T200000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: FaZe vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2322,7 +2322,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T233000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: NAVI vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6351,8 +6351,8 @@ SUMMARY:OBSB vs Diamant Esports
 UID:cs-go-esea-advanced-europe-57-2026-1457922@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Natus Vincere: 2 | FaZe: 0\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260429T221227Z
 DTSTART:20260429T202130Z
 SUMMARY:Upper bracket semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1438855@tournamentics
