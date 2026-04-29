@@ -530,7 +530,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T210000Z
-SUMMARY:Lower bracket quarterfinal 1: FDB vs TBD
+SUMMARY:Lower bracket quarterfinal 1: FDB vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457005@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1871,8 +1871,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/locomas
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nResult: ShindeN: 2 | MIBR Academy: 1\nStream: https://kick.com/locomas
+DTEND:20260429T235501Z
 DTSTART:20260429T210144Z
 SUMMARY:Lower bracket round 3 match 1: SHIN vs MIBR.A
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457003@tournamentics
