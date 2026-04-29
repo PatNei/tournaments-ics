@@ -467,7 +467,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T010000Z
-SUMMARY:Lower bracket round 3 match 2: CCE vs TBD
+SUMMARY:Lower bracket round 3 match 2: CCE vs REGAIN
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4041,8 +4041,8 @@ SUMMARY:Round 2: Invicta vs EN
 UID:cs-go-dust2-dk-32-2026-1467584@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/r_nicolino
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: regain: 2 | Wanted Goons: 0\nStream: https://www.twitch.tv/r_nicolino
+DTEND:20260429T024626Z
 DTSTART:20260429T010431Z
 SUMMARY:Lower bracket round 2 match 3: REGAIN vs WG
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456959@tournamentics
