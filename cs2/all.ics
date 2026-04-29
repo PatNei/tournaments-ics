@@ -4685,9 +4685,9 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462493@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260429T220000Z
+DTSTART:20260429T220335Z
 SUMMARY:Round 1: UNO vs CRASH
 UID:cs-go-champion-of-champions-tour-series-1-2026-1460954@tournamentics
 END:VEVENT
@@ -6687,8 +6687,8 @@ SUMMARY:Upper bracket final: 9z vs LGC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456321@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: FURIA fe: 0 | paiN Academy: 2\nStream: No official stream linked
+DTEND:20260429T220154Z
 DTSTART:20260429T203357Z
 SUMMARY:Decider Match: FURIA.F vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468563@tournamentics
