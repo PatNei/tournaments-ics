@@ -1076,7 +1076,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260501T003000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: Incognito vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460369@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2396,8 +2396,8 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467627@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nResult: Incognito: 0 | InControl: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260429T015913Z
 DTSTART:20260429T003355Z
 SUMMARY:Winners match: Incognito vs InC
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460367@tournamentics
