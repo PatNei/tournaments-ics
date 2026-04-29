@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T150000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: FUT vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T173000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: VIT vs TBD
 UID:cs-go-blast-rivals-spring-2026-1438563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -86,8 +86,8 @@ SUMMARY:Upper bracket semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1438855@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Vitality: 2 | FUT Esports: 1\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260429T175712Z
 DTSTART:20260429T150605Z
 SUMMARY:Upper bracket semifinal 1: VIT vs FUT
 UID:cs-go-blast-rivals-spring-2026-1438555@tournamentics
