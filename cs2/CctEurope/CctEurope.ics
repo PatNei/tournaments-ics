@@ -2,39 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: Lilmix: 2 | Ursa: 1\nStream: https://kick.com/cct_cs
-DTEND:20260428T165740Z
-DTSTART:20260428T140503Z
-SUMMARY:Winners match: LILMIX vs URSA
-UID:cs-go-cct-europe-series-1-play-in-2026-1462482@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260515T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469240@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260514T110000Z
 SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469236@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260502T170000Z
-SUMMARY:TBD vs TBD
-UID:cs-go-cct-europe-series-1-play-in-2026-1462478@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260502T080000Z
-SUMMARY:TBD vs TBD
-UID:cs-go-cct-europe-series-1-play-in-2026-1462475@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -46,13 +18,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260512T140000Z
-SUMMARY:Round of 16 match 3: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469229@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
 DTSTART:20260512T170000Z
 SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469230@tournamentics
@@ -60,30 +25,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260511T170000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469226@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260510T170000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469223@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
 DTSTART:20260509T140000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469219@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260509T170000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469220@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -102,44 +46,9 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260506T170000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469209@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260504T140000Z
-SUMMARY:Round 1: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469184@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
 DTSTART:20260507T080000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469210@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260506T080000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469206@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260505T110000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469203@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260504T110000Z
-SUMMARY:Round 1: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469174@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -165,9 +74,303 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260501T170000Z
+DTSTART:20260502T140000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462477@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Atreides: 2 | VP.Prodigy: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260422T123247Z
+DTSTART:20260422T110439Z
+SUMMARY:Lower bracket round 2 match 1: Atreides vs VP.P
+UID:cs-go-cct-europe-challengers-series-1-2026-1449736@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260503T110000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469169@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | Lilmix: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260421T155906Z
+DTSTART:20260421T135059Z
+SUMMARY:Upper bracket quarterfinal 1: DNT vs LILMIX
+UID:cs-go-cct-europe-challengers-series-1-2026-1449730@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260515T160000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469241@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260512T080000Z
+SUMMARY:Round of 16 match 1: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469227@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260511T110000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469224@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260510T110000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469221@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260506T110000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469207@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260505T140000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469204@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260501T110000Z
+SUMMARY:Decider match: BBP vs NNP
+UID:cs-go-cct-europe-series-1-play-in-2026-1462488@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: Bebop: 0 | INOX Division: 2\nStream: https://kick.com/cct_cs
+DTEND:20260427T183559Z
+DTSTART:20260427T170745Z
+SUMMARY:BBP vs INOX
+UID:cs-go-cct-europe-series-1-play-in-2026-1462485@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: Lilmix: 2 | Ursa: 1\nStream: https://kick.com/cct_cs
+DTEND:20260428T165740Z
+DTSTART:20260428T140503Z
+SUMMARY:Winners match: LILMIX vs URSA
+UID:cs-go-cct-europe-series-1-play-in-2026-1462482@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Brute: 2 | playersclub: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260425T161236Z
+DTSTART:20260425T135501Z
+SUMMARY:Lower bracket semifinal: BRUTE vs playersclub
+UID:cs-go-cct-europe-challengers-series-1-2026-1449747@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Donstu Esports: 0 | Brute: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260424T124304Z
+DTSTART:20260424T111413Z
+SUMMARY:Lower bracket quarterfinal 1: DNT vs BRUTE
+UID:cs-go-cct-europe-challengers-series-1-2026-1449744@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | Young Ninjas: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260423T133106Z
+DTSTART:20260423T110616Z
+SUMMARY:Lower bracket round 3 match 2: LILMIX vs YN
+UID:cs-go-cct-europe-challengers-series-1-2026-1449741@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260504T110000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469174@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: eLITenergy: 2 | aimclub: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260419T154527Z
+DTSTART:20260419T142046Z
+SUMMARY:Upper bracket round 1 match 3: eLITe vs AIMC
+UID:cs-go-cct-europe-challengers-series-1-2026-1449727@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 1 | The Last Resort: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260418T133744Z
+DTSTART:20260418T111414Z
+SUMMARY:Upper bracket round 1 match 4: HERO.A vs TLR
+UID:cs-go-cct-europe-challengers-series-1-2026-1449721@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260514T170000Z
+SUMMARY:Quarterfinal 4: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469238@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260514T080000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469235@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260513T110000Z
+SUMMARY:Round of 16 match 6: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469232@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260509T110000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469218@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260508T110000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469215@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260507T140000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469212@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260430T110000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462496@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260501T140000Z
 SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-cct-europe-series-1-play-in-2026-1462516@tournamentics
+UID:cs-go-cct-europe-series-1-play-in-2026-1462493@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | Clutchain Female: 0\nStream: https://kick.com/cct_cs
+DTEND:20260429T122701Z
+DTSTART:20260429T110412Z
+SUMMARY:ASTR vs CC.FE
+UID:cs-go-cct-europe-series-1-play-in-2026-1462490@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: STATE: 1 | Lilmix: 2\nStream: https://kick.com/cct_cs
+DTEND:20260427T105910Z
+DTSTART:20260427T080520Z
+SUMMARY:STA vs LILMIX
+UID:cs-go-cct-europe-series-1-play-in-2026-1462479@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260502T110000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462476@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260504T170000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469185@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | Young Ninjas: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260422T160240Z
+DTSTART:20260422T135019Z
+SUMMARY:Lower bracket round 2 match 3: TLR vs YN
+UID:cs-go-cct-europe-challengers-series-1-2026-1449738@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Atreides: 1 | RUSTEC: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260420T161119Z
+DTSTART:20260420T134757Z
+SUMMARY:Upper bracket quarterfinal 4: Atreides vs RUST
+UID:cs-go-cct-europe-challengers-series-1-2026-1449735@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Dripmen: 0 | Young Ninjas: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260420T124650Z
+DTSTART:20260420T110610Z
+SUMMARY:Lower bracket round 1 match 3: DRIP vs YN
+UID:cs-go-cct-europe-challengers-series-1-2026-1449732@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260503T080000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469168@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260515T130000Z
+SUMMARY:Semifinal 2: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469240@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260512T140000Z
+SUMMARY:Round of 16 match 3: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469229@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260511T170000Z
+SUMMARY:Round 5: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469226@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260510T170000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469223@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260509T170000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469220@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260506T170000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469209@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260506T080000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469206@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260505T110000Z
+SUMMARY:Round 2: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469203@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: NNP: 0 | INOX Division: 2\nStream: https://kick.com/cct_cs
@@ -184,13 +387,6 @@ SUMMARY:NNP vs HERO.A
 UID:cs-go-cct-europe-series-1-play-in-2026-1462484@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260514T170000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469238@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: STATE: 2 | Brute: 0\nStream: https://kick.com/cct_cs
 DTEND:20260428T095336Z
 DTSTART:20260428T080731Z
@@ -198,25 +394,172 @@ SUMMARY:Elimination match: STA vs BRUTE
 UID:cs-go-cct-europe-series-1-play-in-2026-1462481@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: INOX Division: 0 | RUSTEC: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260426T152948Z
+DTSTART:20260426T141215Z
+SUMMARY:Grand final: INOX vs RUST
+UID:cs-go-cct-europe-challengers-series-1-2026-1449749@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | RUSTEC: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260425T123908Z
+DTSTART:20260425T110526Z
+SUMMARY:Upper bracket final: INOX vs RUST
+UID:cs-go-cct-europe-challengers-series-1-2026-1449746@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: RUSTEC: 2 | playersclub: 0\nStream: https://kick.com/cct_cs3
+DTEND:20260423T154634Z
+DTSTART:20260423T142059Z
+SUMMARY:Upper bracket semifinal 2: RUST vs playersclub
+UID:cs-go-cct-europe-challengers-series-1-2026-1449743@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Atreides: 1 | Brute: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260423T133656Z
+DTSTART:20260423T110614Z
+SUMMARY:Lower bracket round 3 match 1: Atreides vs BRUTE
+UID:cs-go-cct-europe-challengers-series-1-2026-1449740@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 1 | aimclub: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260420T140654Z
+DTSTART:20260420T110434Z
+SUMMARY:Lower bracket round 1 match 2: HERO.A vs AIMC
+UID:cs-go-cct-europe-challengers-series-1-2026-1449729@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260514T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469235@tournamentics
+DTSTART:20260504T080000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469173@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260503T140000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469170@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Dripmen: 1 | playersclub: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260418T160421Z
+DTSTART:20260418T135332Z
+SUMMARY:Upper bracket round 1 match 6: DRIP vs playersclub
+UID:cs-go-cct-europe-challengers-series-1-2026-1449723@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | Atreides: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260418T120539Z
+DTSTART:20260418T110630Z
+SUMMARY:Upper bracket round 1 match 8: CC.FE vs Atreides
+UID:cs-go-cct-europe-challengers-series-1-2026-1449720@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260514T140000Z
+SUMMARY:Quarterfinal 3: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469237@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260513T170000Z
+SUMMARY:Round of 16 match 8: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469234@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260513T080000Z
+SUMMARY:Round of 16 match 5: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469231@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260508T170000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469217@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260508T080000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469214@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260507T110000Z
+SUMMARY:Round 3: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469211@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260502T140000Z
+DTSTART:20260429T170000Z
+SUMMARY:FCF vs EC BANGA
+UID:cs-go-cct-europe-series-1-play-in-2026-1462495@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260430T140000Z
+SUMMARY:Winners match: MANA vs ASTR
+UID:cs-go-cct-europe-series-1-play-in-2026-1462492@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260502T170000Z
 SUMMARY:TBD vs TBD
-UID:cs-go-cct-europe-series-1-play-in-2026-1462477@tournamentics
+UID:cs-go-cct-europe-series-1-play-in-2026-1462478@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260502T080000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462475@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260513T110000Z
-SUMMARY:Round of 16 match 6: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469232@tournamentics
+DTSTART:20260504T140000Z
+SUMMARY:Round 1: TBD vs TBD
+UID:cs-go-cct-europe-series-1-21-2026-1469184@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Brute: 2 | aimclub: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260422T133900Z
+DTSTART:20260422T110441Z
+SUMMARY:Lower bracket round 2 match 2: BRUTE vs AIMC
+UID:cs-go-cct-europe-challengers-series-1-2026-1449737@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: playersclub: 2 | Brute: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260420T165816Z
+DTSTART:20260420T141800Z
+SUMMARY:Upper bracket quarterfinal 3: playersclub vs BRUTE
+UID:cs-go-cct-europe-challengers-series-1-2026-1449734@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | eLITenergy: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260421T152201Z
+DTSTART:20260421T135745Z
+SUMMARY:Upper bracket quarterfinal 2: TLR vs eLITe
+UID:cs-go-cct-europe-challengers-series-1-2026-1449731@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260501T170000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-cct-europe-series-1-play-in-2026-1462516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -242,27 +585,6 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260509T110000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469218@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260508T110000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469215@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260507T140000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469212@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
 DTSTART:20260506T140000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469208@tournamentics
@@ -282,53 +604,11 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469202@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260504T080000Z
-SUMMARY:Round 1: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469173@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260503T110000Z
-SUMMARY:Round 1: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469169@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260430T110000Z
-SUMMARY:Elimination match: TBD vs TBD
-UID:cs-go-cct-europe-series-1-play-in-2026-1462496@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260503T140000Z
-SUMMARY:Round 1: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469170@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260501T140000Z
-SUMMARY:Decider match: TBD vs TBD
-UID:cs-go-cct-europe-series-1-play-in-2026-1462493@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: MANA eSports: 2 | HyperSpirit: 0\nStream: https://kick.com/cct_cs
 DTEND:20260429T095741Z
 DTSTART:20260429T081001Z
 SUMMARY:MANA vs HS
 UID:cs-go-cct-europe-series-1-play-in-2026-1462489@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: ASTRAL: 2 | Clutchain Female: 0\nStream: https://kick.com/cct_cs
-DTEND:20260429T122701Z
-DTSTART:20260429T110412Z
-SUMMARY:ASTR vs CC.FE
-UID:cs-go-cct-europe-series-1-play-in-2026-1462490@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 0 | Bebop: 2\nStream: https://kick.com/cct_cs
@@ -345,27 +625,6 @@ SUMMARY:Decider match: STA vs URSA
 UID:cs-go-cct-europe-series-1-play-in-2026-1462483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260515T160000Z
-SUMMARY:Grand final: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469241@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260514T140000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469237@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: STATE: 1 | Lilmix: 2\nStream: https://kick.com/cct_cs
-DTEND:20260427T105910Z
-DTSTART:20260427T080520Z
-SUMMARY:STA vs LILMIX
-UID:cs-go-cct-europe-series-1-play-in-2026-1462479@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: Ursa: 2 | Brute: 1\nStream: https://kick.com/cct_cs
 DTEND:20260427T140106Z
 DTSTART:20260427T111850Z
@@ -373,88 +632,25 @@ SUMMARY:URSA vs BRUTE
 UID:cs-go-cct-europe-series-1-play-in-2026-1462480@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260513T170000Z
-SUMMARY:Round of 16 match 8: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469234@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: RUSTEC: 2 | Brute: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260426T134519Z
+DTSTART:20260426T110408Z
+SUMMARY:Lower bracket final: RUST vs BRUTE
+UID:cs-go-cct-europe-challengers-series-1-2026-1449748@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260502T110000Z
-SUMMARY:TBD vs TBD
-UID:cs-go-cct-europe-series-1-play-in-2026-1462476@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: playersclub: 2 | Young Ninjas: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260424T161601Z
+DTSTART:20260424T135305Z
+SUMMARY:Lower bracket quarterfinal 2: playersclub vs YN
+UID:cs-go-cct-europe-challengers-series-1-2026-1449745@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260512T080000Z
-SUMMARY:Round of 16 match 1: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469227@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260513T080000Z
-SUMMARY:Round of 16 match 5: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469231@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260511T110000Z
-SUMMARY:Round 5: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469224@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260510T110000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469221@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260508T170000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469217@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260508T080000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469214@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260504T170000Z
-SUMMARY:Round 1: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469185@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260507T110000Z
-SUMMARY:Round 3: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469211@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260506T110000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469207@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260505T140000Z
-SUMMARY:Round 2: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469204@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | Donstu Esports: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260423T160607Z
+DTSTART:20260423T144006Z
+SUMMARY:Upper bracket semifinal 1: INOX vs DNT
+UID:cs-go-cct-europe-challengers-series-1-2026-1449742@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -464,39 +660,18 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469172@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260503T080000Z
-SUMMARY:Round 1: TBD vs TBD
-UID:cs-go-cct-europe-series-1-21-2026-1469168@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Brute: 2 | Young Ninjas: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260419T140024Z
+DTSTART:20260419T110800Z
+SUMMARY:Upper bracket round 1 match 5: BRUTE vs YN
+UID:cs-go-cct-europe-challengers-series-1-2026-1449725@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260429T170000Z
-SUMMARY:FCF vs EC BANGA
-UID:cs-go-cct-europe-series-1-play-in-2026-1462495@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260430T140000Z
-SUMMARY:Winners match: MANA vs ASTR
-UID:cs-go-cct-europe-series-1-play-in-2026-1462492@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260501T110000Z
-SUMMARY:Decider match: BBP vs NNP
-UID:cs-go-cct-europe-series-1-play-in-2026-1462488@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: Bebop: 0 | INOX Division: 2\nStream: https://kick.com/cct_cs
-DTEND:20260427T183559Z
-DTSTART:20260427T170745Z
-SUMMARY:BBP vs INOX
-UID:cs-go-cct-europe-series-1-play-in-2026-1462485@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 0 | Donstu Esports: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260418T155755Z
+DTSTART:20260418T135622Z
+SUMMARY:Upper bracket round 1 match 1: VP.P vs DNT
+UID:cs-go-cct-europe-challengers-series-1-2026-1449722@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
