@@ -54,12 +54,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260501T170000Z
-SUMMARY:Upper bracket final: NEM vs TBD
+SUMMARY:Upper bracket final: NEM vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 1 | SPARTA: 2\nStream: https://www.twitch.tv/tavarescs2
+DTEND:20260429T203159Z
 DTSTART:20260429T170123Z
 SUMMARY:Upper bracket semifinal 2: RBLS vs SPARTA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456900@tournamentics
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T170000Z
-SUMMARY:Lower bracket quarterfinal 2: Lavked vs TBD
+SUMMARY:Lower bracket quarterfinal 2: Lavked vs RBLS
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456905@tournamentics
 END:VEVENT
 BEGIN:VEVENT
