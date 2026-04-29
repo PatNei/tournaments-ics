@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260430T170000Z
-SUMMARY:Winners match: PF vs TBD
+SUMMARY:Winners match: PF vs FCF
 UID:cs-go-cct-europe-series-1-play-in-2026-1462497@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -243,7 +243,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260430T110000Z
-SUMMARY:Elimination match: DRIP vs TBD
+SUMMARY:Elimination match: DRIP vs EC BANGA
 UID:cs-go-cct-europe-series-1-play-in-2026-1462496@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -492,8 +492,8 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469211@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 2 | EC BANGA: 1\nStream: https://kick.com/cct_cs
+DTEND:20260429T195423Z
 DTSTART:20260429T170742Z
 SUMMARY:FCF vs EC BANGA
 UID:cs-go-cct-europe-series-1-play-in-2026-1462495@tournamentics
