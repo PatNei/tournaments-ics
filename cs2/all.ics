@@ -163,6 +163,13 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467630@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260503T103000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-united21-48-2026-1469570@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260502T140000Z
@@ -177,13 +184,6 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Clockwork: 0\nStream: https://www.twitch.tv/bonamant
-DTEND:20260404T225923Z
-DTSTART:20260404T213311Z
-SUMMARY:Round 2: LAG vs CW
-UID:cs-go-dust2-us-eagle-masters-7-2026-1427596@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 1 | ImmuNe: 0\nStream: https://kick.com/challengerchampionship_b
 DTEND:20260418T110428Z
 DTSTART:20260418T102626Z
@@ -196,6 +196,13 @@ DURATION:PT2H
 DTSTART:20260506T160000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467619@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | Clockwork: 0\nStream: https://www.twitch.tv/bonamant
+DTEND:20260404T225923Z
+DTSTART:20260404T213311Z
+SUMMARY:Round 2: LAG vs CW
+UID:cs-go-dust2-us-eagle-masters-7-2026-1427596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -1101,6 +1108,13 @@ SUMMARY:Round of 16 match 8: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467629@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260503T080000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-united21-48-2026-1469569@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260501T003000Z
@@ -1136,8 +1150,8 @@ SUMMARY:Semifinal 2: PSSN.UA vs WC
 UID:cs-go-fragadelphia-20-2026-1463487@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | The QUBE Esports: 0\nStream: No official stream linked
+DTEND:20260429T143543Z
 DTSTART:20260429T130838Z
 SUMMARY:Lower bracket round 3 match 1: RA vs QUBE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457033@tournamentics
@@ -1815,6 +1829,13 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467628@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260502T103000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-united21-48-2026-1469568@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: FRZ Unit: 0 | Marsborne: 2\nStream: No official stream linked
 DTEND:20260425T220046Z
 DTSTART:20260425T205438Z
@@ -2450,6 +2471,13 @@ DURATION:PT2H
 DTSTART:20260508T160000Z
 SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467627@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260502T080000Z
+SUMMARY:Upper bracket semifinal 1: RT vs ALGO
+UID:cs-go-united21-48-2026-1469567@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nResult: Incognito: 0 | InControl: 2\nStream: https://www.twitch.tv/thunderpicktv
@@ -3108,6 +3136,13 @@ DURATION:PT2H
 DTSTART:20260508T130000Z
 SUMMARY:Round of 16 match 5: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467626@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260501T103000Z
+SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+UID:cs-go-united21-48-2026-1469566@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nResult: InControl: 2 | girl kissers: 0\nStream: https://www.twitch.tv/thunderpicktv
@@ -3782,6 +3817,13 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260501T080000Z
+SUMMARY:Lower bracket round 1 match 1: PSN.A vs INF
+UID:cs-go-united21-48-2026-1469565@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Voca: 2 | Marsborne: 1\nStream: https://kick.com/frag2
 DTEND:20260425T202244Z
 DTSTART:20260425T182700Z
@@ -3866,18 +3908,18 @@ SUMMARY:AAB vs BIG.A
 UID:cs-go-european-pro-league-regular-4-2026-1450385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
-DTSTART:20260504T190000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1468037@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Galorys: 1 | UNO MILLE: 0\nStream: No official stream linked
 DTEND:20260424T225630Z
 DTSTART:20260424T220647Z
 SUMMARY:Round 2: GLS vs UNO
 UID:cs-go-odyssey-cup-brazil-2026-1459522@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
+DURATION:PT2H
+DTSTART:20260504T190000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1468037@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Leo Team: 2 | BIG Academy: 1\nStream: https://www.twitch.tv/dachcs
@@ -3981,7 +4023,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260502T173000Z
-SUMMARY:Round 2 match 4: TBD vs TBD
+SUMMARY:Round 2 match 4: EF vs TBD
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466461@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5532,6 +5574,13 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467634@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260508T080000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-united21-48-2026-1469574@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260503T203000Z
@@ -6302,6 +6351,13 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260507T080000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-united21-48-2026-1469573@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260503T003000Z
@@ -6316,13 +6372,6 @@ SUMMARY:Round 4: WING vs NIC
 UID:cs-go-exort-series-25-2026-1456254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: InControl: 2 | girl kissers: 0\nStream: No official stream linked
-DTEND:20260402T234607Z
-DTSTART:20260402T225222Z
-SUMMARY:Round 2: InC vs GK
-UID:cs-go-dust2-us-eagle-masters-7-2026-1427599@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 1 | Dua Lipa Enjoyers: 0\nStream: https://kick.com/challengerchampionship_b
 DTEND:20260418T124858Z
 DTSTART:20260418T113242Z
@@ -6335,6 +6384,13 @@ DTEND:20260426T153315Z
 DTSTART:20260426T130954Z
 SUMMARY:Grand final: STA vs MSC
 UID:cs-go-gamebox-festival-2026-1463988@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: InControl: 2 | girl kissers: 0\nStream: No official stream linked
+DTEND:20260402T234607Z
+DTSTART:20260402T225222Z
+SUMMARY:Round 2: InC vs GK
+UID:cs-go-dust2-us-eagle-masters-7-2026-1427599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -7044,6 +7100,13 @@ SUMMARY:STA vs LILMIX
 UID:cs-go-cct-europe-series-1-play-in-2026-1462479@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260504T103000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-united21-48-2026-1469572@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Spirit Academy: 0 | BET-M 33: 2\nStream: https://kick.com/exort_en2
 DTEND:20260426T213737Z
 DTSTART:20260426T195333Z
@@ -7056,13 +7119,6 @@ DURATION:PT2H
 DTSTART:20260502T213000Z
 SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460372@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 2 |  Phantom Academy: 0\nStream: https://kick.com/exort_en2
-DTEND:20260421T163120Z
-DTSTART:20260421T153326Z
-SUMMARY:Round 4: EF.A vs PHTM.Ac
-UID:cs-go-exort-series-25-2026-1456253@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: Sashi Academy: 1 | Z7 Esports: 0\nStream: https://kick.com/challengerchampionship_d
@@ -7079,11 +7135,11 @@ SUMMARY:Semifinal 2: MSC vs WAZ
 UID:cs-go-gamebox-festival-2026-1463987@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Outfit 49: 2 | Reign Above: 1\nStream: https://kick.com/dust2us
-DTEND:20260403T041208Z
-DTSTART:20260403T014629Z
-SUMMARY:Round 2: O49 vs Reign Above
-UID:cs-go-dust2-us-eagle-masters-7-2026-1427598@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 2 |  Phantom Academy: 0\nStream: https://kick.com/exort_en2
+DTEND:20260421T163120Z
+DTSTART:20260421T153326Z
+SUMMARY:Round 4: EF.A vs PHTM.Ac
+UID:cs-go-exort-series-25-2026-1456253@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -7098,6 +7154,13 @@ DURATION:PT2H
 DTSTART:20260517T133000Z
 SUMMARY:Round 6: ENCE vs SINQU
 UID:cs-go-elisa-open-suomi-13-2026-1463400@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Outfit 49: 2 | Reign Above: 1\nStream: https://kick.com/dust2us
+DTEND:20260403T041208Z
+DTSTART:20260403T014629Z
+SUMMARY:Round 2: O49 vs Reign Above
+UID:cs-go-dust2-us-eagle-masters-7-2026-1427598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2tv
@@ -7702,18 +7765,18 @@ SUMMARY:BST.A vs Red Feet
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1450344@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
+DURATION:PT2H
+DTSTART:20260504T080000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-united21-48-2026-1469571@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series #1 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260502T170000Z
 SUMMARY:TBD vs TBD
 UID:cs-go-cct-europe-series-1-play-in-2026-1462478@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
-DTSTART:20260502T003000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
-UID:cs-go-thunderpick-world-championship-north-american-2026-1460371@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 5 2026\nMatch Type: Best Of\nResult: TNC: 1 | Dua Lipa Enjoyers: 0\nStream: https://kick.com/challengerchampionship_d
@@ -7730,6 +7793,13 @@ SUMMARY:Semifinal 1: STA vs SASHI.A
 UID:cs-go-gamebox-festival-2026-1463986@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
+DURATION:PT2H
+DTSTART:20260502T003000Z
+SUMMARY:Quarterfinal 2: TBD vs TBD
+UID:cs-go-thunderpick-world-championship-north-american-2026-1460371@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: aimclub: 0 | CSGOPOSITIVE: 2\nStream: https://kick.com/exort_en2
 DTEND:20260421T132843Z
 DTSTART:20260421T124026Z
@@ -7737,18 +7807,18 @@ SUMMARY:Round 4: AIMC vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1456252@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: BOSS: 2 | mouse: 0\nStream: https://www.twitch.tv/wxfan21
-DTEND:20260404T233133Z
-DTSTART:20260404T223241Z
-SUMMARY:Round 2: BOSS vs mouse
-UID:cs-go-dust2-us-eagle-masters-7-2026-1427597@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260503T140000Z
 SUMMARY:PHA vs aAa
 UID:cs-go-nodwin-clutch-series-8-2026-1467065@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: BOSS: 2 | mouse: 0\nStream: https://www.twitch.tv/wxfan21
+DTEND:20260404T233133Z
+DTSTART:20260404T223241Z
+SUMMARY:Round 2: BOSS vs mouse
+UID:cs-go-dust2-us-eagle-masters-7-2026-1427597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Ctrl Alt Defeat: 0 | CSGOPOSITIVE: 2\nStream: https://kick.com/exort_en2
@@ -7954,8 +8024,8 @@ SUMMARY:SAW vs G2.A
 UID:cs-go-esplay-elite-gaming-1-2026-1466506@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | Eternal Fire: 2\nStream: https://kick.com/starladder
+DTEND:20260429T143325Z
 DTSTART:20260429T124206Z
 SUMMARY:Round of 16 match 7: NEMI vs EF
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466456@tournamentics
@@ -8111,7 +8181,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T130000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: RA vs TBD
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457035@tournamentics
 END:VEVENT
 BEGIN:VEVENT

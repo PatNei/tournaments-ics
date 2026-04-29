@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260502T173000Z
-SUMMARY:Round 2 match 4: TBD vs TBD
+SUMMARY:Round 2 match 4: EF vs TBD
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466461@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Round 2 match 3: TBD vs TBD
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466460@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | Eternal Fire: 2\nStream: https://kick.com/starladder
+DTEND:20260429T143325Z
 DTSTART:20260429T124206Z
 SUMMARY:Round of 16 match 7: NEMI vs EF
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466456@tournamentics
