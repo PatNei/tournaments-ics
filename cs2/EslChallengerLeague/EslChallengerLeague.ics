@@ -838,7 +838,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T170000Z
-SUMMARY:Lower bracket quarterfinal 1: FNC vs TBD
+SUMMARY:Lower bracket quarterfinal 1: FNC vs PHA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456904@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -849,8 +849,8 @@ SUMMARY:Lower bracket round 2 match 3: DNT vs OLDBOYS-
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456820@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/officialhyper
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: GenOne: 0 | Phantom: 2\nStream: https://www.twitch.tv/officialhyper
+DTEND:20260429T185047Z
 DTSTART:20260429T170313Z
 SUMMARY:Lower bracket round 6 match 1: G1 vs PHA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456901@tournamentics
