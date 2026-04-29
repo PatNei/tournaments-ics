@@ -1402,9 +1402,9 @@ SUMMARY:B8.A vs BOJONG
 UID:cs-go-esea-advanced-europe-57-2026-1436245@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260429T163000Z
+DTSTART:20260429T164246Z
 SUMMARY:BIG.E vs BJNG
 UID:cs-go-esea-advanced-europe-57-2026-1468048@tournamentics
 END:VEVENT
@@ -2795,9 +2795,9 @@ SUMMARY:Upper bracket quarterfinal 3: AUR vs HOTU
 UID:cs-go-iem-rio-2026-1429131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinquesports
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinquesports
 DURATION:PT2H
-DTSTART:20260429T163000Z
+DTSTART:20260429T164244Z
 SUMMARY:EP vs SINQU
 UID:cs-go-esea-advanced-europe-57-2026-1468046@tournamentics
 END:VEVENT
@@ -4776,8 +4776,8 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-esplay-elite-gaming-1-2026-1466510@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Sharks: 2 | Falcons Force: 0\nStream: https://kick.com/starladder
+DTEND:20260429T164251Z
 DTSTART:20260429T150612Z
 SUMMARY:Round of 16 match 1: SHK vs Falcons Force
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466449@tournamentics
@@ -6578,7 +6578,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260502T090000Z
-SUMMARY:Round 2 match 1: TBD vs TBD
+SUMMARY:Round 2 match 1: SHK vs TBD
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
