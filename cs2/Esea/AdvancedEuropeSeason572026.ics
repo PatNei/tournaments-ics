@@ -366,7 +366,7 @@ SUMMARY:G2.A vs JUMBO
 UID:cs-go-esea-advanced-europe-57-2026-1444104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinquesports
 DURATION:PT2H
 DTSTART:20260429T163000Z
 SUMMARY:EP vs SINQU
@@ -681,8 +681,8 @@ SUMMARY:ZOTIX vs Diamant Esports
 UID:cs-go-esea-advanced-europe-57-2026-1444103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tlrlive
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: The Last Resort: 0 | G2 Ares: 1\nStream: https://www.twitch.tv/tlrlive
+DTEND:20260429T162621Z
 DTSTART:20260429T155425Z
 SUMMARY:TLR vs G2.A
 UID:cs-go-esea-advanced-europe-57-2026-1468045@tournamentics
