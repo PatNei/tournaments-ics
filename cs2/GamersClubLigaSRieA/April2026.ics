@@ -2,6 +2,41 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 1 | Red Feet: 0\nStream: No official stream linked
+DTEND:20260422T231716Z
+DTSTART:20260422T222439Z
+SUMMARY:BST.A vs Red Feet
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1450344@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
+DURATION:PT2H
+DTSTART:20260504T190000Z
+SUMMARY:Quarterfinal 1: TBD vs TBD
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1468037@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: largadosypelados: 1 | 9daplug: 0\nStream: No official stream linked
+DTEND:20260420T223237Z
+DTSTART:20260420T212028Z
+SUMMARY:LDP vs 9daplug
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1448771@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | Guara Esports: 0\nStream: No official stream linked
+DTEND:20260423T193815Z
+DTSTART:20260423T175734Z
+SUMMARY:Winners match: LDP vs GE
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1459668@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 1 | Players: 0\nStream: No official stream linked
+DTEND:20260420T201346Z
+DTSTART:20260420T190811Z
+SUMMARY:ALKA vs PLS
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1449853@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260507T190000Z
@@ -14,13 +49,6 @@ DURATION:PT2H
 DTSTART:20260505T190000Z
 SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468039@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: MIBR Academy: 0 | ALKA GAMING: 2\nStream: No official stream linked
-DTEND:20260424T180909Z
-DTSTART:20260424T161806Z
-SUMMARY:Winners match: MIBR.A vs ALKA
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1461143@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: Alzon: 1 | paiN Academy: 2\nStream: No official stream linked
@@ -37,25 +65,32 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468040@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: Vexa: 2 | Players: 0\nStream: No official stream linked
-DTEND:20260424T185658Z
-DTSTART:20260424T172041Z
-SUMMARY:Elimination match: VEXA vs PLS
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1459669@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | QUINTESSÊNCIA: 1\nStream: No official stream linked
-DTEND:20260425T023417Z
-DTSTART:20260425T001423Z
-SUMMARY:Winners match: BST.A vs QUIN
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1460904@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T220000Z
 SUMMARY:Elimination match: RED.A vs Red Feet
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1460383@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: MIBR Academy: 1 | Vexa: 0\nStream: No official stream linked
+DTEND:20260420T214041Z
+DTSTART:20260420T205319Z
+SUMMARY:MIBR.A vs VEXA
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1448773@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260429T200000Z
+SUMMARY:Decider Match: FURIA.F vs paiN.A
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1468563@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: MIBR Academy: 0 | ALKA GAMING: 2\nStream: No official stream linked
+DTEND:20260424T180909Z
+DTSTART:20260424T161806Z
+SUMMARY:Winners match: MIBR.A vs ALKA
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1461143@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
@@ -72,18 +107,32 @@ SUMMARY:Quarterfinal 2: TBD vs TBD
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: largadosypelados: 2 | Guara Esports: 0\nStream: No official stream linked
-DTEND:20260423T193815Z
-DTSTART:20260423T175734Z
-SUMMARY:Winners match: LDP vs GE
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1459668@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: Alzon: 0 | FURIA fe: 1\nStream: No official stream linked
+DTEND:20260416T192704Z
+DTSTART:20260416T183658Z
+SUMMARY:Alzon vs FURIA.F
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1448772@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260429T200000Z
-SUMMARY:Decider Match: FURIA.F vs paiN.A
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1468563@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 0 | QUINTESSÊNCIA: 1\nStream: https://www.twitch.tv/ltmzin
+DTEND:20260420T201755Z
+DTSTART:20260420T191649Z
+SUMMARY:RED.A vs QUIN
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1451798@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: Vexa: 2 | Players: 0\nStream: No official stream linked
+DTEND:20260424T185658Z
+DTSTART:20260424T172041Z
+SUMMARY:Elimination match: VEXA vs PLS
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1459669@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 1 | paiN Academy: 0\nStream: No official stream linked
+DTEND:20260420T220234Z
+DTSTART:20260420T201803Z
+SUMMARY:MW vs paiN.A
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1451287@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: FURIA fe: 1 | METANOIA WOLVES: 2\nStream: No official stream linked
@@ -100,10 +149,10 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468041@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
-DTSTART:20260504T190000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
-UID:cs-go-gamers-club-liga-serie-a-april-2026-1468037@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | QUINTESSÊNCIA: 1\nStream: No official stream linked
+DTEND:20260425T023417Z
+DTSTART:20260425T001423Z
+SUMMARY:Winners match: BST.A vs QUIN
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1460904@tournamentics
 END:VEVENT
 END:VCALENDAR
