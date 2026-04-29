@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260501T170000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: NEM vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456903@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Lower bracket round 2 match 3: REGAIN vs WG
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456959@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Team Nemesis: 2 | fnatic: 0\nStream: https://kick.com/eslcs
+DTEND:20260429T184818Z
 DTSTART:20260429T170032Z
 SUMMARY:Upper bracket semifinal 1: NEM vs FNC
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456899@tournamentics
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T170000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: Lavked vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456905@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -457,8 +457,8 @@ SUMMARY:Lower bracket round 2 match 4: bankaPEPSI vs 33
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456821@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Hashiras: 0 | Lavked: 2\nStream: No official stream linked
+DTEND:20260429T184318Z
 DTSTART:20260429T170309Z
 SUMMARY:Lower bracket round 6 match 2: Hashiras vs Lavked
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456902@tournamentics
@@ -838,7 +838,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T170000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: FNC vs TBD
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456904@tournamentics
 END:VEVENT
 BEGIN:VEVENT
