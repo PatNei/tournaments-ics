@@ -856,6 +856,13 @@ SUMMARY:Upper bracket quarterfinal 4: Atreides vs RUST
 UID:cs-go-cct-europe-challengers-series-1-2026-1449735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260613T140000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469385@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: BetBoom Team: 1 | Ursa: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260424T174001Z
 DTSTART:20260424T143953Z
@@ -1570,18 +1577,18 @@ SUMMARY:MIBR.A vs VEXA
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1448773@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260519T193000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469280@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260502T080000Z
 SUMMARY:Decider Match: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1467639@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | Fire Flux Esports: 0\nStream: No official stream linked
-DTEND:20260406T192448Z
-DTSTART:20260406T161417Z
-SUMMARY:ENJOY vs FF
-UID:cs-go-esea-advanced-europe-57-2026-1433386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BetBoom RUSH B! - Summit season 3 2026\nMatch Type: Best Of\nResult: Legacy: 2 | Alzon: 0\nStream: https://www.twitch.tv/btsbrasilfps
@@ -1598,11 +1605,11 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467671@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | Clockwork: 1\nStream: https://www.twitch.tv/bonamant
-DTEND:20260331T035254Z
-DTSTART:20260331T013635Z
-SUMMARY:Round 1: ZOMB vs CW
-UID:cs-go-dust2-us-eagle-masters-7-2026-1422173@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | Fire Flux Esports: 0\nStream: No official stream linked
+DTEND:20260406T192448Z
+DTSTART:20260406T161417Z
+SUMMARY:ENJOY vs FF
+UID:cs-go-esea-advanced-europe-57-2026-1433386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | Imperial Academy: 0\nStream: No official stream linked
@@ -1617,6 +1624,13 @@ DTEND:20260415T094036Z
 DTSTART:20260415T080650Z
 SUMMARY:Round 1: ACE vs URSA
 UID:cs-go-nodwin-clutch-series-7-2026-1431926@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | Clockwork: 1\nStream: https://www.twitch.tv/bonamant
+DTEND:20260331T035254Z
+DTSTART:20260331T013635Z
+SUMMARY:Round 1: ZOMB vs CW
+UID:cs-go-dust2-us-eagle-masters-7-2026-1422173@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: XPortal - Closed Qualifier #1 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | The Last Resort: 2\nStream: https://www.twitch.tv/tavarescs2
@@ -2585,6 +2599,13 @@ SUMMARY:Lower bracket semifinal: MW vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456327@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260521T193000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469279@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260507T170000Z
@@ -2597,13 +2618,6 @@ DTEND:20260426T172411Z
 DTSTART:20260426T160750Z
 SUMMARY:Round 1: KAJO vs KSM
 UID:cs-go-elisa-open-suomi-13-2026-1463382@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | ReThink: 1\nStream: No official stream linked
-DTEND:20260420T190329Z
-DTSTART:20260420T181339Z
-SUMMARY:BOJONG vs RT
-UID:cs-go-esea-advanced-europe-57-2026-1454780@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -3243,6 +3257,13 @@ SUMMARY:Lower bracket quarterfinal 2: VSC vs CRASH
 UID:cs-go-betboom-rush-b-summit-3-2026-1456326@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260514T193000Z
+SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469278@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260507T140000Z
@@ -3255,13 +3276,6 @@ DTEND:20260426T145416Z
 DTSTART:20260426T133121Z
 SUMMARY:Round 1: SINQU vs TMVG
 UID:cs-go-elisa-open-suomi-13-2026-1463381@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | SINQU: 1\nStream: https://www.twitch.tv/sinquesports
-DTEND:20260427T174359Z
-DTSTART:20260427T171245Z
-SUMMARY:BIG.E vs SINQU
-UID:cs-go-esea-advanced-europe-57-2026-1433395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | XI Esport: 1\nStream: No official stream linked
@@ -3899,6 +3913,13 @@ DTEND:20260424T173737Z
 DTSTART:20260424T160117Z
 SUMMARY:Lower bracket quarterfinal 1: Keyd vs MW
 UID:cs-go-betboom-rush-b-summit-3-2026-1456325@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260514T193000Z
+SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nResult: cirahvi: 2 | BoyBand: 0\nStream: https://www.twitch.tv/elisaviihdesport
@@ -4641,6 +4662,13 @@ DTEND:20260423T202357Z
 DTSTART:20260423T190250Z
 SUMMARY:Lower bracket round 1 match 2: CRASH vs Alzon
 UID:cs-go-betboom-rush-b-summit-3-2026-1456324@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260507T193000Z
+SUMMARY:Lower bracket round 1 match 2: MP vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469276@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: InControl: 1 | Team Aether: 2\nStream: No official stream linked
@@ -5392,6 +5420,13 @@ SUMMARY:Lower bracket round 1 match 1: ALKA vs MW
 UID:cs-go-betboom-rush-b-summit-3-2026-1456323@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260507T193000Z
+SUMMARY:Lower bracket round 1 match 1: SSS vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469275@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
 DURATION:PT2H
 DTSTART:20260503T110000Z
@@ -6092,11 +6127,25 @@ SUMMARY:Grand final: LGC vs 9z
 UID:cs-go-betboom-rush-b-summit-3-2026-1456322@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260505T193000Z
+SUMMARY:Upper bracket semifinal 2: DRIP vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469274@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: Messiah: 2 | SSSghoul: 1\nStream: https://www.twitch.tv/ukcshub
 DTEND:20260428T221247Z
 DTSTART:20260428T194209Z
 SUMMARY:Upper bracket quarterfinal 2: MES vs SSS
 UID:cs-go-ukic-masters-division-10-2026-1467069@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | ReThink: 1\nStream: No official stream linked
+DTEND:20260420T190329Z
+DTSTART:20260420T181339Z
+SUMMARY:BOJONG vs RT
+UID:cs-go-esea-advanced-europe-57-2026-1454780@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.us - Eagle Masters season 7 2026\nMatch Type: Best Of\nResult: insane players: 2 | CHICANERY: 0\nStream: https://www.twitch.tv/bonamant
@@ -6825,6 +6874,13 @@ DURATION:PT2H
 DTSTART:20260513T180000Z
 SUMMARY:Ducks vs HUSK
 UID:cs-go-dach-cs-masters-5-2026-1385757@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260505T193000Z
+SUMMARY:Upper bracket semifinal 1: MES vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
@@ -8003,6 +8059,13 @@ SUMMARY:RBLS vs TNC
 UID:cs-go-parken-challenger-championship-5-2026-1448815@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DURATION:PT2H
+DTSTART:20260528T193000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-ukic-masters-division-10-2026-1469307@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260429T180000Z
@@ -8078,6 +8141,13 @@ DTEND:20260426T030851Z
 DTSTART:20260426T003715Z
 SUMMARY:Decider match: LAG vs EMP
 UID:cs-go-fragadelphia-20-2026-1462410@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | SINQU: 1\nStream: https://www.twitch.tv/sinquesports
+DTEND:20260427T174359Z
+DTSTART:20260427T171245Z
+SUMMARY:BIG.E vs SINQU
+UID:cs-go-esea-advanced-europe-57-2026-1433395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: F5 Esports: 1 | Chicken Coop Esports: 2\nStream: No official stream linked
