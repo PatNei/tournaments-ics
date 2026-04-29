@@ -1,0 +1,25 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:TournamentICS
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nResult: MASONIC: 2 | WAZABI: 1\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260426T104530Z
+DTSTART:20260426T081108Z
+SUMMARY:Semifinal 2: MSC vs WAZ
+UID:cs-go-gamebox-festival-2026-1463987@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nResult: STATE: 2 | Sashi Academy: 1\nStream: https://www.twitch.tv/d0kt0r3n
+DTEND:20260426T104128Z
+DTSTART:20260426T080802Z
+SUMMARY:Semifinal 1: STA vs SASHI.A
+UID:cs-go-gamebox-festival-2026-1463986@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nResult: STATE: 2 | MASONIC: 1\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260426T153315Z
+DTSTART:20260426T130954Z
+SUMMARY:Grand final: STA vs MSC
+UID:cs-go-gamebox-festival-2026-1463988@tournamentics
+END:VEVENT
+END:VCALENDAR
