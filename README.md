@@ -57,6 +57,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Iem/Rio2026.ics
 ## B Tier
 
 <details>
+<summary>CCT Europe</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/CctEurope.ics
+```
+
+---
+
+### Series 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series12026.ics
+```
+
+</details>
+
+<details>
 <summary>CCT Global Finals</summary>
 
 ### Full Schedule
