@@ -4387,7 +4387,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260430T213000Z
-SUMMARY:Decider match: FV vs TBD
+SUMMARY:Decider match: FV vs SHIM
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5119,8 +5119,8 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467623@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nResult: OverKnight: 0 | shimmer: 2\nStream: https://www.twitch.tv/thunderpicktv
+DTEND:20260429T225936Z
 DTSTART:20260429T213738Z
 SUMMARY:Elimination match: OverKnight vs SHIM
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460363@tournamentics
