@@ -6535,7 +6535,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
-DTSTART:20260429T200000Z
+DTSTART:20260429T202000Z
 SUMMARY:Upper bracket semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1438855@tournamentics
 END:VEVENT
@@ -7695,9 +7695,9 @@ SUMMARY:UUST vs DNT
 UID:cs-go-esea-advanced-europe-57-2026-1447117@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cybershoke_tv
 DURATION:PT2H
-DTSTART:20260429T191000Z
+DTSTART:20260429T191555Z
 SUMMARY:CYBERSHOKE Prospects vs Diamant Esports
 UID:cs-go-esea-advanced-europe-57-2026-1468062@tournamentics
 END:VEVENT
