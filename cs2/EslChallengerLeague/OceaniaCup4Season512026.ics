@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260430T090000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: FURY vs TBD
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457355@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -21,13 +21,6 @@ DTEND:20260427T104352Z
 DTSTART:20260427T090758Z
 SUMMARY:Upper bracket quarterfinal 4: GZ vs Skele
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457348@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/flamboyantttt
-DURATION:PT2H
-DTSTART:20260429T090000Z
-SUMMARY:Upper bracket semifinal 1: TdU vs Abyssal
-UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
@@ -86,11 +79,11 @@ SUMMARY:Upper bracket round 1 match 2: TW vs Skele
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457344@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/flamboyantttt
 DURATION:PT2H
 DTSTART:20260429T090000Z
-SUMMARY:Lower bracket round 2 match 1: RSTR vs FURY
-UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457353@tournamentics
+SUMMARY:Upper bracket semifinal 1: TdU vs Abyssal
+UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457349@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
