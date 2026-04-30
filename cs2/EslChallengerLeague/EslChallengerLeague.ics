@@ -250,7 +250,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260502T010000Z
-SUMMARY:Upper bracket final: WC vs TBD
+SUMMARY:Upper bracket final: WC vs VOCA
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456967@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -275,8 +275,8 @@ SUMMARY:Lower bracket round 3 match 2: LB vs JS
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Voca: 2 | Zomblers: 0\nStream: https://www.twitch.tv/floofys
+DTEND:20260430T024357Z
 DTSTART:20260430T010118Z
 SUMMARY:Upper bracket semifinal 1: VOCA vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456961@tournamentics
@@ -1027,7 +1027,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260501T010000Z
-SUMMARY:Lower bracket quarterfinal 1: FC vs TBD
+SUMMARY:Lower bracket quarterfinal 1: FC vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
