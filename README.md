@@ -600,27 +600,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/OdysseyCup/Brazil20
 </details>
 
 <details>
-<summary>Parken Challenger Championship</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/ParkenChallengerChampionship.ics
-```
-
----
-
-### Season 5 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season52026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ParkenChallengerChampionship/Season52026.ics
-```
-
-</details>
-
-<details>
 <summary>UKIC</summary>
 
 ### Full Schedule
