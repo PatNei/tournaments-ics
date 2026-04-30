@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260501T170000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: UNiTY vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1467641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260501T110000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: PF vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1467640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -774,7 +774,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260430T170000Z
+DTSTART:20260430T180000Z
 SUMMARY:ALGO vs TNC
 UID:cs-go-nodwin-clutch-series-8-2026-1467063@tournamentics
 END:VEVENT
@@ -1381,8 +1381,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467617@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: PsychoFace: 1 | UNiTY esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260430T171928Z
 DTSTART:20260430T141429Z
 SUMMARY:PF vs UNiTY
 UID:cs-go-nodwin-clutch-series-8-2026-1467062@tournamentics
@@ -3106,7 +3106,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260502T103000Z
-SUMMARY:Upper bracket final: AAB vs BIG.A
+SUMMARY:Upper bracket final: BIG.A vs AAB
 UID:cs-go-european-pro-league-regular-4-2026-1466099@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7089,7 +7089,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260501T080000Z
-SUMMARY:Lower bracket quarterfinal 2: ALGO vs PRE
+SUMMARY:Lower bracket quarterfinal 2: PRE vs ALGO
 UID:cs-go-european-pro-league-regular-4-2026-1466106@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7754,7 +7754,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260501T103000Z
-SUMMARY:Lower bracket quarterfinal 1: RT vs IMP.A
+SUMMARY:Lower bracket quarterfinal 1: IMP.A vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1466105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
