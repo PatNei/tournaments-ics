@@ -124,7 +124,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260501T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: BBP vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1467638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -303,13 +303,6 @@ SUMMARY:ALGO vs TNC
 UID:cs-go-nodwin-clutch-series-8-2026-1467063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
-DTSTART:20260430T081000Z
-SUMMARY:WAL vs BBP
-UID:cs-go-nodwin-clutch-series-8-2026-1467060@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: BIG: 0 | Nemiga: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260427T125115Z
 DTSTART:20260427T110601Z
@@ -362,7 +355,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260501T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: WAL vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1467637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
