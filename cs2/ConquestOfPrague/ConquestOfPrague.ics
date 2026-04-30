@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Finals 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
+DURATION:PT2H
+DTSTART:20260523T180000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-conquest-of-prague-finals-2026-1470186@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: TNC: 0 | Sashi Esport: 1\nStream: https://www.twitch.tv/playzoneup
 DTEND:20260415T164932Z
 DTSTART:20260415T161246Z
@@ -79,6 +86,20 @@ SUMMARY:Round 3: CC vs UNiTY
 UID:cs-go-conquest-of-prague-online-stage-2026-1438502@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Finals 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
+DURATION:PT2H
+DTSTART:20260524T130000Z
+SUMMARY:Lower bracket final: TBD vs TBD
+UID:cs-go-conquest-of-prague-finals-2026-1470188@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Finals 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
+DURATION:PT2H
+DTSTART:20260522T180000Z
+SUMMARY:Upper bracket semifinal 2: SASHI vs EYE
+UID:cs-go-conquest-of-prague-finals-2026-1470185@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: Alliance: 1 | UNiTY esports: 0\nStream: https://www.twitch.tv/playzoneup
 DTEND:20260415T191512Z
 DTSTART:20260415T183943Z
@@ -154,6 +175,20 @@ DTEND:20260419T180204Z
 DTSTART:20260419T171714Z
 SUMMARY:Round 3: EYE vs MOUZ.N
 UID:cs-go-conquest-of-prague-online-stage-2026-1438501@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Finals 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
+DURATION:PT2H
+DTSTART:20260524T150000Z
+SUMMARY:Grand final: TBD vs TBD
+UID:cs-go-conquest-of-prague-finals-2026-1470187@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Finals 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
+DURATION:PT2H
+DTSTART:20260522T150000Z
+SUMMARY:Upper bracket semifinal 1: ALL vs WAL
+UID:cs-go-conquest-of-prague-finals-2026-1470184@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: KOLESIE: 1 | ESC Gaming: 0\nStream: https://www.twitch.tv/playzoneup
@@ -238,5 +273,12 @@ DTEND:20260420T174746Z
 DTSTART:20260420T150606Z
 SUMMARY:Round 3: SIN vs SASHI
 UID:cs-go-conquest-of-prague-online-stage-2026-1438503@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Finals 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
+DURATION:PT2H
+DTSTART:20260523T150000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-conquest-of-prague-finals-2026-1470189@tournamentics
 END:VEVENT
 END:VCALENDAR

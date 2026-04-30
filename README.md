@@ -154,6 +154,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/Co
 
 ---
 
+### Finals 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/Finals2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/Finals2026.ics
+```
+
 ### Online Stage 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/OnlineStage2026.ics)
 
