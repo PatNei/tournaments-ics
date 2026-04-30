@@ -961,8 +961,8 @@ SUMMARY:Round 3: NIC vs LPH
 UID:cs-go-exort-series-25-2026-1452831@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: Privateer Gaming: 1 | Hermine Esports Club: 2\nStream: https://kick.com/exort_en2
+DTEND:20260430T211850Z
 DTSTART:20260430T183020Z
 SUMMARY:Round 2: PG vs HEC
 UID:cs-go-exort-series-26-2026-1468562@tournamentics
@@ -4893,13 +4893,6 @@ DURATION:PT2H
 DTSTART:20260503T190000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-odyssey-cup-brazil-2026-1459543@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260430T220000Z
-SUMMARY:Round 2: HWGA vs CRASH
-UID:cs-go-champion-of-champions-tour-series-1-2026-1467600@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series 1 2026\nMatch Type: Best Of\nResult: Atreides: 1 | Brute: 2\nStream: https://kick.com/cct_cs2
