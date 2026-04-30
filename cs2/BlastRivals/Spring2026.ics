@@ -26,14 +26,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T233000Z
-SUMMARY:Upper bracket final: NAVI vs TBD
+SUMMARY:Upper bracket final: NAVI vs GL
 UID:cs-go-blast-rivals-spring-2026-1438919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T200000Z
-SUMMARY:Lower bracket semifinal: FaZe vs TBD
+SUMMARY:Lower bracket semifinal: FaZe vs FURIA
 UID:cs-go-blast-rivals-spring-2026-1438920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Upper bracket final: VIT vs G2
 UID:cs-go-blast-rivals-spring-2026-1438563@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: FURIA: 1 | GamerLegion: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260430T011232Z
 DTSTART:20260429T223429Z
 SUMMARY:Upper bracket semifinal 2: FURIA vs GL
 UID:cs-go-blast-rivals-spring-2026-1438856@tournamentics

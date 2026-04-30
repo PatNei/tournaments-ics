@@ -464,9 +464,9 @@ SUMMARY:Round 1: KSM vs S-B
 UID:cs-go-exort-series-25-2026-1433376@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/regent_xd
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/regent_xd
 DURATION:PT2H
-DTSTART:20260430T010000Z
+DTSTART:20260430T010659Z
 SUMMARY:Lower bracket round 3 match 2: CCE vs REGAIN
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456964@tournamentics
 END:VEVENT
@@ -1101,9 +1101,9 @@ SUMMARY:Round 1: VP.F vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1433375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260430T010000Z
+DTSTART:20260430T011405Z
 SUMMARY:Lower bracket round 3 match 1: FC vs Reign Above
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456963@tournamentics
 END:VEVENT
@@ -1307,7 +1307,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T200000Z
-SUMMARY:Lower bracket semifinal: FaZe vs TBD
+SUMMARY:Lower bracket semifinal: FaZe vs FURIA
 UID:cs-go-blast-rivals-spring-2026-1438920@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1808,9 +1808,9 @@ SUMMARY:Round 1: INF vs NP
 UID:cs-go-exort-series-25-2026-1433374@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://kick.com/eslcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://kick.com/eslcs
 DURATION:PT2H
-DTSTART:20260430T010000Z
+DTSTART:20260430T010121Z
 SUMMARY:Upper bracket semifinal 2: WC vs FV
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456962@tournamentics
 END:VEVENT
@@ -2322,7 +2322,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
 DURATION:PT2H
 DTSTART:20260430T233000Z
-SUMMARY:Upper bracket final: NAVI vs TBD
+SUMMARY:Upper bracket final: NAVI vs GL
 UID:cs-go-blast-rivals-spring-2026-1438919@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2431,9 +2431,9 @@ SUMMARY:Winners match: WC vs VOCA
 UID:cs-go-fragadelphia-20-2026-1462418@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/floofys
 DURATION:PT2H
-DTSTART:20260430T010000Z
+DTSTART:20260430T010118Z
 SUMMARY:Upper bracket semifinal 1: VOCA vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456961@tournamentics
 END:VEVENT
@@ -5609,8 +5609,8 @@ SUMMARY:OBOYS vs TIN
 UID:cs-go-esea-advanced-europe-57-2026-1465449@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/blastpremier
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: FURIA: 1 | GamerLegion: 2\nStream: https://www.twitch.tv/blastpremier
+DTEND:20260430T011232Z
 DTSTART:20260429T223429Z
 SUMMARY:Upper bracket semifinal 2: FURIA vs GL
 UID:cs-go-blast-rivals-spring-2026-1438856@tournamentics
