@@ -1227,8 +1227,8 @@ SUMMARY:NNP vs HERO.A
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462484@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 0 | ASTRAL: 2\nStream: https://www.twitch.tv/bcgamemasters
+DTEND:20260501T185406Z
 DTSTART:20260501T175157Z
 SUMMARY:Round 2: HERO.A vs ASTR
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467660@tournamentics
@@ -4249,13 +4249,6 @@ DURATION:PT2H
 DTSTART:20260515T160000Z
 SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469241@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260501T183000Z
-SUMMARY:Round 3: 3DMAX.A vs CAD
-UID:cs-go-exort-series-26-2026-1471620@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: MAGIC PIGGY: 0 | Dripmen: 2\nStream: https://www.twitch.tv/ukcshub

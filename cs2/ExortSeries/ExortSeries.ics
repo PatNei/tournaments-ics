@@ -86,18 +86,18 @@ SUMMARY:Round 5: VP.F vs EF.A
 UID:cs-go-exort-series-25-2026-1445605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: NeverPlay: 0 | Wave Esports: 2\nStream: https://kick.com/exort_en2
-DTEND:20260411T143154Z
-DTSTART:20260411T130008Z
-SUMMARY:Round 3: NP vs WAVE
-UID:cs-go-exort-series-25-2026-1439597@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: LPH Gaming: 2 | Ctrl Alt Defeat: 0\nStream: https://kick.com/exort_en2
 DTEND:20260422T165554Z
 DTSTART:20260422T153749Z
 SUMMARY:Round 4: LPH vs CAD
 UID:cs-go-exort-series-25-2026-1457362@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: NeverPlay: 0 | Wave Esports: 2\nStream: https://kick.com/exort_en2
+DTEND:20260411T143154Z
+DTSTART:20260411T130008Z
+SUMMARY:Round 3: NP vs WAVE
+UID:cs-go-exort-series-25-2026-1439597@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: PLATOON: 1 | Z7 Esports: 2\nStream: https://kick.com/exort_en2
@@ -112,13 +112,6 @@ DTEND:20260428T135701Z
 DTSTART:20260428T123447Z
 SUMMARY:Round 1: CAD vs VP.F
 UID:cs-go-exort-series-26-2026-1466493@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260501T183000Z
-SUMMARY:Round 3: 3DMAX.A vs CAD
-UID:cs-go-exort-series-26-2026-1471620@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: 3DMAX Academy: 1 | Wave Esports: 2\nStream: https://kick.com/exort_en2
