@@ -2805,7 +2805,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260502T090000Z
-SUMMARY:Lower bracket final: Abyssal vs GZ
+SUMMARY:Lower bracket final: GZ vs Abyssal
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457358@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2928,8 +2928,8 @@ SUMMARY:Lower bracket round 1 match 3: BMB vs AIMC
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456737@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/infiniteggro
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 1 | dJ uNT frIENDS: 0\nStream: https://kick.com/infiniteggro
+DTEND:20260501T184618Z
 DTSTART:20260501T180347Z
 SUMMARY:INF vs dJ uNT frIENDS
 UID:cs-go-esplay-elite-gaming-1-2026-1466501@tournamentics
@@ -3586,8 +3586,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469208@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | Lilmix: 0\nStream: https://www.twitch.tv/JohnnySpeeds
+DTEND:20260501T184259Z
 DTSTART:20260501T180429Z
 SUMMARY:JS vs LILMIX
 UID:cs-go-esplay-elite-gaming-1-2026-1466500@tournamentics

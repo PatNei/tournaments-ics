@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | Lilmix: 0\nStream: https://www.twitch.tv/JohnnySpeeds
+DTEND:20260501T184259Z
 DTSTART:20260501T180429Z
 SUMMARY:JS vs LILMIX
 UID:cs-go-esplay-elite-gaming-1-2026-1466500@tournamentics
@@ -72,8 +72,8 @@ SUMMARY:LILMIX vs dJ uNT frIENDS
 UID:cs-go-esplay-elite-gaming-1-2026-1466499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://kick.com/infiniteggro
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 1 | dJ uNT frIENDS: 0\nStream: https://kick.com/infiniteggro
+DTEND:20260501T184618Z
 DTSTART:20260501T180347Z
 SUMMARY:INF vs dJ uNT frIENDS
 UID:cs-go-esplay-elite-gaming-1-2026-1466501@tournamentics
