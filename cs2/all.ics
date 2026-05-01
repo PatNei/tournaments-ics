@@ -446,7 +446,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260502T080000Z
-SUMMARY:Lower bracket semifinal: ALGO vs TBD
+SUMMARY:Lower bracket semifinal: ALGO vs IMP.A
 UID:cs-go-european-pro-league-regular-4-2026-1466104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5749,9 +5749,9 @@ SUMMARY:Upper bracket round 2 match 11: Lavked vs OLDBOYS-
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456710@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/eslcsb
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://kick.com/eslcsb
 DURATION:PT2H
-DTSTART:20260501T131000Z
+DTSTART:20260501T131546Z
 SUMMARY:Lower bracket semifinal: TYLOO vs THE
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457038@tournamentics
 END:VEVENT
@@ -7772,8 +7772,8 @@ SUMMARY:Lower bracket quarterfinal 1: FC vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456965@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | ReThink: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260501T131741Z
 DTSTART:20260501T104145Z
 SUMMARY:Lower bracket quarterfinal 1: IMP.A vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1466105@tournamentics
