@@ -4,7 +4,7 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260501T123000Z
+DTSTART:20260501T124000Z
 SUMMARY:Round 3: INF vs MJX
 UID:cs-go-exort-series-26-2026-1471618@tournamentics
 END:VEVENT
@@ -35,13 +35,6 @@ DTEND:20260427T170635Z
 DTSTART:20260427T154933Z
 SUMMARY:Round 1: P2N vs INF
 UID:cs-go-exort-series-26-2026-1466119@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260501T093000Z
-SUMMARY:Round 3: GBC vs PG
-UID:cs-go-exort-series-26-2026-1471617@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: FORZE Reload: 2 | Privateer Gaming: 0\nStream: https://kick.com/exort_en2
