@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
 DTSTART:20260503T233000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: WC vs TBD
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460375@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -77,13 +77,6 @@ DTEND:20260426T221257Z
 DTSTART:20260426T213508Z
 SUMMARY:FV vs OverKnight
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460360@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
-DTSTART:20260501T213000Z
-SUMMARY:Quarterfinal 3: WC vs FV
-UID:cs-go-thunderpick-world-championship-north-american-2026-1460372@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nResult: FarmVille: 0 | Team Aether: 2\nStream: https://www.twitch.tv/thunderpicktv
