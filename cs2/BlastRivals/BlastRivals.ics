@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
+DESCRIPTION:🔴 LIVE NOW\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/BLASTPremier
 DURATION:PT2H
-DTSTART:20260501T234500Z
+DTSTART:20260501T235117Z
 SUMMARY:Quarterfinal 2: AST vs GL
 UID:cs-go-blast-rivals-spring-2026-1448726@tournamentics
 END:VEVENT
