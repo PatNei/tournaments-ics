@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260502T080000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
+SUMMARY:Lower bracket semifinal: ALGO vs TBD
 UID:cs-go-european-pro-league-regular-4-2026-1466104@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +79,8 @@ SUMMARY:Upper bracket semifinal 1: PRE vs BIG.A
 UID:cs-go-european-pro-league-regular-4-2026-1466097@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: Prestige: 0 | ALGO Esports: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260501T094606Z
 DTSTART:20260501T080506Z
 SUMMARY:Lower bracket quarterfinal 2: PRE vs ALGO
 UID:cs-go-european-pro-league-regular-4-2026-1466106@tournamentics
