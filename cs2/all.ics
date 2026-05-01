@@ -1234,7 +1234,7 @@ SUMMARY:NNP vs HERO.A
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462484@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260501T170000Z
 SUMMARY:Round 2: HERO.A vs ASTR
@@ -5756,8 +5756,8 @@ SUMMARY:Lower bracket semifinal: ZOMB vs REGAIN
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456968@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | dJ uNT frIENDS: 0\nStream: https://www.twitch.tv/JohnnySpeeds
+DTEND:20260501T163430Z
 DTSTART:20260501T160641Z
 SUMMARY:JS vs dJ uNT frIENDS
 UID:cs-go-esplay-elite-gaming-1-2026-1466496@tournamentics
