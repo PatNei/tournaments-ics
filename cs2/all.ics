@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260501T110000Z
-SUMMARY:Winners match: UNiTY vs TNC
+SUMMARY:Winners match: TNC vs UNiTY
 UID:cs-go-nodwin-clutch-series-8-2026-1467641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -172,8 +172,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260501T213000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+DTSTART:20260503T003000Z
+SUMMARY:Quarterfinal 1: M80 vs Incognito
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2091,7 +2091,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260501T140000Z
-SUMMARY:Elimination match: BBP vs HERO.A
+SUMMARY:Elimination match: HERO.A vs BBP
 UID:cs-go-nodwin-clutch-series-8-2026-1467638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5861,11 +5861,11 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467633@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
-DTSTART:20260503T003000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-thunderpick-world-championship-north-american-2026-1460373@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Wingman: 0 | Nebula In Chaox: 2\nStream: https://kick.com/exort_en2
+DTEND:20260421T200229Z
+DTSTART:20260421T184129Z
+SUMMARY:Round 4: WING vs NIC
+UID:cs-go-exort-series-25-2026-1456254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamebox Festival - 2026\nMatch Type: Best Of\nResult: STATE: 2 | MASONIC: 1\nStream: https://www.twitch.tv/dust2tv
@@ -5873,13 +5873,6 @@ DTEND:20260426T153315Z
 DTSTART:20260426T130954Z
 SUMMARY:Grand final: STA vs MSC
 UID:cs-go-gamebox-festival-2026-1463988@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Wingman: 0 | Nebula In Chaox: 2\nStream: https://kick.com/exort_en2
-DTEND:20260421T200229Z
-DTSTART:20260421T184129Z
-SUMMARY:Round 4: WING vs NIC
-UID:cs-go-exort-series-25-2026-1456254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -6528,8 +6521,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260502T213000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+DTSTART:20260501T213000Z
+SUMMARY:Quarterfinal 3: WC vs FV
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460372@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7144,8 +7137,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260502T003000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+DTSTART:20260502T213000Z
+SUMMARY:Quarterfinal 2: ZOMB vs InC
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460371@tournamentics
 END:VEVENT
 BEGIN:VEVENT

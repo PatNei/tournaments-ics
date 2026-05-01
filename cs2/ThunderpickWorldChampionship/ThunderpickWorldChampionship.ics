@@ -4,8 +4,8 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260502T003000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+DTSTART:20260502T213000Z
+SUMMARY:Quarterfinal 2: ZOMB vs InC
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460371@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -37,13 +37,6 @@ SUMMARY:TA vs SHIM
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460361@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
-DURATION:PT2H
-DTSTART:20260503T003000Z
-SUMMARY:Quarterfinal 4: TBD vs TBD
-UID:cs-go-thunderpick-world-championship-north-american-2026-1460373@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nResult: girl kissers: 0 | Incognito: 2\nStream: https://www.twitch.tv/thunderpicktv
 DTEND:20260501T014645Z
 DTSTART:20260501T003449Z
@@ -53,8 +46,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260501T213000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+DTSTART:20260503T003000Z
+SUMMARY:Quarterfinal 1: M80 vs Incognito
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460370@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -88,8 +81,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Thunderpick World Championship - North American 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/thunderpicktv
 DURATION:PT2H
-DTSTART:20260502T213000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+DTSTART:20260501T213000Z
+SUMMARY:Quarterfinal 3: WC vs FV
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460372@tournamentics
 END:VEVENT
 BEGIN:VEVENT
