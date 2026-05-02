@@ -1013,7 +1013,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260503T080000Z
-SUMMARY:Lower bracket quarterfinal 1: INF vs TBD
+SUMMARY:Lower bracket quarterfinal 1: INF vs LPH
 UID:cs-go-united21-48-2026-1469569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1696,8 +1696,8 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471699@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 2 | LPH Gaming: 0\nStream: https://kick.com/united21_en
+DTEND:20260502T120158Z
 DTSTART:20260502T103524Z
 SUMMARY:Upper bracket semifinal 2: FF vs LPH
 UID:cs-go-united21-48-2026-1469568@tournamentics
@@ -3894,9 +3894,9 @@ SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469230@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
-DTSTART:20260502T120000Z
+DTSTART:20260502T120434Z
 SUMMARY:Round 2 match 4: EF vs MGC
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466461@tournamentics
 END:VEVENT
@@ -7453,7 +7453,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260504T080000Z
-SUMMARY:Upper bracket final: ALGO vs TBD
+SUMMARY:Upper bracket final: ALGO vs FF
 UID:cs-go-united21-48-2026-1469571@tournamentics
 END:VEVENT
 BEGIN:VEVENT
