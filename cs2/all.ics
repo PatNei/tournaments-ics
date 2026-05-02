@@ -1381,7 +1381,7 @@ SUMMARY:Round 2: INF vs HEC
 UID:cs-go-exort-series-25-2026-1449860@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/camyyfps
 DURATION:PT2H
 DTSTART:20260502T170000Z
 SUMMARY:Round 4: TdP vs BHE
@@ -6316,8 +6316,8 @@ SUMMARY:Round 2 match 1: SHK vs 33
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: ASTRAL: 0 | Bebop: 2\nStream: https://kick.com/cct_cs
+DTEND:20260502T155511Z
 DTSTART:20260502T140914Z
 SUMMARY:ASTR vs BBP
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462477@tournamentics
@@ -6645,7 +6645,7 @@ SUMMARY:Elimination match: PRE vs Z7
 UID:cs-go-european-pro-league-regular-4-2026-1452818@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.kick.com/bcgamemasters
+DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260502T170000Z
 SUMMARY:Round 3: WAL vs AAB
