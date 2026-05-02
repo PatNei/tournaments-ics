@@ -1080,13 +1080,6 @@ SUMMARY:Upper bracket final: INOX vs RUST
 UID:cs-go-cct-europe-challengers-series-1-2026-1449746@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260502T160000Z
-SUMMARY:Round 3: FURIA.F vs HWGA
-UID:cs-go-champion-of-champions-tour-series-1-2026-1467606@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260511T140000Z
@@ -3894,9 +3887,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469219@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
 DURATION:PT2H
-DTSTART:20260502T140000Z
+DTSTART:20260502T140408Z
 SUMMARY:Semifinal 2: G2.A vs JS
 UID:cs-go-esplay-elite-gaming-1-2026-1466511@tournamentics
 END:VEVENT
@@ -4608,9 +4601,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469218@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esplaycom
+DESCRIPTION:🔴 LIVE NOW\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esplaycom
 DURATION:PT2H
-DTSTART:20260502T140000Z
+DTSTART:20260502T140425Z
 SUMMARY:Semifinal 1: INF vs LILMIX
 UID:cs-go-esplay-elite-gaming-1-2026-1466510@tournamentics
 END:VEVENT
@@ -6323,9 +6316,9 @@ SUMMARY:Round 2 match 1: SHK vs 33
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260502T140000Z
+DTSTART:20260502T140914Z
 SUMMARY:ASTR vs BBP
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462477@tournamentics
 END:VEVENT
@@ -7284,7 +7277,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260502T140000Z
+DTSTART:20260502T141000Z
 SUMMARY:Decider Match: UNiTY vs PF
 UID:cs-go-nodwin-clutch-series-8-2026-1467642@tournamentics
 END:VEVENT
@@ -7317,9 +7310,9 @@ SUMMARY:Decider match: LPH vs BOJONG
 UID:cs-go-european-pro-league-regular-4-2026-1452817@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
+DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
-DTSTART:20260502T140000Z
+DTSTART:20260502T140929Z
 SUMMARY:Round 3: CS vs Lavked
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467663@tournamentics
 END:VEVENT
