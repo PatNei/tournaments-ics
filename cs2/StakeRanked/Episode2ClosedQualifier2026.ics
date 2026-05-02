@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260503T190000Z
-SUMMARY:Round 3 match 2: TBD vs TBD
+SUMMARY:Round 3 match 2: M8 vs TBD
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Round 2 match 2: ILWL vs 100T
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Gentle Mates: 2 | FOKUS: 0\nStream: https://kick.com/starladder
+DTEND:20260502T105606Z
 DTSTART:20260502T090119Z
 SUMMARY:Round 2 match 3: M8 vs FOKUS
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466460@tournamentics
