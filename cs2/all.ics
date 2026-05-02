@@ -401,6 +401,13 @@ SUMMARY:Round 1: VSC vs Damajuana
 UID:cs-go-champion-of-champions-tour-series-1-2026-1460949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260503T190000Z
+SUMMARY:Decider match: RED.A vs QUIN
+UID:cs-go-gamers-club-liga-serie-a-april-2026-1473932@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260505T110000Z
@@ -3211,7 +3218,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
 DURATION:PT2H
 DTSTART:20260503T160000Z
-SUMMARY:Round 3 match 1: 100T vs TBD
+SUMMARY:Round 3 match 1: 100T vs SHK
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466462@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6302,8 +6309,8 @@ SUMMARY:Quarterfinal 1: RGG vs LILMIX
 UID:cs-go-esplay-elite-gaming-1-2026-1466508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Sharks: 2 | BET-M 33: 1\nStream: https://kick.com/starladder
+DTEND:20260502T202522Z
 DTSTART:20260502T181136Z
 SUMMARY:Round 2 match 1: SHK vs 33
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466458@tournamentics
