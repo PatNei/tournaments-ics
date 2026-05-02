@@ -1041,7 +1041,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260503T080000Z
-SUMMARY:Lower bracket final: IMP.A vs TBD
+SUMMARY:Lower bracket final: IMP.A vs AAB
 UID:cs-go-european-pro-league-regular-4-2026-1466103@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1734,7 +1734,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260504T080000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: BIG.A vs TBD
 UID:cs-go-european-pro-league-regular-4-2026-1466102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3082,8 +3082,8 @@ SUMMARY:Upper bracket semifinal 1: IMP vs FDB
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457001@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: BIG Academy: 2 | AaB Esport: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260502T130457Z
 DTSTART:20260502T104716Z
 SUMMARY:Upper bracket final: BIG.A vs AAB
 UID:cs-go-european-pro-league-regular-4-2026-1466099@tournamentics
@@ -4699,9 +4699,9 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260502T123000Z
+DTSTART:20260502T123010Z
 SUMMARY:Round 3: Pitstop crew vs HEC
 UID:cs-go-exort-series-26-2026-1472560@tournamentics
 END:VEVENT
@@ -5091,9 +5091,9 @@ SUMMARY:Upper bracket round 2 match 12: SPARTA vs DNT
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456711@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xristcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/xristcs
 DURATION:PT2H
-DTSTART:20260502T130000Z
+DTSTART:20260502T130634Z
 SUMMARY:Lower bracket final: TYLOO vs CW
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457039@tournamentics
 END:VEVENT
