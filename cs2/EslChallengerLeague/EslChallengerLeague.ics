@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260504T010000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: WC vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456970@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -240,8 +240,8 @@ SUMMARY:Upper bracket round 2 match 16: 9INE vs MISA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456735@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: https://kick.com/eslcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Voca: 0 | Wildcard: 2\nStream: https://kick.com/eslcs
+DTEND:20260502T023203Z
 DTSTART:20260502T010541Z
 SUMMARY:Upper bracket final: VOCA vs WC
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456967@tournamentics
@@ -635,7 +635,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260503T010000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: VOCA vs TBD
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456969@tournamentics
 END:VEVENT
 BEGIN:VEVENT
