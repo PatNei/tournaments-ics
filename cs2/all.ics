@@ -2539,7 +2539,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esplaycom
 DURATION:PT2H
 DTSTART:20260502T170000Z
-SUMMARY:3rd place match: TBD vs TBD
+SUMMARY:3rd place match: G2.A vs TBD
 UID:cs-go-esplay-elite-gaming-1-2026-1466513@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3232,7 +3232,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/esplaycom
 DURATION:PT2H
 DTSTART:20260502T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: JS vs TBD
 UID:cs-go-esplay-elite-gaming-1-2026-1466512@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3887,8 +3887,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469219@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/JohnnySpeeds
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: G2 Ares: 0 | Johnny Speeds: 2\nStream: https://www.twitch.tv/JohnnySpeeds
+DTEND:20260502T152700Z
 DTSTART:20260502T140408Z
 SUMMARY:Semifinal 2: G2.A vs JS
 UID:cs-go-esplay-elite-gaming-1-2026-1466511@tournamentics
