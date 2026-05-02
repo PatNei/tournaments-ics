@@ -457,9 +457,9 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469220@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260502T110000Z
+DTSTART:20260502T111304Z
 SUMMARY:PF vs URSA
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462476@tournamentics
 END:VEVENT
@@ -502,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260505T110000Z
-SUMMARY:Lower bracket round 1 match 3: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 3: CSD vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470234@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -702,11 +702,11 @@ SUMMARY:FCF vs EC BANGA
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462495@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260502T110000Z
-SUMMARY:Upper bracket round 1 match 6: CSD vs TLR
-UID:cs-go-cct-europe-challengers-series-2-2026-1470195@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | ASTRAL: 2\nStream: No official stream linked
+DTEND:20260430T153706Z
+DTSTART:20260430T140835Z
+SUMMARY:Winners match: MANA vs ASTR
+UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462492@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
@@ -714,13 +714,6 @@ DURATION:PT2H
 DTSTART:20260512T110000Z
 SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469228@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | ASTRAL: 2\nStream: No official stream linked
-DTEND:20260430T153706Z
-DTSTART:20260430T140835Z
-SUMMARY:Winners match: MANA vs ASTR
-UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462492@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
@@ -796,7 +789,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260505T134500Z
-SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 3: TLR vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
