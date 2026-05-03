@@ -6225,9 +6225,9 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
+DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
-DTSTART:20260503T160000Z
+DTSTART:20260503T160057Z
 SUMMARY:Round 3: KAJO vs BJNG
 UID:cs-go-elisa-open-suomi-13-2026-1463389@tournamentics
 END:VEVENT
@@ -6263,7 +6263,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260504T140000Z
-SUMMARY:Winners match: Lavked vs TBD
+SUMMARY:Winners match: Lavked vs PHA
 UID:cs-go-nodwin-clutch-series-8-2026-1467644@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6970,7 +6970,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260504T080000Z
-SUMMARY:Elimination match: G1 vs TBD
+SUMMARY:Elimination match: G1 vs aAa
 UID:cs-go-nodwin-clutch-series-8-2026-1467643@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7870,8 +7870,8 @@ SUMMARY:Round 4: AIMC vs CSGOPOSITIVE
 UID:cs-go-exort-series-25-2026-1456252@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Phantom: 2 | against All authority: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260503T155359Z
 DTSTART:20260503T143326Z
 SUMMARY:PHA vs aAa
 UID:cs-go-nodwin-clutch-series-8-2026-1467065@tournamentics
