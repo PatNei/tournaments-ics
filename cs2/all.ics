@@ -1061,7 +1061,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
-DTSTART:20260503T080000Z
+DTSTART:20260503T081000Z
 SUMMARY:Lower bracket quarterfinal 1: INF vs LPH
 UID:cs-go-united21-48-2026-1469569@tournamentics
 END:VEVENT
@@ -1087,9 +1087,9 @@ SUMMARY:Lower bracket round 3 match 1: FC vs Reign Above
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456963@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260503T080000Z
+DTSTART:20260503T080834Z
 SUMMARY:Lower bracket final: IMP.A vs AAB
 UID:cs-go-european-pro-league-regular-4-2026-1466103@tournamentics
 END:VEVENT
@@ -7214,7 +7214,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260503T080000Z
+DTSTART:20260503T081000Z
 SUMMARY:URSA vs HAVU
 UID:cs-go-nodwin-clutch-series-8-2026-1467066@tournamentics
 END:VEVENT
