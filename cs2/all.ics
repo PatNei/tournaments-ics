@@ -417,7 +417,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260503T190000Z
+DTSTART:20260503T220000Z
 SUMMARY:Decider match: RED.A vs QUIN
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1473932@tournamentics
 END:VEVENT
@@ -425,7 +425,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260505T110000Z
-SUMMARY:Lower bracket round 1 match 4: AUR.YB vs TBD
+SUMMARY:Lower bracket round 1 match 4: AUR.YB vs LILMIX
 UID:cs-go-cct-europe-challengers-series-2-2026-1470235@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1573,7 +1573,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260504T110000Z
-SUMMARY:Lower bracket round 1 match 1: playersclub vs TBD
+SUMMARY:Lower bracket round 1 match 1: playersclub vs BG
 UID:cs-go-cct-europe-challengers-series-2-2026-1470198@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2462,7 +2462,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260504T134500Z
-SUMMARY:Upper bracket quarterfinal 1: Atreides vs TBD
+SUMMARY:Upper bracket quarterfinal 1: Atreides vs BRUTE
 UID:cs-go-cct-europe-challengers-series-2-2026-1470232@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5924,11 +5924,11 @@ SUMMARY:Lower bracket round 1 match 8: 33 vs JUL
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456756@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260503T134500Z
-SUMMARY:Upper bracket round 1 match 8: LILMIX vs ex-Zero Tenacity
-UID:cs-go-cct-europe-challengers-series-2-2026-1470192@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: illwill: 1 | 100 Thieves: 2\nStream: https://kick.com/starladder
+DTEND:20260502T175312Z
+DTSTART:20260502T150344Z
+SUMMARY:Round 2 match 2: ILWL vs 100T
+UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Team AceZone: 1 | Wave Esports: 2\nStream: No official stream linked
@@ -5945,11 +5945,11 @@ SUMMARY:Quarterfinal 2: JS vs Matrix
 UID:cs-go-esplay-elite-gaming-1-2026-1466509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: illwill: 1 | 100 Thieves: 2\nStream: https://kick.com/starladder
-DTEND:20260502T175312Z
-DTSTART:20260502T150344Z
-SUMMARY:Round 2 match 2: ILWL vs 100T
-UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466459@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 1 | bankaPEPSI: 0\nStream: https://www.twitch.tv/cybershoke_tv
+DTEND:20260416T152014Z
+DTSTART:20260416T144226Z
+SUMMARY:CYBERSHOKE Prospects vs bankaPEPSI
+UID:cs-go-esea-advanced-europe-57-2026-1448718@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | MANA eSports: 1\nStream: https://kick.com/cct_cs
@@ -5957,13 +5957,6 @@ DTEND:20260502T195746Z
 DTSTART:20260502T170523Z
 SUMMARY:INOX vs MANA
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462478@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 1 | bankaPEPSI: 0\nStream: https://www.twitch.tv/cybershoke_tv
-DTEND:20260416T152014Z
-DTSTART:20260416T144226Z
-SUMMARY:CYBERSHOKE Prospects vs bankaPEPSI
-UID:cs-go-esea-advanced-europe-57-2026-1448718@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Project 91: 0 | CYBERSHOKE Prospects: 1\nStream: https://www.twitch.tv/cybershoke_tv
@@ -6337,8 +6330,8 @@ SUMMARY:Winners match: IMP.A vs SASHI.A
 UID:cs-go-european-pro-league-regular-4-2026-1452819@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgameesports
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | HEROIC Academy: 0\nStream: https://www.twitch.tv/bcgameesports
+DTEND:20260503T124037Z
 DTSTART:20260503T110639Z
 SUMMARY:Round 3: SPARTA vs HERO.A
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467665@tournamentics
@@ -7408,8 +7401,8 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469226@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Brute: 2 | Benched gods: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260503T124344Z
 DTSTART:20260503T110928Z
 SUMMARY:Upper bracket round 1 match 1: BRUTE vs BG
 UID:cs-go-cct-europe-challengers-series-2-2026-1470190@tournamentics
@@ -7509,7 +7502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260505T134500Z
-SUMMARY:Upper bracket quarterfinal 4: INOX vs TBD
+SUMMARY:Upper bracket quarterfinal 4: INOX vs ex-Zero Tenacity
 UID:cs-go-cct-europe-challengers-series-2-2026-1470237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
