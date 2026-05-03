@@ -2560,7 +2560,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260505T190000Z
-SUMMARY:Quarterfinal 3: TBD vs TBD
+SUMMARY:Quarterfinal 3: MW vs 9daplug
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468039@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3281,7 +3281,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260504T213000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: BST.A vs MIBR.A
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468038@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3971,8 +3971,8 @@ SUMMARY:Upper bracket semifinal 2: IMP.A vs AAB
 UID:cs-go-european-pro-league-regular-4-2026-1466098@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: TDK: 1 | INOX Division: 2\nStream: https://kick.com/cct_cs
+DTEND:20260503T201950Z
 DTSTART:20260503T170523Z
 SUMMARY:Round 1: TDK vs INOX
 UID:cs-go-cct-europe-series-1-21-2026-1469172@tournamentics
@@ -3995,7 +3995,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260504T190000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: LDP vs paiN.A
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468037@tournamentics
 END:VEVENT
 BEGIN:VEVENT
