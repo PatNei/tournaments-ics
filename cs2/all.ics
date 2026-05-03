@@ -3579,13 +3579,6 @@ SUMMARY:ALGO vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1451292@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260503T184000Z
-SUMMARY:Round 4: HEC vs HAVEN
-UID:cs-go-exort-series-26-2026-1474490@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260504T190000Z
@@ -4629,8 +4622,8 @@ SUMMARY:Decider match: FV vs SHIM
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: MAJIX ESPORTS: 1 | Younglings: 2\nStream: https://kick.com/exort_en2
+DTEND:20260503T182712Z
 DTSTART:20260503T153437Z
 SUMMARY:Round 4: MJX vs YL
 UID:cs-go-exort-series-26-2026-1474489@tournamentics
@@ -5441,7 +5434,7 @@ SUMMARY:Upper bracket round 1 match 6: EMP vs TA
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456946@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/kabrafps
 DURATION:PT2H
 DTSTART:20260503T190000Z
 SUMMARY:Round 5: UNO vs Keyd
