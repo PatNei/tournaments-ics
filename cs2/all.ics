@@ -4009,7 +4009,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260504T170000Z
-SUMMARY:Winners match: URSA vs TBD
+SUMMARY:Winners match: URSA vs HS
 UID:cs-go-nodwin-clutch-series-8-2026-1467647@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4779,7 +4779,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260504T110000Z
-SUMMARY:Elimination match: HAVU vs TBD
+SUMMARY:Elimination match: HAVU vs RBLS
 UID:cs-go-nodwin-clutch-series-8-2026-1467646@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6470,8 +6470,8 @@ SUMMARY:Round 4: WING vs NIC
 UID:cs-go-exort-series-25-2026-1456254@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 1 | HyperSpirit: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260503T195723Z
 DTSTART:20260503T170806Z
 SUMMARY:RBLS vs HS
 UID:cs-go-nodwin-clutch-series-8-2026-1467067@tournamentics
