@@ -3351,7 +3351,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260505T110000Z
-SUMMARY:Decider Match: HS vs TBD
+SUMMARY:Decider Match: HS vs RBLS
 UID:cs-go-nodwin-clutch-series-8-2026-1467648@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4825,8 +4825,8 @@ SUMMARY:Lower bracket round 1 match 1: DRIP vs 9INE
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 2 | HAVU: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260504T131343Z
 DTSTART:20260504T111443Z
 SUMMARY:Elimination match: RBLS vs HAVU
 UID:cs-go-nodwin-clutch-series-8-2026-1467646@tournamentics
