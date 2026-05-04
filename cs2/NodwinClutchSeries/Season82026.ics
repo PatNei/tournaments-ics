@@ -4,9 +4,23 @@ PRODID:TournamentICS
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
+DTSTART:20260504T140000Z
+SUMMARY:Winners match: Lavked vs PHA
+UID:cs-go-nodwin-clutch-series-8-2026-1467644@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
 DTSTART:20260518T140000Z
 SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471698@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: TNC: 2 | UNiTY esports: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260501T142346Z
+DTSTART:20260501T110748Z
+SUMMARY:Winners match: TNC vs UNiTY
+UID:cs-go-nodwin-clutch-series-8-2026-1467641@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -14,6 +28,13 @@ DURATION:PT2H
 DTSTART:20260516T140000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471695@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | Oxuji Esports: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260501T093902Z
+DTSTART:20260501T081825Z
+SUMMARY:Winners match: WAL vs OXUJI
+UID:cs-go-nodwin-clutch-series-8-2026-1467637@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -28,6 +49,20 @@ DURATION:PT2H
 DTSTART:20260514T110000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471688@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Phantom: 2 | against All authority: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260503T155359Z
+DTSTART:20260503T143326Z
+SUMMARY:PHA vs aAa
+UID:cs-go-nodwin-clutch-series-8-2026-1467065@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: PsychoFace: 1 | UNiTY esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260430T171928Z
+DTSTART:20260430T141429Z
+SUMMARY:PF vs UNiTY
+UID:cs-go-nodwin-clutch-series-8-2026-1467062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -102,9 +137,44 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
+DTSTART:20260506T080000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-nodwin-clutch-series-8-2026-1467649@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260506T110000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-nodwin-clutch-series-8-2026-1467650@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260504T110000Z
+SUMMARY:Elimination match: RBLS vs HAVU
+UID:cs-go-nodwin-clutch-series-8-2026-1467646@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260504T170000Z
+SUMMARY:Elimination match: G1 vs aAa
+UID:cs-go-nodwin-clutch-series-8-2026-1467643@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
 DTSTART:20260518T110000Z
 SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471697@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: PsychoFace: 2 | ALGO Esports: 0\nStream: https://kick.com/nodwin_cs2
+DTEND:20260501T191646Z
+DTSTART:20260501T172135Z
+SUMMARY:Elimination match: PF vs ALGO
+UID:cs-go-nodwin-clutch-series-8-2026-1467640@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -112,6 +182,13 @@ DURATION:PT2H
 DTSTART:20260516T110000Z
 SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471694@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 1 | HyperSpirit: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260503T195723Z
+DTSTART:20260503T170806Z
+SUMMARY:RBLS vs HS
+UID:cs-go-nodwin-clutch-series-8-2026-1467067@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -126,6 +203,20 @@ DURATION:PT2H
 DTSTART:20260514T080000Z
 SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471687@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Lavked: 2 | GenOne: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260503T140443Z
+DTSTART:20260503T112558Z
+SUMMARY:Lavked vs G1
+UID:cs-go-nodwin-clutch-series-8-2026-1467064@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 0 | Oxuji Esports: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260430T125912Z
+DTSTART:20260430T111915Z
+SUMMARY:HERO.A vs OXUJI
+UID:cs-go-nodwin-clutch-series-8-2026-1467061@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -214,9 +305,37 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
+DTSTART:20260506T170000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-nodwin-clutch-series-8-2026-1467652@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260505T110000Z
+SUMMARY:Decider Match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-8-2026-1467648@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260505T080000Z
+SUMMARY:Decider Match: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-8-2026-1467645@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
 DTSTART:20260518T170000Z
 SUMMARY:Round of 16 match 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471699@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: UNiTY esports: 2 | PsychoFace: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260502T172427Z
+DTSTART:20260502T141222Z
+SUMMARY:Decider Match: UNiTY vs PF
+UID:cs-go-nodwin-clutch-series-8-2026-1467642@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -224,6 +343,13 @@ DURATION:PT2H
 DTSTART:20260518T080000Z
 SUMMARY:Round of 16 match 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471696@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: HEROIC Academy: 1 | Bebop: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260501T165821Z
+DTSTART:20260501T144233Z
+SUMMARY:Elimination match: HERO.A vs BBP
+UID:cs-go-nodwin-clutch-series-8-2026-1467638@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -240,6 +366,13 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471689@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Ursa: 2 | HAVU: 1\nStream: https://kick.com/nodwin_cs2
+DTEND:20260503T105458Z
+DTSTART:20260503T081523Z
+SUMMARY:URSA vs HAVU
+UID:cs-go-nodwin-clutch-series-8-2026-1467066@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260515T080000Z
@@ -252,6 +385,13 @@ DURATION:PT2H
 DTSTART:20260513T170000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471686@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: ALGO Esports: 0 | TNC: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260430T194007Z
+DTSTART:20260430T174426Z
+SUMMARY:ALGO vs TNC
+UID:cs-go-nodwin-clutch-series-8-2026-1467063@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -336,5 +476,19 @@ DURATION:PT2H
 DTSTART:20260508T080000Z
 SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471663@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260506T140000Z
+SUMMARY:TBD vs TBD
+UID:cs-go-nodwin-clutch-series-8-2026-1467651@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260504T080000Z
+SUMMARY:Winners match: URSA vs HS
+UID:cs-go-nodwin-clutch-series-8-2026-1467647@tournamentics
 END:VEVENT
 END:VCALENDAR

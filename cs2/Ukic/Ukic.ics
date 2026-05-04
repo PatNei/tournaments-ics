@@ -16,6 +16,20 @@ SUMMARY:Upper bracket semifinal 2: DRIP vs RUK
 UID:cs-go-ukic-masters-division-10-2026-1469274@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: Messiah: 2 | SSSghoul: 1\nStream: https://www.twitch.tv/ukcshub
+DTEND:20260428T221247Z
+DTSTART:20260428T194209Z
+SUMMARY:Upper bracket quarterfinal 2: MES vs SSS
+UID:cs-go-ukic-masters-division-10-2026-1467069@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: OKSUCC: 1 | RESTORE-UK: 2\nStream: https://www.twitch.tv/UKICircuit
+DTEND:20260430T220818Z
+DTSTART:20260430T220758Z
+SUMMARY:Upper bracket quarterfinal 3: OKS vs RUK
+UID:cs-go-ukic-masters-division-10-2026-1467070@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260521T193000Z
@@ -51,6 +65,13 @@ SUMMARY:Upper bracket semifinal 1: MES vs TLR
 UID:cs-go-ukic-masters-division-10-2026-1469273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | Vlad to the Bone666: 0\nStream: No official stream linked
+DTEND:20260502T201904Z
+DTSTART:20260502T190943Z
+SUMMARY:Upper bracket quarterfinal 1: TLR vs VTB
+UID:cs-go-ukic-masters-division-10-2026-1467068@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260514T193000Z
@@ -70,5 +91,12 @@ DURATION:PT2H
 DTSTART:20260507T193000Z
 SUMMARY:Lower bracket round 1 match 1: SSS vs VTB
 UID:cs-go-ukic-masters-division-10-2026-1469275@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: MAGIC PIGGY: 0 | Dripmen: 2\nStream: https://www.twitch.tv/ukcshub
+DTEND:20260428T191929Z
+DTSTART:20260428T170845Z
+SUMMARY:Upper bracket quarterfinal 4: MP vs DRIP
+UID:cs-go-ukic-masters-division-10-2026-1467071@tournamentics
 END:VEVENT
 END:VCALENDAR

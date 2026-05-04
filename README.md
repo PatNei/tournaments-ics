@@ -271,6 +271,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/LorgarRankings/2026
 </details>
 
 <details>
+<summary>Stake Ranked</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/StakeRanked.ics
+```
+
+---
+
+### Episode 2: Closed Qualifier 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode2ClosedQualifier2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/StakeRanked/Episode2ClosedQualifier2026.ics
+```
+
+</details>
+
+<details>
 <summary>Thunderpick World Championship</summary>
 
 ### Full Schedule
@@ -319,6 +340,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Challenge
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ChallengersSeriesSeason22026.ics
 ```
 
+### Closed Qualifier: Series #1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/ClosedQualifierSeries12026.ics
+```
+
 </details>
 
 <details>
@@ -359,6 +387,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Dust2
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Dust2DkLigaen/Season322026.ics
+```
+
+</details>
+
+<details>
+<summary>Elisa Open Suomi</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/ElisaOpenSuomi.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/ElisaOpenSuomi.ics
+```
+
+---
+
+### Season 13 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/Season132026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ElisaOpenSuomi/Season132026.ics
 ```
 
 </details>
@@ -413,6 +462,27 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague
 </details>
 
 <details>
+<summary>Esplay Elite Gaming</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsplayEliteGaming/EsplayEliteGaming.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsplayEliteGaming/EsplayEliteGaming.ics
+```
+
+---
+
+### Season 1 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsplayEliteGaming/Season12026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EsplayEliteGaming/Season12026.ics
+```
+
+</details>
+
+<details>
 <summary>European Pro League</summary>
 
 ### Full Schedule
@@ -445,11 +515,60 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/ExortSe
 
 ---
 
+### Season 25 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season252026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season252026.ics
+```
+
 ### Season 26 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season262026.ics)
 
 ```text
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ExortSeries/Season262026.ics
+```
+
+</details>
+
+<details>
+<summary>FRAG</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Frag.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Frag.ics
+```
+
+---
+
+### Season 20 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Season202026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/Frag/Season202026.ics
+```
+
+</details>
+
+<details>
+<summary>Gamebox Festival</summary>
+
+### Full Schedule
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GameboxFestival/GameboxFestival.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GameboxFestival/GameboxFestival.ics
+```
+
+---
+
+### 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GameboxFestival/2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GameboxFestival/2026.ics
 ```
 
 </details>
@@ -486,6 +605,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/
 ```
 
 ---
+
+### Season 7 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season72026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season72026.ics
+```
 
 ### Season 8 2026
 [Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/NodwinClutchSeries/Season82026.ics)
