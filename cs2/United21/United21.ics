@@ -2,8 +2,8 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: ALGO Esports: 2 | Fire Flux Esports: 1\nStream: https://kick.com/united21_en
+DTEND:20260504T110000Z
 DTSTART:20260504T081001Z
 SUMMARY:Upper bracket final: ALGO vs FF
 UID:cs-go-united21-48-2026-1469571@tournamentics
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260507T080000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: FF vs TBD
 UID:cs-go-united21-48-2026-1469573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -236,7 +236,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260508T080000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: ALGO vs TBD
 UID:cs-go-united21-48-2026-1469574@tournamentics
 END:VEVENT
 END:VCALENDAR

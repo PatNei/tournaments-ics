@@ -2312,9 +2312,9 @@ SUMMARY:Upper bracket quartefinal 2: MW vs VSC
 UID:cs-go-betboom-rush-b-summit-3-2026-1456316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersb
+DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemastersb
 DURATION:PT2H
-DTSTART:20260504T110000Z
+DTSTART:20260504T110907Z
 SUMMARY:Round 4: CS vs MEGO
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467670@tournamentics
 END:VEVENT
@@ -2578,9 +2578,9 @@ SUMMARY:Upper bracket semifinal 2: GLS vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457002@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260504T110000Z
+DTSTART:20260504T110433Z
 SUMMARY:Round 1: TNC vs UNiTY
 UID:cs-go-cct-europe-series-1-21-2026-1469174@tournamentics
 END:VEVENT
@@ -3397,9 +3397,9 @@ SUMMARY:BOJONG vs XI
 UID:cs-go-esea-advanced-europe-57-2026-1465452@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgameesports
+DESCRIPTION:🔴 LIVE NOW\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgameesports
 DURATION:PT2H
-DTSTART:20260504T110000Z
+DTSTART:20260504T110758Z
 SUMMARY:Round 4: AAB vs aAa
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467669@tournamentics
 END:VEVENT
@@ -4825,9 +4825,9 @@ SUMMARY:Lower bracket round 1 match 1: DRIP vs 9INE
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456688@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260504T110000Z
+DTSTART:20260504T111443Z
 SUMMARY:Elimination match: RBLS vs HAVU
 UID:cs-go-nodwin-clutch-series-8-2026-1467646@tournamentics
 END:VEVENT
@@ -5745,7 +5745,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260508T080000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: ALGO vs TBD
 UID:cs-go-united21-48-2026-1469574@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6501,7 +6501,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260507T080000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: FF vs TBD
 UID:cs-go-united21-48-2026-1469573@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7912,8 +7912,8 @@ SUMMARY:BST.A vs Red Feet
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1450344@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: ALGO Esports: 2 | Fire Flux Esports: 1\nStream: https://kick.com/united21_en
+DTEND:20260504T110000Z
 DTSTART:20260504T081001Z
 SUMMARY:Upper bracket final: ALGO vs FF
 UID:cs-go-united21-48-2026-1469571@tournamentics
