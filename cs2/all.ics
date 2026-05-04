@@ -534,9 +534,9 @@ SUMMARY:Lower bracket quarterfinal 1: FDB vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457005@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/glitchtechgaming
 DURATION:PT2H
-DTSTART:20260504T180000Z
+DTSTART:20260504T181000Z
 SUMMARY:GE vs DRIP
 UID:cs-go-esea-advanced-europe-57-2026-1475994@tournamentics
 END:VEVENT
@@ -1943,7 +1943,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260504T180000Z
+DTSTART:20260504T181000Z
 SUMMARY:SE7ENS vs RT
 UID:cs-go-esea-advanced-europe-57-2026-1475992@tournamentics
 END:VEVENT
@@ -2935,8 +2935,8 @@ SUMMARY:NRG vs FXT
 UID:cs-go-fragadelphia-20-2026-1462406@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | FC Famalicão Esports: 0\nStream: https://kick.com/cct_cs
+DTEND:20260504T180843Z
 DTSTART:20260504T170605Z
 SUMMARY:Round 1: WAL vs FCF
 UID:cs-go-cct-europe-series-1-21-2026-1469185@tournamentics
@@ -3357,7 +3357,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260504T180000Z
+DTSTART:20260504T181000Z
 SUMMARY:CC.FE vs COW
 UID:cs-go-esea-advanced-europe-57-2026-1475990@tournamentics
 END:VEVENT
@@ -8502,7 +8502,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260504T180000Z
+DTSTART:20260504T181000Z
 SUMMARY:RGG vs Diamant Esports
 UID:cs-go-esea-advanced-europe-57-2026-1475995@tournamentics
 END:VEVENT
