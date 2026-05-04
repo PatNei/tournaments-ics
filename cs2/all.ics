@@ -1363,7 +1363,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260507T134500Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: TLR vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470245@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2123,9 +2123,9 @@ SUMMARY:Upper bracket semifinal 1: NEM vs FNC
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456899@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260504T154500Z
+DTSTART:20260504T154550Z
 SUMMARY:Round 4: CAD vs P2N
 UID:cs-go-exort-series-26-2026-1474492@tournamentics
 END:VEVENT
@@ -3575,7 +3575,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260509T080000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: MGLZ vs MGC
 UID:cs-go-pgl-astana-2026-1474545@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4303,7 +4303,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260509T080000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: MOUZ vs M8
 UID:cs-go-pgl-astana-2026-1474544@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5031,7 +5031,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260509T050000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: G2 vs FC
 UID:cs-go-pgl-astana-2026-1474543@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5752,7 +5752,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260509T050000Z
-SUMMARY:Round 1: TBD vs TBD
+SUMMARY:Round 1: AUR vs HERO
 UID:cs-go-pgl-astana-2026-1474542@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6060,7 +6060,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260506T110000Z
-SUMMARY:Lower bracket round 2 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 2: m1x vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470239@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8227,8 +8227,8 @@ SUMMARY:Round 1 match 2: TS.A vs EP
 UID:cs-go-exort-series-25-2026-1460889@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: The Last Resort: 2 | m1x: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260504T155416Z
 DTSTART:20260504T135218Z
 SUMMARY:Upper bracket quarterfinal 3: TLR vs m1x
 UID:cs-go-cct-europe-challengers-series-2-2026-1470236@tournamentics
