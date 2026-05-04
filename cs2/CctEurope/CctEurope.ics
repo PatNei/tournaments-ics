@@ -89,14 +89,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260507T134500Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: BRUTE vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260506T134500Z
-SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 4: Atreides vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -198,8 +198,8 @@ SUMMARY:Lower bracket round 1 match 4: AUR.YB vs LILMIX
 UID:cs-go-cct-europe-challengers-series-2-2026-1470235@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Atreides: 1 | Brute: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260504T170224Z
 DTSTART:20260504T135226Z
 SUMMARY:Upper bracket quarterfinal 1: Atreides vs BRUTE
 UID:cs-go-cct-europe-challengers-series-2-2026-1470232@tournamentics
@@ -331,9 +331,9 @@ SUMMARY:Lower bracket round 2 match 3: EC BANGA vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260504T170000Z
+DTSTART:20260504T170605Z
 SUMMARY:Round 1: WAL vs FCF
 UID:cs-go-cct-europe-series-1-21-2026-1469185@tournamentics
 END:VEVENT

@@ -429,6 +429,13 @@ SUMMARY:Round 1: VSC vs Damajuana
 UID:cs-go-champion-of-champions-tour-series-1-2026-1460949@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260511T080000Z
+SUMMARY:Elimination match: TBD vs TBD
+UID:cs-go-european-pro-league-regular-5-2026-1476926@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 1 | QUINTESSÊNCIA: 2\nStream: No official stream linked
 DTEND:20260504T030402Z
 DTSTART:20260504T002849Z
@@ -471,8 +478,8 @@ SUMMARY:Lower bracket round 3 match 2: LB vs JS
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/masq_official
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nResult: MASQ: 0 | Washed: 2\nStream: https://www.twitch.tv/masq_official
+DTEND:20260504T170008Z
 DTSTART:20260504T151532Z
 SUMMARY:Round 2: MASQ vs Washed
 UID:cs-go-dust2-dk-32-2026-1467578@tournamentics
@@ -1078,6 +1085,13 @@ DTEND:20260430T211850Z
 DTSTART:20260430T183020Z
 SUMMARY:Round 2: PG vs HEC
 UID:cs-go-exort-series-26-2026-1468562@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260507T103000Z
+SUMMARY:BIG.A vs KSM
+UID:cs-go-european-pro-league-regular-5-2026-1476925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -1801,6 +1815,13 @@ SUMMARY:Round 2: P2N vs 3DMAX.A
 UID:cs-go-exort-series-26-2026-1468561@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260507T080000Z
+SUMMARY:ALGO vs SINQU
+UID:cs-go-european-pro-league-regular-5-2026-1476924@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: Yawara Esports: 2 | Alzon: 0\nStream: https://kick.com/cct_cs2
 DTEND:20260428T142155Z
 DTSTART:20260428T130613Z
@@ -2084,7 +2105,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260507T134500Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: BRUTE vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470244@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2508,8 +2529,8 @@ SUMMARY:Round of 16 match 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471698@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Atreides: 1 | Brute: 2\nStream: https://kick.com/cct_cs4
+DTEND:20260504T170224Z
 DTSTART:20260504T135226Z
 SUMMARY:Upper bracket quarterfinal 1: Atreides vs BRUTE
 UID:cs-go-cct-europe-challengers-series-2-2026-1470232@tournamentics
@@ -2907,9 +2928,9 @@ SUMMARY:NRG vs FXT
 UID:cs-go-fragadelphia-20-2026-1462406@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260504T170000Z
+DTSTART:20260504T170605Z
 SUMMARY:Round 1: WAL vs FCF
 UID:cs-go-cct-europe-series-1-21-2026-1469185@tournamentics
 END:VEVENT
@@ -4289,7 +4310,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260506T134500Z
-SUMMARY:Lower bracket round 2 match 4: TBD vs TBD
+SUMMARY:Lower bracket round 2 match 4: Atreides vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4468,9 +4489,9 @@ SUMMARY:Semifinal 1: TBD vs TBD
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467690@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
+DESCRIPTION:🔴 LIVE NOW\nTournament: Elisa Open Suomi - Season 13 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/elisaviihdesport
 DURATION:PT2H
-DTSTART:20260504T170000Z
+DTSTART:20260504T170153Z
 SUMMARY:Round 3: CRH vs SINQU
 UID:cs-go-elisa-open-suomi-13-2026-1463391@tournamentics
 END:VEVENT
@@ -7562,6 +7583,13 @@ SUMMARY:Upper bracket round 2 match 1: NEM vs CYBERSHOKE Prospects
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260513T080000Z
+SUMMARY:Decider match: TBD vs TBD
+UID:cs-go-european-pro-league-regular-5-2026-1476928@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260505T134500Z
@@ -8253,6 +8281,13 @@ DTEND:20260325T215829Z
 DTSTART:20260325T191407Z
 SUMMARY:FROX vs HUSK
 UID:cs-go-dach-cs-masters-5-2026-1385721@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260511T103000Z
+SUMMARY:Winners match: TBD vs TBD
+UID:cs-go-european-pro-league-regular-5-2026-1476927@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 25 2026\nMatch Type: Best Of\nResult: Spirit Academy: 2 | eternal premium: 1\nStream: https://kick.com/exort_en2
