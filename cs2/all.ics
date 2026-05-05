@@ -1619,9 +1619,9 @@ SUMMARY:Round 3: KAJO vs BJNG
 UID:cs-go-elisa-open-suomi-13-2026-1463389@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
+DESCRIPTION:🔴 LIVE NOW\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260505T180000Z
+DTSTART:20260505T182230Z
 SUMMARY:Upper bracket semifinal 2: DRIP vs SNARKY
 UID:cs-go-ukic-masters-division-10-2026-1469274@tournamentics
 END:VEVENT
@@ -3593,9 +3593,9 @@ SUMMARY:Quarterfinal 4: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471707@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260505T180000Z
+DTSTART:20260505T181747Z
 SUMMARY:SINQU vs B8.A
 UID:cs-go-esea-advanced-europe-57-2026-1477444@tournamentics
 END:VEVENT
@@ -5840,8 +5840,8 @@ SUMMARY:Quarterfinal 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471706@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/theeb1ye
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 0 | Arch: 1\nStream: https://www.twitch.tv/theeb1ye
+DTEND:20260505T182335Z
 DTSTART:20260505T171843Z
 SUMMARY:FF vs ARCH
 UID:cs-go-esea-advanced-europe-57-2026-1477443@tournamentics
