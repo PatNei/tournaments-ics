@@ -4380,7 +4380,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
 DTSTART:20260506T213000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: 9daplug vs TBD
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468042@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4923,8 +4923,8 @@ SUMMARY:Upper bracket round 1 match 15: BL vs Just Players
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456415@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: METANOIA WOLVES: 0 | 9daplug: 2\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260505T204339Z
 DTSTART:20260505T185902Z
 SUMMARY:Quarterfinal 3: MW vs 9daplug
 UID:cs-go-gamers-club-liga-serie-a-april-2026-1468039@tournamentics
