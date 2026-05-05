@@ -5,12 +5,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260514T193000Z
-SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 1: SNARKY vs TBD
 UID:cs-go-ukic-masters-division-10-2026-1469277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: Dripmen: 2 | SNARKY: 1\nStream: No official stream linked
+DTEND:20260505T202929Z
 DTSTART:20260505T182230Z
 SUMMARY:Upper bracket semifinal 2: DRIP vs SNARKY
 UID:cs-go-ukic-masters-division-10-2026-1469274@tournamentics
@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260519T193000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: DRIP vs TBD
 UID:cs-go-ukic-masters-division-10-2026-1469280@tournamentics
 END:VEVENT
 BEGIN:VEVENT
