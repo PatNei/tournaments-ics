@@ -1962,13 +1962,6 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471704@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260505T160000Z
-SUMMARY:eLITe vs RGG
-UID:cs-go-esea-advanced-europe-57-2026-1477441@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260513T110000Z
@@ -1983,8 +1976,8 @@ SUMMARY:Upper bracket round 2 match 1: NEM vs CYBERSHOKE Prospects
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456639@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | ex-Zero Tenacity: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260505T163024Z
 DTSTART:20260505T134028Z
 SUMMARY:Upper bracket quarterfinal 4: INOX vs ex-Zero Tenacity
 UID:cs-go-cct-europe-challengers-series-2-2026-1470237@tournamentics
@@ -6816,7 +6809,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260507T134500Z
-SUMMARY:Upper bracket semifinal 2: TLR vs TBD
+SUMMARY:Upper bracket semifinal 2: TLR vs INOX
 UID:cs-go-cct-europe-challengers-series-2-2026-1470245@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8188,7 +8181,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260506T110000Z
-SUMMARY:Lower bracket round 2 match 1: BG vs TBD
+SUMMARY:Lower bracket round 2 match 1: BG vs ex-Zero Tenacity
 UID:cs-go-cct-europe-challengers-series-2-2026-1470238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
