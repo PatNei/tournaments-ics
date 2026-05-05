@@ -96,7 +96,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260506T134500Z
-SUMMARY:Lower bracket round 2 match 4: Atreides vs TBD
+SUMMARY:Lower bracket round 2 match 4: Atreides vs LILMIX
 UID:cs-go-cct-europe-challengers-series-2-2026-1470241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -191,8 +191,8 @@ SUMMARY:Lower bracket round 2 match 1: BG vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 1 | Lilmix: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260505T132418Z
 DTSTART:20260505T110235Z
 SUMMARY:Lower bracket round 1 match 4: AUR.YB vs LILMIX
 UID:cs-go-cct-europe-challengers-series-2-2026-1470235@tournamentics
