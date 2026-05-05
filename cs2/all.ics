@@ -2070,7 +2070,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260509T080000Z
-SUMMARY:Elimination match: BJNG vs TBD
+SUMMARY:Elimination match: BJNG vs NAVI.J
 UID:cs-go-european-pro-league-regular-5-2026-1476916@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4349,8 +4349,8 @@ SUMMARY:Lower bracket quarterfinal 2: BIG.A vs RT
 UID:cs-go-united21-48-2026-1469570@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nResult: Kinoa: 2 | NAVI Junior: 0\nStream: https://kick.com/eplcs_en
+DTEND:20260505T123944Z
 DTSTART:20260505T104424Z
 SUMMARY:Kinoa vs NAVI.J
 UID:cs-go-european-pro-league-regular-5-2026-1476915@tournamentics
@@ -5742,9 +5742,9 @@ SUMMARY:Upper bracket round 1 match 11: OLDBOYS- vs MSC
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456411@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260505T123000Z
+DTSTART:20260505T124345Z
 SUMMARY:Round 5: CAD vs HEC
 UID:cs-go-exort-series-26-2026-1477439@tournamentics
 END:VEVENT
@@ -8293,7 +8293,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260509T103000Z
-SUMMARY:Winners match: MANA vs TBD
+SUMMARY:Winners match: MANA vs Kinoa
 UID:cs-go-european-pro-league-regular-5-2026-1476917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
