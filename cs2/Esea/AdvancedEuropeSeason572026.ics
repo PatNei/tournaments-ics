@@ -2,6 +2,13 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T160000Z
+SUMMARY:CC.FE vs RT
+UID:cs-go-esea-advanced-europe-57-2026-1478882@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Diamant Esports: 0 | PeePuP: 1\nStream: No official stream linked
 DTEND:20260427T190148Z
 DTSTART:20260427T181923Z
@@ -142,6 +149,13 @@ SUMMARY:G2.A vs Project 91
 UID:cs-go-esea-advanced-europe-57-2026-1454792@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:SE7ENS vs XI
+UID:cs-go-esea-advanced-europe-57-2026-1478896@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Bushido Wildcats: 1 | ENRAGE: 0\nStream: https://www.twitch.tv/michass00
 DTEND:20260504T174201Z
 DTSTART:20260504T165218Z
@@ -156,11 +170,25 @@ SUMMARY:OLDBOYS- vs OBOYS
 UID:cs-go-esea-advanced-europe-57-2026-1454778@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:QUA vs OLDBOYS-
+UID:cs-go-esea-advanced-europe-57-2026-1478893@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ZOTIX: 1 | Clutchain Female: 0\nStream: No official stream linked
 DTEND:20260420T184810Z
 DTSTART:20260420T181253Z
 SUMMARY:ZOTIX vs CC.FE
 UID:cs-go-esea-advanced-europe-57-2026-1454775@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:SINQU vs FF
+UID:cs-go-esea-advanced-europe-57-2026-1478890@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | G2 Ares: 0\nStream: https://www.twitch.tv/eternal_premium_cs2
@@ -331,11 +359,25 @@ SUMMARY:LFO vs TNT
 UID:cs-go-esea-advanced-europe-57-2026-1465459@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:SE7ENS vs BIG.E
+UID:cs-go-esea-advanced-europe-57-2026-1478887@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BOJONG: 1 | Diamant Esports: 0\nStream: No official stream linked
 DTEND:20260406T185415Z
 DTSTART:20260406T182828Z
 SUMMARY:BOJONG vs Diamant Esports
 UID:cs-go-esea-advanced-europe-57-2026-1433393@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:hindsight vs BJNG
+UID:cs-go-esea-advanced-europe-57-2026-1478884@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Donstu Esports: 1 | Banger Gang: 0\nStream: No official stream linked
@@ -350,6 +392,13 @@ DURATION:PT2H
 DTSTART:20260508T170000Z
 SUMMARY:OLDBOYS- vs DNT
 UID:cs-go-esea-advanced-europe-57-2026-1465453@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T150000Z
+SUMMARY:BW vs QUA
+UID:cs-go-esea-advanced-europe-57-2026-1478881@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 1 | ReThink: 0\nStream: No official stream linked
@@ -473,6 +522,13 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:B8.A vs LFO
+UID:cs-go-esea-advanced-europe-57-2026-1478895@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
 DTSTART:20260506T143000Z
 SUMMARY:CYBERSHOKE Prospects vs IMP.A
 UID:cs-go-esea-advanced-europe-57-2026-1475988@tournamentics
@@ -483,6 +539,13 @@ DTEND:20260420T185005Z
 DTSTART:20260420T181308Z
 SUMMARY:RGG vs 8S
 UID:cs-go-esea-advanced-europe-57-2026-1454777@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:eLITe vs BW
+UID:cs-go-esea-advanced-europe-57-2026-1478892@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Square Sausages: 0 | BOJONG: 1\nStream: No official stream linked
@@ -688,6 +751,13 @@ SUMMARY:CC.FE vs COW
 UID:cs-go-esea-advanced-europe-57-2026-1475990@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:IMP.A vs PURE
+UID:cs-go-esea-advanced-europe-57-2026-1478889@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | SINQU: 1\nStream: https://www.twitch.tv/sinquesports
 DTEND:20260427T174359Z
 DTSTART:20260427T171245Z
@@ -702,6 +772,13 @@ SUMMARY:DRIP vs Project 91
 UID:cs-go-esea-advanced-europe-57-2026-1465458@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:ZOTIX vs TIN
+UID:cs-go-esea-advanced-europe-57-2026-1478886@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: TEAM_COPH9K: 1 | ENRAGE: 0\nStream: No official stream linked
 DTEND:20260427T184800Z
 DTSTART:20260427T181908Z
@@ -709,11 +786,25 @@ SUMMARY:TEAM_COPH9K vs ENRAGE
 UID:cs-go-esea-advanced-europe-57-2026-1465455@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T160000Z
+SUMMARY:XI vs CYBERSHOKE Prospects
+UID:cs-go-esea-advanced-europe-57-2026-1478883@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BOJONG: 0 | XI Esport: 1\nStream: No official stream linked
 DTEND:20260427T190152Z
 DTSTART:20260427T181903Z
 SUMMARY:BOJONG vs XI
 UID:cs-go-esea-advanced-europe-57-2026-1465452@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T150000Z
+SUMMARY:AUR.YB vs OBOYS
+UID:cs-go-esea-advanced-europe-57-2026-1478880@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: tincan: 0 | ROUNDS: 1\nStream: https://www.twitch.tv/roundsgg
@@ -863,11 +954,32 @@ SUMMARY:BJNG vs FF
 UID:cs-go-esea-advanced-europe-57-2026-1466520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T193000Z
+SUMMARY:SE7ENS vs COW
+UID:cs-go-esea-advanced-europe-57-2026-1478897@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:MISA vs Falcons Force
+UID:cs-go-esea-advanced-europe-57-2026-1478894@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 1 | Nerve of Cow: 0\nStream: No official stream linked
 DTEND:20260420T184149Z
 DTSTART:20260420T181300Z
 SUMMARY:AUR.YB vs COW
 UID:cs-go-esea-advanced-europe-57-2026-1454776@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:RGG vs TEAM_COPH9K
+UID:cs-go-esea-advanced-europe-57-2026-1478891@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: PeePuP: 0 | TEAM_COPH9K: 1\nStream: No official stream linked
@@ -1066,6 +1178,13 @@ SUMMARY:SE7ENS vs RT
 UID:cs-go-esea-advanced-europe-57-2026-1475992@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:Project 91 vs BG
+UID:cs-go-esea-advanced-europe-57-2026-1478888@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: B8 Academy: 1 | DGK Esports: 0\nStream: No official stream linked
 DTEND:20260406T192409Z
 DTSTART:20260406T182824Z
@@ -1078,6 +1197,13 @@ DTEND:20260427T204651Z
 DTSTART:20260427T194104Z
 SUMMARY:ZOTIX vs Project 91
 UID:cs-go-esea-advanced-europe-57-2026-1465457@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260506T180000Z
+SUMMARY:COW vs PeePuP
+UID:cs-go-esea-advanced-europe-57-2026-1478885@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Oldboys: 1 | Aurora Young Blood: 0\nStream: https://www.twitch.tv/byalli
