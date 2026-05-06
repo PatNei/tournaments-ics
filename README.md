@@ -100,27 +100,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctEurope/Series120
 
 </details>
 
-<details>
-<summary>CCT Global Finals</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/CctGlobalFinals.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/CctGlobalFinals.ics
-```
-
----
-
-### Season 3 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/Season32026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctGlobalFinals/Season32026.ics
-```
-
-</details>
-
 ## C Tier
 
 <details>
