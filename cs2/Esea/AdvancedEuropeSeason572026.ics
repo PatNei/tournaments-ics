@@ -674,13 +674,6 @@ SUMMARY:OBSB vs XI
 UID:cs-go-esea-advanced-europe-57-2026-1468054@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260507T181000Z
-SUMMARY:TLR vs NEW VISION
-UID:cs-go-esea-advanced-europe-57-2026-1480457@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Dripmen: 1 | ReThink: 0\nStream: No official stream linked
 DTEND:20260429T184906Z
 DTSTART:20260429T181522Z
@@ -730,8 +723,8 @@ SUMMARY:AUR.YB vs PeePuP
 UID:cs-go-esea-advanced-europe-57-2026-1466515@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cspuregg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: PURE: 0 | Bushido Wildcats: 1\nStream: https://www.twitch.tv/cspuregg
+DTEND:20260507T184449Z
 DTSTART:20260507T181148Z
 SUMMARY:PURE vs BW
 UID:cs-go-esea-advanced-europe-57-2026-1454785@tournamentics
