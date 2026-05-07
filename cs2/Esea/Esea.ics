@@ -289,8 +289,8 @@ SUMMARY:FF vs PURE
 UID:cs-go-esea-advanced-europe-57-2026-1468052@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: OLDBOYS PL: 0 | Bushido Wildcats: 1\nStream: No official stream linked
+DTEND:20260507T180422Z
 DTSTART:20260507T172126Z
 SUMMARY:OLDBOYS PL vs BW
 UID:cs-go-esea-advanced-europe-57-2026-1480455@tournamentics
@@ -676,7 +676,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260507T180000Z
+DTSTART:20260507T181000Z
 SUMMARY:TLR vs NEW VISION
 UID:cs-go-esea-advanced-europe-57-2026-1480457@tournamentics
 END:VEVENT
@@ -730,7 +730,7 @@ SUMMARY:AUR.YB vs PeePuP
 UID:cs-go-esea-advanced-europe-57-2026-1466515@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cspuregg
 DURATION:PT2H
 DTSTART:20260507T180000Z
 SUMMARY:PURE vs BW
@@ -1117,7 +1117,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260507T180000Z
+DTSTART:20260507T181000Z
 SUMMARY:SINQU vs TEAM_COPH9K
 UID:cs-go-esea-advanced-europe-57-2026-1480456@tournamentics
 END:VEVENT
