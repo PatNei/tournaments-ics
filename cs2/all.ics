@@ -324,18 +324,18 @@ SUMMARY:Lower bracket round 2 match 1: MIBR.A vs LDP
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456997@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | ROUNDS: 0\nStream: https://www.twitch.tv/roundsgg
-DTEND:20260501T221211Z
-DTSTART:20260501T213732Z
-SUMMARY:G2.A vs RGG
-UID:cs-go-esplay-elite-gaming-1-2026-1466505@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Passion UA: 1 | FOKUS: 2\nStream: https://kick.com/starladder
 DTEND:20260430T202248Z
 DTSTART:20260430T173313Z
 SUMMARY:Round of 16 match 6: PSSN.UA vs FOKUS
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466455@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | ROUNDS: 0\nStream: https://www.twitch.tv/roundsgg
+DTEND:20260501T221211Z
+DTSTART:20260501T213732Z
+SUMMARY:G2.A vs RGG
+UID:cs-go-esplay-elite-gaming-1-2026-1466505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -422,11 +422,11 @@ SUMMARY:Lower bracket round 3 match 2: CCE vs REGAIN
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456964@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Marsborne: 0 | Passion UA: 2\nStream: https://kick.com/frag2
-DTEND:20260426T213121Z
-DTSTART:20260426T203336Z
-SUMMARY:3rd place match: MARS vs PSSN.UA
-UID:cs-go-fragadelphia-20-2026-1463488@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Last Bullet: 1 | Just Swing: 2\nStream: https://www.twitch.tv/xristcs
+DTEND:20260429T152633Z
+DTSTART:20260429T130623Z
+SUMMARY:Lower bracket round 3 match 2: LB vs JS
+UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nResult: MASQ: 0 | Washed: 2\nStream: https://www.twitch.tv/masq_official
@@ -434,13 +434,6 @@ DTEND:20260504T170008Z
 DTSTART:20260504T151532Z
 SUMMARY:Round 2: MASQ vs Washed
 UID:cs-go-dust2-dk-32-2026-1467578@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Last Bullet: 1 | Just Swing: 2\nStream: https://www.twitch.tv/xristcs
-DTEND:20260429T152633Z
-DTSTART:20260429T130623Z
-SUMMARY:Lower bracket round 3 match 2: LB vs JS
-UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457034@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | Alzon: 1\nStream: https://kick.com/cct_cs2
@@ -509,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260508T140000Z
-SUMMARY:Round of 16 match 7: TBD vs TBD
+SUMMARY:Round of 16 match 1: ALL vs Lavked
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -730,13 +723,6 @@ SUMMARY:BJNG vs MANA
 UID:cs-go-european-pro-league-regular-5-2026-1476914@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Marsborne: 2 | Voca: 1\nStream: https://kick.com/frag
-DTEND:20260426T021319Z
-DTSTART:20260425T231817Z
-SUMMARY:Decider match: MARS vs VOCA
-UID:cs-go-fragadelphia-20-2026-1462420@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 0 | Vasco Esports: 2\nStream: https://kick.com/cct_cs2
 DTEND:20260506T003111Z
 DTSTART:20260505T222532Z
@@ -756,13 +742,6 @@ DTEND:20260430T194007Z
 DTSTART:20260430T174426Z
 SUMMARY:ALGO vs TNC
 UID:cs-go-nodwin-clutch-series-8-2026-1467063@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Foxtrot Esports: 1 | EMPIRE: 2\nStream: No official stream linked
-DTEND:20260425T235552Z
-DTSTART:20260425T211530Z
-SUMMARY:Elimination match: FXT vs EMP
-UID:cs-go-fragadelphia-20-2026-1462409@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Reign Above: 0 | FarmVille: 2\nStream: https://www.twitch.tv/floofys
@@ -1024,11 +1003,11 @@ SUMMARY:Round 5: MJX vs CAD
 UID:cs-go-exort-series-26-2026-1478097@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Passion UA: 1 | Wildcard: 2\nStream: https://kick.com/frag
-DTEND:20260426T194915Z
-DTSTART:20260426T172734Z
-SUMMARY:Semifinal 2: PSSN.UA vs WC
-UID:cs-go-fragadelphia-20-2026-1463487@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | The QUBE Esports: 0\nStream: No official stream linked
+DTEND:20260429T143543Z
+DTSTART:20260429T130838Z
+SUMMARY:Lower bracket round 3 match 1: RA vs QUBE
+UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457033@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nResult: MASONIC: 1 | struggletony: 2\nStream: https://www.twitch.tv/dust2tv
@@ -1036,13 +1015,6 @@ DTEND:20260504T175036Z
 DTSTART:20260504T151522Z
 SUMMARY:Round 2: MSC vs st0ny
 UID:cs-go-dust2-dk-32-2026-1467577@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Rare Atom: 2 | The QUBE Esports: 0\nStream: No official stream linked
-DTEND:20260429T143543Z
-DTSTART:20260429T130838Z
-SUMMARY:Lower bracket round 3 match 1: RA vs QUBE
-UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457033@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: GenOne: 0 | SPARTA: 2\nStream: https://www.twitch.tv/krl_stream
@@ -1104,7 +1076,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260508T110000Z
-SUMMARY:Round of 16 match 6: NEM vs CS
+SUMMARY:Round of 16 match 7: NEM vs CS
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467683@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1346,13 +1318,6 @@ SUMMARY:PF vs UNiTY
 UID:cs-go-nodwin-clutch-series-8-2026-1467062@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: NRG: 2 | LAG Gaming: 0\nStream: https://kick.com/trottah
-DTEND:20260425T220405Z
-DTSTART:20260425T205721Z
-SUMMARY:Winners match: NRG vs LAG
-UID:cs-go-fragadelphia-20-2026-1462408@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: ALKA GAMING: 1 | Players: 0\nStream: No official stream linked
 DTEND:20260420T201346Z
 DTSTART:20260420T190811Z
@@ -1535,6 +1500,13 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469222@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | TDK: 0\nStream: https://kick.com/starladder
+DTEND:20260430T170935Z
+DTSTART:20260430T152040Z
+SUMMARY:Round of 16 match 4: 100T vs TDK
+UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466453@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Eternal Fire: 1 | BIG Academy: 2\nStream: https://www.twitch.tv/vanfantv
 DTEND:20260423T164616Z
 DTSTART:20260423T131903Z
@@ -1549,13 +1521,6 @@ SUMMARY:Round 2: ALL vs UNiTY
 UID:cs-go-conquest-of-prague-online-stage-2026-1438498@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Playing Ducks: 1 | Team AceZone: 2\nStream: https://www.twitch.tv/dachcs
-DTEND:20260422T203420Z
-DTSTART:20260422T181049Z
-SUMMARY:Ducks vs TAZ
-UID:cs-go-dach-cs-masters-5-2026-1385741@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | EC BANGA: 0\nStream: No official stream linked
 DTEND:20260424T140127Z
 DTSTART:20260424T133054Z
@@ -1563,18 +1528,18 @@ SUMMARY:Lower bracket round 1 match 5: DNT vs EC BANGA
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456739@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Playing Ducks: 1 | Team AceZone: 2\nStream: https://www.twitch.tv/dachcs
+DTEND:20260422T203420Z
+DTSTART:20260422T181049Z
+SUMMARY:Ducks vs TAZ
+UID:cs-go-dach-cs-masters-5-2026-1385741@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Matrix: 0\nStream: No official stream linked
 DTEND:20260501T204511Z
 DTSTART:20260501T200939Z
 SUMMARY:G2.A vs Matrix
 UID:cs-go-esplay-elite-gaming-1-2026-1466503@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | TDK: 0\nStream: https://kick.com/starladder
-DTEND:20260430T170935Z
-DTSTART:20260430T152040Z
-SUMMARY:Round of 16 match 4: 100T vs TDK
-UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466453@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Imperial Academy: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
@@ -1675,13 +1640,6 @@ SUMMARY:Upper bracket quarterfinal 2: home vs NEW VISION
 UID:cs-go-cct-europe-challengers-series-2-2026-1470233@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: FRZ Unit: 0 | Marsborne: 2\nStream: No official stream linked
-DTEND:20260425T220046Z
-DTSTART:20260425T205438Z
-SUMMARY:Elimination match: FRZ vs MARS
-UID:cs-go-fragadelphia-20-2026-1462419@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | FarmVille: 0\nStream: https://kick.com/eslcs
 DTEND:20260430T022100Z
 DTSTART:20260430T010121Z
@@ -1694,13 +1652,6 @@ DTEND:20260504T095333Z
 DTSTART:20260504T081047Z
 SUMMARY:Grand final: BIG.A vs IMP.A
 UID:cs-go-european-pro-league-regular-4-2026-1466102@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Marsborne: 0 | Fisher College: 2\nStream: https://kick.com/frag2
-DTEND:20260426T192236Z
-DTSTART:20260426T171745Z
-SUMMARY:Semifinal 1: MARS vs FC
-UID:cs-go-fragadelphia-20-2026-1463486@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: The Huns Esports: 0 | NEXVOID: 2\nStream: https://www.youtube.com/watch?v=leEVVYBFzu0
@@ -1776,7 +1727,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260508T080000Z
-SUMMARY:Round of 16 match 5: 9INE vs WAL
+SUMMARY:Round of 16 match 3: 9INE vs WAL
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467682@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1988,13 +1939,6 @@ DTEND:20260427T205820Z
 DTSTART:20260427T185112Z
 SUMMARY:Round 1: 3DMAX.A vs NP
 UID:cs-go-exort-series-26-2026-1465460@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | EMPIRE: 1\nStream: No official stream linked
-DTEND:20260425T203132Z
-DTSTART:20260425T182511Z
-SUMMARY:LAG vs EMP
-UID:cs-go-fragadelphia-20-2026-1462407@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Zomblers: 2 | regain: 1\nStream: https://www.twitch.tv/regent_xd
@@ -2305,25 +2249,11 @@ SUMMARY:Upper bracket quarterfinal 1: Atreides vs BRUTE
 UID:cs-go-cct-europe-challengers-series-2-2026-1470232@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | Voca: 0\nStream: https://kick.com/frag2
-DTEND:20260425T221339Z
-DTSTART:20260425T205431Z
-SUMMARY:Winners match: WC vs VOCA
-UID:cs-go-fragadelphia-20-2026-1462418@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Voca: 2 | Zomblers: 0\nStream: https://www.twitch.tv/floofys
 DTEND:20260430T024357Z
 DTSTART:20260430T010118Z
 SUMMARY:Upper bracket semifinal 1: VOCA vs ZOMB
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456961@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | Chicken Coop Esports: 0\nStream: No official stream linked
-DTEND:20260426T040551Z
-DTSTART:20260426T030632Z
-SUMMARY:Quarterfinal 4: WC vs CCE
-UID:cs-go-fragadelphia-20-2026-1463485@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: TYLOO: 1 | Chinggis Warriors: 2\nStream: https://www.twitch.tv/misterhenrybatt
@@ -2462,7 +2392,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260507T170000Z
-SUMMARY:Round of 16 match 4: TBD vs TBD
+SUMMARY:Round of 16 match 2: NTR vs ex-Zero Tenacity
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467681@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2487,6 +2417,13 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469232@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Gentle Mates: 0 | magic: 2\nStream: https://kick.com/starladder
+DTEND:20260503T150008Z
+DTSTART:20260503T120510Z
+SUMMARY:Round 3 match 2: M8 vs MGC
+UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466463@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Esport BERG: 2 | Regnum4Games: 0\nStream: https://www.twitch.tv/dach_cs2
 DTEND:20260506T191403Z
 DTSTART:20260506T180045Z
@@ -2499,13 +2436,6 @@ DTEND:20260502T193237Z
 DTSTART:20260502T180227Z
 SUMMARY:3rd place match: G2.A vs LILMIX
 UID:cs-go-esplay-elite-gaming-1-2026-1466513@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Gentle Mates: 0 | magic: 2\nStream: https://kick.com/starladder
-DTEND:20260503T150008Z
-DTSTART:20260503T120510Z
-SUMMARY:Round 3 match 2: M8 vs MGC
-UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466463@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: FC Famalicão Esports: 0 | Project 91: 1\nStream: https://www.twitch.tv/tavarescs2
@@ -2667,13 +2597,6 @@ DURATION:PT2H
 DTSTART:20260513T170000Z
 SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471686@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: NRG: 2 | Foxtrot Esports: 0\nStream: https://kick.com/trottah
-DTEND:20260425T185915Z
-DTSTART:20260425T181949Z
-SUMMARY:NRG vs FXT
-UID:cs-go-fragadelphia-20-2026-1462406@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | FC Famalicão Esports: 0\nStream: https://kick.com/cct_cs
@@ -2956,20 +2879,6 @@ SUMMARY:Round of 16 match 2: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471697@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Wildcard: 2 | FRZ Unit: 0\nStream: No official stream linked
-DTEND:20260425T191538Z
-DTSTART:20260425T181211Z
-SUMMARY:WC vs FRZ
-UID:cs-go-fragadelphia-20-2026-1462417@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: NRG: 1 | Passion UA: 2\nStream: https://kick.com/frag
-DTEND:20260426T054629Z
-DTSTART:20260426T030905Z
-SUMMARY:Quarterfinal 3: NRG vs PSSN.UA
-UID:cs-go-fragadelphia-20-2026-1463484@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: TYLOO: 2 | Alter Ego: 0\nStream: https://www.twitch.tv/vanfantv
 DTEND:20260427T143610Z
 DTSTART:20260427T133334Z
@@ -3106,7 +3015,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260507T140000Z
-SUMMARY:Round of 16 match 3: NEMI vs AAB
+SUMMARY:Round of 16 match 5: NEMI vs AAB
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467680@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3355,13 +3264,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471685@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: InControl: 1 | Chicken Coop Esports: 2\nStream: No official stream linked
-DTEND:20260426T010454Z
-DTSTART:20260425T231017Z
-SUMMARY:Decider match: InC vs CCE
-UID:cs-go-fragadelphia-20-2026-1462405@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | Walczaki: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260427T165754Z
 DTSTART:20260427T140331Z
@@ -3516,6 +3418,13 @@ SUMMARY:Upper bracket quarterfinal 4: GLS vs MIBR.A
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456992@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 1 | BET-M 33: 2\nStream: https://kick.com/starladder
+DTEND:20260430T120012Z
+DTSTART:20260430T090122Z
+SUMMARY:Round of 16 match 2: 9INE vs 33
+UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466450@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Conquest of Prague - Online Stage 2026\nMatch Type: Best Of\nResult: Clutchain: 0 | Sinners: 1\nStream: https://www.twitch.tv/playzoneup
 DTEND:20260415T153639Z
 DTSTART:20260415T150144Z
@@ -3535,13 +3444,6 @@ DTEND:20260501T184259Z
 DTSTART:20260501T180429Z
 SUMMARY:JS vs LILMIX
 UID:cs-go-esplay-elite-gaming-1-2026-1466500@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 1 | BET-M 33: 2\nStream: https://kick.com/starladder
-DTEND:20260430T120012Z
-DTSTART:20260430T090122Z
-SUMMARY:Round of 16 match 2: 9INE vs 33
-UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | PeePuP: 1\nStream: https://www.twitch.tv/popilop
@@ -3642,25 +3544,11 @@ SUMMARY:Lower bracket round 1 match 1: PSN.A vs INF
 UID:cs-go-united21-48-2026-1469565@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Voca: 2 | Marsborne: 1\nStream: https://kick.com/frag2
-DTEND:20260425T202244Z
-DTSTART:20260425T182700Z
-SUMMARY:VOCA vs MARS
-UID:cs-go-fragadelphia-20-2026-1462416@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: Dripmen: 1 | FC Famalicão Esports: 2\nStream: https://kick.com/cct_cs
 DTEND:20260501T204657Z
 DTSTART:20260501T172516Z
 SUMMARY:Decider match: DRIP vs FCF
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462516@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | LAG Gaming: 1\nStream: No official stream linked
-DTEND:20260426T060537Z
-DTSTART:20260426T035739Z
-SUMMARY:Quarterfinal 2: FC vs LAG
-UID:cs-go-fragadelphia-20-2026-1463483@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: Isurus: 0 | Yawara Esports: 2\nStream: https://kick.com/cct_cs2
@@ -4097,13 +3985,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471684@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: It's a Secret: 1 | Chicken Coop Esports: 2\nStream: No official stream linked
-DTEND:20260425T222737Z
-DTSTART:20260425T202053Z
-SUMMARY:Elimination match: Secret vs CCE
-UID:cs-go-fragadelphia-20-2026-1462404@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | Nuclear TigeRES: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260427T095515Z
 DTSTART:20260427T081225Z
@@ -4177,7 +4058,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
 DTSTART:20260507T110000Z
-SUMMARY:Round of 16 match 2: TRI vs AM
+SUMMARY:Round of 16 match 8: TRI vs AM
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467679@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4377,25 +4258,11 @@ SUMMARY:Decider match: FV vs SHIM
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | NuTorious: 0\nStream: https://kick.com/frag4
-DTEND:20260425T233001Z
-DTSTART:20260425T223222Z
-SUMMARY:Decider match: PSSN.UA vs NT
-UID:cs-go-fragadelphia-20-2026-1462415@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Rune Eaters: 1 | Brute: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260406T142344Z
 DTSTART:20260406T110702Z
 SUMMARY:RE vs BRUTE
 UID:cs-go-nodwin-clutch-series-7-2026-1431898@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: M80: 1 | Marsborne: 2\nStream: No official stream linked
-DTEND:20260426T054033Z
-DTSTART:20260426T032416Z
-SUMMARY:Quarterfinal 1: M80 vs MARS
-UID:cs-go-fragadelphia-20-2026-1463482@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Fluxo W7M: 0 | Fake do Biru: 2\nStream: https://www.twitch.tv/gamersclubcs
@@ -4797,13 +4664,6 @@ SUMMARY:ARCH vs COW
 UID:cs-go-esea-advanced-europe-57-2026-1453386@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: M80: 2 | InControl: 0\nStream: No official stream linked
-DTEND:20260425T213829Z
-DTSTART:20260425T201952Z
-SUMMARY:Winners match: M80 vs InC
-UID:cs-go-fragadelphia-20-2026-1462403@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Bounty Hunters Esports: 1\nStream: https://kick.com/eslcs
 DTEND:20260504T001426Z
 DTSTART:20260503T210219Z
@@ -4848,8 +4708,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
-DTSTART:20260507T080000Z
-SUMMARY:Round of 16 match 1: TBD vs TBD
+DTSTART:20260507T170000Z
+SUMMARY:Round of 16 match 6: BCA vs INOX
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467678@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5131,13 +4991,6 @@ DTEND:20260429T225936Z
 DTSTART:20260429T213738Z
 SUMMARY:Elimination match: OverKnight vs SHIM
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460363@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: NuTorious: 2 | AGA: 1\nStream: https://kick.com/frag4
-DTEND:20260425T214121Z
-DTSTART:20260425T201400Z
-SUMMARY:Elimination match: NT vs AGA
-UID:cs-go-fragadelphia-20-2026-1462414@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: EMPIRE: 0 | Team Aether: 2\nStream: No official stream linked
@@ -5476,13 +5329,6 @@ SUMMARY:OBOYS vs GE
 UID:cs-go-esea-advanced-europe-57-2026-1453385@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Chicken Coop Esports: 0 | InControl: 2\nStream: No official stream linked
-DTEND:20260425T195305Z
-DTSTART:20260425T183155Z
-SUMMARY:CCE vs InC
-UID:cs-go-fragadelphia-20-2026-1462402@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: EYEBALLERS: 0 | CYBERSHOKE Esports: 2\nStream: https://kick.com/nodwin_cs2
 DTEND:20260425T200237Z
 DTSTART:20260425T182632Z
@@ -5810,13 +5656,6 @@ DTEND:20260418T094730Z
 DTSTART:20260418T081913Z
 SUMMARY:LPH vs NAVI.J
 UID:cs-go-european-pro-league-regular-4-2026-1451289@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | Passion UA: 0\nStream: https://kick.com/frag
-DTEND:20260425T213533Z
-DTSTART:20260425T201251Z
-SUMMARY:Winners match: FC vs PSSN.UA
-UID:cs-go-fragadelphia-20-2026-1462413@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Galorys: 0 | Bounty Hunters Esports: 2\nStream: https://kick.com/locomas
@@ -6204,13 +6043,6 @@ SUMMARY:Quarterfinal 1: TBD vs TBD
 UID:cs-go-iem-atlanta-2026-1474599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: M80: 2 | It's a Secret: 0\nStream: https://kick.com/frag4
-DTEND:20260425T191708Z
-DTSTART:20260425T181001Z
-SUMMARY:M80 vs Secret
-UID:cs-go-fragadelphia-20-2026-1462401@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 7 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | ex-RUBY: 1\nStream: https://kick.com/nodwin_cs2
 DTEND:20260425T180336Z
 DTSTART:20260425T153613Z
@@ -6489,13 +6321,6 @@ DTEND:20260421T093806Z
 DTSTART:20260421T080940Z
 SUMMARY:Elimination match: AAB vs SNG
 UID:cs-go-european-pro-league-regular-4-2026-1451288@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Fisher College: 2 | NuTorious: 0\nStream: No official stream linked
-DTEND:20260425T192611Z
-DTSTART:20260425T182831Z
-SUMMARY:FC vs NT
-UID:cs-go-fragadelphia-20-2026-1462412@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nResult: ShindeN: 1 | Bounty Hunters Esports: 2\nStream: https://www.twitch.tv/locomass22
@@ -7177,13 +7002,6 @@ SUMMARY:FV vs OverKnight
 UID:cs-go-thunderpick-world-championship-north-american-2026-1460360@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Passion UA: 2 | AGA: 0\nStream: https://kick.com/frag
-DTEND:20260425T192833Z
-DTSTART:20260425T181158Z
-SUMMARY:PSSN.UA vs AGA
-UID:cs-go-fragadelphia-20-2026-1462411@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - South America Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Imperial: 2 | Galorys: 0\nStream: https://kick.com/kabrafps
 DTEND:20260501T224442Z
 DTSTART:20260501T210829Z
@@ -7639,6 +7457,13 @@ SUMMARY:Lower bracket round 2 match 2: GH vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456998@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | Eternal Fire: 2\nStream: https://kick.com/starladder
+DTEND:20260429T143325Z
+DTSTART:20260429T124206Z
+SUMMARY:Round of 16 match 7: NEMI vs EF
+UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466456@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
 DTSTART:20260520T180000Z
@@ -7651,13 +7476,6 @@ DTEND:20260501T231601Z
 DTSTART:20260501T223846Z
 SUMMARY:SAW vs G2.A
 UID:cs-go-esplay-elite-gaming-1-2026-1466506@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Nemiga: 0 | Eternal Fire: 2\nStream: https://kick.com/starladder
-DTEND:20260429T143325Z
-DTSTART:20260429T124206Z
-SUMMARY:Round of 16 match 7: NEMI vs EF
-UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | FC Famalicão Esports: 2\nStream: https://kick.com/cct_cs
@@ -7807,11 +7625,11 @@ SUMMARY:Lower bracket quarterfinal 1: IMP.A vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1466105@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: Fisher College: 0 | Wildcard: 3\nStream: https://kick.com/frag
-DTEND:20260426T224507Z
-DTSTART:20260426T203829Z
-SUMMARY:Grand final: FC vs WC
-UID:cs-go-fragadelphia-20-2026-1463489@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | AaB Bulls: 0\nStream: https://www.twitch.tv/dust2tv
+DTEND:20260504T194351Z
+DTSTART:20260504T181410Z
+SUMMARY:Round 2: SASHI.A vs AAB.B
+UID:cs-go-dust2-dk-32-2026-1467579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Asia-Pacific Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Rare Atom: 1 | TYLOO: 2\nStream: https://kick.com/trottah
@@ -7819,13 +7637,6 @@ DTEND:20260430T155329Z
 DTSTART:20260430T130618Z
 SUMMARY:Lower bracket quarterfinal 1: RA vs TYLOO
 UID:cs-go-esl-challenger-league-asia-pacific-cup-4-51-2026-1457035@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nResult: Sashi Academy: 2 | AaB Bulls: 0\nStream: https://www.twitch.tv/dust2tv
-DTEND:20260504T194351Z
-DTSTART:20260504T181410Z
-SUMMARY:Round 2: SASHI.A vs AAB.B
-UID:cs-go-dust2-dk-32-2026-1467579@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -7840,13 +7651,6 @@ DTEND:20260503T000413Z
 DTSTART:20260502T223449Z
 SUMMARY:Round 3: ELI vs ISG
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467608@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: FRAG - Season 20 2026\nMatch Type: Best Of\nResult: LAG Gaming: 2 | EMPIRE: 1\nStream: No official stream linked
-DTEND:20260426T030851Z
-DTSTART:20260426T003715Z
-SUMMARY:Decider match: LAG vs EMP
-UID:cs-go-fragadelphia-20-2026-1462410@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
@@ -7928,8 +7732,8 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BC Game Masters - Europe Series #1 season 2 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/bcgamemasters
 DURATION:PT2H
-DTSTART:20260508T170000Z
-SUMMARY:Round of 16 match 8: TBD vs TBD
+DTSTART:20260508T140000Z
+SUMMARY:Round of 16 match 4: 33 vs SPARTA
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467685@tournamentics
 END:VEVENT
 BEGIN:VEVENT

@@ -100,18 +100,18 @@ SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
 UID:cs-go-stake-ranked-episode-2-2026-1479980@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
-DURATION:PT2H
-DTSTART:20260529T173000Z
-SUMMARY:Lower bracket semifinal: TBD vs TBD
-UID:cs-go-stake-ranked-episode-2-2026-1479976@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: Sharks: 2 | Falcons Force: 0\nStream: https://kick.com/starladder
 DTEND:20260429T164251Z
 DTSTART:20260429T150612Z
 SUMMARY:Round of 16 match 1: SHK vs Falcons Force
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466449@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Stake Ranked - Episode 2 2026\nMatch Type: Best Of\nStream: https://kick.com/starladder
+DURATION:PT2H
+DTSTART:20260529T173000Z
+SUMMARY:Lower bracket semifinal: TBD vs TBD
+UID:cs-go-stake-ranked-episode-2-2026-1479976@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Stake Ranked - Episode 2: Closed Qualifier 2026\nMatch Type: Best Of\nResult: 9INE: 1 | BET-M 33: 2\nStream: https://kick.com/starladder
