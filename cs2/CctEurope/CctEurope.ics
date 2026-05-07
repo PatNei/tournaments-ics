@@ -82,7 +82,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260508T134500Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: Atreides vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470247@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -266,13 +266,6 @@ DURATION:PT2H
 DTSTART:20260508T110000Z
 SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470246@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
-DTSTART:20260507T110000Z
-SUMMARY:Lower bracket round 3 match 2: EC BANGA vs Atreides
-UID:cs-go-cct-europe-challengers-series-2-2026-1470243@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | FC Famalicão Esports: 0\nStream: https://kick.com/cct_cs
@@ -464,9 +457,9 @@ SUMMARY:Round 3: TDK vs G1
 UID:cs-go-cct-europe-series-1-21-2026-1469214@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260507T110000Z
+DTSTART:20260507T110607Z
 SUMMARY:Round 3: HAVU vs FCF
 UID:cs-go-cct-europe-series-1-21-2026-1469211@tournamentics
 END:VEVENT
@@ -478,16 +471,16 @@ SUMMARY:Upper bracket final: TBD vs TBD
 UID:cs-go-cct-europe-challengers-series-2-2026-1470248@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260507T134500Z
 SUMMARY:Upper bracket semifinal 2: TLR vs INOX
 UID:cs-go-cct-europe-challengers-series-2-2026-1470245@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260507T110000Z
+DTSTART:20260507T110323Z
 SUMMARY:Lower bracket round 3 match 1: BG vs m1x
 UID:cs-go-cct-europe-challengers-series-2-2026-1470242@tournamentics
 END:VEVENT
