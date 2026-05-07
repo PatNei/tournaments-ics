@@ -4636,6 +4636,13 @@ SUMMARY:Semifinal 2: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260510T181500Z
+SUMMARY:Upper bracket round 1 match 7: CYBERSHOKE Prospects vs ENJOY
+UID:cs-go-cct-europe-contenders-5-2026-1481120@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260516T203000Z
@@ -5658,6 +5665,13 @@ SUMMARY:ENJOY vs AUR.YB
 UID:cs-go-esea-advanced-europe-57-2026-1447108@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260510T153000Z
+SUMMARY:Upper bracket round 1 match 6: DNT vs ROTTW
+UID:cs-go-cct-europe-contenders-5-2026-1481119@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260510T080000Z
@@ -5728,9 +5742,9 @@ SUMMARY:Winners match: PSN.A vs LPH
 UID:cs-go-united21-48-2026-1455259@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260507T130000Z
+DTSTART:20260507T130331Z
 SUMMARY:Round of 16 match 1: PCY vs YAW
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467622@tournamentics
 END:VEVENT
@@ -6365,18 +6379,18 @@ SUMMARY:Lower bracket round 2 match 1: ex-Zero Tenacity vs BG
 UID:cs-go-cct-europe-challengers-series-2-2026-1470238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260510T153000Z
+SUMMARY:Upper bracket round 1 match 5: DRIP vs FF
+UID:cs-go-cct-europe-contenders-5-2026-1481118@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
 DTSTART:20260510T080000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-pgl-astana-2026-1474552@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | PURE: 0\nStream: https://www.twitch.tv/cspuregg
-DTEND:20260429T183825Z
-DTSTART:20260429T181528Z
-SUMMARY:FF vs PURE
-UID:cs-go-esea-advanced-europe-57-2026-1468052@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: BLAST Rivals - Spring 2026\nMatch Type: Best Of\nResult: Vitality: 2 | FUT Esports: 1\nStream: https://www.twitch.tv/blastpremier
@@ -6386,11 +6400,11 @@ SUMMARY:Upper bracket semifinal 1: VIT vs FUT
 UID:cs-go-blast-rivals-spring-2026-1438555@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | OLDBOYS PL: 0\nStream: No official stream linked
-DTEND:20260413T184902Z
-DTSTART:20260413T181658Z
-SUMMARY:EP vs OLDB
-UID:cs-go-esea-advanced-europe-57-2026-1444110@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Fire Flux Esports: 1 | PURE: 0\nStream: https://www.twitch.tv/cspuregg
+DTEND:20260429T183825Z
+DTSTART:20260429T181528Z
+SUMMARY:FF vs PURE
+UID:cs-go-esea-advanced-europe-57-2026-1468052@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - North America Cup #4 2026\nMatch Type: Best Of\nResult: Voca: 0 | Wildcard: 2\nStream: https://kick.com/eslcs
@@ -6398,6 +6412,13 @@ DTEND:20260502T023203Z
 DTSTART:20260502T010541Z
 SUMMARY:Upper bracket final: VOCA vs WC
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456967@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | OLDBOYS PL: 0\nStream: No official stream linked
+DTEND:20260413T184902Z
+DTSTART:20260413T181658Z
+SUMMARY:EP vs OLDB
+UID:cs-go-esea-advanced-europe-57-2026-1444110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: NAVI Junior: 1 | ReThink: 2\nStream: https://kick.com/eplcs_en
@@ -7065,11 +7086,11 @@ SUMMARY:TLR vs NEW VISION
 UID:cs-go-esea-advanced-europe-57-2026-1480457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | ex-Zero Tenacity: 1\nStream: https://kick.com/cct_cs4
-DTEND:20260505T163024Z
-DTSTART:20260505T134028Z
-SUMMARY:Upper bracket quarterfinal 4: INOX vs ex-Zero Tenacity
-UID:cs-go-cct-europe-challengers-series-2-2026-1470237@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260509T181500Z
+SUMMARY:Upper bracket round 1 match 4: TBD vs BL
+UID:cs-go-cct-europe-contenders-5-2026-1481117@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -7077,6 +7098,13 @@ DURATION:PT2H
 DTSTART:20260510T050000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-pgl-astana-2026-1474551@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | ex-Zero Tenacity: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260505T163024Z
+DTSTART:20260505T134028Z
+SUMMARY:Upper bracket quarterfinal 4: INOX vs ex-Zero Tenacity
+UID:cs-go-cct-europe-challengers-series-2-2026-1470237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Dripmen: 1 | ReThink: 0\nStream: No official stream linked
