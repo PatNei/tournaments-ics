@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260512T103000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: WRAITH PCIFIC vs TBD
 UID:cs-go-european-pro-league-regular-5-2026-1476932@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260512T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: XI vs TBD
 UID:cs-go-european-pro-league-regular-5-2026-1476931@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-european-pro-league-regular-5-2026-1476933@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nResult: XI Esport: 0 | WRAITH PCIFIC: 2\nStream: https://kick.com/eplcs_en
+DTEND:20260508T100601Z
 DTSTART:20260508T082841Z
 SUMMARY:XI vs WRAITH PCIFIC
 UID:cs-go-european-pro-league-regular-5-2026-1476929@tournamentics
