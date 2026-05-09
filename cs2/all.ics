@@ -1894,7 +1894,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260509T110000Z
+DTSTART:20260509T100000Z
 SUMMARY:Round 1: FAL vs K27
 UID:cs-go-pgl-astana-2026-1474547@tournamentics
 END:VEVENT
@@ -3866,9 +3866,9 @@ SUMMARY:Grand final: VOCA vs WC
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456970@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260509T070500Z
+DTSTART:20260509T070618Z
 SUMMARY:Round 1: MOUZ vs M8
 UID:cs-go-pgl-astana-2026-1474544@tournamentics
 END:VEVENT
