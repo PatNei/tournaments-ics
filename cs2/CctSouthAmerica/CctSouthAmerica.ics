@@ -271,7 +271,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260510T180000Z
-SUMMARY:Semifinal 2: TdP vs TBD
+SUMMARY:Semifinal 2: TdP vs ISG
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467635@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -289,8 +289,8 @@ SUMMARY:Round 1: paiN.A vs PLS
 UID:cs-go-champion-of-champions-tour-series-2-2026-1484549@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Fake do Biru: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260509T211811Z
 DTSTART:20260509T190545Z
 SUMMARY:Quarterfinal 3: ISG vs FDB
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467632@tournamentics
