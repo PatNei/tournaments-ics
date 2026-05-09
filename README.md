@@ -184,6 +184,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Cct
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series1Season42026.ics
 ```
 
+### Series 2 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series22026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/CctSouthAmerica/Series22026.ics
+```
+
 </details>
 
 <details>
