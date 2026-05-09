@@ -4685,13 +4685,6 @@ SUMMARY:BIG.A vs KSM
 UID:cs-go-european-pro-league-regular-5-2026-1476925@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260509T181500Z
-SUMMARY:Upper bracket round 1 match 1: CO vs SHISHKA
-UID:cs-go-cct-europe-contenders-5-2026-1481114@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: Imperial Academy: 2 | AaB Esport: 1\nStream: https://kick.com/eplcs_en
 DTEND:20260503T111857Z
 DTSTART:20260503T080834Z
@@ -5539,9 +5532,9 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260509T183000Z
+DTSTART:20260509T184434Z
 SUMMARY:Round 2: Oldboys vs NP
 UID:cs-go-exort-series-26-2026-1484140@tournamentics
 END:VEVENT
