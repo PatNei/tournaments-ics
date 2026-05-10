@@ -1670,7 +1670,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260510T140000Z
+DTSTART:20260510T141000Z
 SUMMARY:Round 4: FAV vs OXUJI
 UID:cs-go-cct-europe-series-1-21-2026-1469222@tournamentics
 END:VEVENT
@@ -3355,9 +3355,9 @@ SUMMARY:Elimination match: STA vs BRUTE
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462481@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
+DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
 DURATION:PT2H
-DTSTART:20260510T140000Z
+DTSTART:20260510T140355Z
 SUMMARY:Upper bracket semifinal 2: ACE vs GAT
 UID:cs-go-parken-challenger-championship-6-2026-1484599@tournamentics
 END:VEVENT
@@ -5324,7 +5324,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
-DTSTART:20260510T140000Z
+DTSTART:20260510T142500Z
 SUMMARY:Grand final: INOX vs BRUTE
 UID:cs-go-cct-europe-challengers-series-2-2026-1470251@tournamentics
 END:VEVENT
