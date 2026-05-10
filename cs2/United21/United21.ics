@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260514T080000Z
-SUMMARY:Winners match: MASQ vs TBD
+SUMMARY:Winners match: MASQ vs LPH
 UID:cs-go-united21-49-2026-1483519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260514T103000Z
-SUMMARY:Elimination match: Oldboys vs TBD
+SUMMARY:Elimination match: Oldboys vs PSN.A
 UID:cs-go-united21-49-2026-1483520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -170,8 +170,8 @@ SUMMARY:Winners match: INF vs AAB
 UID:cs-go-united21-48-2026-1455261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nResult: Passion Academy: 1 | LPH Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260510T133134Z
 DTSTART:20260510T103530Z
 SUMMARY:PSN.A vs LPH
 UID:cs-go-united21-49-2026-1483518@tournamentics
