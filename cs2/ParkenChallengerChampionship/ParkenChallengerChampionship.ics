@@ -19,12 +19,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260511T080000Z
-SUMMARY:Lower bracket semifinal: BMB vs TBD
+SUMMARY:Lower bracket semifinal: BMB vs A Great Chaos
 UID:cs-go-parken-challenger-championship-6-2026-1484601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: A Great Chaos: 2 |  Gatorian: 0\nStream: https://kick.com/challengerchampionship
+DTEND:20260510T193514Z
 DTSTART:20260510T180134Z
 SUMMARY:Lower bracket quarterfinal 1: A Great Chaos vs GAT
 UID:cs-go-parken-challenger-championship-6-2026-1484596@tournamentics
