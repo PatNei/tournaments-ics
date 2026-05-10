@@ -6085,9 +6085,9 @@ SUMMARY:Upper bracket round 1 match 6: DNT vs ROTTW
 UID:cs-go-cct-europe-contenders-5-2026-1481119@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
-DTSTART:20260510T082000Z
+DTSTART:20260510T082226Z
 SUMMARY:Round 2: AUR vs THE
 UID:cs-go-pgl-astana-2026-1474553@tournamentics
 END:VEVENT
@@ -6864,7 +6864,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260510T083000Z
+DTSTART:20260510T084000Z
 SUMMARY:Round 2: MGLZ vs TS
 UID:cs-go-pgl-astana-2026-1474552@tournamentics
 END:VEVENT
@@ -8367,8 +8367,8 @@ SUMMARY:Upper bracket round 1 match 3: MISA vs EJ
 UID:cs-go-cct-europe-contenders-5-2026-1481116@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: MOUZ: 2 | G2: 1\nStream: https://www.twitch.tv/PGL
+DTEND:20260510T082350Z
 DTSTART:20260510T050000Z
 SUMMARY:Round 2: MOUZ vs G2
 UID:cs-go-pgl-astana-2026-1474550@tournamentics
