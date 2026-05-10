@@ -33,7 +33,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260510T140000Z
-SUMMARY:Grand final: INOX vs TBD
+SUMMARY:Grand final: INOX vs BRUTE
 UID:cs-go-cct-europe-challengers-series-2-2026-1470251@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -72,8 +72,8 @@ SUMMARY:Lower bracket semifinal: Atreides vs NEW VISION
 UID:cs-go-cct-europe-challengers-series-2-2026-1470249@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Brute: 2 | Atreides: 1\nStream: https://kick.com/cct_cs3
+DTEND:20260510T135249Z
 DTSTART:20260510T110315Z
 SUMMARY:Lower bracket final: BRUTE vs Atreides
 UID:cs-go-cct-europe-challengers-series-2-2026-1470250@tournamentics
