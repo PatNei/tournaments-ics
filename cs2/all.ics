@@ -89,7 +89,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T080000Z
-SUMMARY:Upper bracket quarterfinal 3: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 3: Matrix vs GAT
 UID:cs-go-parken-challenger-championship-6-2026-1484592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -669,7 +669,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260512T140000Z
+DTSTART:20260512T200000Z
 SUMMARY:Round 1: UNO vs paiN.A
 UID:cs-go-betboom-storm-3-2026-1484472@tournamentics
 END:VEVENT
@@ -733,7 +733,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T080000Z
-SUMMARY:Upper bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 2: BMB vs LLE
 UID:cs-go-parken-challenger-championship-6-2026-1484591@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1363,7 +1363,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T080000Z
-SUMMARY:Upper bracket quarterfinal 1: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 1: 100T vs A Great Chaos
 UID:cs-go-parken-challenger-championship-6-2026-1484590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2609,7 +2609,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260512T103000Z
-SUMMARY:Z7 vs TBD
+SUMMARY:Kinoa vs Z7
 UID:cs-go-united21-49-2026-1483528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4874,11 +4874,11 @@ SUMMARY:Upper bracket quarterfinal 4: ALGO vs AAB
 UID:cs-go-european-pro-league-regular-4-2026-1465433@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260519T160000Z
-SUMMARY:Round 4: TBD vs TBD
-UID:cs-go-champion-of-champions-tour-series-2-2026-1484569@tournamentics
+DTSTART:20260510T180000Z
+SUMMARY:Diamant Esports vs UUST
+UID:cs-go-esea-advanced-europe-57-2026-1485132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: Eternal Fire Academy: 2 | Younglings: 0\nStream: https://kick.com/exort_en2
@@ -4886,6 +4886,13 @@ DTEND:20260506T173940Z
 DTSTART:20260506T160328Z
 SUMMARY:Round 1: EF.A vs YL
 UID:cs-go-exort-series-26-2026-1478900@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
+DURATION:PT2H
+DTSTART:20260519T160000Z
+SUMMARY:Round 4: TBD vs TBD
+UID:cs-go-champion-of-champions-tour-series-2-2026-1484569@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
@@ -4939,7 +4946,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260510T180000Z
+DTSTART:20260510T150000Z
 SUMMARY:Semifinal 2: TdP vs ISG
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467635@tournamentics
 END:VEVENT
@@ -5665,6 +5672,13 @@ SUMMARY:Upper bracket quarterfinal 3: IMP.A vs LPH
 UID:cs-go-european-pro-league-regular-4-2026-1465432@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260510T140000Z
+SUMMARY:CYBERSHOKE Prospects vs AUR.YB
+UID:cs-go-esea-advanced-europe-57-2026-1485131@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260518T220000Z
@@ -5716,7 +5730,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260510T150000Z
+DTSTART:20260510T180000Z
 SUMMARY:Semifinal 1: LDP vs IMP
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467634@tournamentics
 END:VEVENT
@@ -7872,7 +7886,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260512T200000Z
+DTSTART:20260512T140000Z
 SUMMARY:Round 1: LDP vs BST.A
 UID:cs-go-betboom-storm-3-2026-1484474@tournamentics
 END:VEVENT
@@ -7894,7 +7908,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T080000Z
-SUMMARY:Upper bracket quarterfinal 4: TBD vs TBD
+SUMMARY:Upper bracket quarterfinal 4: ACE vs HAFO
 UID:cs-go-parken-challenger-championship-6-2026-1484593@tournamentics
 END:VEVENT
 BEGIN:VEVENT
