@@ -173,7 +173,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260511T110000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: MOUZ.N vs INOX
 UID:cs-go-cct-europe-series-1-21-2026-1469224@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -345,8 +345,8 @@ SUMMARY:Lower bracket quarterfinal 1: NEW VISION vs BG
 UID:cs-go-cct-europe-challengers-series-2-2026-1470246@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | ENJOY: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260510T210333Z
 DTSTART:20260510T182923Z
 SUMMARY:Upper bracket round 1 match 7: CYBERSHOKE Prospects vs ENJOY
 UID:cs-go-cct-europe-contenders-5-2026-1481120@tournamentics
@@ -432,7 +432,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260511T170000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: G1 vs Lavked
 UID:cs-go-cct-europe-series-1-21-2026-1469226@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -663,7 +663,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260511T140000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: FAV vs HAVU
 UID:cs-go-cct-europe-series-1-21-2026-1469225@tournamentics
 END:VEVENT
 BEGIN:VEVENT

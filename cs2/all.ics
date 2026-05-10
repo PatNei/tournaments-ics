@@ -369,7 +369,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260511T110000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: MOUZ.N vs INOX
 UID:cs-go-cct-europe-series-1-21-2026-1469224@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4097,9 +4097,9 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-champion-of-champions-tour-series-2-2026-1484581@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
 DURATION:PT2H
-DTSTART:20260510T211500Z
+DTSTART:20260510T211712Z
 SUMMARY:Semifinal 2: UNO vs GLS
 UID:cs-go-odyssey-cup-brazil-2026-1460067@tournamentics
 END:VEVENT
@@ -4174,9 +4174,9 @@ SUMMARY:HUSK vs LEI
 UID:cs-go-dach-cs-masters-5-2026-1385715@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260510T210000Z
+DTSTART:20260510T210129Z
 SUMMARY:Grand final: LDP vs ISG
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467636@tournamentics
 END:VEVENT
@@ -4958,8 +4958,8 @@ SUMMARY:FROX vs WAVE
 UID:cs-go-dach-cs-masters-5-2026-1385714@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nResult: CYBERSHOKE Prospects: 2 | ENJOY: 1\nStream: https://kick.com/cct_cs4
+DTEND:20260510T210333Z
 DTSTART:20260510T182923Z
 SUMMARY:Upper bracket round 1 match 7: CYBERSHOKE Prospects vs ENJOY
 UID:cs-go-cct-europe-contenders-5-2026-1481120@tournamentics
@@ -7509,7 +7509,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260511T170000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: G1 vs Lavked
 UID:cs-go-cct-europe-series-1-21-2026-1469226@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8209,7 +8209,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260511T140000Z
-SUMMARY:Round 5: TBD vs TBD
+SUMMARY:Round 5: FAV vs HAVU
 UID:cs-go-cct-europe-series-1-21-2026-1469225@tournamentics
 END:VEVENT
 BEGIN:VEVENT
