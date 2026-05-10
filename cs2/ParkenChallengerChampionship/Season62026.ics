@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T140000Z
-SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+SUMMARY:Upper bracket semifinal 2: ACE vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484599@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -30,8 +30,8 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484596@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship_b
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: Acend: 2 | HAFO: 0\nStream: https://kick.com/challengerchampionship_b
+DTEND:20260510T091021Z
 DTSTART:20260510T080645Z
 SUMMARY:Upper bracket quarterfinal 4: ACE vs HAFO
 UID:cs-go-parken-challenger-championship-6-2026-1484593@tournamentics
@@ -68,7 +68,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260510T110000Z
-SUMMARY:Lower bracket round 1 match 2: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 2: HAFO vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
