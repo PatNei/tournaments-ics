@@ -4177,7 +4177,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260510T210000Z
-SUMMARY:Grand final: ISG vs TBD
+SUMMARY:Grand final: ISG vs LDP
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467636@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5728,8 +5728,8 @@ SUMMARY:ENCE vs PRE
 UID:cs-go-european-pro-league-regular-5-2026-1476930@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: Imperial: 0 | largadosypelados: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260510T194310Z
 DTSTART:20260510T180035Z
 SUMMARY:Semifinal 1: IMP vs LDP
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467634@tournamentics
