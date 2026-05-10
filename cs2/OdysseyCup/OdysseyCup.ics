@@ -19,7 +19,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
 DTSTART:20260510T203000Z
-SUMMARY:Semifinal 2: UNO vs TBD
+SUMMARY:Semifinal 2: UNO vs GLS
 UID:cs-go-odyssey-cup-brazil-2026-1460067@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -205,8 +205,8 @@ SUMMARY:Round 5: BHE vs MW
 UID:cs-go-odyssey-cup-brazil-2026-1459542@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/gamersclubcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Galorys: 2 | Bounty Hunters Esports: 1\nStream: https://www.twitch.tv/gamersclubcs
+DTEND:20260510T011011Z
 DTSTART:20260509T223148Z
 SUMMARY:Quarterfinal 4: GLS vs BHE
 UID:cs-go-odyssey-cup-brazil-2026-1460065@tournamentics
