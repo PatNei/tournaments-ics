@@ -19,14 +19,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260514T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: MASQ vs TBD
 UID:cs-go-united21-49-2026-1483519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260514T103000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: Oldboys vs TBD
 UID:cs-go-united21-49-2026-1483520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -107,8 +107,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-49-2026-1483521@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nResult: MASQ: 2 | Oldboys: 0\nStream: https://kick.com/united21_en
+DTEND:20260510T092722Z
 DTSTART:20260510T081411Z
 SUMMARY:MASQ vs Oldboys
 UID:cs-go-united21-49-2026-1483517@tournamentics
