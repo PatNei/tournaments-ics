@@ -502,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260511T143000Z
-SUMMARY:Lower bracket final: BMB vs TBD
+SUMMARY:Lower bracket final: BMB vs ACE
 UID:cs-go-parken-challenger-championship-6-2026-1484602@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1024,9 +1024,9 @@ SUMMARY:Decider match: DRIP vs FCF
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/11718774
+DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/11718774
 DURATION:PT2H
-DTSTART:20260511T143000Z
+DTSTART:20260511T142725Z
 SUMMARY:Upper bracket quarterfinal 4: LB vs KG
 UID:cs-go-asian-champions-league-2026-1481150@tournamentics
 END:VEVENT
@@ -5140,8 +5140,8 @@ SUMMARY:Upper bracket round of 16 match 5: G1 vs LILMIX
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456863@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nResult: 100 Thieves: 2 | Acend: 1\nStream: https://kick.com/challengerchampionship
+DTEND:20260511T142917Z
 DTSTART:20260511T110420Z
 SUMMARY:Upper bracket final: 100T vs ACE
 UID:cs-go-parken-challenger-championship-6-2026-1484600@tournamentics
@@ -6816,7 +6816,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
 DTSTART:20260511T170000Z
-SUMMARY:Grand final: TBD vs TBD
+SUMMARY:Grand final: 100T vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
