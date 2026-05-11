@@ -1495,7 +1495,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260511T180000Z
+DTSTART:20260515T170000Z
 SUMMARY:LFO vs BW
 UID:cs-go-esea-advanced-europe-57-2026-1486187@tournamentics
 END:VEVENT
@@ -1731,8 +1731,8 @@ SUMMARY:Upper bracket quarterfinal 2: NAVI.J vs PRE
 UID:cs-go-european-pro-league-regular-4-2026-1465431@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: FURIA: 1 | Spirit: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260511T162707Z
 DTSTART:20260511T130957Z
 SUMMARY:Round 3: FURIA vs TS
 UID:cs-go-pgl-astana-2026-1474564@tournamentics
@@ -2424,6 +2424,13 @@ SUMMARY:G2.A vs RGG
 UID:cs-go-esplay-elite-gaming-1-2026-1466505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260512T181500Z
+SUMMARY:Upper bracket quarterfinal 3: FF vs DNT
+UID:cs-go-cct-europe-contenders-5-2026-1487708@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: BESTIA Academy: 2 | Alzon: 1\nStream: https://kick.com/cct_cs2
 DTEND:20260502T221425Z
 DTSTART:20260502T191204Z
@@ -2592,8 +2599,8 @@ SUMMARY:Round 2: MSC vs st0ny
 UID:cs-go-dust2-dk-32-2026-1467577@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | Walczaki: 2\nStream: https://kick.com/nodwin_cs2
+DTEND:20260511T162956Z
 DTSTART:20260511T143535Z
 SUMMARY:Round 2: AM vs WAL
 UID:cs-go-nodwin-clutch-series-8-2026-1471677@tournamentics
@@ -4118,6 +4125,13 @@ SUMMARY:Lower bracket round 1 match 3: WG vs EMP
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456955@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nResult: Clair Obscur: 2 | yngods: 0\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260511T153000Z
+SUMMARY:Lower bracket round 1 match 1: CO vs YNG
+UID:cs-go-cct-europe-contenders-5-2026-1487710@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Omega: 1 | Lavked: 2\nStream: https://kick.com/cct_cs
 DTEND:20260503T110711Z
 DTSTART:20260503T082736Z
@@ -4627,6 +4641,13 @@ DTEND:20260503T111857Z
 DTSTART:20260503T080834Z
 SUMMARY:Lower bracket final: IMP.A vs AAB
 UID:cs-go-european-pro-league-regular-4-2026-1466103@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260512T181500Z
+SUMMARY:Upper bracket quarterfinal 2: EJ vs BL
+UID:cs-go-cct-europe-contenders-5-2026-1487707@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Fake do Biru: 1 | paiN Academy: 0\nStream: No official stream linked
@@ -5600,6 +5621,13 @@ DTEND:20260429T022709Z
 DTSTART:20260429T011007Z
 SUMMARY:Lower bracket round 2 match 2: FC vs TA
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456958@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | EC BANGA: 0\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260512T153000Z
+SUMMARY:Lower bracket round 1 match 4: ENJOY vs EC BANGA
+UID:cs-go-cct-europe-contenders-5-2026-1487713@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 4 2026\nMatch Type: Best Of\nResult: Prestige: 1 | Imperial Academy: 2\nStream: https://kick.com/eplcs_en
@@ -7009,6 +7037,13 @@ SUMMARY:Grand final: BIG.A vs IMP.A
 UID:cs-go-european-pro-league-regular-4-2026-1466102@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260511T181500Z
+SUMMARY:Upper bracket quarterfinal 1: SHISHKA vs Atreides
+UID:cs-go-cct-europe-contenders-5-2026-1487706@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: SE7ENS Esport: 0 | ReThink: 1\nStream: No official stream linked
 DTEND:20260504T184252Z
 DTSTART:20260504T181429Z
@@ -7926,6 +7961,13 @@ SUMMARY:Lower bracket round 2 match 1: F5 vs Reign Above
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456957@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260512T153000Z
+SUMMARY:Lower bracket round 1 match 3: DRIP vs ROTTW
+UID:cs-go-cct-europe-contenders-5-2026-1487712@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Imperial: 1 | Yawara Esports: 2\nStream: https://www.twitch.tv/nahzinhaa
 DTEND:20260426T181041Z
 DTSTART:20260426T151337Z
@@ -8589,6 +8631,13 @@ DTEND:20260501T131741Z
 DTSTART:20260501T104145Z
 SUMMARY:Lower bracket quarterfinal 1: IMP.A vs RT
 UID:cs-go-european-pro-league-regular-4-2026-1466105@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260511T181500Z
+SUMMARY:Upper bracket quarterfinal 4: CYBERSHOKE Prospects vs AUR.YB
+UID:cs-go-cct-europe-contenders-5-2026-1487709@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: ELITES: 0 | Isurus: 2\nStream: https://kick.com/cct_cs2

@@ -2,6 +2,34 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nResult: Clair Obscur: 2 | yngods: 0\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260511T153000Z
+SUMMARY:Lower bracket round 1 match 1: CO vs YNG
+UID:cs-go-cct-europe-contenders-5-2026-1487710@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260511T181500Z
+SUMMARY:Upper bracket quarterfinal 1: SHISHKA vs Atreides
+UID:cs-go-cct-europe-contenders-5-2026-1487706@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260512T153000Z
+SUMMARY:Lower bracket round 1 match 3: DRIP vs ROTTW
+UID:cs-go-cct-europe-contenders-5-2026-1487712@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260512T181500Z
+SUMMARY:Upper bracket quarterfinal 3: FF vs DNT
+UID:cs-go-cct-europe-contenders-5-2026-1487708@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nResult: Donstu Esports: 2 | rottweilers: 0\nStream: https://kick.com/cct_cs5
 DTEND:20260510T171629Z
 DTSTART:20260510T154454Z
@@ -21,5 +49,26 @@ DTEND:20260509T173841Z
 DTSTART:20260509T155356Z
 SUMMARY:Upper bracket round 1 match 3: MISA vs EJ
 UID:cs-go-cct-europe-contenders-5-2026-1481116@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260512T181500Z
+SUMMARY:Upper bracket quarterfinal 2: EJ vs BL
+UID:cs-go-cct-europe-contenders-5-2026-1487707@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nResult: ENJOY: 2 | EC BANGA: 0\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260512T153000Z
+SUMMARY:Lower bracket round 1 match 4: ENJOY vs EC BANGA
+UID:cs-go-cct-europe-contenders-5-2026-1487713@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260511T181500Z
+SUMMARY:Upper bracket quarterfinal 4: CYBERSHOKE Prospects vs AUR.YB
+UID:cs-go-cct-europe-contenders-5-2026-1487709@tournamentics
 END:VEVENT
 END:VCALENDAR
