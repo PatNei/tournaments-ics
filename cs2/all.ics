@@ -796,7 +796,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T050000Z
-SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+SUMMARY:Upper bracket semifinal 1: LVG vs TBD
 UID:cs-go-asian-champions-league-2026-1481174@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1444,8 +1444,8 @@ SUMMARY:FCF vs BG
 UID:cs-go-esea-advanced-europe-57-2026-1466518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/18525153
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: Lynn Vision: 2 | Alter Ego: 0\nStream: https://www.huya.com/18525153
+DTEND:20260511T115738Z
 DTSTART:20260511T100157Z
 SUMMARY:Upper bracket quarterfinal 1: LVG vs AE
 UID:cs-go-asian-champions-league-2026-1481137@tournamentics
@@ -1733,7 +1733,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260511T140000Z
+DTSTART:20260511T131500Z
 SUMMARY:Round 3: FURIA vs TS
 UID:cs-go-pgl-astana-2026-1474564@tournamentics
 END:VEVENT
@@ -1916,7 +1916,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T090000Z
-SUMMARY:Lower bracket round 1 match 1: TBD vs TBD
+SUMMARY:Lower bracket round 1 match 1: AE vs TBD
 UID:cs-go-asian-champions-league-2026-1481261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5338,7 +5338,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/18525153
 DURATION:PT2H
-DTSTART:20260511T120000Z
+DTSTART:20260511T121500Z
 SUMMARY:Upper bracket quarterfinal 3: SFE vs CTG
 UID:cs-go-asian-champions-league-2026-1481139@tournamentics
 END:VEVENT
@@ -7667,9 +7667,9 @@ SUMMARY:Round 2: R2 vs Keyd
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467601@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/synkloites
+DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/synkloites
 DURATION:PT2H
-DTSTART:20260511T120000Z
+DTSTART:20260511T115808Z
 SUMMARY:Upper bracket quarterfinal 2: HH vs TdU
 UID:cs-go-asian-champions-league-2026-1481138@tournamentics
 END:VEVENT
@@ -7898,7 +7898,7 @@ SUMMARY:Upper bracket quarterfinal 3: IMP.A vs LPH
 UID:cs-go-european-pro-league-regular-4-2026-1465432@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
+DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
 DTSTART:20260511T140000Z
 SUMMARY:Round 3: THE vs FC
