@@ -1026,7 +1026,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/11718774
 DURATION:PT2H
-DTSTART:20260511T100000Z
+DTSTART:20260511T120000Z
 SUMMARY:Upper bracket quarterfinal 4: LB vs KG
 UID:cs-go-asian-champions-league-2026-1481150@tournamentics
 END:VEVENT
@@ -1871,8 +1871,8 @@ SUMMARY:Round 1: P2N vs INF
 UID:cs-go-exort-series-26-2026-1466119@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nResult: FTUR: 0 | ALGO Esports: 2\nStream: https://kick.com/united21_en
+DTEND:20260511T093920Z
 DTSTART:20260511T080646Z
 SUMMARY:FTUR vs ALGO
 UID:cs-go-united21-49-2026-1483522@tournamentics
@@ -3533,7 +3533,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260515T103000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: FTUR vs TBD
 UID:cs-go-united21-49-2026-1483525@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5338,7 +5338,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/18525153
 DURATION:PT2H
-DTSTART:20260511T100000Z
+DTSTART:20260511T120000Z
 SUMMARY:Upper bracket quarterfinal 3: SFE vs CTG
 UID:cs-go-asian-champions-league-2026-1481139@tournamentics
 END:VEVENT
@@ -5787,7 +5787,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260515T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: ALGO vs TBD
 UID:cs-go-united21-49-2026-1483524@tournamentics
 END:VEVENT
 BEGIN:VEVENT
