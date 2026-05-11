@@ -135,9 +135,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-betboom-storm-3-2026-1484508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260511T170000Z
+DTSTART:20260511T170724Z
 SUMMARY:Round 2: OXUJI vs TNC
 UID:cs-go-nodwin-clutch-series-8-2026-1471678@tournamentics
 END:VEVENT
@@ -961,13 +961,6 @@ SUMMARY:Round 4: SINQU vs BOYB
 UID:cs-go-elisa-open-suomi-13-2026-1463392@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
-DURATION:PT2H
-DTSTART:20260511T153000Z
-SUMMARY:Round 3: EF.A vs EP
-UID:cs-go-exort-series-26-2026-1485129@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #1 2026\nMatch Type: Best Of\nResult: MANA eSports: 0 | ASTRAL: 2\nStream: No official stream linked
 DTEND:20260430T153706Z
 DTSTART:20260430T140835Z
@@ -1024,8 +1017,8 @@ SUMMARY:Decider match: DRIP vs FCF
 UID:cs-go-cct-europe-closed-qualifier-series-1-2026-1462516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/11718774
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: Last Bullet: 1 | Kaleido Gaming: 2\nStream: https://www.huya.com/11718774
+DTEND:20260511T170506Z
 DTSTART:20260511T142725Z
 SUMMARY:Upper bracket quarterfinal 4: LB vs KG
 UID:cs-go-asian-champions-league-2026-1481150@tournamentics
@@ -1990,9 +1983,9 @@ SUMMARY:ZOTIX vs BG
 UID:cs-go-esea-advanced-europe-57-2026-1465447@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260511T170000Z
+DTSTART:20260511T170710Z
 SUMMARY:Round 5: G1 vs Lavked
 UID:cs-go-cct-europe-series-1-21-2026-1469226@tournamentics
 END:VEVENT
@@ -2868,7 +2861,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T090000Z
-SUMMARY:Lower bracket round 1 match 2: CTG vs TBD
+SUMMARY:Lower bracket round 1 match 2: CTG vs LB
 UID:cs-go-asian-champions-league-2026-1481268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5114,7 +5107,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260511T170000Z
+DTSTART:20260511T171500Z
 SUMMARY:Round 1: FDB vs MW
 UID:cs-go-betboom-storm-3-2026-1484469@tournamentics
 END:VEVENT
@@ -6850,7 +6843,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Parken Challenger Championship - Season 6 2026\nMatch Type: Best Of\nStream: https://kick.com/challengerchampionship
 DURATION:PT2H
-DTSTART:20260511T170000Z
+DTSTART:20260511T180000Z
 SUMMARY:Grand final: 100T vs TBD
 UID:cs-go-parken-challenger-championship-6-2026-1484603@tournamentics
 END:VEVENT
@@ -7152,7 +7145,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T050000Z
-SUMMARY:Upper bracket semifinal 2: SFE vs TBD
+SUMMARY:Upper bracket semifinal 2: SFE vs KG
 UID:cs-go-asian-champions-league-2026-1481175@tournamentics
 END:VEVENT
 BEGIN:VEVENT

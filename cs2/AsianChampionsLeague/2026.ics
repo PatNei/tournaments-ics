@@ -12,7 +12,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T050000Z
-SUMMARY:Upper bracket semifinal 2: SFE vs TBD
+SUMMARY:Upper bracket semifinal 2: SFE vs KG
 UID:cs-go-asian-champions-league-2026-1481175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T090000Z
-SUMMARY:Lower bracket round 1 match 2: CTG vs TBD
+SUMMARY:Lower bracket round 1 match 2: CTG vs LB
 UID:cs-go-asian-champions-league-2026-1481268@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -156,8 +156,8 @@ SUMMARY:Lower bracket round 1 match 1: AE vs TdU
 UID:cs-go-asian-champions-league-2026-1481261@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/11718774
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: Last Bullet: 1 | Kaleido Gaming: 2\nStream: https://www.huya.com/11718774
+DTEND:20260511T170506Z
 DTSTART:20260511T142725Z
 SUMMARY:Upper bracket quarterfinal 4: LB vs KG
 UID:cs-go-asian-champions-league-2026-1481150@tournamentics
