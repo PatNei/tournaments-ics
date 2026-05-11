@@ -46,7 +46,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260511T080000Z
+DTSTART:20260511T065500Z
 SUMMARY:Round 3: MGLZ vs G2
 UID:cs-go-pgl-astana-2026-1474561@tournamentics
 END:VEVENT
@@ -6981,8 +6981,8 @@ SUMMARY:Round 1: WAZ vs AAB.B
 UID:cs-go-dust2-dk-32-2026-1448778@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: Heroic: 0 | Gentle Mates: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260511T063713Z
 DTSTART:20260511T050447Z
 SUMMARY:Round 3: HERO vs M8
 UID:cs-go-pgl-astana-2026-1474559@tournamentics
