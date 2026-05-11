@@ -44,8 +44,8 @@ SUMMARY:Round 1: SASHI.A vs EN
 UID:cs-go-dust2-dk-32-2026-1448780@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: TheMongolz: 2 | G2: 0\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260511T090231Z
 DTSTART:20260511T065738Z
 SUMMARY:Round 3: MGLZ vs G2
 UID:cs-go-pgl-astana-2026-1474561@tournamentics
@@ -1446,7 +1446,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/18525153
 DURATION:PT2H
-DTSTART:20260511T090000Z
+DTSTART:20260511T100000Z
 SUMMARY:Upper bracket quarterfinal 1: LVG vs AE
 UID:cs-go-asian-champions-league-2026-1481137@tournamentics
 END:VEVENT
@@ -7676,7 +7676,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/11718774
 DURATION:PT2H
-DTSTART:20260511T090000Z
+DTSTART:20260511T100000Z
 SUMMARY:Upper bracket quarterfinal 2: HH vs TdU
 UID:cs-go-asian-champions-league-2026-1481138@tournamentics
 END:VEVENT
