@@ -3526,7 +3526,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260515T103000Z
-SUMMARY:Elimination match: FTUR vs TBD
+SUMMARY:Elimination match: FTUR vs VIT.A
 UID:cs-go-united21-49-2026-1483525@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5780,7 +5780,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260515T080000Z
-SUMMARY:Winners match: ALGO vs TBD
+SUMMARY:Winners match: ALGO vs PRE
 UID:cs-go-united21-49-2026-1483524@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8066,8 +8066,8 @@ SUMMARY:Round 2: Damajuana vs PLS
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nResult: Prestige: 2 | Vitality Academy: 1\nStream: https://kick.com/united21_en
+DTEND:20260511T134518Z
 DTSTART:20260511T103726Z
 SUMMARY:PRE vs VIT.A
 UID:cs-go-united21-49-2026-1483523@tournamentics
