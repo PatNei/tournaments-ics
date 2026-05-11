@@ -30,9 +30,9 @@ SUMMARY:Lower bracket quarterfinal 1: TBD vs TBD
 UID:cs-go-asian-champions-league-2026-1481246@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/11718774
+DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/synkloites
 DURATION:PT2H
-DTSTART:20260511T113000Z
+DTSTART:20260511T114500Z
 SUMMARY:Upper bracket quarterfinal 2: HH vs TdU
 UID:cs-go-asian-champions-league-2026-1481138@tournamentics
 END:VEVENT
@@ -61,14 +61,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T070000Z
-SUMMARY:Lower bracket round 1 match 2: GZ vs TBD
+SUMMARY:Lower bracket round 1 match 2: GZ vs RA
 UID:cs-go-asian-champions-league-2026-1481132@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260512T030000Z
-SUMMARY:Upper bracket semifinal 2: TYLOO vs TBD
+SUMMARY:Upper bracket semifinal 2: TYLOO vs 5S
 UID:cs-go-asian-champions-league-2026-1481128@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -198,8 +198,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-asian-champions-league-2026-1481130@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/11718774
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: 5star: 2 | Rare Atom: 1\nStream: https://www.huya.com/11718774
+DTEND:20260511T112432Z
 DTSTART:20260511T075809Z
 SUMMARY:Upper bracket quarterfinal 4: 5S vs RA
 UID:cs-go-asian-champions-league-2026-1481126@tournamentics
