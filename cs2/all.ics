@@ -291,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
-DTSTART:20260512T111000Z
+DTSTART:20260512T112000Z
 SUMMARY:Round 4: PRV vs G2
 UID:cs-go-pgl-astana-2026-1474571@tournamentics
 END:VEVENT
@@ -898,8 +898,8 @@ SUMMARY:Round 1: INF vs MJX
 UID:cs-go-exort-series-26-2026-1478902@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: TheMongolz: 1 | Team Falcons: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260512T110152Z
 DTSTART:20260512T075453Z
 SUMMARY:Round 4: MGLZ vs FAL
 UID:cs-go-pgl-astana-2026-1474568@tournamentics
@@ -1922,7 +1922,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/18525153
 DURATION:PT2H
-DTSTART:20260512T110000Z
+DTSTART:20260512T120000Z
 SUMMARY:Lower bracket round 1 match 1: AE vs TdU
 UID:cs-go-asian-champions-league-2026-1481261@tournamentics
 END:VEVENT
@@ -2762,7 +2762,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260512T110000Z
+DTSTART:20260512T113000Z
 SUMMARY:Round 4: FURIA vs M8
 UID:cs-go-pgl-astana-2026-1474570@tournamentics
 END:VEVENT
@@ -2874,7 +2874,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.huya.com/11718774
 DURATION:PT2H
-DTSTART:20260512T110000Z
+DTSTART:20260512T120000Z
 SUMMARY:Lower bracket round 1 match 2: CTG vs LB
 UID:cs-go-asian-champions-league-2026-1481268@tournamentics
 END:VEVENT
