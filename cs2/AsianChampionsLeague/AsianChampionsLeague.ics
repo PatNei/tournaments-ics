@@ -117,7 +117,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260513T030000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: CW vs TBD
 UID:cs-go-asian-champions-league-2026-1481134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -128,8 +128,8 @@ SUMMARY:Lower bracket round 1 match 1: FLY vs NEXVOID
 UID:cs-go-asian-champions-league-2026-1481131@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cispapa
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | Chinggis Warriors: 1\nStream: https://www.twitch.tv/cispapa
+DTEND:20260512T061738Z
 DTSTART:20260512T031513Z
 SUMMARY:Upper bracket semifinal 1: JJH vs CW
 UID:cs-go-asian-champions-league-2026-1481127@tournamentics
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260513T070000Z
-SUMMARY:Upper bracket final: TYLOO vs TBD
+SUMMARY:Upper bracket final: TYLOO vs JJH
 UID:cs-go-asian-champions-league-2026-1481129@tournamentics
 END:VEVENT
 BEGIN:VEVENT

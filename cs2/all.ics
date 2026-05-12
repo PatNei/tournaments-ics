@@ -1157,8 +1157,8 @@ SUMMARY:QUA vs OLDBOYS PL
 UID:cs-go-esea-advanced-europe-57-2026-1478893@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/cispapa
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: JiJieHao: 2 | Chinggis Warriors: 1\nStream: https://www.twitch.tv/cispapa
+DTEND:20260512T061738Z
 DTSTART:20260512T031513Z
 SUMMARY:Upper bracket semifinal 1: JJH vs CW
 UID:cs-go-asian-champions-league-2026-1481127@tournamentics
@@ -1610,6 +1610,13 @@ DTEND:20260502T021042Z
 DTSTART:20260501T235117Z
 SUMMARY:Quarterfinal 2: AST vs GL
 UID:cs-go-blast-rivals-spring-2026-1448726@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260512T183000Z
+SUMMARY:Round 4: MJX vs HEC
+UID:cs-go-exort-series-26-2026-1488364@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Brute: 2 | Atreides: 1\nStream: https://kick.com/cct_cs3
@@ -3285,6 +3292,13 @@ SUMMARY:Round of 16 match 2: 9INE vs 33
 UID:cs-go-stake-ranked-episode-2-closed-qualifier-2026-1466450@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260513T183000Z
+SUMMARY:INF vs NP
+UID:cs-go-exort-series-26-2026-1488367@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT South America - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs3
 DURATION:PT2H
 DTSTART:20260519T190000Z
@@ -3997,6 +4011,13 @@ DTEND:20260501T230115Z
 DTSTART:20260501T193358Z
 SUMMARY:Quarterfinal 1: G2 vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1448725@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260512T153000Z
+SUMMARY:Round 4: EF.A vs INF
+UID:cs-go-exort-series-26-2026-1488363@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nResult: XI Esport: 0 | WRAITH PCIFIC: 2\nStream: https://kick.com/eplcs_en
@@ -5094,7 +5115,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260513T070000Z
-SUMMARY:Upper bracket final: TYLOO vs TBD
+SUMMARY:Upper bracket final: TYLOO vs JJH
 UID:cs-go-asian-champions-league-2026-1481129@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5509,6 +5530,13 @@ DTEND:20260502T220312Z
 DTSTART:20260502T201043Z
 SUMMARY:Semifinal 2: VIT vs GL
 UID:cs-go-blast-rivals-spring-2026-1448728@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260513T153000Z
+SUMMARY:Round 4: Oldboys vs VP.F2
+UID:cs-go-exort-series-26-2026-1488366@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Sashi Esport: 0 | ex-RUBY: 2\nStream: https://kick.com/nodwin_cs2
@@ -6342,6 +6370,13 @@ DTEND:20260425T143513Z
 DTSTART:20260425T130431Z
 SUMMARY:Lower bracket round 2 match 2: AIMC vs RUST
 UID:cs-go-esl-challenger-league-europe-cup-4-2026-1456812@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260512T123000Z
+SUMMARY:Round 4: CC vs LPH
+UID:cs-go-exort-series-26-2026-1488362@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
@@ -7856,6 +7891,13 @@ SUMMARY:Semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1448727@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DURATION:PT2H
+DTSTART:20260513T123000Z
+SUMMARY:Round 4: FORZE.R vs EP
+UID:cs-go-exort-series-26-2026-1488365@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | Brute: 0\nStream: https://kick.com/cct_cs3
 DTEND:20260510T163955Z
 DTSTART:20260510T143929Z
@@ -8489,7 +8531,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260513T030000Z
-SUMMARY:Lower bracket quarterfinal 2: TBD vs TBD
+SUMMARY:Lower bracket quarterfinal 2: CW vs TBD
 UID:cs-go-asian-champions-league-2026-1481134@tournamentics
 END:VEVENT
 BEGIN:VEVENT
