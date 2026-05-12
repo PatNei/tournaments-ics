@@ -180,7 +180,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260516T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: INF vs TBD
 UID:cs-go-united21-49-2026-1483529@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -240,8 +240,8 @@ SUMMARY:Decider match: TBD vs TBD
 UID:cs-go-united21-49-2026-1483531@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 1 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260512T114118Z
 DTSTART:20260512T080903Z
 SUMMARY:SNG vs INF
 UID:cs-go-united21-49-2026-1483527@tournamentics
@@ -376,7 +376,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260516T103000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: SNG vs TBD
 UID:cs-go-united21-49-2026-1483530@tournamentics
 END:VEVENT
 END:VCALENDAR
