@@ -117,14 +117,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260512T230000Z
-SUMMARY:Upper bracket semifinal 2: AST vs TBD
+SUMMARY:Upper bracket semifinal 2: AST vs LGC
 UID:cs-go-iem-atlanta-2026-1474589@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260512T230000Z
-SUMMARY:Lower bracket quarterfinal 2: TL vs TBD
+SUMMARY:Lower bracket quarterfinal 2: TL vs M80
 UID:cs-go-iem-atlanta-2026-1474590@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -149,8 +149,8 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-iem-atlanta-2026-1474605@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nResult: Legacy: 2 | M80: 0\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260512T020732Z
 DTSTART:20260512T002607Z
 SUMMARY:Upper bracket quarterfinal 3: LGC vs M80
 UID:cs-go-iem-atlanta-2026-1473074@tournamentics
