@@ -5,7 +5,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260514T110000Z
-SUMMARY:Quarterfinal 2: TBD vs TBD
+SUMMARY:Quarterfinal 2: WAL vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -429,8 +429,8 @@ SUMMARY:Upper bracket round 1 match 7: INOX vs AUR.YB
 UID:cs-go-cct-europe-challengers-series-2-2026-1470196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: BET-M 33: 0 | Walczaki: 2\nStream: https://kick.com/cct_cs
+DTEND:20260512T155331Z
 DTSTART:20260512T141214Z
 SUMMARY:Round of 16 match 3: 33 vs WAL
 UID:cs-go-cct-europe-series-1-21-2026-1469229@tournamentics
