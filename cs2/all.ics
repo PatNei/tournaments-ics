@@ -163,8 +163,8 @@ SUMMARY:Lower bracket quarterfinal 1: FDB vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457005@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/riwan_stream
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: TEAM_COPH9K: 0 | OldBoys: 1\nStream: https://www.twitch.tv/riwan_stream
+DTEND:20260512T184440Z
 DTSTART:20260512T181457Z
 SUMMARY:TEAM_COPH9K vs OBOYS
 UID:cs-go-esea-advanced-europe-57-2026-1488342@tournamentics
@@ -2732,8 +2732,8 @@ SUMMARY:Lower bracket round 3 match 2: BHE vs Keyd
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457004@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | OKSUCC: 0\nStream: No official stream linked
+DTEND:20260512T184330Z
 DTSTART:20260512T181334Z
 SUMMARY:G2.A vs OKS
 UID:cs-go-esea-advanced-europe-57-2026-1488341@tournamentics
@@ -6904,9 +6904,9 @@ SUMMARY:ENRAGE vs DNT
 UID:cs-go-esea-advanced-europe-57-2026-1454784@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260512T183000Z
+DTSTART:20260512T184319Z
 SUMMARY:EP vs NEW VISION
 UID:cs-go-esea-advanced-europe-57-2026-1488343@tournamentics
 END:VEVENT
