@@ -163,9 +163,9 @@ SUMMARY:Lower bracket quarterfinal 1: FDB vs SHIN
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457005@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/riwan_stream
 DURATION:PT2H
-DTSTART:20260512T180000Z
+DTSTART:20260512T181000Z
 SUMMARY:TEAM_COPH9K vs OBOYS
 UID:cs-go-esea-advanced-europe-57-2026-1488342@tournamentics
 END:VEVENT
@@ -4923,9 +4923,9 @@ SUMMARY:Round 2: FDB vs paiN.A
 UID:cs-go-odyssey-cup-brazil-2026-1459526@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260512T180000Z
+DTSTART:20260512T180058Z
 SUMMARY:Upper bracket semifinal 1: BB vs VIT
 UID:cs-go-iem-atlanta-2026-1474583@tournamentics
 END:VEVENT
@@ -5091,8 +5091,8 @@ SUMMARY:Lower bracket round 3 match 1: SHIN vs MIBR.A
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457003@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/spyhiddentv
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Misa Esports: 0 | B8 Academy: 1\nStream: https://www.twitch.tv/spyhiddentv
+DTEND:20260512T175852Z
 DTSTART:20260512T172132Z
 SUMMARY:MISA vs B8.A
 UID:cs-go-esea-advanced-europe-57-2026-1488340@tournamentics
@@ -8381,13 +8381,6 @@ SUMMARY:Lower bracket round 2 match 1: F5 vs Reign Above
 UID:cs-go-esl-challenger-league-north-america-cup-4-2026-1456957@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260512T153000Z
-SUMMARY:Lower bracket round 1 match 3: DRIP vs ROTTW
-UID:cs-go-cct-europe-contenders-5-2026-1487712@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: Imperial: 1 | Yawara Esports: 2\nStream: https://www.twitch.tv/nahzinhaa
 DTEND:20260426T181041Z
 DTSTART:20260426T151337Z
@@ -9102,9 +9095,9 @@ SUMMARY:Round 3: FXW7 vs GLS
 UID:cs-go-odyssey-cup-brazil-2026-1459528@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260512T180000Z
+DTSTART:20260512T180251Z
 SUMMARY:Upper bracket semifinal 2: paiN vs FUT
 UID:cs-go-iem-atlanta-2026-1474585@tournamentics
 END:VEVENT
