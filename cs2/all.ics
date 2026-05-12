@@ -900,7 +900,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260512T074000Z
+DTSTART:20260512T074500Z
 SUMMARY:Round 4: MGLZ vs FAL
 UID:cs-go-pgl-astana-2026-1474568@tournamentics
 END:VEVENT
@@ -3383,8 +3383,8 @@ SUMMARY:Round 1: CC vs HEC
 UID:cs-go-exort-series-26-2026-1478901@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: Heroic: 1 | magic: 2\nStream: https://www.twitch.tv/pgl_cs2
+DTEND:20260512T074414Z
 DTSTART:20260512T050311Z
 SUMMARY:Round 4: HERO vs MGC
 UID:cs-go-pgl-astana-2026-1474567@tournamentics
