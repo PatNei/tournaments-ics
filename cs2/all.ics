@@ -4912,7 +4912,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260513T080000Z
-SUMMARY:Elimination match: Project 91 vs TBD
+SUMMARY:Elimination match: Project 91 vs SAW
 UID:cs-go-cct-europe-series-2-play-in-2026-1484176@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6655,7 +6655,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260513T140000Z
-SUMMARY:Winners match: G1 vs TBD
+SUMMARY:Winners match: G1 vs HYPEW
 UID:cs-go-cct-europe-series-2-play-in-2026-1484179@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7296,8 +7296,8 @@ SUMMARY:hindsight vs BJNG
 UID:cs-go-esea-advanced-europe-57-2026-1478884@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 2 Play-In 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 2 Play-In 2026\nMatch Type: Best Of\nResult: hypewrld: 2 | SAW: 1\nStream: https://kick.com/cct_cs2
+DTEND:20260512T133831Z
 DTSTART:20260512T111141Z
 SUMMARY:HYPEW vs SAW
 UID:cs-go-cct-europe-series-2-play-in-2026-1484175@tournamentics
