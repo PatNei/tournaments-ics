@@ -291,7 +291,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl_cs2
 DURATION:PT2H
-DTSTART:20260512T110000Z
+DTSTART:20260512T111000Z
 SUMMARY:Round 4: PRV vs G2
 UID:cs-go-pgl-astana-2026-1474571@tournamentics
 END:VEVENT
@@ -4562,7 +4562,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260514T080000Z
-SUMMARY:Quarterfinal 1: TBD vs TBD
+SUMMARY:Quarterfinal 1: SPARTA vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469235@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8248,8 +8248,8 @@ SUMMARY:Upper bracket quarterfinal 2: CW vs NEXVOID
 UID:cs-go-asian-champions-league-2026-1481124@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | Oxuji Esports: 1\nStream: https://kick.com/cct_cs
+DTEND:20260512T104821Z
 DTSTART:20260512T080452Z
 SUMMARY:Round of 16 match 1: SPARTA vs OXUJI
 UID:cs-go-cct-europe-series-1-21-2026-1469227@tournamentics
