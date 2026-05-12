@@ -243,7 +243,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260513T203000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: BB vs TBD
 UID:cs-go-iem-atlanta-2026-1474595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -660,13 +660,6 @@ SUMMARY:Round 4: CS vs MEGO
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467670@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: SAW: 0 | ROUNDS: 1\nStream: https://www.twitch.tv/esplaycom
-DTEND:20260501T211702Z
-DTSTART:20260501T200432Z
-SUMMARY:SAW vs RGG
-UID:cs-go-esplay-elite-gaming-1-2026-1466502@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Reveal: 0 | BIG Academy: 2\nStream: https://www.twitch.tv/dachcs
 DTEND:20260323T211605Z
 DTSTART:20260323T192202Z
@@ -863,13 +856,6 @@ SUMMARY:Round of 16 match 5: NEMI vs AAB
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467680@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: XI Esport: 1 | CYBERSHOKE Prospects: 0\nStream: No official stream linked
-DTEND:20260506T163837Z
-DTSTART:20260506T161131Z
-SUMMARY:XI vs CYBERSHOKE Prospects
-UID:cs-go-esea-advanced-europe-57-2026-1478883@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nResult: Messiah: 0 | OKSUCC: 2\nStream: No official stream linked
 DTEND:20260511T210830Z
 DTSTART:20260511T191903Z
@@ -877,18 +863,18 @@ SUMMARY:Lower bracket quarterfinal 2: MES vs OKS
 UID:cs-go-ukic-masters-division-10-2026-1469278@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: XI Esport: 1 | CYBERSHOKE Prospects: 0\nStream: No official stream linked
+DTEND:20260506T163837Z
+DTSTART:20260506T161131Z
+SUMMARY:XI vs CYBERSHOKE Prospects
+UID:cs-go-esea-advanced-europe-57-2026-1478883@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Ding Cuts: 0 | Abyssal: 2\nStream: https://www.twitch.tv/flamboyantttt
 DTEND:20260427T102852Z
 DTSTART:20260427T090745Z
 SUMMARY:Upper bracket quarterfinal 2: Ding Cuts vs Abyssal
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457346@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | Infinite: 2\nStream: https://www.twitch.tv/esplaycom
-DTEND:20260502T205547Z
-DTSTART:20260502T180419Z
-SUMMARY:Grand final: JS vs INF
-UID:cs-go-esplay-elite-gaming-1-2026-1466512@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Gamers Club Liga Série A - April 2026\nMatch Type: Best Of\nResult: RED Canids Academy: 0 | QUINTESSÊNCIA: 1\nStream: https://www.twitch.tv/ltmzin
@@ -1029,13 +1015,6 @@ DURATION:PT2H
 DTSTART:20260519T170000Z
 SUMMARY:eLITe vs ENJOY
 UID:cs-go-esea-advanced-europe-57-2026-1468056@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Lilmix: 1 | dJ uNT frIENDS: 0\nStream: https://www.twitch.tv/esplaycom
-DTEND:20260501T173351Z
-DTSTART:20260501T170656Z
-SUMMARY:LILMIX vs dJ uNT frIENDS
-UID:cs-go-esplay-elite-gaming-1-2026-1466499@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Finals 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
@@ -1638,13 +1617,6 @@ DTEND:20260430T011232Z
 DTSTART:20260429T223429Z
 SUMMARY:Upper bracket semifinal 2: FURIA vs GL
 UID:cs-go-blast-rivals-spring-2026-1438856@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 2 | Matrix: 0\nStream: https://www.twitch.tv/esplaycom
-DTEND:20260502T114747Z
-DTSTART:20260502T100235Z
-SUMMARY:Quarterfinal 2: JS vs Matrix
-UID:cs-go-esplay-elite-gaming-1-2026-1466509@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Project 91: 0 | CYBERSHOKE Prospects: 1\nStream: https://www.twitch.tv/cybershoke_tv
@@ -2371,7 +2343,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260514T110000Z
-SUMMARY:Quarterfinal 2: WAL vs TBD
+SUMMARY:Quarterfinal 2: WAL vs HOTU
 UID:cs-go-cct-europe-series-1-21-2026-1469236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2471,13 +2443,6 @@ DTEND:20260505T160910Z
 DTSTART:20260505T140549Z
 SUMMARY:Round 4: WAL vs Lavked
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467673@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | ROUNDS: 0\nStream: https://www.twitch.tv/roundsgg
-DTEND:20260501T221211Z
-DTSTART:20260501T213732Z
-SUMMARY:G2.A vs RGG
-UID:cs-go-esplay-elite-gaming-1-2026-1466505@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs5
@@ -3187,13 +3152,6 @@ SUMMARY:Upper bracket round 1 match 7: INOX vs AUR.YB
 UID:cs-go-cct-europe-challengers-series-2-2026-1470196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 1 | dJ uNT frIENDS: 0\nStream: https://kick.com/infiniteggro
-DTEND:20260501T184618Z
-DTSTART:20260501T180347Z
-SUMMARY:INF vs dJ uNT frIENDS
-UID:cs-go-esplay-elite-gaming-1-2026-1466501@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | Oxuji Esports: 1\nStream: https://kick.com/cct_cs
 DTEND:20260506T202349Z
 DTSTART:20260506T171252Z
@@ -3404,13 +3362,6 @@ SUMMARY:Lower bracket round 2 match 4: ODK vs Keyd
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1457000@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | ReThink: 1\nStream: https://www.twitch.tv/vol7ik666
-DTEND:20260507T170324Z
-DTSTART:20260507T161400Z
-SUMMARY:CC.FE vs RT
-UID:cs-go-esea-advanced-europe-57-2026-1478882@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: UKIC - Masters Division season 10 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/UKICircuit
 DURATION:PT2H
 DTSTART:20260514T193000Z
@@ -3418,18 +3369,18 @@ SUMMARY:Lower bracket quarterfinal 1: SNARKY vs SSS
 UID:cs-go-ukic-masters-division-10-2026-1469277@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | ReThink: 1\nStream: https://www.twitch.tv/vol7ik666
+DTEND:20260507T170324Z
+DTSTART:20260507T161400Z
+SUMMARY:CC.FE vs RT
+UID:cs-go-esea-advanced-europe-57-2026-1478882@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Oceania Cup #4 season 51 2026\nMatch Type: Best Of\nResult: THUNDER dOWNUNDER: 2 | low cortisol: 0\nStream: https://www.twitch.tv/churchd0gg
 DTEND:20260427T103200Z
 DTSTART:20260427T090738Z
 SUMMARY:Upper bracket quarterfinal 1: TdU vs LC
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457345@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: G2 Ares: 0 | Johnny Speeds: 2\nStream: https://www.twitch.tv/JohnnySpeeds
-DTEND:20260502T152700Z
-DTSTART:20260502T140408Z
-SUMMARY:Semifinal 2: G2.A vs JS
-UID:cs-go-esplay-elite-gaming-1-2026-1466511@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Omega: 1 | HAVU: 2\nStream: https://kick.com/cct_cs
@@ -3584,13 +3535,6 @@ DTEND:20260427T230301Z
 DTSTART:20260427T210210Z
 SUMMARY:Upper bracket quarterfinal 3: SHIN vs ISG
 UID:cs-go-esl-challenger-league-south-america-cup-4-2026-1456991@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 0 | Infinite: 1\nStream: https://www.twitch.tv/JohnnySpeeds
-DTEND:20260501T174754Z
-DTSTART:20260501T171122Z
-SUMMARY:JS vs INF
-UID:cs-go-esplay-elite-gaming-1-2026-1466498@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Conquest of Prague - Finals 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/playzoneup
@@ -4111,13 +4055,6 @@ SUMMARY:Upper bracket semifinal 1: NAVI vs FaZe
 UID:cs-go-blast-rivals-spring-2026-1438855@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: ROUNDS: 0 | Lilmix: 2\nStream: https://www.twitch.tv/titaanitv
-DTEND:20260502T113032Z
-DTSTART:20260502T100702Z
-SUMMARY:Quarterfinal 1: RGG vs LILMIX
-UID:cs-go-esplay-elite-gaming-1-2026-1466508@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ZOTIX: 0 | Falcons Force: 1\nStream: No official stream linked
 DTEND:20260409T180013Z
 DTSTART:20260409T171001Z
@@ -4176,7 +4113,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
 DURATION:PT2H
-DTSTART:20260512T210000Z
+DTSTART:20260512T211000Z
 SUMMARY:Upper bracket semifinal 1: NAVI vs GL
 UID:cs-go-iem-atlanta-2026-1474587@tournamentics
 END:VEVENT
@@ -4797,13 +4734,6 @@ SUMMARY:Round 4: AM vs ASTR
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467672@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: SAW: 0 | Matrix: 1\nStream: https://www.twitch.tv/roman
-DTEND:20260501T221545Z
-DTSTART:20260501T213644Z
-SUMMARY:SAW vs Matrix
-UID:cs-go-esplay-elite-gaming-1-2026-1466504@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nResult: Fortress: 2 | FLOD: 1\nStream: https://www.twitch.tv/dust2tv
 DTEND:20260427T175826Z
 DTSTART:20260427T152054Z
@@ -4846,8 +4776,8 @@ SUMMARY:Round 2: FDB vs paiN.A
 UID:cs-go-odyssey-cup-brazil-2026-1459526@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Vitality: 1\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260512T205128Z
 DTSTART:20260512T180058Z
 SUMMARY:Upper bracket semifinal 1: BB vs VIT
 UID:cs-go-iem-atlanta-2026-1474583@tournamentics
@@ -5469,13 +5399,6 @@ SUMMARY:COW vs JUMBO
 UID:cs-go-esea-advanced-europe-57-2026-1457926@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | Lilmix: 0\nStream: https://www.twitch.tv/JohnnySpeeds
-DTEND:20260501T184259Z
-DTSTART:20260501T180429Z
-SUMMARY:JS vs LILMIX
-UID:cs-go-esplay-elite-gaming-1-2026-1466500@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Favbet: 2 | Ursa: 0\nStream: https://kick.com/cct_cs
 DTEND:20260506T162557Z
 DTSTART:20260506T143526Z
@@ -5756,13 +5679,6 @@ SUMMARY:Upper bracket round 1 match 2: TW vs Skele
 UID:cs-go-esl-challenger-league-oceania-cup-4-51-2026-1457344@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Infinite: 2 | Lilmix: 1\nStream: https://www.twitch.tv/esplaycom
-DTEND:20260502T162744Z
-DTSTART:20260502T140425Z
-SUMMARY:Semifinal 1: INF vs LILMIX
-UID:cs-go-esplay-elite-gaming-1-2026-1466510@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: GenOne: 2 | Ursa: 1\nStream: https://kick.com/cct_cs
 DTEND:20260509T134310Z
 DTSTART:20260509T110438Z
@@ -5957,13 +5873,6 @@ DTEND:20260429T184917Z
 DTSTART:20260429T181540Z
 SUMMARY:OBSB vs XI
 UID:cs-go-esea-advanced-europe-57-2026-1468054@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Lilmix: 0 | Infinite: 1\nStream: https://www.twitch.tv/esplaycom
-DTEND:20260501T165346Z
-DTSTART:20260501T160238Z
-SUMMARY:LILMIX vs INF
-UID:cs-go-esplay-elite-gaming-1-2026-1466497@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | Donstu Esports: 1\nStream: https://www.twitch.tv/karmaflexxx
@@ -6552,13 +6461,6 @@ DTEND:20260506T165140Z
 DTSTART:20260506T140721Z
 SUMMARY:Round 5: AAB vs G1
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467675@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Matrix: 0 | ROUNDS: 1\nStream: https://www.twitch.tv/roundsgg
-DTEND:20260501T231115Z
-DTSTART:20260501T223656Z
-SUMMARY:Matrix vs RGG
-UID:cs-go-esplay-elite-gaming-1-2026-1466507@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ROUNDS: 0 | eternal premium: 1\nStream: https://www.twitch.tv/roundsgg
@@ -7247,13 +7149,6 @@ SUMMARY:Round 4: HERO.A vs TLR
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467671@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Matrix: 0\nStream: No official stream linked
-DTEND:20260501T204511Z
-DTSTART:20260501T200939Z
-SUMMARY:G2.A vs Matrix
-UID:cs-go-esplay-elite-gaming-1-2026-1466503@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Dust2.dk Ligaen - Season 32 2026\nMatch Type: Best Of\nResult: WAZABI: 0 | AaB Bulls: 2\nStream: https://www.twitch.tv/goddoku
 DTEND:20260427T164402Z
 DTSTART:20260427T150754Z
@@ -7471,13 +7366,6 @@ SUMMARY:HYPEW vs SAW
 UID:cs-go-cct-europe-series-2-play-in-2026-1484175@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: G2 Ares: 2 | Lilmix: 0\nStream: https://www.twitch.tv/esplaycom
-DTEND:20260502T193237Z
-DTSTART:20260502T180227Z
-SUMMARY:3rd place match: G2.A vs LILMIX
-UID:cs-go-esplay-elite-gaming-1-2026-1466513@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: Monte: 2 | The Huns Esports: 1\nStream: https://www.twitch.tv/pgl_cs2
 DTEND:20260512T110317Z
 DTSTART:20260512T080105Z
@@ -7523,7 +7411,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260513T153000Z
-SUMMARY:Lower bracket semifinal 2: FaZe vs TBD
+SUMMARY:Lower bracket semifinal 2: FaZe vs VIT
 UID:cs-go-iem-atlanta-2026-1474592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7807,8 +7695,8 @@ SUMMARY:Round 3: TNC vs MEGO
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467668@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: HOTU: 2 | INOX Division: 1\nStream: https://kick.com/cct_cs
+DTEND:20260512T204832Z
 DTSTART:20260512T170451Z
 SUMMARY:Round of 16 match 4: HOTU vs INOX
 UID:cs-go-cct-europe-series-1-21-2026-1469230@tournamentics
@@ -8309,13 +8197,6 @@ DTEND:20260429T183907Z
 DTSTART:20260429T181534Z
 SUMMARY:VP.P vs BIG.E
 UID:cs-go-esea-advanced-europe-57-2026-1468053@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: Johnny Speeds: 1 | dJ uNT frIENDS: 0\nStream: https://www.twitch.tv/JohnnySpeeds
-DTEND:20260501T163430Z
-DTSTART:20260501T160641Z
-SUMMARY:JS vs dJ uNT frIENDS
-UID:cs-go-esplay-elite-gaming-1-2026-1466496@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESL Challenger League - Europe Cup #4 season 51 2026\nMatch Type: Best Of\nResult: Lavked: 2 | OLDBOYS PL: 0\nStream: https://kick.com/eslcs
@@ -8883,13 +8764,6 @@ DTEND:20260505T185102Z
 DTSTART:20260505T170419Z
 SUMMARY:Round 4: SPARTA vs G1
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467674@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: Esplay Elite Gaming - Season 1 2026\nMatch Type: Best Of\nResult: SAW: 0 | G2 Ares: 1\nStream: https://www.twitch.tv/roman
-DTEND:20260501T231601Z
-DTSTART:20260501T223846Z
-SUMMARY:SAW vs G2.A
-UID:cs-go-esplay-elite-gaming-1-2026-1466506@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | Imperial Academy: 1\nStream: No official stream linked

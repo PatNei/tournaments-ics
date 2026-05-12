@@ -53,7 +53,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
 DURATION:PT2H
-DTSTART:20260512T210000Z
+DTSTART:20260512T211000Z
 SUMMARY:Upper bracket semifinal 1: NAVI vs GL
 UID:cs-go-iem-atlanta-2026-1474587@tournamentics
 END:VEVENT
@@ -135,8 +135,8 @@ SUMMARY:Lower bracket quarterfinal 2: FaZe vs NRG
 UID:cs-go-iem-atlanta-2026-1474586@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | Vitality: 1\nStream: https://www.twitch.tv/ESLCS
+DTEND:20260512T205128Z
 DTSTART:20260512T180058Z
 SUMMARY:Upper bracket semifinal 1: BB vs VIT
 UID:cs-go-iem-atlanta-2026-1474583@tournamentics
@@ -180,14 +180,14 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260513T203000Z
-SUMMARY:Upper bracket final: TBD vs TBD
+SUMMARY:Upper bracket final: BB vs TBD
 UID:cs-go-iem-atlanta-2026-1474595@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260513T153000Z
-SUMMARY:Lower bracket semifinal 2: FaZe vs TBD
+SUMMARY:Lower bracket semifinal 2: FaZe vs VIT
 UID:cs-go-iem-atlanta-2026-1474592@tournamentics
 END:VEVENT
 BEGIN:VEVENT
