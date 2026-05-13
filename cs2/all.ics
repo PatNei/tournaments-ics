@@ -1451,8 +1451,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489275@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nResult: Bounty Hunters Esports: 2 | Vexa: 1\nStream: https://www.twitch.tv/dust2br
+DTEND:20260513T193402Z
 DTSTART:20260513T171104Z
 SUMMARY:Round 2: BHE vs VEXA
 UID:cs-go-betboom-storm-3-2026-1484477@tournamentics
@@ -5854,13 +5854,6 @@ SUMMARY:Upper bracket semifinal 2: SASHI vs EYE
 UID:cs-go-conquest-of-prague-finals-2026-1470185@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260513T191500Z
-SUMMARY:ENJOY vs LFO
-UID:cs-go-esea-advanced-europe-57-2026-1489957@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: ENJOY: 1 | megoshort: 0\nStream: No official stream linked
 DTEND:20260424T174503Z
 DTSTART:20260424T165200Z
@@ -6323,9 +6316,9 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
+DESCRIPTION:🔴 LIVE NOW\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
 DURATION:PT2H
-DTSTART:20260513T192000Z
+DTSTART:20260513T192630Z
 SUMMARY:Ducks vs HUSK
 UID:cs-go-dach-cs-masters-5-2026-1385757@tournamentics
 END:VEVENT
@@ -6363,13 +6356,6 @@ DTEND:20260509T150454Z
 DTSTART:20260509T134701Z
 SUMMARY:Lower bracket semifinal: Atreides vs NEW VISION
 UID:cs-go-cct-europe-challengers-series-2-2026-1470249@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260513T191500Z
-SUMMARY:OKS vs DNT
-UID:cs-go-esea-advanced-europe-57-2026-1486185@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: Isurus: 2 | Fake do Biru: 1\nStream: https://kick.com/cct_cs2
