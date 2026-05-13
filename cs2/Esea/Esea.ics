@@ -592,7 +592,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260513T190000Z
+DTSTART:20260513T191500Z
 SUMMARY:OKS vs DNT
 UID:cs-go-esea-advanced-europe-57-2026-1486185@tournamentics
 END:VEVENT
@@ -865,7 +865,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260513T190000Z
+DTSTART:20260513T191500Z
 SUMMARY:ENJOY vs LFO
 UID:cs-go-esea-advanced-europe-57-2026-1489957@tournamentics
 END:VEVENT
@@ -877,8 +877,8 @@ SUMMARY:FCF vs ENRAGE
 UID:cs-go-esea-advanced-europe-57-2026-1486173@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/roundsgg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: VP.Prodigy: 0 | ROUNDS: 1\nStream: https://www.twitch.tv/roundsgg
+DTEND:20260513T190242Z
 DTSTART:20260513T181424Z
 SUMMARY:VP.P vs RGG
 UID:cs-go-esea-advanced-europe-57-2026-1489954@tournamentics
@@ -1409,8 +1409,8 @@ SUMMARY:FF vs RGG
 UID:cs-go-esea-advanced-europe-57-2026-1436236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: eternal premium: 1 | Falcons Force: 0\nStream: No official stream linked
+DTEND:20260513T185455Z
 DTSTART:20260513T181808Z
 SUMMARY:EP vs Falcons Force
 UID:cs-go-esea-advanced-europe-57-2026-1489956@tournamentics
