@@ -4002,7 +4002,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260514T080000Z
-SUMMARY:Lower bracket final: TYLOO vs TBD
+SUMMARY:Lower bracket final: TYLOO vs 5S
 UID:cs-go-asian-champions-league-2026-1481136@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4296,7 +4296,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260513T153000Z
-SUMMARY:Lower bracket round 2 match 2: FF vs MISA
+SUMMARY:Lower bracket round 2 match 2: MISA vs FF
 UID:cs-go-cct-europe-contenders-5-2026-1490311@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6484,8 +6484,8 @@ SUMMARY:QUA vs ARCH
 UID:cs-go-esea-advanced-europe-57-2026-1466516@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://live.bilibili.com/1799897222
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: Chinggis Warriors: 0 | 5star: 2\nStream: https://live.bilibili.com/1799897222
+DTEND:20260513T114333Z
 DTSTART:20260513T095920Z
 SUMMARY:Lower bracket semifinal: CW vs 5S
 UID:cs-go-asian-champions-league-2026-1481135@tournamentics
@@ -6767,7 +6767,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260513T181500Z
-SUMMARY:Lower bracket round 2 match 1: AUR.YB vs CO
+SUMMARY:Lower bracket round 2 match 1: CO vs AUR.YB
 UID:cs-go-cct-europe-contenders-5-2026-1490310@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -8307,7 +8307,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260513T181500Z
-SUMMARY:Lower bracket round 2 match 4: Atreides vs ENJOY
+SUMMARY:Lower bracket round 2 match 4: ENJOY vs Atreides
 UID:cs-go-cct-europe-contenders-5-2026-1490313@tournamentics
 END:VEVENT
 BEGIN:VEVENT
