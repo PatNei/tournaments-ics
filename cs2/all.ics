@@ -968,8 +968,8 @@ SUMMARY:Round 3: FDB vs UNO
 UID:cs-go-odyssey-cup-brazil-2026-1459534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nResult: B8: 2 | FUT Esports: 0\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260513T172432Z
 DTSTART:20260513T153058Z
 SUMMARY:Lower bracket semifinal 1: B8 vs FUT
 UID:cs-go-iem-atlanta-2026-1474591@tournamentics
@@ -1526,13 +1526,6 @@ DURATION:PT2H
 DTSTART:20260522T060000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-cs-go-asia-championships-2019-2026-1481094@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
-DURATION:PT2H
-DTSTART:20260513T171500Z
-SUMMARY:DRIP vs FCF
-UID:cs-go-esea-advanced-europe-57-2026-1489945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: OldBoys: 1 | Glitchtech Esports: 0\nStream: https://www.twitch.tv/pory_tv
@@ -4496,9 +4489,9 @@ SUMMARY:Round 2: GLS vs UNO
 UID:cs-go-betboom-storm-3-2026-1484496@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260513T172000Z
+DTSTART:20260513T172444Z
 SUMMARY:Winners match: G2.A vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484242@tournamentics
 END:VEVENT
@@ -6717,7 +6710,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260513T180000Z
+DTSTART:20260518T190000Z
 SUMMARY:Project 91 vs BG
 UID:cs-go-esea-advanced-europe-57-2026-1478888@tournamentics
 END:VEVENT
@@ -6753,7 +6746,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260513T203000Z
-SUMMARY:Lower bracket final: TBD vs TBD
+SUMMARY:Lower bracket final: B8 vs TBD
 UID:cs-go-iem-atlanta-2026-1474596@tournamentics
 END:VEVENT
 BEGIN:VEVENT

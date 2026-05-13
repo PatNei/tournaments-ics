@@ -1157,13 +1157,6 @@ SUMMARY:BIG.E vs ZOTIX
 UID:cs-go-esea-advanced-europe-57-2026-1489948@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/tavarescs2
-DURATION:PT2H
-DTSTART:20260513T171500Z
-SUMMARY:DRIP vs FCF
-UID:cs-go-esea-advanced-europe-57-2026-1489945@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: NEW VISION: 1 | ReThink: 0\nStream: No official stream linked
 DTEND:20260513T165754Z
 DTSTART:20260513T161819Z
@@ -1495,7 +1488,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260513T180000Z
+DTSTART:20260518T190000Z
 SUMMARY:Project 91 vs BG
 UID:cs-go-esea-advanced-europe-57-2026-1478888@tournamentics
 END:VEVENT
