@@ -54,7 +54,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260514T100000Z
-SUMMARY:Lower bracket final: KG vs TBD
+SUMMARY:Lower bracket final: KG vs TdU
 UID:cs-go-asian-champions-league-2026-1481220@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +100,8 @@ SUMMARY:Upper bracket semifinal 1: LVG vs HH
 UID:cs-go-asian-champions-league-2026-1481174@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: Haunted House: 1 | THUNDER dOWNUNDER: 2\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260513T143532Z
 DTSTART:20260513T113608Z
 SUMMARY:Lower bracket semifinal: HH vs TdU
 UID:cs-go-asian-champions-league-2026-1481242@tournamentics
