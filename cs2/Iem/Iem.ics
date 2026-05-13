@@ -2,7 +2,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260516T171500Z
 SUMMARY:Semifinal 1: TBD vs TBD
@@ -72,7 +72,7 @@ SUMMARY:Upper bracket quarterfinal 4: TL vs AST
 UID:cs-go-iem-atlanta-2026-1473075@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260515T203000Z
 SUMMARY:Quarterfinal 2: TBD vs TBD
@@ -93,7 +93,7 @@ SUMMARY:Upper bracket quarterfinal 1: VIT vs BCG
 UID:cs-go-iem-atlanta-2026-1473068@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260515T171500Z
 SUMMARY:Quarterfinal 1: TBD vs TBD
@@ -142,7 +142,7 @@ SUMMARY:Upper bracket semifinal 1: BB vs VIT
 UID:cs-go-iem-atlanta-2026-1474583@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260517T181500Z
 SUMMARY:Grand final: TBD vs TBD
@@ -156,7 +156,7 @@ SUMMARY:Upper bracket quarterfinal 3: LGC vs M80
 UID:cs-go-iem-atlanta-2026-1473074@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260516T203000Z
 SUMMARY:Semifinal 2: TBD vs TBD
@@ -205,7 +205,7 @@ SUMMARY:Upper bracket semifinal 2: paiN vs FUT
 UID:cs-go-iem-atlanta-2026-1474585@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260517T144500Z
 SUMMARY:3rd place decider: TBD vs TBD

@@ -11,7 +11,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260514T110000Z
+DTSTART:20260514T080000Z
 SUMMARY:Quarterfinal 2: SPARTA vs NEMI
 UID:cs-go-cct-europe-series-1-21-2026-1469236@tournamentics
 END:VEVENT
@@ -123,14 +123,14 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260514T170000Z
+DTSTART:20260514T140000Z
 SUMMARY:Quarterfinal 4: FNC vs TDK
 UID:cs-go-cct-europe-series-1-21-2026-1469238@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260514T080000Z
+DTSTART:20260514T170000Z
 SUMMARY:Quarterfinal 1: HOTU vs WAL
 UID:cs-go-cct-europe-series-1-21-2026-1469235@tournamentics
 END:VEVENT
@@ -207,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260514T140000Z
+DTSTART:20260514T110000Z
 SUMMARY:Quarterfinal 3: Lavked vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469237@tournamentics
 END:VEVENT
