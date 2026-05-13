@@ -16,11 +16,11 @@ SUMMARY:Grand final: TBD vs TBD
 UID:cs-go-cct-europe-contenders-5-2026-1490618@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260513T170000Z
-SUMMARY:Winners match: G2.A vs MSC
-UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484242@tournamentics
+DTSTART:20260514T110000Z
+SUMMARY:Quarterfinal 2: SPARTA vs NEMI
+UID:cs-go-cct-europe-series-1-21-2026-1469236@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -30,11 +30,11 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489271@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260514T110000Z
-SUMMARY:Quarterfinal 2: SPARTA vs NEMI
-UID:cs-go-cct-europe-series-1-21-2026-1469236@tournamentics
+DTSTART:20260513T170000Z
+SUMMARY:Winners match: G2.A vs MSC
+UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484242@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: KOLESIE: 0 | TDK: 2\nStream: https://kick.com/cct_cs
@@ -205,18 +205,18 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489265@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: EC BANGA: 0 | m1x: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260502T122915Z
-DTSTART:20260502T110322Z
-SUMMARY:Upper bracket round 1 match 5: EC BANGA vs m1x
-UID:cs-go-cct-europe-challengers-series-2-2026-1470194@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: SPARTA: 2 | Oxuji Esports: 1\nStream: https://kick.com/cct_cs
 DTEND:20260512T104821Z
 DTSTART:20260512T080452Z
 SUMMARY:Round of 16 match 3: SPARTA vs OXUJI
 UID:cs-go-cct-europe-series-1-21-2026-1469227@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: EC BANGA: 0 | m1x: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260502T122915Z
+DTSTART:20260502T110322Z
+SUMMARY:Upper bracket round 1 match 5: EC BANGA vs m1x
+UID:cs-go-cct-europe-challengers-series-2-2026-1470194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 0 | INOX Division: 2\nStream: https://kick.com/cct_cs
@@ -387,18 +387,18 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260514T080000Z
+SUMMARY:Quarterfinal 1: HOTU vs WAL
+UID:cs-go-cct-europe-series-1-21-2026-1469235@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260517T153000Z
 SUMMARY:Lower bracket final: TBD vs TBD
 UID:cs-go-cct-europe-contenders-5-2026-1490617@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: against All authority: 0 | Rune Eaters: 2\nStream: https://kick.com/cct_cs2
-DTEND:20260513T125442Z
-DTSTART:20260513T112207Z
-SUMMARY:Elimination match: aAa vs RE
-UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -408,11 +408,11 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489270@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260514T080000Z
-SUMMARY:Quarterfinal 1: HOTU vs WAL
-UID:cs-go-cct-europe-series-1-21-2026-1469235@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: against All authority: 0 | Rune Eaters: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260513T125442Z
+DTSTART:20260513T112207Z
+SUMMARY:Elimination match: aAa vs RE
+UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484241@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: 100 Thieves: 0 | Lavked: 2\nStream: https://kick.com/cct_cs
@@ -576,18 +576,18 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489267@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | Aurora Young Blood: 0\nStream: https://kick.com/cct_cs4
-DTEND:20260502T151742Z
-DTSTART:20260502T135249Z
-SUMMARY:Upper bracket round 1 match 7: INOX vs AUR.YB
-UID:cs-go-cct-europe-challengers-series-2-2026-1470196@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: BET-M 33: 0 | Walczaki: 2\nStream: https://kick.com/cct_cs
 DTEND:20260512T155331Z
 DTSTART:20260512T141214Z
 SUMMARY:Round of 16 match 2: 33 vs WAL
 UID:cs-go-cct-europe-series-1-21-2026-1469229@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: INOX Division: 2 | Aurora Young Blood: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260502T151742Z
+DTSTART:20260502T135249Z
+SUMMARY:Upper bracket round 1 match 7: INOX vs AUR.YB
+UID:cs-go-cct-europe-challengers-series-2-2026-1470196@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -597,13 +597,6 @@ SUMMARY:Round 1: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489264@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Dripmen: 0 | NEW VISION: 2\nStream: https://kick.com/cct_cs3
-DTEND:20260503T153930Z
-DTSTART:20260503T134854Z
-SUMMARY:Upper bracket round 1 match 4: DRIP vs NEW VISION
-UID:cs-go-cct-europe-challengers-series-2-2026-1470193@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: GenOne: 0 | Lavked: 2\nStream: https://kick.com/cct_cs
 DTEND:20260511T183431Z
 DTSTART:20260511T170710Z
@@ -611,11 +604,11 @@ SUMMARY:Round 5: G1 vs Lavked
 UID:cs-go-cct-europe-series-1-21-2026-1469226@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Brute: 2 | Benched gods: 0\nStream: https://kick.com/cct_cs4
-DTEND:20260503T124344Z
-DTSTART:20260503T110928Z
-SUMMARY:Upper bracket round 1 match 1: BRUTE vs BG
-UID:cs-go-cct-europe-challengers-series-2-2026-1470190@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Dripmen: 0 | NEW VISION: 2\nStream: https://kick.com/cct_cs3
+DTEND:20260503T153930Z
+DTSTART:20260503T134854Z
+SUMMARY:Upper bracket round 1 match 4: DRIP vs NEW VISION
+UID:cs-go-cct-europe-challengers-series-2-2026-1470193@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: ex-RUBY: 2 | INOX Division: 1\nStream: https://kick.com/cct_cs
@@ -623,6 +616,13 @@ DTEND:20260510T202901Z
 DTSTART:20260510T170544Z
 SUMMARY:Round 4: ex-RUBY vs INOX
 UID:cs-go-cct-europe-series-1-21-2026-1469223@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Challengers Series season 2 2026\nMatch Type: Best Of\nResult: Brute: 2 | Benched gods: 0\nStream: https://kick.com/cct_cs4
+DTEND:20260503T124344Z
+DTSTART:20260503T110928Z
+SUMMARY:Upper bracket round 1 match 1: BRUTE vs BG
+UID:cs-go-cct-europe-challengers-series-2-2026-1470190@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 2 | UNiTY esports: 1\nStream: https://kick.com/cct_cs
@@ -751,13 +751,6 @@ SUMMARY:Decider match: RE vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484243@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
-DURATION:PT2H
-DTSTART:20260516T153000Z
-SUMMARY:Upper bracket final: TBD vs TBD
-UID:cs-go-cct-europe-contenders-5-2026-1490619@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260514T140000Z
@@ -765,11 +758,25 @@ SUMMARY:Quarterfinal 3: Lavked vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469237@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DURATION:PT2H
+DTSTART:20260516T153000Z
+SUMMARY:Upper bracket final: TBD vs TBD
+UID:cs-go-cct-europe-contenders-5-2026-1490619@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260520T080000Z
 SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489272@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DURATION:PT2H
+DTSTART:20260513T170000Z
+SUMMARY:Round of 16 match 6: BCA vs TNC
+UID:cs-go-cct-europe-series-1-21-2026-1469234@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
@@ -784,13 +791,6 @@ DTEND:20260512T195450Z
 DTSTART:20260512T170737Z
 SUMMARY:RE vs MSC
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484240@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
-DTSTART:20260513T170000Z
-SUMMARY:Round of 16 match 6: BCA vs TNC
-UID:cs-go-cct-europe-series-1-21-2026-1469234@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Nemiga: 2 | ex-RUBY: 1\nStream: https://kick.com/cct_cs

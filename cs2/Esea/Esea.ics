@@ -163,7 +163,7 @@ SUMMARY:OKS vs CYBERSHOKE Prospects
 UID:cs-go-esea-advanced-europe-57-2026-1489944@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/sinquesports
 DURATION:PT2H
 DTSTART:20260513T160000Z
 SUMMARY:SINQU vs OKS
@@ -667,8 +667,8 @@ SUMMARY:PURE vs VP.P
 UID:cs-go-esea-advanced-europe-57-2026-1489943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/misterhenrybatt
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: G2 Ares: 1 | Falcons Force: 0\nStream: https://www.twitch.tv/misterhenrybatt
+DTEND:20260513T161558Z
 DTSTART:20260513T154300Z
 SUMMARY:G2.A vs Falcons Force
 UID:cs-go-esea-advanced-europe-57-2026-1489940@tournamentics
@@ -1164,9 +1164,9 @@ SUMMARY:DRIP vs FCF
 UID:cs-go-esea-advanced-europe-57-2026-1489945@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
+DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260513T160000Z
+DTSTART:20260513T161819Z
 SUMMARY:NEW VISION vs RT
 UID:cs-go-esea-advanced-europe-57-2026-1489942@tournamentics
 END:VEVENT
