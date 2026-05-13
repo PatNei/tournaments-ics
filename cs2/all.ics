@@ -4498,7 +4498,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260513T080000Z
+DTSTART:20260513T073000Z
 SUMMARY:Round 5: MNTE vs G2
 UID:cs-go-pgl-astana-2026-1474573@tournamentics
 END:VEVENT
@@ -6925,8 +6925,8 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471702@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nResult: Gentle Mates: 0 | magic: 2\nStream: https://www.twitch.tv/PGL
+DTEND:20260513T070744Z
 DTSTART:20260513T050155Z
 SUMMARY:Round 5: M8 vs MGC
 UID:cs-go-pgl-astana-2026-1474572@tournamentics
