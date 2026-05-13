@@ -2,9 +2,9 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:TournamentICS
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
+DESCRIPTION:🔴 LIVE NOW\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260513T230000Z
+DTSTART:20260513T231040Z
 SUMMARY:Round 2: GLS vs UNO
 UID:cs-go-betboom-storm-3-2026-1484496@tournamentics
 END:VEVENT
@@ -6666,8 +6666,8 @@ SUMMARY:Round 2: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489273@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dachcs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: DACH CS Masters - Season 5 2026\nMatch Type: Best Of\nResult: Playing Ducks: 2 | Huskies eSport: 1\nStream: https://www.twitch.tv/dachcs
+DTEND:20260513T230643Z
 DTSTART:20260513T192630Z
 SUMMARY:Ducks vs HUSK
 UID:cs-go-dach-cs-masters-5-2026-1385757@tournamentics
@@ -6967,9 +6967,9 @@ SUMMARY:PURE vs VP.P
 UID:cs-go-esea-advanced-europe-57-2026-1489943@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
-DTSTART:20260513T230000Z
+DTSTART:20260513T230103Z
 SUMMARY:Lower bracket final: GL vs AST
 UID:cs-go-iem-atlanta-2026-1474598@tournamentics
 END:VEVENT
