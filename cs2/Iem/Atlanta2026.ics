@@ -30,9 +30,9 @@ SUMMARY:Upper bracket quarterfinal 4: NRG vs FUT
 UID:cs-go-iem-atlanta-2026-1473070@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
+DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
 DURATION:PT2H
-DTSTART:20260513T233000Z
+DTSTART:20260513T234000Z
 SUMMARY:Upper bracket final: NAVI vs LGC
 UID:cs-go-iem-atlanta-2026-1474597@tournamentics
 END:VEVENT
@@ -177,8 +177,8 @@ SUMMARY:Lower bracket final: GL vs AST
 UID:cs-go-iem-atlanta-2026-1474598@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCSb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nResult: BetBoom Team: 2 | paiN: 1\nStream: https://www.twitch.tv/ESLCSb
+DTEND:20260513T232353Z
 DTSTART:20260513T203059Z
 SUMMARY:Upper bracket final: BB vs paiN
 UID:cs-go-iem-atlanta-2026-1474595@tournamentics
