@@ -33,12 +33,12 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260517T103000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MANA vs TBD
 UID:cs-go-united21-49-2026-1483535@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nResult: MANA eSports: 1 | ReThink: 2\nStream: https://kick.com/united21_en
+DTEND:20260513T111642Z
 DTSTART:20260513T081437Z
 SUMMARY:MANA vs RT
 UID:cs-go-united21-49-2026-1483532@tournamentics
@@ -75,7 +75,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260517T080000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: RT vs TBD
 UID:cs-go-united21-49-2026-1483534@tournamentics
 END:VEVENT
 BEGIN:VEVENT
