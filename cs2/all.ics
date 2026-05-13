@@ -2770,7 +2770,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/ESLCS
 DURATION:PT2H
 DTSTART:20260513T180000Z
-SUMMARY:Lower bracket semifinal 2: GL vs TBD
+SUMMARY:Lower bracket semifinal 2: GL vs TL
 UID:cs-go-iem-atlanta-2026-1474594@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3558,8 +3558,8 @@ SUMMARY:Round 4: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489288@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/eslcsb
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: IEM - Atlanta 2026\nMatch Type: Best Of\nResult: Liquid: 2 | M80: 1\nStream: https://www.twitch.tv/eslcsb
+DTEND:20260513T035445Z
 DTSTART:20260513T011708Z
 SUMMARY:Lower bracket quarterfinal 2: TL vs M80
 UID:cs-go-iem-atlanta-2026-1474590@tournamentics
