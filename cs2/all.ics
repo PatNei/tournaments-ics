@@ -877,8 +877,8 @@ SUMMARY:Round 4: AM vs ASTR
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467672@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nResult: MASQ: 1 | LPH Gaming: 2\nStream: https://kick.com/united21_en
+DTEND:20260514T104357Z
 DTSTART:20260514T081037Z
 SUMMARY:Winners match: MASQ vs LPH
 UID:cs-go-united21-49-2026-1483519@tournamentics
@@ -2497,7 +2497,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260515T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BRUTE vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3071,7 +3071,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260515T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MANA vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -3173,9 +3173,9 @@ SUMMARY:Round 4: SINQU vs BOYB
 UID:cs-go-elisa-open-suomi-13-2026-1463392@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
+DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
 DURATION:PT2H
-DTSTART:20260514T104500Z
+DTSTART:20260514T104550Z
 SUMMARY:Lower bracket final: KG vs TdU
 UID:cs-go-asian-champions-league-2026-1481220@tournamentics
 END:VEVENT
@@ -4391,8 +4391,8 @@ SUMMARY:uust _esports vs IMP.A
 UID:cs-go-esea-advanced-europe-57-2026-1444101@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: MANA eSports: 1 | Brute: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260514T104659Z
 DTSTART:20260514T080830Z
 SUMMARY:MANA vs BRUTE
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484454@tournamentics
@@ -6865,7 +6865,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: United21 - Season 49 2026\nMatch Type: Best Of\nStream: https://kick.com/united21_en
 DURATION:PT2H
 DTSTART:20260518T080000Z
-SUMMARY:Decider match: TBD vs TBD
+SUMMARY:Decider match: MASQ vs TBD
 UID:cs-go-united21-49-2026-1483521@tournamentics
 END:VEVENT
 BEGIN:VEVENT

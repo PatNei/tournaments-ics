@@ -502,7 +502,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260515T140000Z
-SUMMARY:Winners match: TBD vs TBD
+SUMMARY:Winners match: BRUTE vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484457@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -513,8 +513,8 @@ SUMMARY:Lower bracket round 1 match 1: CO vs YNG
 UID:cs-go-cct-europe-contenders-5-2026-1487710@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nResult: MANA eSports: 1 | Brute: 2\nStream: https://kick.com/cct_cs2
+DTEND:20260514T104659Z
 DTSTART:20260514T080830Z
 SUMMARY:MANA vs BRUTE
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484454@tournamentics
@@ -887,7 +887,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
 DTSTART:20260515T080000Z
-SUMMARY:Elimination match: TBD vs TBD
+SUMMARY:Elimination match: MANA vs TBD
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484456@tournamentics
 END:VEVENT
 BEGIN:VEVENT
