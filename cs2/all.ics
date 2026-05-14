@@ -2760,11 +2760,11 @@ SUMMARY:Round 2: VSC vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467603@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260514T181500Z
-SUMMARY:NEW VISION vs OKS
-UID:cs-go-esea-advanced-europe-57-2026-1490932@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 1 | Nerve of Cow: 0\nStream: No official stream linked
+DTEND:20260504T184816Z
+DTSTART:20260504T181656Z
+SUMMARY:CC.FE vs COW
+UID:cs-go-esea-advanced-europe-57-2026-1475990@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Odyssey Cup - Brazil 2026\nMatch Type: Best Of\nResult: largadosypelados: 0 | Yawara Esports: 1\nStream: No official stream linked
@@ -2781,11 +2781,11 @@ SUMMARY:Round 1: TNC vs G1
 UID:cs-go-bc-game-masters-europe-series-1-2-2026-1467058@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 1 | Nerve of Cow: 0\nStream: No official stream linked
-DTEND:20260504T184816Z
-DTSTART:20260504T181656Z
-SUMMARY:CC.FE vs COW
-UID:cs-go-esea-advanced-europe-57-2026-1475990@tournamentics
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | SINQU: 1\nStream: https://www.twitch.tv/sinquesports
+DTEND:20260427T174359Z
+DTSTART:20260427T171245Z
+SUMMARY:BIG.E vs SINQU
+UID:cs-go-esea-advanced-europe-57-2026-1433395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Rebels Gaming: 2 | HyperSpirit: 1\nStream: https://kick.com/nodwin_cs2
@@ -4356,9 +4356,9 @@ SUMMARY:Elimination match: SNG vs Golden Five
 UID:cs-go-united21-48-2026-1455260@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
+DESCRIPTION:🔴 LIVE NOW\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: https://kick.com/exort_en2
 DURATION:PT2H
-DTSTART:20260514T183000Z
+DTSTART:20260514T184350Z
 SUMMARY:Round 5: EF.A vs NP
 UID:cs-go-exort-series-26-2026-1491462@tournamentics
 END:VEVENT
@@ -5077,13 +5077,6 @@ SUMMARY:Round 3: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489286@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260514T181500Z
-SUMMARY:BJNG vs JUMBO
-UID:cs-go-esea-advanced-europe-57-2026-1490929@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Aurora Young Blood: 1 | Nerve of Cow: 0\nStream: No official stream linked
 DTEND:20260420T184149Z
 DTSTART:20260420T181300Z
@@ -5772,7 +5765,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260514T180000Z
+DTSTART:20260514T184500Z
 SUMMARY:UUST vs PeePuP
 UID:cs-go-esea-advanced-europe-57-2026-1490928@tournamentics
 END:VEVENT
@@ -7378,13 +7371,6 @@ DTEND:20260503T000413Z
 DTSTART:20260502T223449Z
 SUMMARY:Round 3: ELI vs ISG
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467608@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: BIG EQUIPA: 0 | SINQU: 1\nStream: https://www.twitch.tv/sinquesports
-DTEND:20260427T174359Z
-DTSTART:20260427T171245Z
-SUMMARY:BIG.E vs SINQU
-UID:cs-go-esea-advanced-europe-57-2026-1433395@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2

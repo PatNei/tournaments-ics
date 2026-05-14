@@ -207,7 +207,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260514T180000Z
+DTSTART:20260514T184500Z
 SUMMARY:UUST vs PeePuP
 UID:cs-go-esea-advanced-europe-57-2026-1490928@tournamentics
 END:VEVENT
@@ -968,13 +968,6 @@ SUMMARY:Diamant Esports vs FCF
 UID:cs-go-esea-advanced-europe-57-2026-1454782@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260514T181500Z
-SUMMARY:NEW VISION vs OKS
-UID:cs-go-esea-advanced-europe-57-2026-1490932@tournamentics
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 1 | Nerve of Cow: 0\nStream: No official stream linked
 DTEND:20260504T184816Z
 DTSTART:20260504T181656Z
@@ -1225,13 +1218,6 @@ DTEND:20260512T171446Z
 DTSTART:20260512T165027Z
 SUMMARY:FF vs UUST
 UID:cs-go-esea-advanced-europe-57-2026-1488338@tournamentics
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
-DTSTART:20260514T181500Z
-SUMMARY:BJNG vs JUMBO
-UID:cs-go-esea-advanced-europe-57-2026-1490929@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Misa Esports: 1 | Falcons Force: 0\nStream: https://www.twitch.tv/spyhiddentv
