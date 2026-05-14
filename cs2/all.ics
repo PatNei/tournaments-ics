@@ -3628,9 +3628,9 @@ SUMMARY:Grand final: LDP vs ISG
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467636@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
-DTSTART:20260514T153000Z
+DTSTART:20260514T155357Z
 SUMMARY:Lower bracket round 3 match 2: BSMP vs Atreides
 UID:cs-go-cct-europe-contenders-5-2026-1490315@tournamentics
 END:VEVENT
@@ -4713,8 +4713,8 @@ SUMMARY:Round 2: TRI vs MOUZ.N
 UID:cs-go-nodwin-clutch-series-8-2026-1471671@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Donstu Esports: 1 | G2 Ares: 0\nStream: No official stream linked
+DTEND:20260514T155725Z
 DTSTART:20260514T151033Z
 SUMMARY:DNT vs G2.A
 UID:cs-go-esea-advanced-europe-57-2026-1475999@tournamentics
