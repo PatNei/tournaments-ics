@@ -4485,7 +4485,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
 DTSTART:20260515T130000Z
-SUMMARY:Semifinal 2: TBD vs TBD
+SUMMARY:Semifinal 2: Lavked vs TBD
 UID:cs-go-cct-europe-series-1-21-2026-1469240@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -5651,9 +5651,9 @@ SUMMARY:Lower bracket round 2 match 3: BL vs BSMP
 UID:cs-go-cct-europe-contenders-5-2026-1490312@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
-DTSTART:20260514T133000Z
+DTSTART:20260514T134558Z
 SUMMARY:Decider match: NAVI.J vs MANA
 UID:cs-go-european-pro-league-regular-5-2026-1476918@tournamentics
 END:VEVENT
@@ -6820,8 +6820,8 @@ SUMMARY:Round 2: Keyd vs FDB
 UID:cs-go-betboom-storm-3-2026-1484497@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Lavked: 2 | TNC: 1\nStream: https://kick.com/cct_cs
+DTEND:20260514T133830Z
 DTSTART:20260514T110653Z
 SUMMARY:Quarterfinal 3: Lavked vs TNC
 UID:cs-go-cct-europe-series-1-21-2026-1469237@tournamentics
