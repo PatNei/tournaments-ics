@@ -40,7 +40,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260516T110000Z
-SUMMARY:Grand final: LVG vs TBD
+SUMMARY:Grand final: LVG vs TdU
 UID:cs-go-asian-champions-league-2026-1481194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -51,8 +51,8 @@ SUMMARY:Lower bracket semifinal: CW vs 5S
 UID:cs-go-asian-champions-league-2026-1481135@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: Kaleido Gaming: 1 | THUNDER dOWNUNDER: 2\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260514T135907Z
 DTSTART:20260514T104550Z
 SUMMARY:Lower bracket final: KG vs TdU
 UID:cs-go-asian-champions-league-2026-1481220@tournamentics

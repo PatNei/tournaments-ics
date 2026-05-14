@@ -1325,9 +1325,9 @@ SUMMARY:Round 4: paiN.A vs R2
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467617@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:🔴 LIVE NOW\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
-DTSTART:20260514T140000Z
+DTSTART:20260514T140327Z
 SUMMARY:Round 4: NTR vs Lavked
 UID:cs-go-nodwin-clutch-series-8-2026-1471688@tournamentics
 END:VEVENT
@@ -3166,8 +3166,8 @@ SUMMARY:Round 4: SINQU vs BOYB
 UID:cs-go-elisa-open-suomi-13-2026-1463392@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/churchd0gg
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nResult: Kaleido Gaming: 1 | THUNDER dOWNUNDER: 2\nStream: https://www.twitch.tv/churchd0gg
+DTEND:20260514T135907Z
 DTSTART:20260514T104550Z
 SUMMARY:Lower bracket final: KG vs TdU
 UID:cs-go-asian-champions-league-2026-1481220@tournamentics
@@ -4618,7 +4618,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: Asian Champions League - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/acl
 DURATION:PT2H
 DTSTART:20260516T110000Z
-SUMMARY:Grand final: LVG vs TBD
+SUMMARY:Grand final: LVG vs TdU
 UID:cs-go-asian-champions-league-2026-1481194@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6127,9 +6127,9 @@ SUMMARY:Round 5: HAVEN vs VP.F
 UID:cs-go-exort-series-26-2026-1477437@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260514T140000Z
+DTSTART:20260514T140416Z
 SUMMARY:Quarterfinal 4: FNC vs TDK
 UID:cs-go-cct-europe-series-1-21-2026-1469238@tournamentics
 END:VEVENT
