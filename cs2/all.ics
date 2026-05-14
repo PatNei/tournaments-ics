@@ -431,7 +431,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Closed Qualifier: Series #2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
 DURATION:PT2H
-DTSTART:20260514T170000Z
+DTSTART:20260514T171000Z
 SUMMARY:2007 vs Hashiras
 UID:cs-go-cct-europe-closed-qualifier-series-2-2026-1484460@tournamentics
 END:VEVENT
@@ -548,9 +548,9 @@ SUMMARY:SE7ENS vs BIG.E
 UID:cs-go-esea-advanced-europe-57-2026-1478887@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
+DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs
 DURATION:PT2H
-DTSTART:20260514T170000Z
+DTSTART:20260514T170708Z
 SUMMARY:Quarterfinal 1: HOTU vs WAL
 UID:cs-go-cct-europe-series-1-21-2026-1469235@tournamentics
 END:VEVENT
@@ -5485,7 +5485,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
-DTSTART:20260514T170000Z
+DTSTART:20260514T171000Z
 SUMMARY:Round 2: LDP vs ISG
 UID:cs-go-betboom-storm-3-2026-1484499@tournamentics
 END:VEVENT
@@ -7102,7 +7102,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260514T170000Z
+DTSTART:20260514T171500Z
 SUMMARY:bankaPEPSI vs ENJOY
 UID:cs-go-esea-advanced-europe-57-2026-1490926@tournamentics
 END:VEVENT
