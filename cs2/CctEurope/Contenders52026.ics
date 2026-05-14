@@ -103,7 +103,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260516T153000Z
-SUMMARY:Upper bracket final: SHISHKA vs TBD
+SUMMARY:Upper bracket final: SHISHKA vs CYBERSHOKE Prospects
 UID:cs-go-cct-europe-contenders-5-2026-1490619@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -142,8 +142,8 @@ SUMMARY:Upper bracket quarterfinal 1: SHISHKA vs Atreides
 UID:cs-go-cct-europe-contenders-5-2026-1487706@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/CCT_CS5
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nResult: Donstu Esports: 1 | CYBERSHOKE Prospects: 2\nStream: https://kick.com/CCT_CS5
+DTEND:20260514T211250Z
 DTSTART:20260514T182507Z
 SUMMARY:Upper bracket semifinal 2: DNT vs CYBERSHOKE Prospects
 UID:cs-go-cct-europe-contenders-5-2026-1490319@tournamentics
@@ -152,7 +152,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Contenders #5 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs4
 DURATION:PT2H
 DTSTART:20260515T153000Z
-SUMMARY:Lower bracket quarterfinal 1: MISA vs TBD
+SUMMARY:Lower bracket quarterfinal 1: MISA vs DNT
 UID:cs-go-cct-europe-contenders-5-2026-1490316@tournamentics
 END:VEVENT
 BEGIN:VEVENT
