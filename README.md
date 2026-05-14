@@ -201,27 +201,6 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/ConquestOfPrague/Fi
 </details>
 
 <details>
-<summary>ESL Challenger League</summary>
-
-### Full Schedule
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/EslChallengerLeague.ics
-```
-
----
-
-### North America Cup #4 2026
-[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/NorthAmericaCup42026.ics)
-
-```text
-https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/EslChallengerLeague/NorthAmericaCup42026.ics
-```
-
-</details>
-
-<details>
 <summary>Thunderpick World Championship</summary>
 
 ### Full Schedule
