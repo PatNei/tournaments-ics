@@ -47,7 +47,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260517T080000Z
-SUMMARY:Lower bracket round 1 match 1: PRE vs TBD
+SUMMARY:Lower bracket round 1 match 1: PRE vs ALGO
 UID:cs-go-european-pro-league-regular-5-2026-1493110@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -163,8 +163,8 @@ SUMMARY:Winners match: MANA vs Kinoa
 UID:cs-go-european-pro-league-regular-5-2026-1476917@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:🔴 LIVE NOW\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
-DURATION:PT2H
+DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nResult: Esport Academy Copenhagen: 2 | ALGO Esports: 1\nStream: https://kick.com/eplcs_en
+DTEND:20260515T144312Z
 DTSTART:20260515T113902Z
 SUMMARY:Upper bracket quarterfinals match 2: EAC vs ALGO
 UID:cs-go-european-pro-league-regular-5-2026-1493007@tournamentics
@@ -229,7 +229,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
 DURATION:PT2H
 DTSTART:20260518T080000Z
-SUMMARY:Upper bracket semifinal 1: Kinoa vs TBD
+SUMMARY:Upper bracket semifinal 1: Kinoa vs EAC
 UID:cs-go-european-pro-league-regular-5-2026-1493101@tournamentics
 END:VEVENT
 END:VCALENDAR
