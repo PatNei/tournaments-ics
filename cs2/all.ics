@@ -733,7 +733,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260515T170000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: BHE vs FDB
 UID:cs-go-betboom-storm-3-2026-1484519@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -1300,7 +1300,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260515T140000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: GLS vs LDP
 UID:cs-go-betboom-storm-3-2026-1484518@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -2151,6 +2151,13 @@ SUMMARY:Round of 16 match 7: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489303@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260516T103000Z
+SUMMARY:Upper bracket quarterfinals match 4: WRAITH PCIFIC vs MANA
+UID:cs-go-european-pro-league-regular-5-2026-1493009@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260518T140000Z
@@ -2697,6 +2704,13 @@ SUMMARY:Round of 16 match 6: TBD vs TBD
 UID:cs-go-cct-europe-series-2-2026-1489302@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260516T080000Z
+SUMMARY:Upper bracket quarterfinals match 3: BIG.A vs MISA
+UID:cs-go-european-pro-league-regular-5-2026-1493008@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
 DURATION:PT2H
 DTSTART:20260518T110000Z
@@ -2751,6 +2765,13 @@ DTEND:20260501T212936Z
 DTSTART:20260501T190444Z
 SUMMARY:Round 2: VSC vs paiN.A
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467603@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260515T093000Z
+SUMMARY:Round 1 match 4: DNT vs FORZE.R
+UID:cs-go-exort-series-26-2026-1493013@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 1 | Nerve of Cow: 0\nStream: No official stream linked
@@ -3313,11 +3334,11 @@ SUMMARY:Round of 16 match 4: IMP vs Alzon
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467625@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
 DURATION:PT2H
-DTSTART:20260518T080000Z
-SUMMARY:Round of 16 match 1: TBD vs TBD
-UID:cs-go-nodwin-clutch-series-8-2026-1471696@tournamentics
+DTSTART:20260515T103000Z
+SUMMARY:Upper bracket quarterfinals match 2: EAC vs ALGO
+UID:cs-go-european-pro-league-regular-5-2026-1493007@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: United21 - Season 48 2026\nMatch Type: Best Of\nResult: Passion Academy: 0 | INFURITY Gaming: 2\nStream: https://kick.com/united21_en
@@ -3325,6 +3346,13 @@ DTEND:20260501T094420Z
 DTSTART:20260501T080313Z
 SUMMARY:Lower bracket round 1 match 1: PSN.A vs INF
 UID:cs-go-united21-48-2026-1469565@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nStream: https://kick.com/nodwin_cs2
+DURATION:PT2H
+DTSTART:20260518T080000Z
+SUMMARY:Round of 16 match 1: TBD vs TBD
+UID:cs-go-nodwin-clutch-series-8-2026-1471696@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CCT Europe - Series 2 2026\nMatch Type: Best Of\nStream: https://kick.com/cct_cs2
@@ -3395,6 +3423,13 @@ DTEND:20260503T201950Z
 DTSTART:20260503T170523Z
 SUMMARY:Round 1: TDK vs INOX
 UID:cs-go-cct-europe-series-1-21-2026-1469172@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260515T153000Z
+SUMMARY:Round 1 match 3: INF vs EF.A
+UID:cs-go-exort-series-26-2026-1493012@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: bankaPEPSI: 0 | VP.Prodigy: 1\nStream: No official stream linked
@@ -3992,11 +4027,11 @@ SUMMARY:Round 5: TBD vs TBD
 UID:cs-go-nodwin-clutch-series-8-2026-1471695@tournamentics
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Vasco Esports: 0\nStream: https://kick.com/cct_cs2
-DTEND:20260507T204625Z
-DTSTART:20260507T190340Z
-SUMMARY:Round of 16 match 3: FDB vs VSC
-UID:cs-go-champion-of-champions-tour-series-1-2026-1467624@tournamentics
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260515T080000Z
+SUMMARY:Upper bracket quarterfinals match 1: Kinoa vs PRE
+UID:cs-go-european-pro-league-regular-5-2026-1493006@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nResult: MAJIX ESPORTS: 1 | Younglings: 2\nStream: https://kick.com/exort_en2
@@ -4004,6 +4039,13 @@ DTEND:20260503T182712Z
 DTSTART:20260503T153437Z
 SUMMARY:Round 4: MJX vs YL
 UID:cs-go-exort-series-26-2026-1474489@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:✅ FINISHED\nTournament: CCT South America - Series #1 season 4 2026\nMatch Type: Best Of\nResult: Fake do Biru: 2 | Vasco Esports: 0\nStream: https://kick.com/cct_cs2
+DTEND:20260507T204625Z
+DTSTART:20260507T190340Z
+SUMMARY:Round of 16 match 3: FDB vs VSC
+UID:cs-go-champion-of-champions-tour-series-1-2026-1467624@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: Clutchain Female: 0 | Project 91: 1\nStream: No official stream linked
@@ -4016,7 +4058,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260516T230000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: UNO vs YAW
 UID:cs-go-betboom-storm-3-2026-1484525@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4067,6 +4109,13 @@ DTEND:20260511T135111Z
 DTSTART:20260511T115808Z
 SUMMARY:Upper bracket quarterfinal 2: HH vs TdU
 UID:cs-go-asian-champions-league-2026-1481138@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260515T183000Z
+SUMMARY:Round 1 match 2: PAR vs CC
+UID:cs-go-exort-series-26-2026-1493011@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: ESEA - Advanced Europe season 57 2026\nMatch Type: Best Of\nResult: XI Esport: 0 | Bushido Wildcats: 1\nStream: No official stream linked
@@ -4681,7 +4730,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260516T200000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: BST.A vs VSC
 UID:cs-go-betboom-storm-3-2026-1484524@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -4760,6 +4809,13 @@ DTEND:20260511T115738Z
 DTSTART:20260511T100157Z
 SUMMARY:Upper bracket quarterfinal 1: LVG vs AE
 UID:cs-go-asian-champions-league-2026-1481137@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Exort Series - Season 26 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260515T123000Z
+SUMMARY:Round 1 match 1: MJX vs LPH
+UID:cs-go-exort-series-26-2026-1493010@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: CS Asia Championships - 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/pgl
@@ -5332,7 +5388,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260516T170000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: MIBR.F vs GE
 UID:cs-go-betboom-storm-3-2026-1484523@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6004,7 +6060,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260516T140000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: paiN.A vs VEXA
 UID:cs-go-betboom-storm-3-2026-1484522@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -6669,7 +6725,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260515T230000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: Keyd vs MW
 UID:cs-go-betboom-storm-3-2026-1484521@tournamentics
 END:VEVENT
 BEGIN:VEVENT
@@ -7341,7 +7397,7 @@ BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: BetBoom Storm - Season 3 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/dust2br
 DURATION:PT2H
 DTSTART:20260515T200000Z
-SUMMARY:Round 3: TBD vs TBD
+SUMMARY:Round 3: ISG vs ex-KRÜ Esports
 UID:cs-go-betboom-storm-3-2026-1484520@tournamentics
 END:VEVENT
 BEGIN:VEVENT
