@@ -100,6 +100,13 @@ SUMMARY:ALGO vs SINQU
 UID:cs-go-european-pro-league-regular-5-2026-1476924@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260518T103000Z
+SUMMARY:Upper bracket semifinal 2: TBD vs TBD
+UID:cs-go-european-pro-league-regular-5-2026-1493102@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nResult: Sangal ALTERS: 0 | STATE: 2\nStream: https://kick.com/eplcs_en
 DTEND:20260510T093908Z
 DTSTART:20260510T081024Z
@@ -161,5 +168,12 @@ DTEND:20260506T093259Z
 DTSTART:20260506T081230Z
 SUMMARY:SNG vs AAB
 UID:cs-go-european-pro-league-regular-5-2026-1476919@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: European Pro League - Regular season 5 2026\nMatch Type: Best Of\nStream: https://kick.com/eplcs_en
+DURATION:PT2H
+DTSTART:20260518T080000Z
+SUMMARY:Upper bracket semifinal 1: TBD vs TBD
+UID:cs-go-european-pro-league-regular-5-2026-1493101@tournamentics
 END:VEVENT
 END:VCALENDAR
