@@ -457,6 +457,13 @@ SUMMARY:Round 2: MIBR.F vs paiN.A
 UID:cs-go-betboom-storm-3-2026-1484508@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - May 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260518T220000Z
+SUMMARY:MIBR.A vs ODK.A
+UID:cs-go-gamers-club-liga-serie-a-may-2026-1493022@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Oxuji Esports: 2 | TNC: 0\nStream: https://kick.com/nodwin_cs2
 DTEND:20260511T184009Z
 DTSTART:20260511T170724Z
@@ -1008,6 +1015,13 @@ DTEND:20260513T184016Z
 DTSTART:20260513T181203Z
 SUMMARY:ENRAGE vs COW
 UID:cs-go-esea-advanced-europe-57-2026-1489951@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - May 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260518T190000Z
+SUMMARY:9daplug vs Alzon
+UID:cs-go-gamers-club-liga-serie-a-may-2026-1493021@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: AM Gaming: 0 | Walczaki: 2\nStream: https://kick.com/nodwin_cs2
@@ -1645,6 +1659,13 @@ DTEND:20260511T210116Z
 DTSTART:20260511T190632Z
 SUMMARY:Upper bracket quarterfinal 1: SHISHKA vs Atreides
 UID:cs-go-cct-europe-contenders-5-2026-1487706@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - May 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260518T190000Z
+SUMMARY:QUIN vs VEXA
+UID:cs-go-gamers-club-liga-serie-a-may-2026-1493020@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: NODWIN Clutch Series - Season 8 2026\nMatch Type: Best Of\nResult: Betclic Apogee Esports: 1 | Johnny Speeds: 2\nStream: https://kick.com/nodwin_cs2
@@ -2494,6 +2515,13 @@ SUMMARY:Round 4: ELI vs Damajuana
 UID:cs-go-champion-of-champions-tour-series-1-2026-1467615@tournamentics
 END:VEVENT
 BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - May 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260518T210000Z
+SUMMARY:MW vs FURIA.F
+UID:cs-go-gamers-club-liga-serie-a-may-2026-1493019@tournamentics
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: Walczaki: 2 | FC Famalicão Esports: 0\nStream: https://kick.com/cct_cs
 DTEND:20260504T180843Z
 DTSTART:20260504T170605Z
@@ -3087,6 +3115,13 @@ DTEND:20260513T184435Z
 DTSTART:20260513T181152Z
 SUMMARY:BIG.E vs ZOTIX
 UID:cs-go-esea-advanced-europe-57-2026-1489948@tournamentics
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:⏳ UPCOMING\nTournament: Gamers Club Liga Série A - May 2026\nMatch Type: Best Of\nStream: No official stream linked
+DURATION:PT2H
+DTSTART:20260515T190000Z
+SUMMARY:LDP vs DFX Peek
+UID:cs-go-gamers-club-liga-serie-a-may-2026-1493018@tournamentics
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:✅ FINISHED\nTournament: CCT Europe - Series 1 2026\nMatch Type: Best Of\nResult: MOUZ NXT: 1 | Ursa: 2\nStream: https://kick.com/cct_cs
@@ -5254,7 +5289,7 @@ END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:⏳ UPCOMING\nTournament: PGL - Astana 2026\nMatch Type: Best Of\nStream: https://www.twitch.tv/PGL
 DURATION:PT2H
-DTSTART:20260515T081000Z
+DTSTART:20260515T082000Z
 SUMMARY:Quarterfinal 2: TS vs G2
 UID:cs-go-pgl-astana-2026-1474576@tournamentics
 END:VEVENT

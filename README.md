@@ -424,6 +424,13 @@ https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA
 https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/April2026.ics
 ```
 
+### May 2026
+[Link](https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/May2026.ics)
+
+```text
+https://raw.githubusercontent.com/PatNei/esport-ics/main/cs2/GamersClubLigaSRieA/May2026.ics
+```
+
 </details>
 
 <details>
